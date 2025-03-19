@@ -1,7 +1,6 @@
 {
   "name": "quiz-react-app",
   "version": "1.0.0",
-  "homepage": "https://dadudad1.github.io/quiz-react-app",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
