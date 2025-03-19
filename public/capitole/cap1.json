@@ -1,0 +1,2202 @@
+[
+    {
+      "numar": 1,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Pentru a înțelege corpul uman este esențială cunoașterea anatomiei, a fiziologiei și a subdiviziunilor acestora",
+        "B": "„Teoria celulară” reprezintă o subdiviziune a anatomiei macroscopice",
+        "C": "Anatomia macroscopică studiază structurile corpului care sunt vizibile fără ajutorul microscopului",
+        "D": "Studiul celulelor și al funcțiilor acestora se numește anatomia dezvoltării",
+        "E": "Anatomia dezvoltării se ocupă cu dezvoltarea individului de la stadiul de ou fecundat până la cel de adult"
+      }
+    },
+    {
+      "numar": 2,
+      "intrebare": "Selectați asocierile corecte:",
+      "variante": {
+        "A": "Citologia – studiul celulelor (exclusiv funcțiilor acestora)",
+        "B": "Histologia – studiul dezvoltării individului de la stadiul de ou fecundat până la cel de organism adult",
+        "C": "Anatomia macroscopică – studiul acelor structuri ale corpului care sunt vizibile fără microscop",
+        "D": "Anatomia microscopică – studiul celulelor, țesuturilor și organelor vizibile cu ajutorul microscopului",
+        "E": "Fiziologia reproducerii – studiul organelor reproducătoare și al modalităților de reproducere"
+      }
+    },
+    {
+      "numar": 3,
+      "intrebare": "Referitor la histologie, sunt false următoarele afirmații:",
+      "variante": {
+        "A": "Studiul structurilor corpului se face cu ajutorul unei lupe sau cu ochiul liber",
+        "B": "Se ocupă cu studiul dezvoltării individului de la stadiul de ou fecundat până la stadiul de organism adult",
+        "C": "Realizează studiul structurilor corpului cu ajutorul unui microscop",
+        "D": "Este o subdiviziune a anatomiei, denumită şi anatomie microscopică",
+        "E": "Descrie planurile care traversează corpul uman, oferind puncte de reper pentru organele acestuia"
+      }
+    },
+    {
+      "numar": 4,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la subdiviziuni ale unor științe care",
+      "variante": {
+        "A": "Citologia este una dintre ramurile fiziologiei și reprezintă studiul celulelor",
+        "B": "Fiziologia renală este o subdiviziune a fiziologiei și studiază sistemul excretor",
+        "C": "Histologia reprezintă studiul macroscopic al țesuturilor și organelor",
+        "D": "Anatomia reproducerii reprezintă exclusiv studiul funcției organelor reproducătoare feminine",
+        "E": "Neurofiziologia studiază funcțiile sistemului nervos"
+      }
+    },
+    {
+      "numar": 5,
+      "intrebare": "Selectați asocierile greșite privind componentele majore și rolul fiziologic al",
+      "variante": {
+        "A": "Scheletul – oase, mușchi striați și netezi –  protejează corpul fără să ofere suport pentru repaus și mișcare",
+        "B": "Sistemul digestiv – dinți, glande salivare, esofag, stomac, intestin, ficat, pancreas – digestia alimentelor și absorbția nutrienților solubili din hrana ingerată",
+        "C": "Sistemul urinar – rinichi, vezică urinară și căi urinare asociate – îndepărtează produșii de catabolism din sânge",
+        "D": "Tegumentul – piele, păr, unghii – nu acoperă corpul în întregime",
+        "E": "Sistemul endocrin – hipofiza, glandele suprarenale, tiroida și glandele parotide – coordonează și integrează chimic activitățile organismului"
+      }
+    },
+    {
+      "numar": 6,
+      "intrebare": "Alegeți dintre cele de mai jos răspunsurile la care ambele afirmații sunt adevărate:",
+      "variante": {
+        "A": "Funcția sistemului excretor este obiectul de studiu al fiziologiei renale. Neurofiziologia studiază funcțiile nefronului",
+        "B": "Funcțiile celulei sunt studiate în cadrul citologiei. Sistemul excretor și funcțiile sale sunt studiate în cadrul fiziologiei renale",
+        "C": "Fiziologia reproducerii studiază sistemul excretor și funcțiile acestuia. Histologia mai este denumită și anatomie macroscopică",
+        "D": "Fiziologia reproducerii studiază organele reproducătoare și modalitățile de reproducere. Funcția sistemului nervos este obiectul de studiu al unei ramuri a fiziologiei numită neurofiziologie",
+        "E": "Funcțiile corpului uman depind de structura sa. Anatomia are ca subdiviziuni anatomia macroscopică, anatomia microscopică, dar nu și citologia"
+      }
+    },
+    {
+      "numar": 7,
+      "intrebare": "Selectați afirmațiile false dintre cele de mai jos:",
+      "variante": {
+        "A": "La cel mai simplu nivel de organizare, organismul este alcătuit din particule electrono microscopice de materie numite macromolecule",
+        "B": "Atomii se combină între ei, formând molecule (simple – apa, CO2 sau complexe proteinele)",
+        "C": "Dintre moleculele cu importanță redusă pentru corpul uman fac parte apa, clorura de sodiu, proteinele, glucidele, lipidele",
+        "D": "Asocierea mai multor molecule între ele dă naștere următorului nivel de organizare, ionul",
+        "E": "Celula este unitatea fundamentală a organismelor vii și reprezintă un nivel superior de organizare celui molecular"
+      }
+    },
+    {
+      "numar": 8,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele enumerate mai jos:",
+      "variante": {
+        "A": "Glucidele, proteinele, lipidele și apa sunt exemple tipice pentru cel mai simplu nivel de organizare structurală a organismului, în care componentele sunt exclusiv atomii și ionii",
+        "B": "Glucidele, proteinele și lipidele sunt molecule organice importante pentru alcătuirea corpului uman",
+        "C": "La cel mai complex nivel de organizare, corpul uman este compus din atomi și ioni",
+        "D": "Atomii sunt unități ale elementelor chimice ca oxigenul, carbonul, azotul sau sodiul",
+        "E": "Celula conține structuri subcelulare (mitocondrii, ribozomii, lizozomi)"
+      }
+    },
+    {
+      "numar": 9,
+      "intrebare": "Referitor la celulă, următoarele afirmații sunt false:",
+      "variante": {
+        "A": "Unitatea fundamentală a tuturor organismelor vii este celula procariotă",
+        "B": "Celula conține lizozomii – particule electronomicroscopice de materie, implicate în sintezele proteice",
+        "C": "În organism, celulele cu structură similară și care îndeplinesc aceeași funcție formează un țesut",
+        "D": "Celulele musculare striate scheletice, cele striate cardiace și cele netede au compoziție și structuri identice",
+        "E": "Neuronii, fibrele musculare striate cardiace și trombocitele sunt exemple de celule care prezintă mai mulți nuclei"
+      }
+    },
+    {
+      "numar": 10,
+      "intrebare": "Selectați afirmațiile false cu privire la țesuturi:",
+      "variante": {
+        "A": "Un grup de celule diferite ca structură și organizare vor avea întotdeauna aceeași funcție și vor forma un țesut",
+        "B": "Țesutul reprezintă un grup de celule cu structură similară, care funcționează împreună și îndeplinesc aceeași funcție",
+        "C": "Organismul uman include patru tipuri principale de țesuturi: țesutul cartilaginos, țesutul muscular neted, țesutul cardiac și țesutul nervos",
+        "D": "Un organ este compus din două sau mai multe tipuri diferite de țesuturi",
+        "E": "Nivelul de organizare imediat superior țesuturilor este sistemul de organe 10"
+      }
+    },
+    {
+      "numar": 11,
+      "intrebare": "Stabiliți care dintre răspunsurile de mai jos conțin trei afirmații adevărate:",
+      "variante": {
+        "A": "Tipul de țesut din care face parte sângele este țesutul conjunctiv. Țesutul osos spongios nu aparține țesuturilor conjunctive. Celulele nervoase care protejează celulele gliale sunt denumite neuroni",
+        "B": "Organismul uman cuprinde patru tipuri principale de țesuturi: epitelial, conjunctiv muscular și nervos. Epidermul din structura pielii este un țesut epitelial. Nivelul de organizare imediat superior celui reprezentat de celulă este țesutul",
+        "C": "Dermul de la nivelul pielii este o varietate de țesut epitelial. Țesutul conjunctiv include sângele și țesutul osos. Țesutul muscular striat scheletic nu reprezintă o varietate de țesut conjunctiv",
+        "D": "Nivelul de organizare imediat superior țesuturilor este organul. La cel mai simplu nivel, corpul uman este compus din atomi. Celula nervoasă și cea musculară au fiecare structură și funcție unică",
+        "E": "Un organ funcționează ca un centru anatomic și fiziologic specializat pentru o anumită activitate. Stomacul este un organ al tractului gastrointestinal. În structura stomacului se regăsesc țesut muscular neted, alături de cel epitelial, conjunctiv și nervos"
+      }
+    },
+    {
+      "numar": 12,
+      "intrebare": "Alegeți afirmațiile false dintre cele enumerate mai jos:",
+      "variante": {
+        "A": "Epidermul (care face parte din structurile pielii) reprezintă un tip de țesut muscular neted",
+        "B": "Sistemele de organe funcționează împreună pentru a forma organismul, cel mai înalt nivel de organizare",
+        "C": "Celulele aceluiași țesut au structuri și funcții diferite, dar organizare similară",
+        "D": "Nivelul de organizare imediat superior țesutului este sistemul de organe, compus din mai multe organe cu funcții complementare",
+        "E": "Nivelul final de organizare structurală este sistemul de organe, compus din mai multe organe cu funcții complementare"
+      }
+    },
+    {
+      "numar": 13,
+      "intrebare": "Selectați enunțurile care prezintă prima afirmație adevărată și cea de-a doua,  falsă:",
+      "variante": {
+        "A": "Un organ poate fi alcătuit din două sau mai multe tipuri diferite de țesuturi. Nu se întâlnesc în organism organe cu mai mult de 3 tipuri de țesuturi în componența lor",
+        "B": "Stomacul este compus din doar două tipuri principale de țesuturi – epitelial și conjunctiv. În alcătuirea stomacului se întâlnesc țesut conjunctiv, epitelial, muscular neted și nervos",
+        "C": "Sistemul de organe este format din mai multe organe cu funcții complementare. Organismul are în alcătuirea sa mai multe sisteme de organe",
+        "D": "Sistemul muscular include mușchi striați, mușchi netezi și mușchiul cardiac. Miocardul este o varietate de mușchi neted",
+        "E": "Sistemul urinar are ca și componente rinichii, vezica urinară și căile urinare asociate. Din asocierea mai multor celule între ele ia naștere nivelul molecular de organizare structurală al organismului"
+      }
+    },
+    {
+      "numar": 14,
+      "intrebare": "Care dintre următoarele afirmații referitoare la metabolism nu sunt adevărate?",
+      "variante": {
+        "A": "Metabolismul constă în reacții chimice de combinare automată a reactanților (anabolism) și de degradare spontană a acestora (catabolism), fără implicarea energiei de activare",
+        "B": "Metabolismul cuprinde catabolismul (descompunerea materiei organice) și anabolismul (sinteza materiei organice)",
+        "C": "Metabolismul cuprinde catabolismul, care necesită de obicei energie pentru sinteza de materie organică",
+        "D": "Catabolismul reprezintă descompunerea materiei organice cu producere de energie și va consta din suma unor reacții endergonice, spre deosebire de anabolism",
+        "E": "O cale metabolică este o secvență de reacții chimice și presupune conlucrarea enzimelor implicate în aceste reacții"
+      }
+    },
+    {
+      "numar": 15,
+      "intrebare": "Care dintre următoarele afirmații privind procesele de anabolism și catabolism sunt",
+      "variante": {
+        "A": "Catabolismul reprezintă sinteza unor macromolecule (glicogenul) din molecule mici (CO2, H2O), cu eliberare de energie",
+        "B": "Anabolismul reprezintă sinteza unor compuși organici, molecule (glucoza) și macromolecule (colagenul) și necesită de obicei energie",
+        "C": "Procesele vitale precum digestia, respirația, circulația și excreția sunt adaptate să furnizeze materia primă metabolismului și să asimileze produșii de degradare ai acestuia",
+        "D": "Materia primă utilizată în metabolism este furnizată de procese vitale cum sunt digestia, respirația, circulația",
+        "E": "Procesul chimic prin care materia organică este descompusă, de obicei cu eliberare de energie, se numește catabolism"
+      }
+    },
+    {
+      "numar": 16,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la mișcare:",
+      "variante": {
+        "A": "În organism există două tipuri de mișcare, voluntară și involuntară",
+        "B": "Mișcarea care apare la nivelul mușchilor scheletici este mișcarea voluntară",
+        "C": "Sistemul scheletic participă la realizarea mișcării, oferind locuri de atașare pentru mușchi",
+        "D": "Sistemul muscular oferă locuri de atașare oaselor, participând astfel la funcția de mișcare",
+        "E": "Mușchiul cardiac desfășoară mișcare de tip involuntar"
+      }
+    },
+    {
+      "numar": 17,
+      "intrebare": "Alegeți asocierile corecte cu privire la funcțiile corpului:",
+      "variante": {
+        "A": "Mișcarea – rezultatul contracției fibrelor musculare – voluntară sau involuntară",
+        "B": "Conductibilitatea – proprietatea unor celule de a transmite stimuli – caracteristică pentru celule osoase și musculare",
+        "C": "Reproducerea asexuată – formarea în totalitate a unui nou individ – include spermatozoizii și ovulele",
+        "D": "Reproducerea sexuată – diviziunea unei singure celule – formarea a două celule fiice identice",
+        "E": "Conductibilitatea – proprietatea unor celule de a transmite stimuli – caracteristică pentru celule nervoase și musculare"
+      }
+    },
+    {
+      "numar": 18,
+      "intrebare": "Referitor la funcția de reproducere a organismului, se pot afirma următoarele:",
+      "variante": {
+        "A": "Reprezintă capacitatea organismului de a produce în totalitate un nou individ prin diviziunea meiotică a zigotului",
+        "B": "Tipul de reproducere prin care rezultă un ou fecundat se numește reproducere sexuată",
+        "C": "Pe lângă procreare, organismul uman dă naștere unor celule noi în scop de înlocuire și reparare",
+        "D": "Multiplicarea unei singure celule pentru a forma două celule fiice identice se numește reproducere asexuată și are loc prin mitoză",
+        "E": "Reproducerea asexuată asigură procesele de creștere și reparație"
+      }
+    },
+    {
+      "numar": 19,
+      "intrebare": "Care dintre următoarele afirmații privind homeostazia sunt false?",
+      "variante": {
+        "A": "Totalitatea proceselor care contribuie la menținerea parametrilor mediului intern al organismului în limite normale, se numește homeostazie",
+        "B": "Homeostazia nu este compatibilă cu satisfacerea nevoilor nutritive și energetice ale celulelor organismului",
+        "C": "Menținerea homeostaziei se realizează prin mecanismele de feedback, prin care organismul trimite informații înapoi la sistem, pentru a induce un răspuns",
+        "D": "Toate sistemele de organe sunt implicate în menținerea homeostaziei",
+        "E": "Diferite afecțiuni (boli), căldura excesivă, durerea sau absența oxigenului din sânge nu determină dezechilibre ale mediului intern, ci doar ale celui extern organismului"
+      }
+    },
+    {
+      "numar": 20,
+      "intrebare": "Referitor la homeostazie, se poate afirma că:",
+      "variante": {
+        "A": "La menținerea ei contribuie exclusiv sistemul nervos somatic",
+        "B": "În homeostazie, compoziția fluidelor este menținută constantă doar în condiții de stres (hipoxie, febră)",
+        "C": "Deoarece condițiile interne variază în mod constant, organismul este protejat împotriva extremelor prin sisteme de autoreglare, cunoscute ca mecanisme de feedback",
+        "D": "Reprezintă totalitatea proceselor care contribuie la menținerea parametrilor mediului intern al organismului în limite normale, chiar dacă mediul înconjurător se modifică",
+        "E": "Prin intermediul mecanismelor de feedback, în organism sunt transmise informații de la un receptor la centrul de control, unde stimulul este transformat în răspuns, care apoi este transmis unui efector pentru a se menține homeostazia"
+      }
+    },
+    {
+      "numar": 21,
+      "intrebare": "Alegeți asocierile corecte cu privire la mecanismele de feedback:",
+      "variante": {
+        "A": "Feedback negativ – mijloc principal prin care organismul își păstrează homeostazia – mecanism de autoreglare prin care, în urma informației primite, scade producția sistemului, acesta revenind la valoarea sa de referință",
+        "B": "Glicemie crescută după ingestia de alimente – eliberare de insulină din celulele insulelor Langerhans pancreatice – favorizarea intrării glucozei în celule – scăderea nivelului glicemiei – scăderea eliberării de insulină – menținerea homeostaziei (feedback negativ)",
+        "C": "Valoare de referință – valoarea anormală a unui factor invariabil (temperatura)",
+        "D": "Feedback pozitiv – parte a unui mecanism general de reglare – deviere din ce în ce mai mare de la valoarea de referință – rezultatul este obținerea răspunsului dorit",
+        "E": "Feedback pozitiv – mecanism unic de menținere a homeostaziei – reglare care aduce sistemul la valoarea sa de referință"
+      }
+    },
+    {
+      "numar": 22,
+      "intrebare": "Stabiliți afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Atunci când corpul este în poziție anatomică, el se află în poziție verticală (ortostatism), cu membrele superioare pe lângă corp și palmele orientate anterior",
+        "B": "Poziția anatomică a corpului implică poziția orizontală (ortostatism) cu membrele superioare depărtate de corp și palmele orientate spre posterior",
+        "C": "În poziție anatomică, corpul prezintă două fețe, una anterioară (ventrală) și una posterioară (dorsală)",
+        "D": "În poziție anatomică, corpul prezintă două fețe, una medială (dreaptă) și una laterală (stângă)",
+        "E": "Termenul „ventral” este opus termenului „dorsal” și este utilizat în terminologia anatomică umană cu semnificația de „anterior”"
+      }
+    },
+    {
+      "numar": 23,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele enumerate mai jos:",
+      "variante": {
+        "A": "Termenul direcțional folosit pentru a descrie partea din față a corpului, de aceeași parte cu abdomenul, este „posterior”",
+        "B": "Termenul „superior” definește poziția direcționată spre cap (cranială)",
+        "C": "În locul termenului „superior” se utilizează frecvent „cefalic” sau „cranial”",
+        "D": "Termenul „posterior” se referă la partea din spate a corpului, acest termen poate fi înlocuit cu „dorsal”",
+        "E": "Termenul „caudal” este utilizat frecvent în anatomia omului și a altor vertebrate și semnifică porțiunea superioară a corpului"
+      }
+    },
+    {
+      "numar": 24,
+      "intrebare": "Care dintre următoarele afirmații privind termenii direcționali sunt false?",
+      "variante": {
+        "A": "În nomenclatura anatomică, se consideră că abdomenul (subdiviziunea inferioară a cavității abdomino-pelviene) este situat inferior față de torace",
+        "B": "Termenul „proximal” se referă la un punct apropiat de locul unde extremitățile se atașează de trunchi",
+        "C": "Termenul „ipsilateral“ se referă la structuri aflate de partea opusă a corpului",
+        "D": "Termenul „controlateral” se referă la structuri aflate de aceeași parte a corpului",
+        "E": "Termenul „lateral” se referă la o poziție îndepărtată față de linia mediană a corpului"
+      }
+    },
+    {
+      "numar": 25,
+      "intrebare": "Alegeți asocierile corecte cu privire la termenii direcționali ai corpului:",
+      "variante": {
+        "A": "Mâna – proximal față de antebraț – distal față de braț",
+        "B": "Mâna stângă – picior drept – ipsilateral",
+        "C": "Mâna dreaptă – picior drept – ipsilateral",
+        "D": "Braț stâng – picior drept – controlateral",
+        "E": "Picior – distal față de coapsă – distal față de gambă"
+      }
+    },
+    {
+      "numar": 26,
+      "intrebare": "Utilizând termenii direcționali, se poate afirma că:",
+      "variante": {
+        "A": "Față de gură, nasul este situat superior",
+        "B": "Față de orbită și ochi, nasul este situat superior",
+        "C": "Brațul este situat proximal față de antebraț și mână",
+        "D": "Cavitatea toracică este situată superior față de cavitatea abdomino-pelviană",
+        "E": "Coapsa este situată inferior (caudal) față de gambă"
+      }
+    },
+    {
+      "numar": 27,
+      "intrebare": "Referitor la planurile corpului, se poate afirma că:",
+      "variante": {
+        "A": "Planul vertical, care împarte corpul într-o parte dreaptă și una stângă, se numește plan transversal",
+        "B": "Planul oblic, care împarte corpul într-o parte anterioară și una posterioară, este planul frontal",
+        "C": "Planul orizontal, care împarte corpul într-o parte superioară și una inferioară, se numește plan transversal",
+        "D": "Planurile parasagitale divid întotdeauna corpul în două părți egale",
+        "E": "Planul mediosagital împarte corpul în două jumătăți (dreaptă și stângă)"
+      }
+    },
+    {
+      "numar": 28,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la planurile corpului:",
+      "variante": {
+        "A": "Sunt trei planuri (suprafețe) importante: planul sagital, planul frontal și planul coronal",
+        "B": "Planul mediosagital este un plan vertical care divide corpul în două jumătăți, stângă și dreaptă",
+        "C": "Planul frontal are o direcție verticală și divide corpul într-o parte anterioară și una ventrală",
+        "D": "Planurile traversează corpul uman și oferă puncte de reper pentru organele acestuia",
+        "E": "Planul frontal formează un unghi drept cu planul coronal"
+      }
+    },
+    {
+      "numar": 29,
+      "intrebare": "Care dintre următoarele afirmații privind cavitățile și regiunile corpului sunt false?",
+      "variante": {
+        "A": "Cele două cavități principale ale corpului sunt cavitatea anterioară și cavitatea posterioară",
+        "B": "Cavitatea posterioară este subîmpărțită în canalul rahidian și cavitatea craniană",
+        "C": "Cavitatea craniană adăpostește encefalul și măduva spinării",
+        "D": "Cavitatea anterioară prezintă două subdiviziuni importante, reprezentate de cavitatea toracică și de cavitatea pelviană",
+        "E": "Cavitatea toracică se subîmparte într-o cavitate pleurală superioară și una inferioară"
+      }
+    },
+    {
+      "numar": 30,
+      "intrebare": "Care dintre următoarele afirmații privind cavitățile și regiunile corpului sunt",
+      "variante": {
+        "A": "Inima, esofagul, traheea și bronhiile primare sunt localizate în mediastin",
+        "B": "Cavitatea abdomino-pelviană este separată de cavitatea toracică printr-un mușchi de dimensiuni mari și de formă patrulateră (diafragma)",
+        "C": "Cavitatea abdomino-pelviană este denumită și cavitate peritoneală și conține organe interne abdominale și pelviene",
+        "D": "Stomacul este situat în subdiviziunea abdominală a cavității abdomino-pelviene",
+        "E": "Regiunea ombilicală se află în centrul abdomenului, iar regiunea epigastrică se localizează inferior de aceasta"
+      }
+    },
+    {
+      "numar": 31,
+      "intrebare": "Sunt regiuni ale cavitații abdomino-pelviene următoarele, exceptând:",
+      "variante": {
+        "A": "Regiunea hipogastrică, situată imediat inferior de regiunea ombilicală",
+        "B": "Regiunile iliace, în număr de două, stângă și dreaptă",
+        "C": "Regiunea ombilicală, situată în centrul abdomenului",
+        "D": "Regiunea epigastrică, localizată superior de regiunea ombilicală",
+        "E": "Regiunea mezogastrică, situată imediat superior de regiunea epigastrică"
+      }
+    },
+    {
+      "numar": 32,
+      "intrebare": "Alegeți precizările corecte despre cavități și regiuni ale corpului:",
+      "variante": {
+        "A": "La nivelul mediastinului sunt situate inima, timusul, esofagul",
+        "B": "Plămânii (în număr de doi, drept și stâng) sunt situați în mediastin, de-o parte și alta a inimii",
+        "C": "Noțiunile de cadrane (superior – drept și stâng și inferior – drept și stâng) sunt curent utilizate în practica clinică",
+        "D": "Intersectarea a două linii imaginare, una orizontală și alta verticală, în centrul cavității abdomino-pelviene are ca rezultat delimitarea a patru cadrane",
+        "E": "Canalul rahidian, delimitat de meninge, conține lichid interstițial"
+      }
+    },
+    {
+      "numar": 33,
+      "intrebare": "Stabiliți afirmațiile adevărate dintre cele enumerate mai jos:",
+      "variante": {
+        "A": "Regiunea hipogastrică se află superior față de regiunea ombilicală",
+        "B": "Atât hipocondrul stâng, cât și hipocondrul drept se află lateral de regiunea epigastrică",
+        "C": "Medial de regiunea ombilicală se găsesc hipocondrul stâng și hipocondrul drept",
+        "D": "Cele două flancuri (stâng și drept) se găsesc lateral de regiunea ombilicală",
+        "E": "Lateral de regiunea hipogastrică se află regiunile inghinale (iliace) stângă și dreaptă"
+      }
+    },
+    {
+      "numar": 34,
+      "intrebare": "Referitor la membranele cavităților corpului sunt false următoarele afirmații:",
+      "variante": {
+        "A": "Pereții cavității abdominale și organele abdominale sunt căptușite de o membrană fină, alcătuită dintr-o singură foiță, numită membrană sinovială",
+        "B": "Membrana seroasă este alcătuită din două foițe care secretă o cantitate mică de lichid lubrifiant, numit lichid seros",
+        "C": "Foițele membranelor seroase sunt situate la distanță considerabilă una de cealaltă",
+        "D": "Foița viscerală a membranelor seroase căptușește cavitățile corpului",
+        "E": "Foița parietală a membranelor seroase învelește organele interne (viscerele)"
+      }
+    },
+    {
+      "numar": 35,
+      "intrebare": "Următoarele afirmații referitoare la cavitatea abdomino-pelviană sunt adevărate:",
+      "variante": {
+        "A": "Face parte din cavitatea ventrală a corpului, alături de cavitatea toracică și de canalul rahidian",
+        "B": "Este denumită și cavitate peritoneală și conține organele interne abdominale și pelviene",
+        "C": "Conține în cadrul subdiviziunii abdominale ficatul, stomacul, splina și canalul anal",
+        "D": "Este separată de cavitatea toracică printr-un mușchi de mari dimensiuni, în formă de cupolă – diafragma",
+        "E": "Conține în cadrul subdiviziunii pelviene, vezica biliară și rectul"
+      }
+    },
+    {
+      "numar": 36,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "În corpul uman există trei membrane seroase: pleura, pericardul și peritoneul",
+        "B": "Fiecare dintre cele trei membrane seroase are câte o foiță parietală și una viscerală",
+        "C": "Foița parietală a peritoneului căptușește cavitatea abdominală și pelviană",
+        "D": "Foița parietală a peritoneului căptușește doar cavitatea abdominală",
+        "E": "Spațiul dintre foițele peritoneale se numește cavitate peritoneală, cel dintre foițele pericardice – cavitate pericardică"
+      }
+    },
+    {
+      "numar": 37,
+      "intrebare": "Care dintre următoarele afirmații sunt false?",
+      "variante": {
+        "A": "La nivelul capului, se găsesc mici cavități precum cavitatea orală, cavitatea nazală, urechea medie și orbita",
+        "B": "La nivelul toracelui, cavitatea pleurală este reprezentată de spațiul dintre plămâni și membrana seroasă",
+        "C": "Cavitatea pleurală este reprezentată de spațiul dintre foița parietală a membranei seroase și peretele cavității toracice",
+        "D": "Cavitatea pleurală este reprezentată de spațiul dintre foița viscerală și foița parietală a pleurei",
+        "E": "Cavitatea peritoneală se află între foița parietală și cea viscerală a pericardului"
+      }
+    },
+    {
+      "numar": 38,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la celulele procariote:",
+      "variante": {
+        "A": "Sunt lipsite de nucleu, acesta fiind prezent la celulele eucariote",
+        "B": "Se divid prin procesul de mitoză, la fel cu celulele eucariote",
+        "C": "Nu se divid prin procesul de mitoză, spre deosebire de celulele eucariote",
+        "D": "Bacteriile sunt celule procariote",
+        "E": "Plantele, animalele și oamenii sunt organisme vii formate din celule procariote"
+      }
+    },
+    {
+      "numar": 39,
+      "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Celulele procariote se divid prin procesul de citokineză, numit și meioză",
+        "B": "Celulele eucariote prezintă nucleu și organite celulare și se divid prin procesul de mitoză",
+        "C": "Celulele procariote (spre exemplu bacteriile) sunt lipsite de nucleu",
+        "D": "Toate celulele (excepție cele umane) au două componente de bază: citoplasma și membrana plasmatică",
+        "E": "Bacteriile aparțin celulelor procariote, iar celulele animale și cele umane sunt eucariote"
+      }
+    },
+    {
+      "numar": 40,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la celulele eucariote:",
+      "variante": {
+        "A": "Se divid prin procesul de mitoză, proces prin care ADN-ul nuclear al celulei este distribuit în mod egal celor două celule fiice",
+        "B": "Citoplasma și membrana plasmatică, numită și membrană celulară, fac parte dintre componentele lor de bază",
+        "C": "Plantele și bacteriile sunt alcătuite din celule eucariote",
+        "D": "Intră în componența organismelor plantelor, animalelor și omului",
+        "E": "Spre deosebire de celulele procariote, celulele eucariote nu au nucleu"
+      }
+    },
+    {
+      "numar": 41,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la celulele eucariote:",
+      "variante": {
+        "A": "Nu prezintă organite în citoplasmă, cu excepția mitocondriilor",
+        "B": "Sunt celule care nu se divid, reproducerea realizându-se doar prin fragmentare",
+        "C": "Bacteriile nu fac parte din această categorie",
+        "D": "Citoplasma lor conține organite (componente microscopice specializate)",
+        "E": "Celulele corpului uman sunt celule eucariote"
+      }
+    },
+    {
+      "numar": 42,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la celule:",
+      "variante": {
+        "A": "Se clasifică în două grupuri majore: pericariote și eucariote",
+        "B": "Celulele eucariote includ celula vegetală și celula animală",
+        "C": "Celulele procariote se divid prin procesul de mitoză",
+        "D": "Celulele eucariote se divid prin procesul de mitoză",
+        "E": "Bacteriile sunt celule eucariote, cu nucleu delimitat de membrană"
+      }
+    },
+    {
+      "numar": 43,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la citoplasmă:",
+      "variante": {
+        "A": "Se mai numește ergastoplasmă și conține proteine, apă și ioni",
+        "B": "Conține cel mai mic component celular – nucleolul",
+        "C": "Conține cel mai mare component celular – nucleul",
+        "D": "La nivelul ei au loc procese metabolice și tot aici se găsesc organitele",
+        "E": "Este o componentă fundamentală a celulelor umane"
+      }
+    },
+    {
+      "numar": 44,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la membrana plasmatică:",
+      "variante": {
+        "A": "Este alcătuită în principal din proteine și fosfolipide",
+        "B": "Lipidele din membrana plasmatică sunt dispuse în două straturi (structură bistratificată)",
+        "C": "Proteinele din membrana plasmatică sunt dispuse în două straturi (structură bistratificată)",
+        "D": "Are o structură de mozaic solid, datorită colesterolului care îi reduce fluiditatea",
+        "E": "Proteinele din structura membranei îndeplinesc numeroase funcții (enzimatice, de transport transmembranar)"
+      }
+    },
+    {
+      "numar": 45,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la membrana celulară:",
+      "variante": {
+        "A": "Delimitează celulele și se mai numește membrana plasmatică",
+        "B": "Fiind semipermeabilă, asigură comunicarea citoplasmei cu mediul extern al celulei",
+        "C": "Este compusă în principal din molecule lipidice (colesterol și fosfolipide) și proteice",
+        "D": "Conține enzime pentru digestia intracelulară",
+        "E": "Prezintă ribozomi atașați pe fața sa externă"
+      }
+    },
+    {
+      "numar": 46,
+      "intrebare": "Selectați substanțele care intră în alcătuirea membranei plasmatice:",
+      "variante": {
+        "A": "Glicogen și glucoză (aparținând carbohidraților)",
+        "B": "Colesterol (stabilizează celelalte lipide din membrană) și fosfolipide (dispuse în dublu strat)",
+        "C": "Glicolipide și glicoproteine (cu rol de receptori pentru molecule, precum hormonii)",
+        "D": "Enzime, glucide, lipide",
+        "E": "Histone și proteine fibrilare, cu rol de suport"
+      }
+    },
+    {
+      "numar": 47,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la membrana plasmatică:",
+      "variante": {
+        "A": "Proteinele transmembranare ocupă întreaga grosime a membranei și pot să servească drept canale pentru transportul membranar",
+        "B": "Fosfolipidele din membrana plasmatică au un capăt polarizat, hidrofil și unul nepolarizat, hidrofob, alcătuit din lanțuri de acizi grași",
+        "C": "Fosfolipidele din membrana plasmatică au un capăt polarizat, hidrofob și unul nepolarizat, hidrofil, alcătuit din lanțuri de acizi grași",
+        "D": "Proteinele periferice din membrană ocupă întreaga grosime a membranei",
+        "E": "Glicolipidele și glicoproteinele de pe fața externă a membranei celulare permit celulelor să se recunoască între ele"
+      }
+    },
+    {
+      "numar": 48,
+      "intrebare": "Fosfolipidele din membrana plasmatică au un capăt:",
+      "variante": {
+        "A": "Polarizat, care conține fosfor și este atras de apă (hidrofil)",
+        "B": "Polarizat, alcătuit din lanțuri de acizi grași hidrofili",
+        "C": "Nepolarizat, hidrofob,  care conține fosfor sub forma ionului fosfat",
+        "D": "Nepolarizat, hidrofob, alcătuit din lanțuri de acizi grași",
+        "E": "Nepolarizat, care interacționează cu alte substanțe nepolarizate, respingând moleculele de apă"
+      }
+    },
+    {
+      "numar": 49,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la fosfolipidele din membrana plasmatică:",
+      "variante": {
+        "A": "Au un capăt hidrofil alcătuit din lanțuri de aminoacizi",
+        "B": "Au un capăt hidrofob alcătuit din lanțuri de acizi grași",
+        "C": "Au două capete, unul hidrofil (polarizat, atras de apă) și celălalt hidrofob (nepolarizat, care respinge moleculele de apă)",
+        "D": "Capătul hidrofil este alcătuit din lanțuri de acizi grași și interacționează cu apa",
+        "E": "Capătul nepolarizat interacționează cu alte substanțe nepolarizate, dar nu interacționează cu apa"
+      }
+    },
+    {
+      "numar": 50,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la fosfolipidele din structura membranei",
+      "variante": {
+        "A": "Capetele polarizate ale moleculelor fosfolipidice din membrana plasmatică intră în contact cu moleculele de apă din mediul intracelular și extracelular",
+        "B": "Capetele nepolarizate ale moleculelor fosfolipidelor din membrana plasmatică se află față în față în porțiunea internă a membranei",
+        "C": "Capetele nepolarizate ale moleculelor fosfolipidelor din membrana plasmatică intră în contact cu moleculele de apă din mediul extracelular",
+        "D": "Fosfolipidele membranare sunt responsabile de mărirea suprafeței membranei plasmatice atunci când veziculele aparatului Golgi fuzionează cu ea",
+        "E": "Caracterul lor hidrofil se datorează prezenței lanțurilor de carbon din structura acizilor grași"
+      }
+    },
+    {
+      "numar": 51,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la diferitele tipuri de lipide din membrana",
+      "variante": {
+        "A": "Capetele nepolarizate ale moleculelor de colesterol se află față în față în porțiunea externă a membranei plasmatice",
+        "B": "Capetele nepolarizate ale moleculelor de fosfolipide se află față în față în porțiunea internă a membranei plasmatice",
+        "C": "Unele dintre moleculele stratului lipidic situat spre exterior care au atașate molecule glucidice sunt glicolipide",
+        "D": "Unele dintre moleculele stratului lipidic situat spre exterior au atașate molecule glucidice și se numesc glicoproteine",
+        "E": "Datorită anumitor proprietăți ale fosfolipidelor, membrana celulară își mărește suprafața când veziculele aparatului Golgi fuzionează cu ea"
+      }
+    },
+    {
+      "numar": 52,
+      "intrebare": "Care dintre afirmațiile referitoare la lipidele din membrana plasmatică nu sunt",
+      "variante": {
+        "A": "Pot fi reprezentate de molecule de colesterol și fosfolipide",
+        "B": "Se clasifică în transmembranare și periferice",
+        "C": "Moleculele de fosfolipide se pot lega de molecule proteice, formând glicofosfolipide",
+        "D": "Colesterolul reduce fluiditatea membranei plasmatice",
+        "E": "Moleculele lipidelor periferice formează canale prin care se realizează transportul transmembranar"
+      }
+    },
+    {
+      "numar": 53,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la membrana plasmatică:",
+      "variante": {
+        "A": "Poate să conțină cantități mari dintr-o substanță de natură lipidică, denumită colesterol",
+        "B": "Poate să conțină cantități mari dintr-o substanță de natură glucidică, denumită colesterol",
+        "C": "Datorită faptului că unul dintre capetele moleculelor fosfolipidice este hidrofil iar celălalt este hidrofob, acestea se organizează în dublu strat cu aspect de „sandwich”",
+        "D": "Fosfolipidele nu sunt componente ale membranei plasmatice, ci doar ale citoplasmei",
+        "E": "Colesterolul stabilizează lipidele din membrană, reducându-i acesteia fluiditatea"
+      }
+    },
+    {
+      "numar": 54,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la structura și proprietățile membranei",
+      "variante": {
+        "A": "Denumită și membrană celulară, este alcătuită în principal din proteine și lipide, mai ales fosfolipide",
+        "B": "Are o structură de mozaic fluid, în care proteinele globulare încorporate par să plutească printre lipide",
+        "C": "Capătul hidrofil al moleculelor fosfolipidice permite membranei plasmatice să își micșoreze suprafața când fuzionează cu membrana nucleară",
+        "D": "Glicolipidele și glicoproteinele de pe versantul extern al membranei plasmatice au rol în recunoașterea intercelulară",
+        "E": "Proteinele periferice se atașează citoplasmei, acționând fie ca și enzime, fie ca și hormoni"
+      }
+    },
+    {
+      "numar": 55,
+      "intrebare": "Care dintre următoarele informații referitoare la membrana plasmatică (celulară)",
+      "variante": {
+        "A": "Este compusă în principal din colesterol (steroid animal) și nu conține proteine și fosfolipide",
+        "B": "Se conformează modelului reprezentat de o structură lipidică bistratificată în care plutesc molecule de proteine globulare",
+        "C": "Se conformează modelului de mozaic fluid, în care moleculele proteinelor fibrilare plutesc într-o mare de glicolipide stratificate",
+        "D": "Este impermeabilă pentru moleculele mici care circulă înspre sau dinspre celulă",
+        "E": "Controlează schimburile de substanțe cu mediul extracelular și prezintă un model structural denumit mozaic fluid"
+      }
+    },
+    {
+      "numar": 56,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la moleculele de proteine prezente în",
+      "variante": {
+        "A": "Sunt de două tipuri: transmembranare și periferice",
+        "B": "Au un capăt hidrofil și unul hidrofob, ceea ce conferă membranei structura de „sandwich”",
+        "C": "Cele periferice reduc fluiditatea membranei plasmatice și facilitează transportul transmembranar",
+        "D": "Colesterolul (proteină periferică membranară) crește fluiditatea membranei plasmatice",
+        "E": "Cele de pe fața externă a membranei plasmatice se pot asocia cu molecule de glucide, formând glicoproteine"
+      }
+    },
+    {
+      "numar": 57,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la moleculele de proteine prezente în",
+      "variante": {
+        "A": "Cele transmembranare pot servi ca transportori ai unor molecule organice",
+        "B": "Pot fi clasificate în transmembranare și periferice",
+        "C": "Colesterolul este un exemplu de proteină transmembranară",
+        "D": "Un exemplu de proteină periferică îl constituie hemoglobina",
+        "E": "Cele transmembranare pot servi drept canale pentru transportul ionilor prin membrana plasmatică (canalele cu poartă pentru ionii de sodiu)"
+      }
+    },
+    {
+      "numar": 58,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la transportul prin membrana",
+      "variante": {
+        "A": "Difuziunea reprezintă mișcarea moleculelor dintr-o zonă cu o concentrație mare într-una cu concentrație mică (conform gradientului de concentrație)",
+        "B": "Difuziunea reprezintă mișcarea moleculelor dintr-o zonă cu o concentrație mică într-una cu concentrație mare (împotriva gradientului de concentrație)",
+        "C": "Osmoza reprezintă difuziunea moleculelor de apă printr-o membrană semipermeabilă",
+        "D": "Osmoza reprezintă difuziunea moleculelor de apă dintr-o regiune cu o concentrație mică a solvitului, într-una cu o concentrație mare de solvit",
+        "E": "Un exemplu de osmoză este trecerea oxigenului din alveolele pulmonare în capilare"
+      }
+    },
+    {
+      "numar": 59,
+      "intrebare": "Care dintre afirmațiile următoare referitoare la osmoză nu sunt adevărate?",
+      "variante": {
+        "A": "Este procesul prin care are loc eliberarea neurotransmițătorilor din celulele nervoase",
+        "B": "Reprezintă difuziunea moleculelor de apă printr-o membrană semipermeabilă",
+        "C": "Reprezintă difuziunea moleculelor de solvit printr-o membrană impermeabilă pentru apă",
+        "D": "Difuziunea moleculelor de apă se face dinspre soluția cu concentrație mare a solvitului spre cea cu concentrație mică a acestuia",
+        "E": "Realizarea ei necesită energie furnizată de adenozin trifosfat"
+      }
+    },
+    {
+      "numar": 60,
+      "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Solvitul este o substanță chimică dizolvată într-un lichid numit solvent",
+        "B": "Solventul este o substanță chimică dizolvată într-un lichid numit solvit",
+        "C": "Soluția care are o concentrație mai mare de sare față de cea a citoplasmei se numește soluție hipertonă",
+        "D": "Soluția care are o concentrație mai mare de apă față de cea a citoplasmei se numește soluție hipertonă",
+        "E": "Soluția care are o concentrație mai mare de clorură de sodiu față de cea a citoplasmei se numește soluție hipertonă"
+      }
+    },
+    {
+      "numar": 61,
+      "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Celulele plasate în soluții hipertone se lizează",
+        "B": "Osmoza nu se produce când celulele sunt plasate în soluție izotonă, deoarece concentrația solvitului este aceeași de ambele părți ale membranei",
+        "C": "Osmoza nu se produce când celulele sunt plasate în soluție hipotonă, deoarece concentrația solvitului este aceeași de ambele părți ale membranei",
+        "D": "Când celula este plasată într-un mediu hiperton, concentrația mai mare de solvit se află în afara celulei, apa iese din celulă și aceasta se deshidratează",
+        "E": "Celulele plasate în soluții hipotone se lizează"
+      }
+    },
+    {
+      "numar": 62,
+      "intrebare": "Membrana plasmatică este o membrană semipermeabilă care:",
+      "variante": {
+        "A": "Permite trecerea apei dintr-o regiune cu o concentrație mică a solvitului într-una cu o concentrație mare a acestuia",
+        "B": "Lasă să treacă doar anumite molecule (spre exemplu, O2, apă, CO2)",
+        "C": "Conține proteine denumite histone",
+        "D": "Reprezintă împreună cu ribozomii sediul sintezei proteice",
+        "E": "Nu permite trecerea cu ușurință a moleculelor mari înspre sau dinspre celulă"
+      }
+    },
+    {
+      "numar": 63,
+      "intrebare": "Alegeți afirmațiile adevărate despre osmoză și consecințele ei asupra eritrocitului",
+      "variante": {
+        "A": "Osmoza reprezintă difuziunea moleculelor de apă printr-o membrană semipermeabilă, dintr-o regiune cu o concentrație mai mica a solventului într-una cu concentrație mai mare a solvitului",
+        "B": "Osmoza reprezintă difuziunea moleculelor de apă printr-o membrană semipermeabilă, dintr-o regiune cu o concentrație mai mică a solventului într-una cu concentrație mai mare a acestuia",
+        "C": "Dacă se plasează eritrocite în soluție izotonă, osmoza nu se produce",
+        "D": "Dacă se plasează eritrocite într-o soluție hipotonă, concentrația de sare (solvit) va fi mai mare în interiorul eritrocitelor și apa va pătrunde în celule",
+        "E": "Osmoza este similară difuziunii facilitate și nu are nicio influență asupra eritrocitului, indiferent de mediul în care acesta este plasat"
+      }
+    },
+    {
+      "numar": 64,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la transportul transmembranar:",
+      "variante": {
+        "A": "Mișcarea moleculelor dintr-o zonă cu concentrație mare într-una cu concentrație mică se numește difuziune",
+        "B": "Moleculele de apă se deplasează prin membrana plasmatică, dintr-o zonă cu o con centrație mică a solvitului în una cu concentrație mare a acestuia, prin procesul de osmoză",
+        "C": "Difuziunea facilitată prin membrana plasmatică este mediată de proteine",
+        "D": "Când substanțele chimice sunt transportate dintr-o zonă cu concentrație mică într-una cu concentrație mare, transportul este activ și implică consum de energie",
+        "E": "Fagocitoza este forma de exocitoză în care anumite materii solide sunt înglobate în celulă"
+      }
+    },
+    {
+      "numar": 65,
+      "intrebare": "Care dintre următoarele sunt mecanisme de transport ale unor ioni și molecule prin",
+      "variante": {
+        "A": "Difuziunea (transportul activ) al moleculelor mari proteice",
+        "B": "Difuziunea gazelor respiratorii prin membrana eritrocitului",
+        "C": "Osmoza (difuziunea moleculelor de apă datorită unui gradient osmotic) – exemplu: reabsorbția apei din tubul proximal și distal al nefronului",
+        "D": "Transportul activ – exemplu: reabsorbția ionilor de Na+ din tubul proximal al nefronului",
+        "E": "Cariokineza și diapedeza leucocitelor, pentru a fagocita microorganisme"
+      }
+    },
+    {
+      "numar": 66,
+      "intrebare": "Care dintre următoarele nu sunt mecanisme de transport prin membrana celulară?",
+      "variante": {
+        "A": "Mitoza și interfaza ciclului celular",
+        "B": "Difuziunea facilitată, realizată cu ajutorul unor proteine transportoare, prezente în membrană",
+        "C": "Difuziunea activă a apei în tubii renali",
+        "D": "Exocitoza unor produși de secreție celulară (eliberarea neurotransmițătorilor din neuroni)",
+        "E": "Osmoza – mecanism de transport activ ionic"
+      }
+    },
+    {
+      "numar": 67,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Fagocitoza reprezintă transportul materialului solid prin endocitoză",
+        "B": "Pinocitoza reprezintă transportul unor picături de lichid prin exocitoză",
+        "C": "Eliberarea neurotransmițătorilor din veziculele presinaptice ale neuronilor se realizează prin exocitoză",
+        "D": "Eliberarea unor hormoni din celulele exocrine se face prin exocitoză",
+        "E": "Traversarea de către oxigen a membranei eritrocitare se realizează prin difuziune"
+      }
+    },
+    {
+      "numar": 68,
+      "intrebare": "Selectați afirmațiile false cu privire la permeabilitatea membranei celulare:",
+      "variante": {
+        "A": "Moleculele de oxigen trec din alveolele pulmonare în hematii prin osmoză",
+        "B": "Dacă se vor introduce hematii într-o soluție hipertonă, acestea vor suferi procesul de hemoliză",
+        "C": "Membrana plasmatică semipermeabilă permite trecerea cu ușurință a unor molecule de dimensiuni mici",
+        "D": "Transportul activ se realizează în sensul gradientului de concentrație (de la concentrație mare la concentrație mică)",
+        "E": "Pentru desfășurarea transportului activ transmembranar, energia se poate obține prin desface rea unui compus care conține legături fosfat cu potențial energetic ridicat (adenozin trifosfat)"
+      }
+    },
+    {
+      "numar": 69,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la transportul prin membrana plasmatică:",
+      "variante": {
+        "A": "Osmoza se realizează cu ajutorul proteinelor transportoare transmembranare",
+        "B": "Ingestia bacteriilor de către leucocite se realizează prin endocitoză",
+        "C": "Ingestia bacteriilor de către leucocite se realizează prin exocitoză",
+        "D": "Difuziunea facilitată se realizează cu ajutorul proteinelor transportoare transmembranare",
+        "E": "Transportul activ presupune trecerea moleculelor/ionilor din zone cu concentrație mică în zone cu concentrație mare, cu ajutorul proteinei transportoare și a energiei furnizate de ATP"
+      }
+    },
+    {
+      "numar": 70,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la transportul activ prin membrana",
+      "variante": {
+        "A": "Se realizează împotriva gradientului de concentrație, cu energie furnizată prin desfacerea (hidroliza) adenozin trifosfatului",
+        "B": "Rata transportului activ este limitată de numărul proteinelor transportoare",
+        "C": "Se realizează cu ajutorul proteinelor transmembranare, împotriva gradientului de concentrație",
+        "D": "Nu necesită energie din desfacerea (hidroliza) adenozin trifosfatului",
+        "E": "Una dintre formele de transport activ este difuziunea facilitată"
+      }
+    },
+    {
+      "numar": 71,
+      "intrebare": "În transportul activ, substanțele chimice se deplasează dintr-o zonă cu concentrație",
+      "variante": {
+        "A": "Funcționarea genelor care să controleze procesul de transcripție",
+        "B": "Energie furnizată de adenozin trifosfat, prin hidroliză (se eliberează 7,3 kcal/mol)",
+        "C": "Energie furnizată prin hidroliza unei substanțe care conține legături fosfat cu potențial energetic ridicat – adenozin trifosfat (ATP)",
+        "D": "Implicarea aparatului Golgi, care să remodeleze proteinele sintetizate în ribozomi",
+        "E": "Implicarea mitocondriilor, care furnizează ATP prin respirație celulară"
+      }
+    },
+    {
+      "numar": 72,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la endocitoză:",
+      "variante": {
+        "A": "Când endocitoza implică transport de material solid prin membrană, procesul se numește pinocitoză",
+        "B": "Când endocitoza implică transport de material solid prin membrană, procesul se numește fagocitoză",
+        "C": "Se desfășoară în același sens cu exocitoza",
+        "D": "Se desfășoară în sens opus cu exocitoza",
+        "E": "Leucocitele realizează endocitoză atunci când fagocitează microbii"
+      }
+    },
+    {
+      "numar": 73,
+      "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "În pinocitoză celula preia în interiorul ei substanțe chimice dizolvate în apă",
+        "B": "În fagocitoză celula preia în interiorul ei substanțe chimice dizolvate în apă",
+        "C": "În fagocitoză celula preia în interiorul ei particule solide",
+        "D": "În pinocitoză celula preia în interiorul ei particule solide",
+        "E": "Fagocitoza și pinocitoza sunt forme de endocitoză"
+      }
+    },
+    {
+      "numar": 74,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la endocitoză și exocitoză:",
+      "variante": {
+        "A": "Fagocitoza și pinocitoza sunt forme de exocitoză",
+        "B": "În timpul endocitozei, o mică porțiune din membrana plasmatică se pliază și înglobează particule sau mici volume de lichid din exteriorul celulei (de la suprafața celulară)",
+        "C": "În timpul endocitozei, o mică porțiune din membrana plasmatică se pliază și înglobează particule sau mici volume de lichid din interiorul celulei",
+        "D": "În timpul endocitozei, după ce particula/volumul de lichid au fost înglobate, membrana se închide,  delimitând o veziculă care va intra în citoplasmă",
+        "E": "În endocitoză se formează o veziculă care se desprinde și migrează în spațiul extracelular"
+      }
+    },
+    {
+      "numar": 75,
+      "intrebare": "Fagocitoza este o formă de endocitoză care:",
+      "variante": {
+        "A": "Este prezentă la unele elemente figurate – leucocite (globulele albe)",
+        "B": "Necesită controlul expresiei genice de către celulă",
+        "C": "Introduce în interiorul celulelor diverse substanțe solide",
+        "D": "Implică lizozomii, care conțin enzime pentru digestia intracelulară",
+        "E": "Este funcția principală a neutrofilelor (denumite și leucocite polimorfonucleare)"
+      }
+    },
+    {
+      "numar": 76,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la procesele de endocitoză și exocitoză:",
+      "variante": {
+        "A": "În endocitoză se formează o veziculă care se desprinde și migrează în citoplasmă",
+        "B": "Leucocitele sunt capabile să realizeze endocitoză când înglobează microbii",
+        "C": "Leucocitele sunt capabile să realizeze exocitoză când înglobează microbii",
+        "D": "În timpul exocitozei, substanțele se deplasează din interiorul unei celule spre mediul extracelular",
+        "E": "În timpul exocitozei, substanțele se deplasează din exteriorul unei celule spre mediul intracelular"
+      }
+    },
+    {
+      "numar": 77,
+      "intrebare": "Selectați afirmațiile false referitoare la endocitoză și exocitoză:",
+      "variante": {
+        "A": "Prin procesul de exocitoză se realizează secreția hormonilor de către celulele glandelor endocrine",
+        "B": "Prin procesul de endocitoză se realizează secreția hormonilor de către celulele glandelor exocrine",
+        "C": "În timpul exocitozei, veziculele citoplasmatice delimitate de membrană migrează spre membrana nucleară, cu care fuzionează",
+        "D": "În timpul exocitozei, veziculele citoplasmatice delimitate de membrană migrează spre membrana celulară, cu care fuzionează",
+        "E": "În timpul endocitozei, veziculele citoplasmatice delimitate de membrană migrează spre membrana celulară, cu care fuzionează"
+      }
+    },
+    {
+      "numar": 78,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la endocitoză și exocitoză:",
+      "variante": {
+        "A": "În cazul exocitozei, conținutul veziculei citoplasmatice este eliminat în mediul extracelular",
+        "B": "În cazul exocitozei, conținutul veziculei citoplasmatice este eliminat în mediul intracelular",
+        "C": "Eliberarea neurotransmițătorilor la nivelul terminațiilor celulelor nervoase presinaptice are loc prin procesul de exocitoză",
+        "D": "Eliberarea neurotransmițătorilor la nivelul terminațiilor presinaptice ale celulelor musculare are loc prin procesul de exocitoză",
+        "E": "Pinocitoza, care presupune înglobarea în celulă de material lichid, este o formă de endocitoză"
+      }
+    },
+    {
+      "numar": 79,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la nucleul celulelor:",
+      "variante": {
+        "A": "Este înconjurat de o membrană triplă alcătuită din fosfolipide",
+        "B": "Porii din membrana nucleară permit mediului intern al nucleului să comunice cu citoplasma celulei",
+        "C": "Nucleul celulelor umane este înconjurat de o membrană numită înveliș nuclear",
+        "D": "Nucleul celulelor umane este înconjurat de o membrană numită membrană plasmatică",
+        "E": "Nucleul conține ADN (acid dezoxiribonucleic) și histone (proteine histonice)"
+      }
+    },
+    {
+      "numar": 80,
+      "intrebare": "Selectați răspunsurile corecte cu privire la nucleu:",
+      "variante": {
+        "A": "Nucleul delimitat de membrană este prezent în celulele eucariote",
+        "B": "În corpul uman există celule lipsite de nucleu, cum sunt hematiile (globulele roșii sau eritrocitele)",
+        "C": "Masa densă din nucleu care conține acid ribonucleic (ARN) se numește nucleol",
+        "D": "În nucleul celular, moleculele de acid ribonucleic (ARN) sunt înfășurate în jurul complexelor de histone pentru a forma cromatina",
+        "E": "În timpul perioadei în care cromozomii nu se pot distinge unul de altul (în interfază), masa dispersată de ADN și proteinele asociate lui din nucleul celular se numește cromatină"
+      }
+    },
+    {
+      "numar": 81,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la nucleu:",
+      "variante": {
+        "A": "Există aproximativ 30.000 de gene în nucleul fiecărei celule umane",
+        "B": "Învelișul nuclear constă din două straturi de proteine cu pori prin care mediul intern al nucleului comunică cu citoplasma",
+        "C": "Nucleolul conține acid ribonucleic (ARN) și intervine în producerea subunităților ribozomale, care vor fi asamblate în citoplasmă sub formă de ribozomi",
+        "D": "Este înconjurat de o membrană alcătuită din două straturi duble de fosfolipide",
+        "E": "Spre deosebire de membrană celulară, membrana nucleară nu este prevăzută cu pori"
+      }
+    },
+    {
+      "numar": 82,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la nucleul celulelor:",
+      "variante": {
+        "A": "Forma și dimensiunea nucleului variază de la un tip celular la altul",
+        "B": "Poziția nucleului în celulă este centrală la toate tipurile celulare",
+        "C": "Este înconjurat de o membrană dublă, care poartă numele de înveliș nuclear",
+        "D": "Include nucleoli care conțin acid ribonucleic (ARN)",
+        "E": "Nucleolii sunt sediul sintezei lizozomilor"
+      }
+    },
+    {
+      "numar": 83,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la învelișul nuclear:",
+      "variante": {
+        "A": "Este o membrană poroasă numită membrană celulară",
+        "B": "Fiind alcătuit din două straturi duble de fosfolipide, are un conținut în aceste substanțe dublu față de membrană celulară",
+        "C": "Separă conținutul nuclear de spațiul extracelular",
+        "D": "Este o membrană poroasă dublă",
+        "E": "Controlează pasajul substanțelor între nucleu și citoplasmă"
+      }
+    },
+    {
+      "numar": 84,
+      "intrebare": "Selectați afirmațiile false referitoare la învelișul nuclear:",
+      "variante": {
+        "A": "Conține pori care permit comunicarea nucleului cu mediul extracelular",
+        "B": "Are un conținut în fosfolipide redus la jumătate față de membrana celulară",
+        "C": "Are un conținut în fosfolipide dublu față de membrana plasmatică",
+        "D": "Controlează pasajul substanțelor între celulă și mediul extracelular",
+        "E": "Conține informația genetică pentru sinteza proteică"
+      }
+    },
+    {
+      "numar": 85,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la nucleoli:",
+      "variante": {
+        "A": "Sunt structuri dense prezente în nucleul celulelor",
+        "B": "Conțin acid ribonucleic (ARN) și sunt sediul sintezei subunităților ribozomale",
+        "C": "Sunt saci membranoși cu partiție interioară",
+        "D": "Sunt organite care conțin enzime lizozomale",
+        "E": "În derularea etapei de mitoză a ciclului celular, dispar în profază și reapar în telofază"
+      }
+    },
+    {
+      "numar": 86,
+      "intrebare": "Selectați afirmațiile false referitoare la nucleoli:",
+      "variante": {
+        "A": "Sunt structuri dense prezente în toate celulele anucleate",
+        "B": "Conțin acidul nucleic care are în compoziție baza azotată uracil",
+        "C": "Sunt sediul sintezei subunităților lizozomale",
+        "D": "Sunt corpusculi lipsiți de membrană și care conțin ARN (acid ribonucleic)",
+        "E": "Sunt prezenți în eritrocite"
+      }
+    },
+    {
+      "numar": 87,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la citoplasmă:",
+      "variante": {
+        "A": "Este sediul unor procese metabolice celulare",
+        "B": "Conține citoscheletul constituit din subunități glucidice",
+        "C": "Conține structuri specializate numite organite (reticul endoplasmatic, corpul/aparatul Golgi etc.)",
+        "D": "Are o consistență solidă, fundamentală pentru celulă",
+        "E": "La nivelul organitelor din citoplasmă se desfășoară diverse funcții celulare"
+      }
+    },
+    {
+      "numar": 88,
+      "intrebare": "Selectați afirmațiile false referitoare la reticulul endoplasmatic:",
+      "variante": {
+        "A": "Are rol important în digestia celulară",
+        "B": "La nivelul lui se desfășoară o etapă importantă din respirația celulară (fosforilarea oxidativă)",
+        "C": "Este un organit alcătuit dintr-un ansamblu de membrane care se extind intracitoplasmatic",
+        "D": "Dacă are ribozomi atașați, poartă numele de reticul endoplasmatic rugos",
+        "E": "Reticulul endoplasmatic rugos este sediul exclusiv al sintezei și degradării lipidelor"
+      }
+    },
+    {
+      "numar": 89,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la reticulul endoplasmatic rugos:",
+      "variante": {
+        "A": "Este implicat în sinteza proteinelor (realizată prin asamblarea aminoacizilor în ribozomii atașați)",
+        "B": "Prezintă atașate structuri numite lizozomi, în care se combină chimic aminoacizii",
+        "C": "Reprezintă sediul sintezei lipidelor",
+        "D": "Este un organit alcătuit dintr-un ansamblu de membrane, care se extind intracitoplasmatic și prezintă ribozomi atașați",
+        "E": "Are rol în sinteza proteinelor prin respirație celulară"
+      }
+    },
+    {
+      "numar": 90,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la ribozomi:",
+      "variante": {
+        "A": "Sunt organite citoplasmatice care pot fi atașate membranelor aparatului Golgi",
+        "B": "La nivelul lor are loc legarea aminoacizilor în lanțuri peptidice",
+        "C": "Sunt organite citoplasmatice care pot fi atașate membranelor reticulului endoplasmatic",
+        "D": "Sunt structuri submicroscopice, compuse din proteine și ARN",
+        "E": "Reprezintă depozitul de ioni de calciu (Ca2+) din celulă"
+      }
+    },
+    {
+      "numar": 91,
+      "intrebare": "Selectați afirmațiile false referitoare la reticulul endoplasmatic:",
+      "variante": {
+        "A": "Poate fi de două tipuri: neted și rugos",
+        "B": "În reticulul endoplasmatic rugos are loc sinteza proteinelor prin cuplarea acizilor grași",
+        "C": "În reticulul endoplasmatic neted are loc sinteza lipidelor și a membranelor",
+        "D": "Este un organit alcătuit dintr-un ansamblu de membrane care se extind extracitoplasmatic",
+        "E": "La nivelul ribozomilor atașați reticulului endoplasmatic neted are loc sinteza proteinelor prin cuplarea nucleotidelor"
+      }
+    },
+    {
+      "numar": 92,
+      "intrebare": "Reticulul endoplasmatic se poate descrie ca fiind:",
+      "variante": {
+        "A": "Organit citoplasmatic cu rol specific în etapa de transcripție din cadrul sintezei proteinelor",
+        "B": "Structură funcțională aflată în citoplasmă, cu rol în depozitarea Ca2+",
+        "C": "Ansamblu de membrane care se extind intracitoplasmatic",
+        "D": "Sediu al respirației celulare, conținând sistemul transportor de electroni",
+        "E": "De două tipuri, neted (sediu al sintezei de lipide și de membrane) și rugos (care are atașați ribozomi)"
+      }
+    },
+    {
+      "numar": 93,
+      "intrebare": "Despre lizozomi sunt adevărate următoarele:",
+      "variante": {
+        "A": "Conțin enzime cu rol în procesele de digestie ale celulei",
+        "B": "Reprezintă depozitul de sodiu și calciu al celulei",
+        "C": "Conțin enzime care degradează particulele nutritive pătrunse în celulă și pun la dispoziția celulei produșii finali",
+        "D": "Sunt o sursă de săruri precum clorura de sodiu",
+        "E": "Sunt vezicule care derivă din sacii aparatului Golgi și conțin enzime pentru digestia intracelulară"
+      }
+    },
+    {
+      "numar": 94,
+      "intrebare": "Selectați afirmațiile false referitoare la lizozom:",
+      "variante": {
+        "A": "Este un organit celular extern care permite deplasarea anumitor celule",
+        "B": "La nivelul lui are loc sinteza membranelor celulare",
+        "C": "Are forma unei vezicule și conține enzime implicate în procesele de digestie celulară",
+        "D": "Enzimele sale pot să degradeze diverse structuri pătrunse în celulă",
+        "E": "Se poate atașa membranelor reticulului endoplasmatic"
+      }
+    },
+    {
+      "numar": 95,
+      "intrebare": "Despre mitocondrii se poate afirma că:",
+      "variante": {
+        "A": "Sunt organite în care se sintetizează adenozin trifosfat (ATP) pentru nevoile energetice ale celulei",
+        "B": "Constituie o parte componentă a cromozomilor și cromatinei nucleare",
+        "C": "Sunt organite care dețin informația genetică pentru sinteza tuturor componentelor celulei",
+        "D": "Se găsesc în număr mare în fibra musculară striată (în vecinătatea filamentelor subțiri de actină și a celor groase de miozină) și furnizează ATP-ul necesar contracției musculare",
+        "E": "La nivelul lor se eliberează cea mai mare parte a energiei provenite din degradarea substanțelor de natură glucidică, lipidică sau proteică, utilizându-se oxigenul provenit din aerul inspirat"
+      }
+    },
+    {
+      "numar": 96,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la aparatul Golgi:",
+      "variante": {
+        "A": "Structura lui include saci membranoși turtiți, de obicei curbați la capete",
+        "B": "La nivelul lui au loc procesarea și împachetarea în vezicule a proteinelor și a lipidelor",
+        "C": "Sacii se unesc între ei parțial, formând vezicule asemănătoare unor picături",
+        "D": "Conține saci membranoși cu partiție interioară, denumiți subunități mici și mari",
+        "E": "Este o structură nonmembranoasă care conține enzime pentru digestia intracelulară"
+      }
+    },
+    {
+      "numar": 97,
+      "intrebare": "Care dintre următoarele structuri sunt componente microscopice specializate ale",
+      "variante": {
+        "A": "Kinetocorul – structură care conține o proteină motorie care asigură deplasarea cromozomilor prin celulă",
+        "B": "Aparatul Golgi – vezicule asemănătoare unor picături, formate prin unirea parțială a unor saci turtiți, de obicei curbați la capete",
+        "C": "Lizozomii – sediu unic al enzimelor care realizează sinteza proteinelor",
+        "D": "Nucleolul – format din mase dense de adenozintrifosfat (ATP)",
+        "E": "Mitocondria – în care este eliberată, prin respirație celulară, cea mai mare parte a energiei provenite din catabolizarea nutrienților"
+      }
+    },
+    {
+      "numar": 98,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la mitocondrie:",
+      "variante": {
+        "A": "La nivelul acestui organit se degradează molecule glucidice și lipidice cu producere de energie",
+        "B": "În interiorul ei, respirația celulară este completă când oxigenul se combină cu hidrogen și electroni ca să formeze apă",
+        "C": "La nivelul acestui organit are loc sinteza de glucoză, cu eliberare de energie",
+        "D": "Energia produsă de mitocondrie este stocată sub formă de ADN (acid dezoxiribonucleic)",
+        "E": "Este un organit celular intern implicat în procesele energetice ale celulei"
+      }
+    },
+    {
+      "numar": 99,
+      "intrebare": "Selectați afirmațiile false referitoare la mitocondrii:",
+      "variante": {
+        "A": "Pentru desfășurarea respirației celulare, mitocondriile necesită dioxid de carbon",
+        "B": "Energia rezultată din degradarea de molecule glucidice, lipidice și de natură proteică la nivel mitocondrial este utilizată pentru formarea de molecule de ATP (adenozin trifosfat)",
+        "C": "Sunt alcătuite dintr-o rețea de membrane interconectate, rețea formată din saci și canale",
+        "D": "Conțin un set de enzime cu care realizează digestia intracelulară",
+        "E": "Participă alături de microtubuli la alcătuirea citoscheletului celular"
+      }
+    },
+    {
+      "numar": 100,
+      "intrebare": "Care dintre următoarele sunt elemente ale citoscheletului celular?",
+      "variante": {
+        "A": "Filamentele intermediare și microfilamentele",
+        "B": "Filamentele intermediare și microtubulii",
+        "C": "Macrofilamentele și cilii",
+        "D": "Macrotubulii și flagelii",
+        "E": "Microtubulii și microfilamentele"
+      }
+    },
+    {
+      "numar": 101,
+      "intrebare": "Care dintre următoarele afirmații sunt adevărate și se referă la extensii ale unor",
+      "variante": {
+        "A": "Flagelii, prezenți la celulele Leydig, participă la constituirea unui suport pentru citoplasma acestora",
+        "B": "Cilii, mai lungi și mai puțin numeroși decât flagelii, se regăsesc în tractul respirator și în alveolele pulmonare",
+        "C": "Cilii se întâlnesc la celulele din căile aeriene superioare și se ondulează în mod sincron",
+        "D": "Flagelul este lung și asemănător unui fir de păr",
+        "E": "Cilii și flagelii sunt atașați corpusculilor bazali de sub membrana celulară"
+      }
+    },
+    {
+      "numar": 102,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la citoscheletul celular:",
+      "variante": {
+        "A": "Este o rețea interconectată de microtubului, microfilamente și filamente intermediare din interiorul citoplasmei",
+        "B": "Este o rețea interconectată de fibre, fascicule și molecule izolate aflată în interiorul nucleului",
+        "C": "Participă la realizarea deplasării particulelor în citoplasmă",
+        "D": "Servește drept structură de suport pentru celulă și are toate componentele alcătuite din subunități proteice",
+        "E": "Filamentele intermediare  sunt componente ale citoscheletului celular doar la celula procariotă"
+      }
+    },
+    {
+      "numar": 103,
+      "intrebare": "Selectați răspunsurile incorecte referitoare la citoscheletul celular:",
+      "variante": {
+        "A": "Microtubulii și filamentele intermediare nu sunt componente ale citoscheletului celular",
+        "B": "Microfilamentele fac parte din structurile citoscheletului celular",
+        "C": "Toate componentele citoscheletului celular sunt alcătuite din subunități proteice",
+        "D": "Toate componentele citoscheletului celular sunt alcătuite din subunități fosfolipidice",
+        "E": "Are componente asemănătoare firelor de păr, care străbat membrana celulară și intră în nucleu"
+      }
+    },
+    {
+      "numar": 104,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la cili și flageli:",
+      "variante": {
+        "A": "Flagelul este prezent la spermatozoid și asigură mișcarea acestuia",
+        "B": "Cilii sunt structuri mai scurte decât flagelii",
+        "C": "Flagelul este o prelungire prezentă la unele dintre celulele tractului respirator",
+        "D": "Cilii sunt prezenți la nivelul celulelor tractului respirator, unde se ondulează în mod sincron",
+        "E": "Spre deosebire de flagel, cilii sunt imobili și mult mai lungi decât acesta"
+      }
+    },
+    {
+      "numar": 105,
+      "intrebare": "Selectați afirmațiile false referitoare la cili și flageli:",
+      "variante": {
+        "A": "Cilul este o structură unică, mai lungă decât flagelul",
+        "B": "Sunt extensii prezente la anumite celule umane",
+        "C": "Cilii asigură mișcarea spermatozoidului în lichidul spermatic",
+        "D": "Flagelul asigură mișcarea ovulului în trompa uterină, în vederea fecundației",
+        "E": "Flagelul, prin mișcări ondulatorii, deplasează stratul de mucus cu particule străine prinse în el, de la suprafața celulelor tractului respirator"
+      }
+    },
+    {
+      "numar": 106,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "În celulele umane care căptușesc căile aeriene superioare și tractul respirator, cilii se ondulează sincron, eliminând mucusul cu particulele străine prinse în el",
+        "B": "În celulele umane care căptușesc tractul respirator, cilii se ondulează asincron, eliminând mucusul cu impurități",
+        "C": "Atunci când este prezent la nivelul unei celule umane, flagelul asigură reproducerea celulei",
+        "D": "Flagelul, prezent la nivelul spermatozoidului, asigură mișcarea acestei celule",
+        "E": "Cilii prezenți în epiteliul alveolelor pulmonare determină propulsia mucusului pe suprafețele celulare"
+      }
+    },
+    {
+      "numar": 107,
+      "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Proteinele care oferă un cadru de sprijin pentru ARN (acid ribonucleic) în cromozomi se numesc histone",
+        "B": "Când pe reticulul endoplasmatic sunt prezenți ribozomi, reticulul endoplasmatic se numește rugos",
+        "C": "Înainte de a fi transportate spre destinațiile finale, proteinele și lipidele sunt procesate într-un organit celular numit nucleozom",
+        "D": "Organitele care eliberează energia celulară din molecule de proveniență alimentară și în care se produc moleculele de ATP (adenozin trifosfat) sunt mitocondriile",
+        "E": "Principalele componente ale citoscheletului sunt filamentele intermediare, microfilamentele și microtubulii"
+      }
+    },
+    {
+      "numar": 108,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la energia celulară:",
+      "variante": {
+        "A": "Reacțiile chimice însoțite de eliberare de energie se numesc exergonice",
+        "B": "Reacțiile chimice care necesită energie pentru desfășurarea lor se numesc endergonice",
+        "C": "Proteinele care accelerează reacțiile chimice, ele însele rămânând neschimbate, se numesc hormoni",
+        "D": "Cele trei părți ale unei molecule de adenozin trifosfat (ATP) sunt uracilul, unitatea fosfat și riboza",
+        "E": "Sursa energetică imediată folosită de majoritatea celulelor umane este adenozin trifosfatul (ATP)"
+      }
+    },
+    {
+      "numar": 109,
+      "intrebare": "Despre adenozin trifosfat (ATP) este adevărat că:",
+      "variante": {
+        "A": "Atunci când molecula de ATP elimină gruparea fosfat terminală, se eliberează energie echivalentă cu 7,3 kcal/mol",
+        "B": "Prin descompunerea lui pentru a furniza energie, sunt eliberate riboza și adenozina",
+        "C": "Servește drept sursă de energie în timpul contracției musculare",
+        "D": "Conține o singură grupare fosfat cu nivel energetic ridicat, pe care o eliberează sub acțiunea ATP-azei",
+        "E": "În fibra musculară trebuie în permanență regenerat din ADP și grupări fosfat, cu aport de energie"
+      }
+    },
+    {
+      "numar": 110,
+      "intrebare": "Selectați afirmațiile false dintre cele de mai jos:",
+      "variante": {
+        "A": "Energia necesară supraviețuirii celulelor corpului uman provine din alimente",
+        "B": "Orice reacție chimică în care se eliberează energie se numește exergonică",
+        "C": "Orice reacție chimică în care se eliberează energie se numește endergonică",
+        "D": "Reacțiile chimice se desfășoară în celule fără a implica schimburi energetice",
+        "E": "Compușii chimici din celule reacționează între ei automat și se degradează spontan"
+      }
+    },
+    {
+      "numar": 111,
+      "intrebare": "Care dintre următoarele afirmații caracterizează enzimele?",
+      "variante": {
+        "A": "Majoritatea enzimelor au structură glicolipidică",
+        "B": "Acționează nespecific asupra substratului, transformându-l în produs final de reacție",
+        "C": "Temperaturile ridicate pot determina denaturarea structurii lor",
+        "D": "Participă la reacții chimice în cadrul unor căi metabolice",
+        "E": "Prezintă o porțiune-cheie, zona activă, la nivelul căreia se leagă moleculele de substrat"
+      }
+    },
+    {
+      "numar": 112,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la enzime:",
+      "variante": {
+        "A": "Fiecare enzimă catalizează o singură reacție chimică, scăzând energia de activare necesară desfășurării acesteia",
+        "B": "O enzimă poate cataliza una sau mai multe reacții chimice diferite, situație în care se regăsește modificată structural la finalul reacției sau reacțiilor catalizate",
+        "C": "Substanța asupra căreia acționează o enzimă pentru a se obține reactantul se numește produs final",
+        "D": "Substanța asupra căreia acționează o enzimă pentru a se obține produsul final se numește substrat",
+        "E": "Amilaza, catalaza și peptidaza sunt exemple de proteine care acționează ca enzime asupra unor substraturi"
+      }
+    },
+    {
+      "numar": 113,
+      "intrebare": "Selectați răspunsurile corecte referitoare la enzime și la acțiunea acestora:",
+      "variante": {
+        "A": "Prezintă o porțiune-cheie, zona activă, care interacționează cu substratul, accelerând obținerea produșilor finali",
+        "B": "Majoritatea enzimelor sunt de natura polizaharidică, exceptând peptidazele, care sunt de natură proteică",
+        "C": "Temperatura influențează viteza unei reacții catalizate enzimatic (la temperaturi ridicate, reacțiile enzimatice au loc mult mai rapid)",
+        "D": "Energia de activare termică a unei reacții endergonice sau exergonice este produsă de enzime",
+        "E": "Temperatura influențează viteza unei reacții catalizate enzimatic dar excesul de căldură poate provoca modificarea structurii proteice a enzimei (denaturarea  ei)"
+      }
+    },
+    {
+      "numar": 114,
+      "intrebare": "Selectați afirmațiile false referitoare la enzime:",
+      "variante": {
+        "A": "Sunt catalizatori anorganici, care accelerează reacția enzimatică și se consumă până la finalul acesteia",
+        "B": "De obicei, reacțiile catalizate enzimatic se desfășoară rapid, în câteva milisecunde, iar viteza lor este influențată de factori cum este concentrația substratului",
+        "C": "De obicei, reacțiile catalizate enzimatic se desfășoară lent, în câteva ore iar viteza de reacție nu depinde de concentrația substratului",
+        "D": "Produșii unei reacții catalizate de o enzimă se numesc produși finali",
+        "E": "Concentrația substratului şi aciditatea mediului în care are loc reacția catalizată enzimatic nu influențează viteza de desfășurare a acesteia"
+      }
+    },
+    {
+      "numar": 115,
+      "intrebare": "Care dintre afirmațiile următoare sunt false?",
+      "variante": {
+        "A": "Procesele catabolice presupun sinteza unor molecule mari, iar cele anabolice presupun degradarea unor molecule complexe",
+        "B": "O cale metabolică este o secvență de reacții chimice care are loc într-o celulă",
+        "C": "Într-o celulă numărul enzimelor este foarte redus, doar câteva reacții chimice  de degradare fiind catalizate enzimatic",
+        "D": "Procesele anabolice presupun sinteza de molecule complexe (proteine, polizaharide, fosfolipide)",
+        "E": "Procesele anabolice presupun digestia moleculelor mari, complexe (spre exemplu, oxidarea glucozei sau a acizilor grași)"
+      }
+    },
+    {
+      "numar": 116,
+      "intrebare": "Care dintre următoarele afirmații sunt false?",
+      "variante": {
+        "A": "Celulele epiteliale din tractul gastrointestinal nu se divid (spre deosebire de hematii)",
+        "B": "Catalaza este enzima care degradează peroxidul de hidrogen în apă și oxigen",
+        "C": "Cilii și flagelii sunt fire de păr atașate pe fața externă a membranei nucleare",
+        "D": "ADN-ul din structura materialului nuclear este alcătuit din nucleozide legate unele de altele prin legături ionice",
+        "E": "În interiorul mitocondriei, respirația celulară este completă atunci când are loc combinarea oxigenului cu hidrogen și electroni pentru a forma apa"
+      }
+    },
+    {
+      "numar": 117,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la materialul nuclear al celulei:",
+      "variante": {
+        "A": "Este compus în principal din acid dezoxiribonucleic și dintr-un tip de proteine numite histone",
+        "B": "ADN-ul prezent în nucleu este organizat în unități circulare numite cromozomi, iar forma spiralizată a acestora se numește cromatină",
+        "C": "ADN-ul prezent în nucleu este organizat în unități liniare numite cromozomi, iar forma despiralizată a acestora se numește cromatină",
+        "D": "În anafaza meiozei, materialul nuclear se află sub formă de cromatină despiralizată care migrează spre cei doi poli ai celulei",
+        "E": "În faza G1 a ciclului celular, materialul nuclear se găsește sub formă de cromatină despiralizată"
+      }
+    },
+    {
+      "numar": 118,
+      "intrebare": "Selectați afirmațiile false referitoare la materialul nuclear al celulei:",
+      "variante": {
+        "A": "Nucleozomul este o structură cu dimensiuni electronomicroscopice, alcătuită din ADN și complexe histonice",
+        "B": "Un nucleozom este o structură alcătuită dintr-un lanț dublu spiralat de acid ribonucleic (ARN) înfășurat în jurul complexelor de histone",
+        "C": "Un cromozom este alcătuit din milioane de nucleozomi care se înfășoară între ei",
+        "D": "Structura și conținutul nucleului sunt implicate direct în reproducerea celulară",
+        "E": "Nucleozomul este alcătuit dintr-un mare număr de molecule de acid dezoxiribonucleic, în jurul cărora se înfășoară proteina histonică"
+      }
+    },
+    {
+      "numar": 119,
+      "intrebare": "Despre reproducerea celulară și ciclul celular este adevărat că:",
+      "variante": {
+        "A": "În anumite țesuturi ale corpului uman celulele se divid frecvent (tract gastrointestinal), în altele se divid mai rar",
+        "B": "Ciclul celular are două etape importante: interfaza (G1-S-G2) și mitoza (profaza-metafaza anafază-telofază)",
+        "C": "Ciclul celular poate fi definit ca repetarea creșterii și reproducerii celulare",
+        "D": "Una dintre etapele ciclului celular este interfaza formată din patru faze: profază, metafază, anafază și telofază",
+        "E": "Nucleul, prin structura și conținutul lui, este direct implicat în reproducerea celulară"
+      }
+    },
+    {
+      "numar": 120,
+      "intrebare": "Selectați răspunsurile corecte referitoare la ciclul celular:",
+      "variante": {
+        "A": "Perioada din cadrul ciclului celular în care ADN-ul nuclear al celulei este distribuit spre cele două celule fiice se numește mitoză",
+        "B": "Etapa interfazei în care celula sintetizează proteine structurale și enzime este reprezentată de faza G3",
+        "C": "Faza S, aparținând interfazei, reprezintă perioada în care ADN-ul din nucleu se replică (fiecare cromozom fiind copiat cu acuratețe)",
+        "D": "În timpul fazei G2 a interfazei, celula se pregătește de mitoză, iar proteinele citoplasmatice se organizează într-o serie de filamente numite histone",
+        "E": "În faza G2 a interfazei celulele cresc, își îndeplinesc funcția și se pregătesc de intrarea în mitoză"
+      }
+    },
+    {
+      "numar": 121,
+      "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Interfaza este perioada în care se desfășoară toate activitățile specifice unei celule",
+        "B": "Cariokineza reprezintă diviziunea efectivă a celulei",
+        "C": "Creșterea în dimensiuni a celulei se produce în toate cele trei faze distincte ale interfazei",
+        "D": "Ciclul celular constă în patru faze distincte, care se desfășoară în ordinea: anafaza, profaza, metafaza și telofaza",
+        "E": "După faza S a interfazei, în urma replicării ADN-ului nuclear, celula va avea 46 de cromozomi, fiecare cu câte două cromatide per cromozom"
+      }
+    },
+    {
+      "numar": 122,
+      "intrebare": "Ciclul celular prezintă ca etape majore interfaza și mitoza. Care dintre afirmațiile",
+      "variante": {
+        "A": "Este perioada ciclului celular în care ADN-ul (acidul dezoxiribonucleic) nuclear al celulei este împărțit între cele două celule fiice",
+        "B": "Este faza în care cromozomii se găsesc sub formă de cromatină despiralizată",
+        "C": "În cadrul ei se derulează faza S, în care are loc dublarea cantității de ADN (acid dezoxiribonucleic)",
+        "D": "Este perioada în care se desfășoară toate activitățile specifice unei celule",
+        "E": "Se mai numește citokineză (formarea a două celule separate)"
+      }
+    },
+    {
+      "numar": 123,
+      "intrebare": "Selectați afirmațiile false cu privire la ciclul celular:",
+      "variante": {
+        "A": "Are două perioade majore: interfaza și mitoza",
+        "B": "Interfaza are patru faze (care decurg în ordinea telofază, anafază, metafază și profază), iar mitoza trei faze (care decurg în succesiunea G1, G2 și S3)",
+        "C": "În faza G2 a mitozei, celula sintetizează proteine structurale, enzime și crește în dimensiuni",
+        "D": "În faza S a interfazei, ADN-ul (acidul dezoxoribonucleic) nuclear se replică, dar nu apare sub formă de cromozomi, ci sub formă de cromatină",
+        "E": "În faza S, prin procesul de replicare a ADN-ului (acidului dezoxiribonucleic), cele 46 de cromatide citoplasmatice (care formează cromatina nucleară) își sintetizează câte două copii identice"
+      }
+    },
+    {
+      "numar": 124,
+      "intrebare": "Alegeți asocierile corecte referitoare la ciclul celular și la fazele (etapele) sale:",
+      "variante": {
+        "A": "Interfaza – replicarea ADN-ului  – desfășurarea activităților specifice celulei",
+        "B": "Citokineza – alinierea cromozomilor la nivelul plăcii metafazice – 92 de cromatide",
+        "C": "Faza G1 – activități normale ale celulei (secreția de substanțe în celula glandulară, contracţia în celula musculară)",
+        "D": "Ciclul celular – derularea a trei faze distincte – profaza, metafaza și telofaza – finalizare prin meioză",
+        "E": "Faza G1 din interfază – sinteză de proteine structurale – creștere dimensională a celulei – cromatină despiralizată"
+      }
+    },
+    {
+      "numar": 125,
+      "intrebare": "Despre cromatide, cromozomi și cromatină este adevărat că:",
+      "variante": {
+        "A": "Se prezintă sub formă de structuri fibrilare sau granulare vizibile cu ochiul liber",
+        "B": "Conțin informația genetică pentru sinteza proteinelor",
+        "C": "Se asociază cu moleculele de ATP (adenozin trifosfat), formând nucleozomi",
+        "D": "Conțin ADN (acid dezoxiribonucleic) și proteine asociate acestuia, denumite histone",
+        "E": "Nu conțin ARN (acid ribonucleic)"
+      }
+    },
+    {
+      "numar": 126,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la mitoză:",
+      "variante": {
+        "A": "Este una dintre cele două perioade ale ciclului celular, alături de interfază",
+        "B": "Este una dintre cele două perioade ale ciclului celular, alături de spiralizarea cromozomilor",
+        "C": "Este perioada ciclului celular în care ADN-ul (acidul dezoxiribonucleic) nuclear al celulei este împărțit între cele două celule fiice",
+        "D": "După mitoză urmează faza S, etapă a interfazei",
+        "E": "Este singura perioadă în care celula sintetizează proteine structurale"
+      }
+    },
+    {
+      "numar": 127,
+      "intrebare": "Selectați informațiile corecte referitoare la mitoză:",
+      "variante": {
+        "A": "În timpul profazei, structurile microscopice care migrează spre polii opuși ai celulei se numesc centromere",
+        "B": "În timpul profazei, cromatidele se atașează de filamentele fusului de diviziune în porțiunea ADN-ului (acid dezoxiribonucleic) denumită centriol",
+        "C": "Stadiul mitozei în care cele 92 de cromatide se aliniază sub forma a 46 de cromozomi de a lungul plăcii ecuatoriale este metafaza",
+        "D": "Când cromozomii ajung la polii opuși ai celulei, celula se află în faza mitozei numită telofază",
+        "E": "Citokineza este etapa în care are loc separarea celor două celule fiice"
+      }
+    },
+    {
+      "numar": 128,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la evenimentele derulate în timpul",
+      "variante": {
+        "A": "La începutul profazei – condensarea cromatinei și formarea de filamente vizibile",
+        "B": "În timpul interfazei – desfășurarea funcțiilor specifice ale celulei",
+        "C": "În timpul fazei G2 – sinteza enzimelor și a proteinelor structurale",
+        "D": "În timpul metafazei – alinierea perechilor de cromatide în planul ecuatorial (alinierea centromerilor în placa metafazică)",
+        "E": "În timpul telofazei – despiralizarea și dispersarea cromozomilor ajunși la polii opuși ai celulei, pentru a forma mase de cromatină"
+      }
+    },
+    {
+      "numar": 129,
+      "intrebare": "ARN-ul (acidul ribonucleic) este conținut în celulă într-o serie de structuri, cu",
+      "variante": {
+        "A": "Ribozomilor, la nivelul cărora are loc sinteza proteinelor",
+        "B": "Moleculelor care transportă în citoplasmă informația genetică, primită în urma transcripției",
+        "C": "Filamentelor fusului de diviziune, formate din microtubuli",
+        "D": "Moleculelor care transportă aminoacizii la ribozomi în timpul sintezei proteice",
+        "E": "Cromatinei despiralizate din metafaza ciclului celular"
+      }
+    },
+    {
+      "numar": 130,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la faza G1 din interfază:",
+      "variante": {
+        "A": "Este perioada în care celula sintetizează proteine structurale",
+        "B": "Este perioada în care celula sintetizează enzime",
+        "C": "Urmează după faza S a ciclului celular",
+        "D": "În această etapă, celula crește în dimensiuni",
+        "E": "În această etapă are loc replicarea ADN-ului (acidului dezoxiribonucleic) nuclear"
+      }
+    },
+    {
+      "numar": 131,
+      "intrebare": "Selectați asocierile corecte dintre cele de mai jos referitoare la ciclul celular:",
+      "variante": {
+        "A": "Faza G1 – urmează mitozei – sinteză de proteine structurale și enzime – creștere în dimensiuni a celulei",
+        "B": "Interfază – perioadă a ciclului celular între fazele G1 și G2 – funcții celulare inhibate",
+        "C": "Faza S – sinteză de ADN (acid dezoxiribonucleic) – replicarea ADN-ului",
+        "D": "Faza G2 – continuă creșterea celulară – continuă desfășurarea funcțiilor celulei",
+        "E": "Faza S – sinteza ADN-ului – citokineză – sinteza ARN-ului"
+      }
+    },
+    {
+      "numar": 132,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la faza S a ciclului celular:",
+      "variante": {
+        "A": "La sfârșitul acestei faze, cantitatea de ADN (acid dezoxiribonucleic) nuclear va fi dublă comparativ cu cea din faza G2",
+        "B": "La sfârșitul acestei faze, cantitatea de ADN (acid dezoxiribonucleic) nuclear va fi dublă comparativ cu cea din faza G1",
+        "C": "Se derulează între fazele G1 și G2",
+        "D": "Este o etapă a mitozei, ca și metafaza",
+        "E": "În această fază, cromozomii nucleari nu sunt vizibili"
+      }
+    },
+    {
+      "numar": 133,
+      "intrebare": "Despre succesiunea evenimentelor derulate în ciclul celular se poate afirma că:",
+      "variante": {
+        "A": "Faza G1 urmează anafazei și precede faza S",
+        "B": "Faza G2 urmează fazei S și precede profaza",
+        "C": "Interfaza cuprinde în ordine etapele S-G2-G1",
+        "D": "Profaza târzie urmează după anafază",
+        "E": "Anafaza precede metafaza și urmează telofazei"
+      }
+    },
+    {
+      "numar": 134,
+      "intrebare": "Despre faza G1 a ciclului celular nu este adevărat că:",
+      "variante": {
+        "A": "Acum are loc sinteza de proteine structurale și de enzime, fără replicarea ADN-ului (acid dezoxiribonucleic)",
+        "B": "Precede interfaza și asigură sinteza proteinelor structurale și enzimelor, ca și replicarea ADN-ului nuclear",
+        "C": "Este urmată de fazele S și apoi G2 ale interfazei",
+        "D": "Acum au loc activități normale ale celulei iar cromozomii se află sub formă de cromatină despiralizată",
+        "E": "Este denumită și citokineză, finalizându-se prin separarea celor două celule fiice"
+      }
+    },
+    {
+      "numar": 135,
+      "intrebare": "Selectați afirmațiile false referitoare la faza G2 a ciclului celular:",
+      "variante": {
+        "A": "Este perioada în care celula se pregătește pentru intrarea în telofază",
+        "B": "Este perioada în care celula se pregătește pentru mitoză",
+        "C": "Urmează după faza S, la sfârșitul căreia în nucleu există 92 de cromatide (câte două cromatide/cromozom)",
+        "D": "Are loc înaintea fazei S de replicare a acidului dezoxiribonucleic",
+        "E": "Cromozomii sunt spiralizați, cu o singură cromatidă, așezați la nivelul plăcii ecuatoriale"
+      }
+    },
+    {
+      "numar": 136,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la fusul de diviziune:",
+      "variante": {
+        "A": "Este alcătuit din microtubuli, structuri de natură proteică",
+        "B": "Este asamblat (reconstruit) pentru fiecare mitoză și dezasamblat la sfârșitul mitozei",
+        "C": "În profază, de filamentele lui se atașează cromatidele prin intermediul kinetocorului de la nivelul centromerului",
+        "D": "Este asamblat (reconstruit) pentru fiecare interfază și dezasamblat la sfârșitul acesteia",
+        "E": "Filamentele lui sunt alcătuite din microtubuli"
+      }
+    },
+    {
+      "numar": 137,
+      "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "În celulele umane există 64 de cromozomi, fiecare cu câte o cromatidă/cromozom în faza G1 și cu câte două cromatide/cromozom după faza S",
+        "B": "În celulele umane există 46 de cromozomi, fiecare cu câte o cromatidă/cromozom în faza G1 și cu câte două cromatide/cromozom după faza S",
+        "C": "În interfază, materialul genetic se găsește sub formă de masă dispersată de ADN (acid dezoxiribonucleic) și de proteine asociate lui",
+        "D": "În mitoză, cromozomii se organizează sub formă de mononucleotide",
+        "E": "În metafază, cromozomii se găsesc sub formă de cromatină dispersată"
+      }
+    },
+    {
+      "numar": 138,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "În celulele umane există 92 de cromozomi în faza G1",
+        "B": "Toate celulele mature ale corpului uman se divid prin procesul de mitoză",
+        "C": "O moleculă de ATP (adenozin trifosfat) este formată din adenină (bază azotată), pentoza riboză și trei unități fosfat și servește drept sursă de energie imediată pentru toate celulele organismului",
+        "D": "În structura fiecărui cromozom intră milioane de nucleozomi",
+        "E": "În corpul uman, excesul de căldură poate provoca denaturarea structurii enzimelor implicate în reacțiile chimice"
+      }
+    },
+    {
+      "numar": 139,
+      "intrebare": "Selectați răspunsurile și asocierile corecte dintre cele de mai jos:",
+      "variante": {
+        "A": "Ciclul celular – interfaza și mitoza – repetarea creșterii și reproducerii celulare",
+        "B": "Separarea efectivă a celor două celule fiice – citokineza – proces prin care se divide citoplasma, rezultând două celule separate",
+        "C": "Replicarea ADN (acidul dezoxiribonucleic) are loc în mitoză",
+        "D": "Interfaza cuprinde fazele G₂-S-G₃",
+        "E": "Telofaza – urmează anafazei – despiralizarea cromozomilor ajunși la polii opuși ai celulei – formarea unor mase de cromatină – dezasamblarea fusului de diviziune"
+      }
+    },
+    {
+      "numar": 140,
+      "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Prin ciclu celular se înțelege reproducerea sexuată a celulei procariote",
+        "B": "Pierderea controlului asupra mitozei poate să conducă la apariția cancerului",
+        "C": "În celulele umane (exceptând gameții) sunt 23 cromozomi, fiecare cu câte o cromatidă",
+        "D": "În anafază, cromozomii sunt tractați spre polii opuși ai celulei cu ajutorul filamentelor fusului de diviziune și adoptă forma literei „V”",
+        "E": "Mitoza este una dintre perioadele principale ale ciclului celular și cuprinde mai multe etape succesive"
+      }
+    },
+    {
+      "numar": 141,
+      "intrebare": "Selectați asocierile corecte referitoare la fazele ciclului celular:",
+      "variante": {
+        "A": "Faza S – interfază – replicarea ADN (acid dezoxiribonucleic)",
+        "B": "Faza G2 – mitoză – celula crește",
+        "C": "Faza G1 – sinteză proteică – cromatină despiralizată",
+        "D": "Faza G1 – sinteză de enzime – cromatină despiralizată",
+        "E": "Faza S – mitoză – replicarea ARN-ului (acidului ribonucleic)"
+      }
+    },
+    {
+      "numar": 142,
+      "intrebare": "Alegeți succesiunea corectă a fazelor din derularea ciclului celular:",
+      "variante": {
+        "A": "S – G1- mitoză – G2",
+        "B": "Interfază – profază – metafază – anafază – telofază",
+        "C": "G1 – S – G2 – mitoză",
+        "D": "S1  – G – S2 – interfază",
+        "E": "G1  – S – G2 – profază"
+      }
+    },
+    {
+      "numar": 143,
+      "intrebare": "Selectați afirmațiile corecte dintre cele de mai jos referitoare la o prezentare",
+      "variante": {
+        "A": "În metafază numărul cromatidelor se dublează prin procesul de replicare",
+        "B": "În profază, se dezasamblează membrana nucleară și nucleolii dispar",
+        "C": "În profaza târzie cromozomii au câte două cromatide surori și se atașează de filamentele fusului de diviziune prin intermediul kinetocorului de la nivelul centromerului",
+        "D": "În metafază are loc alinierea cromozomilor la polii celulei-mamă",
+        "E": "În anafază, câte un set de 46 de cromozomi cu o singură cromatidă migrează spre fiecare din cei doi poli ai celulei"
+      }
+    },
+    {
+      "numar": 144,
+      "intrebare": "Care dintre următoarele afirmații sunt false?",
+      "variante": {
+        "A": "Profaza reprezintă prima etapă a mitozei și este urmată de metafază",
+        "B": "Microtubulii radiari, care înconjoară centriolii ajunși la polii opuși ai celulei în profază, poartă numele de aster",
+        "C": "Căile metabolice care utilizează catabolismul asigură sinteza moleculelor mari",
+        "D": "O enzimă conține o porțiune cheie denumită substrat și va acționa asupra zonei active a produsului final",
+        "E": "Similară fagocitozei, exocitoza este o modalitate importantă de locomoție a celulelor secretoare"
+      }
+    },
+    {
+      "numar": 145,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la profază:",
+      "variante": {
+        "A": "Începe cu despiralizarea cromatinei și formarea de filamente vizibile",
+        "B": "În această etapă se produce condensarea cromatinei cu formarea de filamente vizibile",
+        "C": "În această fază există câte patru copii ale fiecărui filament cromozomial",
+        "D": "În această etapă există 46 de perechi de cromatide",
+        "E": "În această etapă, două structuri macroscopice denumite centromeri migrează spre polii celulei"
+      }
+    },
+    {
+      "numar": 146,
+      "intrebare": "În celulele umane aflate în profază:",
+      "variante": {
+        "A": "Cele două cromatide surori sunt unite într-o regiune numită centromer",
+        "B": "Nucleolii dispar, iar membrana nucleară se dezasamblează",
+        "C": "Centriolii (structuri de dimensiuni microscopice) migrează spre acelaşi pol al celulei",
+        "D": "Structurile de dimensiuni microscopice – centriolii – migrează spre polii opuși ai celulei",
+        "E": "Centriolii situați la polii opuși ai celulei sunt înconjurați de microtubuli radiari, denumiți aster"
+      }
+    },
+    {
+      "numar": 147,
+      "intrebare": "Selectați afirmațiile false referitoare la profază:",
+      "variante": {
+        "A": "Fusul de diviziune se dezasamblează",
+        "B": "Învelișul nuclear se dezasamblează",
+        "C": "Învelișul nuclear nu suferă modificări",
+        "D": "Cromatidele surori (identice între ele), sunt unite la nivelul centromerului",
+        "E": "Cromatidele surori (identice între ele), sunt unite la nivelul asterului"
+      }
+    },
+    {
+      "numar": 148,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la evenimentele din profază:",
+      "variante": {
+        "A": "Centriolii migrează spre polii celulei",
+        "B": "Filamentele fusului de diviziune se extind",
+        "C": "Centriolii migrează spre placa ecuatorială",
+        "D": "Cromatidele se atașează de filamentele fusului de diviziune prin intermediul unei structuri de la nivelul centromerului numită kinetocor",
+        "E": "Cromatidele se atașează de membrana celulară prin intermediul centromerilor"
+      }
+    },
+    {
+      "numar": 149,
+      "intrebare": "Selectați modificările care apar la nivel celular în profază:",
+      "variante": {
+        "A": "Cele două cromatide ale cromozomilor se unesc printr-o formațiune de natură lipidică numită kinetocor",
+        "B": "Centriolii poziționați la cei doi poli ai celulei sunt înconjurați de aster, alcătuit din microtubuli dispuși radiar",
+        "C": "Cromatina se atașează de fusul de diviziune, alcătuit din microfilamente intermediare prin intermediul centromerilor",
+        "D": "Kinetocorii conțin o proteină motorie care contribuie la deplasarea cromozomilor în celulă",
+        "E": "Membrana dublă a nucleului se dezasamblează și nucleolii dispar"
+      }
+    },
+    {
+      "numar": 150,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la metafază:",
+      "variante": {
+        "A": "Este o etapă a mitozei care se desfășoară după profază",
+        "B": "Este o etapă a interfazei după care urmează anafaza",
+        "C": "Perechile de cromatide sunt aliniate în placa ecuatorială",
+        "D": "În această etapă se reface învelișul nuclear",
+        "E": "Placa ecuatorială se mai numește și placă metafazică"
+      }
+    },
+    {
+      "numar": 151,
+      "intrebare": "Selectați afirmațiile false referitoare la evenimentele care se desfășoară în",
+      "variante": {
+        "A": "Fusul de diviziune se dezasamblează",
+        "B": "Cromozomii sunt așezați în planul ecuatorial, formând placa ecuatorială sau placa metafazică",
+        "C": "Reapar nucleolii",
+        "D": "Se reface învelișul nuclear",
+        "E": "Se dezasamblează membrana celulară"
+      }
+    },
+    {
+      "numar": 152,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la anafază:",
+      "variante": {
+        "A": "Cromozomii sunt tractați spre un singur pol al celulei",
+        "B": "Cromozomii sunt tractați spre polii opuși ai celulei",
+        "C": "Pe măsură ce migrează spre poli, cromozomii iau forma literei „V”",
+        "D": "Cromozomii sunt atașați de filamentele fusului de diviziune, în zona centromerului",
+        "E": "Cromozomii sunt atașați pe placa ecuatorială"
+      }
+    },
+    {
+      "numar": 153,
+      "intrebare": "Selectați afirmațiile false referitoare la anafază:",
+      "variante": {
+        "A": "Se desfășoară înaintea metafazei",
+        "B": "Ca etapă a mitozei este urmată de telofază și precedată de metafază",
+        "C": "Cromozomii cu o singură cromatidă se îndepărtează unul de celălalt, fiind atașați filamentelor fusului de diviziune",
+        "D": "Pentru că unul dintre telomere rămâne în urmă, cromozomii se deplasează spre polii celulei, luând forma literei „Y”",
+        "E": "Pe măsură ce migrează, cromozomii iau forma literei „V”, fiind pe toată lungimea lor atașați de filamentele fusului de diviziune"
+      }
+    },
+    {
+      "numar": 154,
+      "intrebare": "Selectați afirmațiile false referitoare la telofază:",
+      "variante": {
+        "A": "În derularea ei, cromozomii ajung la polii opuși ai celulei",
+        "B": "Ca etapă în desfășurarea mitozei, urmează după anafază",
+        "C": "Acum se formează fusul de diviziune al următoarei mitoze",
+        "D": "Cromatina se condensează și prin dispersare, formează cromozomii care se deplasează spre poli",
+        "E": "Toți cromozomii ajunși la același pol al celulei se spiralizează, se dispersează și formează mase de cromatină"
+      }
+    },
+    {
+      "numar": 155,
+      "intrebare": "Selectați asocierile corecte referitoare la evenimentele din telofază:",
+      "variante": {
+        "A": "Fus de diviziune – formare",
+        "B": "Fus de diviziune – dezasamblare",
+        "C": "Înveliș nuclear – refacere",
+        "D": "Înveliș nuclear – dezasamblare",
+        "E": "Nucleolii – reapariție"
+      }
+    },
+    {
+      "numar": 156,
+      "intrebare": "Selectați enunțurile care conțin câte două afirmații adevărate referitoare la",
+      "variante": {
+        "A": "Cromozomii ajung la polii opuși ai celulei. Se reface învelișul nuclear",
+        "B": "Se dezasamblează învelișul nuclear. Se formează fusul de diviziune",
+        "C": "Cromozomii se despiralizează și se dispersează pentru a forma mase de cromatină. Reapar nucleolii",
+        "D": "Se dezasamblează fusul de diviziune. Dispar nucleolii",
+        "E": "Se reface învelișul celular. Se formează cromozomii cu câte două centromere surori"
+      }
+    },
+    {
+      "numar": 157,
+      "intrebare": "Selectați evenimentele care nu se petrec în mitoză:",
+      "variante": {
+        "A": "Începe condensarea cromatinei în metafază",
+        "B": "În profază, centriolii migrează spre polii opuși ai celulei",
+        "C": "Centromerii se atașează de filamentele fusului de diviziune prin cromatide (proteine motorii)",
+        "D": "În metafază, toate perechile de nucleotide se aliniază la polii celulei",
+        "E": "În anafază, spre fiecare pol al celulei se deplasează câte 46 de cromozomi"
+      }
+    },
+    {
+      "numar": 158,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la citokineză:",
+      "variante": {
+        "A": "Are loc în interfază, înaintea profazei",
+        "B": "Este procesul prin care citoplasma se divide și se formează două celule separate (celulele fiice)",
+        "C": "Este procesul de unire a celor două celule fiice, dând naștere unei noi celule unice",
+        "D": "Este procesul prin care citoplasma celulei care se divide se distribuie între cele două celule fiice",
+        "E": "Începe prin apariția unui șanț de clivare la nivelul plăcii ecuatoriale"
+      }
+    },
+    {
+      "numar": 159,
+      "intrebare": "Selectați asocierile corecte dintre cele de mai jos:",
+      "variante": {
+        "A": "Șanț de clivare – șanț apărut la nivelul kinetocorului",
+        "B": "Citokineza – separarea celor două celule fiice",
+        "C": "Mitoza și citokineza – permit creșterea organismului prin reproducere sexuată",
+        "D": "Clivaj celular – strangularea citoplasmei de către membrana celulară, prin contracția microfilamentelor, finalizată cu formarea celulelor fiice",
+        "E": "Mitoza și citokineza – înlocuirea celulelor îmbătrânite și deteriorate, prin formare de noi celule"
+      }
+    },
+    {
+      "numar": 160,
+      "intrebare": "Selectați afirmațiile false referitoare la clivajul celular:",
+      "variante": {
+        "A": "Este posibil datorită contracției microfilamentelor",
+        "B": "Este posibil datorită relaxării microfilamentelor",
+        "C": "Reprezintă unirea celor două celule fiice",
+        "D": "Reprezintă separarea celor două celule fiice",
+        "E": "Are loc între metafază și telofază"
+      }
+    },
+    {
+      "numar": 161,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la mitoză:",
+      "variante": {
+        "A": "Permite organismului să crească prin formarea de noi celule",
+        "B": "Presupune formarea de celule îmbătrânite",
+        "C": "Permite înlocuirea celulelor îmbătrânite sau deteriorate, cu celule noi",
+        "D": "Cuprinde mai multe etape succesive și alături de interfaza participă la alcătuirea ciclului celular",
+        "E": "Mai poartă numele de diviziune meiotică"
+      }
+    },
+    {
+      "numar": 162,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la mitoză:",
+      "variante": {
+        "A": "În profază, membrana nucleară și nucleolii dispar iar cromatina se condensează",
+        "B": "În metafază, centriolii se aliniază în planul ecuatorial, formând placa ecuatorială",
+        "C": "În anafază, cromozomii cu o singură cromatidă se deplasează către cei doi poli",
+        "D": "În telofază, cromozomii se condensează, devenind vizibili și se reasamblează nucleolii formați din ADN",
+        "E": "Pierderea controlului asupra mitozei poate avea drept cauză o mutație a ADN-ului (acidului dezoxiribonucleic)"
+      }
+    },
+    {
+      "numar": 163,
+      "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Cromozomii se despiralizează în telofază",
+        "B": "Profaza timpurie urmează profazei târzii",
+        "C": "Segmentele funcționale ale cromozomilor sunt denumite gene",
+        "D": "Există circa 3.000 de gene în nucleii celulelor umane",
+        "E": "Glicolipidele membranare sunt depozitarii informației genetice în celula procariotă"
+      }
+    },
+    {
+      "numar": 164,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la boala canceroasă (cancer):",
+      "variante": {
+        "A": "Presupune creșterea ritmului de derulare a mitozelor",
+        "B": "Presupune scăderea ritmului de derulare a mitozelor",
+        "C": "Este o afecțiune în care celulele canceroase, care nu funcționează normal, se pot răspândi în organism",
+        "D": "Poate să apară în urma unei mutații suferite de ADN (acidul dezoxiribonucleic)",
+        "E": "Nu presupune pierderea controlului mitozei, ci doar o răspândire accelerată a unor celule care funcționează normal în organism"
+      }
+    },
+    {
+      "numar": 165,
+      "intrebare": "Alegeți afirmațiile adevărate referitoare la cromozomi:",
+      "variante": {
+        "A": "Baza azotată uracil și monozaharidul riboză sunt substanțe organice prezente în structura cromozomilor",
+        "B": "În alcătuirea cromozomilor se regăsesc proteinele denumite histone și acidul dezoxiribonucleic",
+        "C": "Vitamina C este absentă din structura cromozomilor",
+        "D": "Prin supraspiralizare, cromozomii vor forma cromatină condensată",
+        "E": "Compactarea suplimentară a ADN-ului și formarea cromozomilor condensați se realizează prin supraspiralizarea nucleozomilor"
+      }
+    },
+    {
+      "numar": 166,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la gene:",
+      "variante": {
+        "A": "Sunt segmente funcționale ale cromozomilor",
+        "B": "Sunt în număr de circa 3x104 în nucleii celulelor umane",
+        "C": "Pe una dintre moleculele ADN ale dublului helix, la locul unde gena va fi exprimată, se leagă enzima ARN-polimerază, declanșând transcripția",
+        "D": "Genele sunt ținute sub control în timpul mitozei, cromozomul fiind compactat",
+        "E": "Conțin secvențe nucleotidice cu uracil și riboză"
+      }
+    },
+    {
+      "numar": 167,
+      "intrebare": "Selectați afirmațiile adevărate despre acizii nucleici:",
+      "variante": {
+        "A": "ADN (acid dezoxiribonucleic) este format din baze azotate, riboză și acid fosforic",
+        "B": "ARN (acid ribonucleic) este format din baze azotate, dezoxiriboză, riboză și acid fosforic",
+        "C": "Când o catenă din dublul helix al ADN-ului (acidul dezoxiribonucleic) funcționează în transcripție, cealaltă catenă rămâne dormantă",
+        "D": "Pentru a forma molecule de ARNm, celula îndepărtează secvențele intercalate necodante ale ARN, denumite exoni",
+        "E": "Pentru a forma moleculele de ARNm final, celula îndepărtează secvențe intercalate necodante de ARN, denumite introni"
+      }
+    },
+    {
+      "numar": 168,
+      "intrebare": "Despre acizii nucleici este adevărat că:",
+      "variante": {
+        "A": "Succesiunea nucleotidelor (cu bazele azotate) din ADN reprezintă codul genetic și determină secvența în care sunt legați aminoacizii în proteine",
+        "B": "ARN-ul transportă instrucțiuni de la ADN-ul nuclear în citoplasmă, unde la nivelul ribozomilor, are loc sinteza proteică",
+        "C": "Una dintre diferențele structurale între ARN și ADN constă în prezența ribozei în ARN și a dezoxiribozei în ADN",
+        "D": "Una dintre diferențele structurale între ARN și ADN implică baza azotată uracil, prezentă în nucleotidele ADN-ului și absentă în nucleotidele ARN-ului",
+        "E": "Sunt implicați în procesele de transcripție și translație"
+      }
+    },
+    {
+      "numar": 169,
+      "intrebare": "Despre cromozomi se poate afirma că:",
+      "variante": {
+        "A": "Reprezintă unitățile liniare în care este organizat ADN-ul în nucleul celulei",
+        "B": "Conțin segmente funcționale denumite gene",
+        "C": "Fiecare cromozom este alcătuit din milioane de unități numite nucleozomi",
+        "D": "Se formează prin condensarea ARN-ului, înfășurarea porțiunilor de ARN în jurul complexelor de histone, formând nucleozomii, urmată de supraspiralizarea nucleozomilor",
+        "E": "Cromozomii condensați rezultă din supraspiralizarea nucleozomilor"
+      }
+    },
+    {
+      "numar": 170,
+      "intrebare": "Despre proteine este adevărat că:",
+      "variante": {
+        "A": "Sunt compuși anorganici, folosiți ca enzime în reacțiile chimice din celule",
+        "B": "Sunt compuși organici, utilizați și ca materiale de structură în celulele corpului",
+        "C": "Apar în structura microtubulilor și a microfilamentelor",
+        "D": "Lipsesc în structura citoscheletului, format din microtubuli, microfilamente și filamente intermediare",
+        "E": "Pot fi molecule specializate, care vor fi exportate de către celule pentru a fi utilizate în diverse activități extracelulare"
+      }
+    },
+    {
+      "numar": 171,
+      "intrebare": "Selectați informațiile corecte referitoare la rolul și structura acizilor nucleici în",
+      "variante": {
+        "A": "Secvența de aminoacizi dintr-o proteină este determinată de succesiunea nucleotidelor din ADN (nucleotide în componența cărora intră bazele azotate)",
+        "B": "ADN-ul (acidul dezoxiribonucleic) conține baza azotată timină, în timp ce ARN-ul (acidul ribonucleic) nu conține uracil",
+        "C": "Structurile citoplasmatice conținând ARN (acid ribonucleic) și în care sunt legați între ei aminoacizii pentru a forma proteine, se numesc ribozomi",
+        "D": "Acidul nucleic responsabil de transportul informației de la ADN în citoplasmă este ARNt",
+        "E": "Moleculele de ARNt (ARN de transfer) se găsesc libere în citoplasmă și transportă aminoacizii la ribozomi"
+      }
+    },
+    {
+      "numar": 172,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la etapa de translație din cursul sintezei",
+      "variante": {
+        "A": "Este procesul prin care se formează o catenă proteică prin atașarea în lanț a bazelor azotate complementare până la apariția codonului stop",
+        "B": "Reprezintă etapa în care se folosește secvența de codoni a ARNm pentru a ghida secvența de aminoacizi a proteinelor",
+        "C": "Este etapa în care molecula de acid dezoxiribonucleic părăsește nucleul celulei și ajunge în citoplasmă la ribozomi",
+        "D": "Este etapa în care molecula de ARNm, ajunsă la ribozomi, își expune codonii (triplete, adică seturi de câte 3 nucleotide, care conțin bazele azotate)",
+        "E": "Este etapa în care codul genetic este „decodificat” într-o secvență de aminoacizi din proteină"
+      }
+    },
+    {
+      "numar": 173,
+      "intrebare": "Selectați afirmațiile adevărate referitoare la evenimentele din cadrul sintezei",
+      "variante": {
+        "A": "ARN-ul de transfer (ARNt) aduce informația conform căreia se realizează legăturile dintre aminoacizi pentru a forma lanțul proteic",
+        "B": "Prin unirea mai multor sute de mii de aminoacizi în lizozomi rezultă o moleculă organică numită proteină",
+        "C": "Odată utilizată, molecula de ARNm este degradată și nucleotidele sale se întorc în nucleu",
+        "D": "Odată sintetizată, proteina este îndepărtată din ribozomi pentru a putea fi procesată în continuare (ea poate fi modificată în aparatul Golgi)",
+        "E": "Sinteza moleculelor de ARNm are loc în nucleu, fiind declanșată de ARN-polimerază (care se leagă la una dintre catenele dublului helix al ADN, la locul unde gena va fi exprimată)"
+      }
+    },
+    {
+      "numar": 174,
+      "intrebare": "Sintetic, transcripția în procesul sintezei proteice este descrisă astfel:",
+      "variante": {
+        "A": "O catenă de ARNm se formează conform secvenței de baze complementare dintr-o catenă de ADN",
+        "B": "Prin sinteza ARNm se transcrie informația ADN-ului pe o moleculă ARN",
+        "C": "Molecula de ARNm transportă mesajul genetic la nucleu pentru sinteza proteică",
+        "D": "Molecula ARNr este responsabilă de secvența de aminoacizi din structura proteinei, ea deținând anticodonul",
+        "E": "Odată sintetizată, molecula de ARNm transportă mesajul în citoplasmă (la ribozomi) pentru sinteza proteică"
+      }
+    },
+    {
+      "numar": 175,
+      "intrebare": "Sintetic, translația în procesul sintezei proteice este descrisă astfel:",
+      "variante": {
+        "A": "O catenă de ARNt conținând codonii sosește la ribozom, unde întâlnește molecule de ARNr, care transportă acizii aminați",
+        "B": "Molecula de ARNm conține codonul și sosește la ribozom, unde întâlnește molecula de ARNt, care conține anticodonul şi transportă aminoacidul corespunzător",
+        "C": "La întâlnirea codonului de pe ARNm cu anticodonul de pe ARNt are loc împerecherea bazelor complementare și este cedat aminoacidul adus de ARNt",
+        "D": "Complementaritatea codon-anticodon plasează aminoacizii într-o anumită poziție, apoi aceștia sunt detașați de lanțul proteic care crește",
+        "E": "Complementaritatea codon – anticodon plasează aminoacizii într-o anumită poziţie, apoi aceștia sunt atașați lanțului proteic care crește"
+      }
+    },
+    {
+      "numar": 176,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "ARN-polimeraza se leagă de una dintre catenele dublului helix al ADN, la locul unde gena va fi exprimată, declanșând transcripția",
+        "B": "Procesul de translație constă în „decodificarea” secvenței de nucleotide a ARNm, într-o secvența de aminoacizi din proteină",
+        "C": "Transcripția are loc în citoplasma celulei",
+        "D": "Translația se desfășoară în interiorul lizozomilor",
+        "E": "ADN-ul (acidul dezoxiribonucleic) se găsește majoritar în nucleu, dar este prezent și în mitocondrie"
+      }
+    },
+    {
+      "numar": 177,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+      "variante": {
+        "A": "Translația este procesul prin care secvența de aminoacizi din proteină este codificată, rezultând o secvență de nucleotide în ADN (acid dezoxiribonucleic)",
+        "B": "Reticulul endoplasmatic neted nu prezintă pe suprafața sa ribozomi",
+        "C": "În citoplasma celulei nu se întâlnesc ribozomi liberi",
+        "D": "Mitocondria este sediul respirației celulare și furnizează ATP-ul necesar diferitelor activități celulare",
+        "E": "În etapa de translație din cadrul sintezei proteice, când codonul moleculei de ARNm își întâlnește anticodonul de pe molecula de ARNt, bazele lor se împerechează în mod complementar, poziționând astfel aminoacidul transportat de ARNt"
+      }
+    },
+    {
+      "numar": 178,
+      "intrebare": "Alegeți afirmațiile false dintre cele de mai jos:",
+      "variante": {
+        "A": "Reticulul endoplasmatic neted reprezintă sediul exclusiv al sintezei proteice",
+        "B": "La finalul translației, moleculele de ADN (acid dezoxiribonucleic) se spiralează la loc pentru a forma din nou helixul triplu caracteristic",
+        "C": "Translația începe prin atașarea la ribozom a moleculei de ARNm, care își expune bazele în cadrul seturilor de câte trei nucleotide (își expune codonii)",
+        "D": "Translația începe cu atașarea la centrozom a moleculei de ARNm, care își expune bazele în seturi de câte trei (își expune anticodonii complementari)",
+        "E": "Molecula de ARNt prezintă anticodonul, care se împerechează cu codonul complementar de pe ARNm"
+      }
+    },
+    {
+      "numar": 179,
+      "intrebare": "Alegeți afirmațiile false dintre cele de mai jos:",
+      "variante": {
+        "A": "În translație, nucleotidele ARNm se citesc în grupuri de câte două, denumite codoni",
+        "B": "În procesul de transcripție, molecula de ARNm este copiată de pe o singură catenă din dublul helix al ADN-ului (acidului dezoxiribonucleic)",
+        "C": "În procesul de transcripție, enzima ADN-polimerază se leagă de una dintre moleculele de ADN ale dublului helix, cealaltă catenă rămânând dormantă",
+        "D": "ARNt transportă aminoacizii la lizozom, unde va avea loc translația informației pentru formarea lanțului peptidic",
+        "E": "Odată sintetizată, proteina se desprinde de ribozom, urmând a fi procesată în continuare"
+      }
+    },
+    {
+      "numar": 180,
+      "intrebare": "Care dintre informațiile de mai jos despre sinteza proteică sunt adevărate:",
+      "variante": {
+        "A": "Translația („decodificarea” codului genetic într-o secvență de aminoacizi) precede transcripția",
+        "B": "O catenă de ARNm este sintetizată prin transcripție de pe ADN (acidul dezoxiribo nucleic), conform principiului complementarității bazelor azotate",
+        "C": "ARNm prezintă un anticodon care întâlnește codonul de pe ARNt, permițând împerecherea bazelor azotate complementare",
+        "D": "Transcripția are loc în nucleul celulei, fiind urmată de deplasarea ARNm în citoplasmă și de atașarea lui la ribozomi",
+        "E": "Transcripția începe odată cu legarea ARN-polimerazei de una dintre catenele dublului helix al ADN-ului (acidul dezoxiribonucleic), cealaltă catenă rămânând dormantă"
+      }
+    },
+    {
+      "numar": 181,
+      "intrebare": "Alegeți asocierile corecte referitoare la sinteza proteică:",
+      "variante": {
+        "A": "Secvență în ADN (citozina-timină-adenină) – transcripție – secvență în ARNm (guanină adenină-uracil)",
+        "B": "ARN de reglare – copierea codului genetic al ARNm prin transcripție – transferul informației pe ARNt",
+        "C": "Codon „stop” – codon care codifică un aminoacid – codon care continuă alungirea lanțului proteic",
+        "D": "ARNt – molecule libere în citoplasma celulelor și care conțin anticodonul – atașare de aminoacizi specifici și transportul lor  la ribozomi",
+        "E": "Introni – secvențe intercalate necodante ale ARNm – îndepărtare când se finalizează structura moleculei de ARNm"
+      }
+    },
+    {
+      "numar": 182,
+      "intrebare": "Alegeți afirmațiile adevărate despre sinteza proteinelor:",
+      "variante": {
+        "A": "Transcripția este procesul prin care codul genetic este copiat de pe ARNm într-o secvență de aminoacizi",
+        "B": "În transcripție, catena ARNm este sintetizată pe principiul complementarității bazelor neazotate ale ADN",
+        "C": "Transcripția (o primă etapă în sinteza proteică) este urmată de translație",
+        "D": "Enzima ARN-polimerază participă la transcripție, legându-se de catena de ADN (matriță) la locul unde gena va fi exprimată",
+        "E": "Enzima ARN-polimerază se deplasează de-a lungul catenei de ADN (matriță) citind nucleotidele una câte una"
+      }
+    },
+    {
+      "numar": 183,
+      "intrebare": "Pentru ca sinteza proteică să aibă loc sunt necesare următoarele:",
+      "variante": {
+        "A": "Enzime (colinesteraza), ADN monocatenar, ARNm",
+        "B": "Aminoacizi din rezerva care intră în componența majorității proteinelor",
+        "C": "Rezerva de 200 de aminoacizi, care compun majoritatea proteinelor",
+        "D": "Enzime, ADN (acid dezoxiribonucleic), ARNm (mesager), ARNt (de transfer)",
+        "E": "ARNr (ribozomal), ca parte componentă a ribozomilor și ARNm (mesager), care primește codul genetic al ADN-ului și îl transportă în citoplasmă"
+      }
+    },
+    {
+      "numar": 184,
+      "intrebare": "Selectați afirmațiile adevărate cu privire la codul genetic și sinteza de proteine:",
+      "variante": {
+        "A": "Codonul este o secvență de trei nucleotide (în componența cărora intră bazele azotate) care aparține moleculei de ARNm și care se va împerechea cu anticodonul (complementar) de pe molecula de ARNt",
+        "B": "Există trei codoni „stop” care codifică aminoacizi și anunță ribozomul să continue alungirea lanțului proteic",
+        "C": "După ce transcripția a avut loc, molecula de ARNm se modifică pentru a regla activitatea genică, prin îndepărtarea unor secvențe intercalate necodante, numite introni",
+        "D": "Codul genetic constă în succesiunea bazelor azotate din structura proteinelor",
+        "E": "Odată utilizate în sinteza proteică, moleculele de ARNm sunt degradate și nucleotidele care au intrat în componența lor se întorc în nucleu"
+      }
+    },
+    {
+      "numar": 185,
+      "intrebare": "Molecula de ARN mesager final conține:",
+      "variante": {
+        "A": "Introni, dar nu exoni (secvențe intercalate care par a nu deține informație genetică legată de sinteza proteică)",
+        "B": "Exoni (secvențe codante), dar nu introni (secvențe necodante)",
+        "C": "Regiuni funcționale din structura genelor folosite efectiv pentru codificarea proteinelor unei celule",
+        "D": "Exoni, care deși formează doar aproximativ 5% din totalul materialului genetic al unei celule umane, reprezintă partea exprimată a genomului uman",
+        "E": "Regiuni nefuncționale din structura genelor, denumite exoni"
+      }
+    },
+    {
+      "numar": 186,
+      "intrebare": "Selectați informațiile adevărate cu privire la controlul genetic:",
+      "variante": {
+        "A": "Celula reglează și controlează expresia genică (ea nu produce în permanență toate tipurile de proteine, ceea ce ar însemna o funcționare neeconomică)",
+        "B": "După îndepărtarea intronilor (segmente care nu par a deține nici o informație genetică legată de sinteza proteică), se formează molecula finală de ARNm prin unirea exonilor (regiunile funcționale din structura genelor)",
+        "C": "Controlul expresiei genice a fiecărei celule apare la un singur nivel celular (doar în transcripție)",
+        "D": "În timpul mitozei, supraspiralizarea și compactarea cromozomului nu influențează accesul la gene",
+        "E": "Expresia genică este controlată și de către ARN-urile de reglare, ale căror mecanisme de acțiune sunt încă în stadiu de cercetare"
+      }
+    },
+    {
+      "numar": 187,
+      "intrebare": "Alegeți afirmațiile adevărate despre materialul nuclear al celulei umane:",
+      "variante": {
+        "A": "Este reprezentat de o moleculă de ADN circular care formează cromozomii în diviziune",
+        "B": "Conține ADN (acid dezoxiribonucleic) și proteine",
+        "C": "În nucleii celulelor umane există circa 30000 de gene (segmente funcționale ale cromozomilor)",
+        "D": "O genă reprezintă întreaga informație genetică conținută într-un cromozom",
+        "E": "ADN-ul și histonele se organizează în nucleozomi, iar aceștia, prin supraspiralizare, formează cromozomul condensat"
+      }
+    },
+    {
+      "numar": 188,
+      "intrebare": "Alegeți, dintre enunțurile de mai jos, pe cele care conțin prima afirmație adevărată",
+      "variante": {
+        "A": "Reproducerea celulară nu depinde de structura și nici de conținutul nucleului celulei. Hematiile adulte (globulele roșii) nu se divid",
+        "B": "În tractul gastrointestinal celulele se divid frecvent, spre deosebire de alte țesuturi ale corpului. Fiecare nucleozom este alcătuit din milioane de cromozomi",
+        "C": "Reproducerea asexuată constă în diviziunea unei celule în cele două celule fiice identice. Reproducerea sexuată nu este caracteristică speciei umane",
+        "D": "Formarea de noi celule pentru creștere, reparare sau înlocuire se realizează prin reproducere asexuată. Înainte de a fi transportate spre destinațiile finale, proteinele sunt procesate în exteriorul celulei",
+        "E": "După finalizarea translației, proteina poate fi trimisă lizozomilor pentru a servi ca enzimă în digestia celulară. Controlul expresiei genice apare la mai multe niveluri în celulă"
+      }
+    },
+    {
+      "numar": 189,
+      "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
+      "variante": {
+        "A": "ATP – adenozin trifosfat – sursă de energie imediată pentru toate celulele organismului",
+        "B": "Centrozomi – unități formate din dublu helix de ADN înfășurat în jurul complexului de histone – se grupează de ordinul miilor în cromozom",
+        "C": "Cromoproteină – masă dispersată de ADN și proteine asociate – se formează prin spiralizarea cromozomilor",
+        "D": "Introni – secvențe necodante – nu dețin informație genetică legată de sinteza proteică – sunt prezenți în toate celulele umane nucleate",
+        "E": "Exoni – regiunile funcționale din structura genelor – partea exprimată a genomului uman"
+      }
+    },
+    {
+      "numar": 190,
+      "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
+      "variante": {
+        "A": "Cili – expansiuni scurte și numeroase – celule ale tractului respirator",
+        "B": "Celulă matură anucleată – leucocit – element figurat al sângelui",
+        "C": "Celula nervoasă – oligodedrocitul – mai multe prelungiri – generarea impulsului nervos",
+        "D": "Celulă cu con și celulă cu bastonaș – neuroni receptori – retină (stratul intern)",
+        "E": "Mugure gustativ – celule specializate cu microvilozități – fibre nervoase senzoriale ale nervilor VII și IX"
+      }
+    },
+    {
+      "numar": 191,
+      "intrebare": "Despre celulele sexuale (gameţi) se poate afirma că:",
+      "variante": {
+        "A": "Ovulele se formează în ovar prin procesul de oogeneză, care începe încă din viaţa intrauterină",
+        "B": "Gametul feminin (oocitul primar) este eliberat lunar din foliculul ovarian aflat în curs de dezvoltare",
+        "C": "Gametul masculin (spermatozoidul) haploid (n) cu 23 de cromozomi ia naştere prin procesul de spermatogeneză",
+        "D": "Spermatozoidul prezintă mai multe regiuni: cap, gât, piesă intermediară şi coada",
+        "E": "Cei doi gameţi (masculin şi feminin) se pot uni în procesul fecundaţiei, dând naştere zigotului haploid (n) cu 46 de cromozomi în nucleu"
+      }
+    },
+    {
+      "numar": 192,
+      "intrebare": "Despre membrana celulară (plasmatică) se poate afirma că:",
+      "variante": {
+        "A": "Nu este permeabilă pentru molecule mici (apă, oxigen)",
+        "B": "La celula (fibra) musculară poartă denumirea de sarcolemă",
+        "C": "Permite trecerea prin difuziune a unor molecule mici de solvit",
+        "D": "Sarcolema poate prezenta un sistem de invaginări (sistemul tubilor transversali sau al tubilor T)",
+        "E": "În timpul endocitozei, o mică porțiune a membranei celulare se pliază și înglobează particule din interiorul celulei, pe care le va elimina în exterior"
+      }
+    },
+    {
+      "numar": 193,
+      "intrebare": "Despre relația celule – energie sunt adevărate următoarele:",
+      "variante": {
+        "A": "Fiecare reacție chimică a organismului implică schimb de energie",
+        "B": "Orice reacție chimică în care se eliberează energie se numește endergonică",
+        "C": "Energia produsă în timpul reacțiilor exergonice ale catabolismului este stocată în molecule de ATP (adenozin trifosfat)",
+        "D": "O cale metabolică este o secvență de transformări fizice desfășurată exclusiv în exteriorul celulei",
+        "E": "Pentru a se declanșa o reacție chimică, este nevoie de un aport energetic denumit energie de activare"
+      }
+    },
+    {
+      "numar": 194,
+      "intrebare": "Referitor la osmoză, este adevărat că:",
+      "variante": {
+        "A": "Dacă celulele umane sunt introduse într-o soluție hipertonă, concentrația mai mare de solvit se află în interiorul celulelor",
+        "B": "Apa se deplasează din citoplasma celulei introdusă în soluție hipertonă înspre exteriorul celulei, celula micșorându-se",
+        "C": "Dacă celulele umane sunt introduse în soluție izotonă, nu are loc osmoza",
+        "D": "În cazul unei celule umane introduse într-o soluție hipotonă, concentrația mai mică de sare se află în exteriorul celulei",
+        "E": "Osmoza reprezintă difuziunea moleculelor de apă printr-o membrană impermeabilă, dinspre soluția hipotonă spre soluția hipertonă"
+      }
+    },
+    {
+      "numar": 195,
+      "intrebare": "Alegeți asocierile corecte referitoare la sistemele de organe, componentele lor",
+      "variante": {
+        "A": "Scheletul – protejează corpul – oferă suport pentru locomoție – conține oasele corpului",
+        "B": "Sistemul respirator – inimă, vase sanguine, sânge, structuri limfatice – asigură aportul de oxigen",
+        "C": "Sistemul digestiv – digestia și absorbția nutrienților insolubili din hrană – include stomacul, pancreasul și splina",
+        "D": "Sistemul endocrin – coordonare și integrare chimică a activităților organismului – hipofiza, tiroida, alte glande endocrine",
+        "E": "Sistemul nervos – include encefalul, măduva spinării, nervii – coordonează funcțiile organismului"
+      }
+    },
+    {
+      "numar": 196,
+      "intrebare": "Alegeți răspunsurile greșite dintre cele de mai jos:",
+      "variante": {
+        "A": "Tegumentul, ca sistem de organe, include pielea, fără să includă părul, unghiile și glandele sudoripare",
+        "B": "Glandele salivare, glandele sudoripare, hipofiza, glandele suprarenale și tiroida aparțin sistemului endocrin",
+        "C": "Sistemul reproducător produce celulele sexuale necesare procreării",
+        "D": "Sistemul imun este în strânsă legătură cu sistemul limfatic și funcționează prin intermediul celulelor acestuia (limfocite T, limfocite B)",
+        "E": "Sistemul nervos interacționează cu agenți străini și asigură imunitatea corpului"
+      }
+    },
+    {
+      "numar": 197,
+      "intrebare": "Alegeți afirmațiile adevărate despre diferitele funcții ale organismului uman și ale",
+      "variante": {
+        "A": "Organismul uman are aceleași funcții cu ale celorlalte viețuitoare și cu ale structurilor anorganice (lipsite de viață)",
+        "B": "Funcțiile care diferențiază organismul de tot ceea ce nu prezintă viață permit celulelor sale să își desfășoare activitățile necesare creșterii și supraviețuirii",
+        "C": "Metabolismului – funcție importantă a viețuitoarelor – îi este furnizată materia primă de către procese vitale precum digestia, respirația, circulația",
+        "D": "Digestia, respirația, circulația și excreția sunt adaptate și pentru furnizarea de materie primă metabolismului, dar și pentru îndepărtarea produșilor săi de degradare",
+        "E": "Mișcarea și excreția reprezintă funcții ale unor structuri specializate ale organismului"
+      }
+    },
+    {
+      "numar": 198,
+      "intrebare": "Sunt funcții ale diferitelor structuri ale organismului sau ale organismului ca",
+      "variante": {
+        "A": "Mișcarea – rezultat al contracției celulelor musculare",
+        "B": "Mișcarea – la realizarea căreia participă doar oasele și cartilajele sistemului scheletic",
+        "C": "Creșterea în dimensiuni a corpului (mărirea masei sale)",
+        "D": "Reproducerea sexuată și asexuată",
+        "E": "Conductibilitatea – răspunsul organismului la un stimul extern sau intern"
+      }
+    },
+    {
+      "numar": 199,
+      "intrebare": "Despre diviziunile suplimentare ale cavității abdomino-pelviene, este adevărat că:",
+      "variante": {
+        "A": "Se descriu două regiuni ombilicale și două regiuni epigastrice (drepte și stângi)",
+        "B": "Se descriu nouă regiuni diferite, care includ regiunea ombilicală, situată central",
+        "C": "Regiunea hipogastrică este situată imediat superior de regiunea ombilicală",
+        "D": "Lateral de regiunea epigastrică se află hipocondrul drept și hipocondrul stâng",
+        "E": "Lateral de regiunea hipogastrică se află regiunile inghinale (iliace) dreaptă și stângă"
+      }
+    },
+    {
+      "numar": 200,
+      "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos, referitoare la organitele celulei",
+      "variante": {
+        "A": "În mitocondrie, energia rezultată din degradarea moleculelor glucidice, lipidice sau de natură proteică, este folosită pentru a forma molecule de adenozin trifosfat, care servesc nevoilor energetice ale celulei",
+        "B": "Dacă un număr mare de celule mor din cauza absenței oxigenului și a ATP-ului, organismul va continua să funcționeze normal până la refacerea rezervelor",
+        "C": "Citoscheletul este format din nucleozomi și cromatină",
+        "D": "Centrozomul este poziționat în vecinătatea nucleului, fiind format din doi centrioli în formă de tijă și intervine în procesul de diviziune celulară (mitoză)",
+        "E": "Lizozomii sunt saci membranoși care conțin enzime pentru digestia intracelulară"
+      }
+    }
+  ]
