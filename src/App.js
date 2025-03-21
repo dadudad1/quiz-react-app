@@ -4,6 +4,7 @@ import QuizContainer from './components/QuizContainer';
 import Statistics from './components/Statistics';
 import LoadingOverlay from './components/LoadingOverlay';
 import Simulation from './components/Simulation';
+import { Analytics } from '@vercel/analytics/react';
 
 const isElectron = window?.electron !== undefined;
 
@@ -630,6 +631,7 @@ function App() {
 
   return (
     <div className="App">
+      <Analytics />
       <header className="App-header">
         <h1>Grile Admitere Timisoara Biologie 2024</h1>
         <a href="https://revolut.me/dragoscdk" target="_blank" rel="noopener noreferrer" className="donate-button">
