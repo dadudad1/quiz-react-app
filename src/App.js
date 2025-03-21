@@ -134,16 +134,11 @@ function App() {
         const data13 = await loadJsonFile('./capitole/cap13.json');
         const data14 = await loadJsonFile('./capitole/cap14.json');
         
-        // Hard-code answers for chapters 1-3
-        const answers1 = "1.A; 2.C; 3.A,B,E; 4.A,C,D; 5.A,D,E; 6.B,D,E; 7.A,B,C,D,E; 8.B,D; 9.A,D,E; 10.A,B,C,D,E; 11.B,C,E; 12.A,C,D,E; 13.A,B,E; 14.A,B,D,E; 15.B,D,E; 16.A,B,C,E; 17.A,C,E; 18.B,C,D,E; 19.B,E; 20.C,D,E";
-        const answers2 = "1.A,B,C; 2.B,D,E; 3.A,C,E; 4.B,D; 5.A,C,D,E; 6.B,C,E; 7.A,D,E; 8.A,B,C,D; 9.B,D,E; 10.A,C,E; 11.B,D; 12.A,C,D,E; 13.B,C,E; 14.A,D,E; 15.A,B,C,D; 16.B,D,E; 17.A,C,E; 18.B,D; 19.A,C,D,E; 20.B,C,E";
-        const answers3 = "1.A,B,D; 2.B,C,E; 3.A,D,E; 4.B,C,D; 5.A,C,E; 6.B,D,E; 7.A,B,C; 8.C,D,E; 9.A,B,E; 10.B,C,D; 11.A,D,E; 12.B,C,E; 13.A,B,D; 14.C,D,E; 15.A,B,E; 16.B,C,D; 17.A,D,E; 18.B,C,E; 19.A,B,D; 20.C,D,E";
-        
-        // Parse answer strings for chapters 1-3
+        // Parse answer strings format
         const parseAnswers = (answerStr) => {
           const answers = {};
-          answerStr.split('; ').forEach(item => {
-            const parts = item.split('.');
+          answerStr.split(';').forEach(item => {
+            const parts = item.trim().split('.');
             if (parts.length === 2) {
               const questionNumber = parseInt(parts[0]);
               const answer = parts[1];
@@ -153,11 +148,7 @@ function App() {
           return answers;
         };
         
-        const answersMap1 = parseAnswers(answers1);
-        const answersMap2 = parseAnswers(answers2);
-        const answersMap3 = parseAnswers(answers3);
-        
-        // Load answer files for other chapters
+        // Load answer files for all chapters
         const loadAnswerFile = async (path) => {
           try {
             const response = await fetch(`./capitole/${path}`);
@@ -175,6 +166,10 @@ function App() {
           }
         };
         
+        // Load all answer files
+        const answersMap1 = await loadAnswerFile('cap1_raspunsuri');
+        const answersMap2 = await loadAnswerFile('cap2_raspunsuri');
+        const answersMap3 = await loadAnswerFile('cap3_raspunsuri');
         const answersMap4 = await loadAnswerFile('cap4_raspunsuri');
         const answersMap5 = await loadAnswerFile('cap5_raspunsuri');
         const answersMap6 = await loadAnswerFile('cap6_raspunsuri');
