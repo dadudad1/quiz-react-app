@@ -9,7 +9,8 @@ const QuizContainer = ({
   bookmarkedQuestions,
   updateStats,
   toggleBookmark,
-  searchQuestions
+  searchQuestions,
+  randomizeAnswers
 }) => {
   const [currentQuestion, setCurrentQuestion] = useState(null);
   const [selectedAnswers, setSelectedAnswers] = useState([]);
@@ -253,6 +254,7 @@ const QuizContainer = ({
           onAnswerSelect={handleAnswerSelection}
           feedback={feedback}
           correctAnswer={correctAnswers[currentQuestion.numar] || ""}
+          randomizeAnswers={randomizeAnswers}
         />
       ) : (
         <div className="question-placeholder">

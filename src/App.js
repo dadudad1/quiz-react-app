@@ -4,14 +4,16 @@ import QuizContainer from './components/QuizContainer';
 import Statistics from './components/Statistics';
 import LoadingOverlay from './components/LoadingOverlay';
 import Simulation from './components/Simulation';
+import CustomSimulation from './components/CustomSimulation';
 import { Analytics } from '@vercel/analytics/react';
 
 const isElectron = window?.electron !== undefined;
 
 function App() {
   // State for app mode and chapter selection
-  const [appMode, setAppMode] = useState('quiz'); // 'quiz' or 'simulation'
+  const [appMode, setAppMode] = useState('quiz'); // 'quiz', 'simulation', or 'customSimulation'
   const [activeChapter, setActiveChapter] = useState('cap1');
+  const [randomizeAnswers, setRandomizeAnswers] = useState(true); // Default to randomized answers
   
   // State for question sets
   const [questions, setQuestions] = useState([]);
@@ -478,7 +480,7 @@ function App() {
   };
 
   // Funcția pentru actualizarea statisticilor
-  const updateStats = (isCorrect) => {
+  const updateStats = (chapter, isCorrect) => {
     setStats(prev => ({
       ...prev,
       correctCount: isCorrect ? prev.correctCount + 1 : prev.correctCount,
@@ -507,6 +509,36 @@ function App() {
       return newBookmarks;
     });
   };
+
+  // Function to toggle answer randomization
+  const toggleRandomizeAnswers = () => {
+    const newValue = !randomizeAnswers;
+    setRandomizeAnswers(newValue);
+    // Save preference to localStorage
+    try {
+      localStorage.setItem('randomizeAnswers', JSON.stringify(newValue));
+    } catch (e) {
+      console.warn('Could not save answer randomization preference:', e);
+    }
+  };
+
+  // Load randomization preference from localStorage
+  useEffect(() => {
+    try {
+      const savedRandomizePref = localStorage.getItem('randomizeAnswers');
+      if (savedRandomizePref !== null) {
+        setRandomizeAnswers(JSON.parse(savedRandomizePref));
+      } else {
+        // Explicitly set to true if no preference is stored
+        setRandomizeAnswers(true);
+        localStorage.setItem('randomizeAnswers', JSON.stringify(true));
+      }
+    } catch (e) {
+      console.warn('Could not load answer randomization preference:', e);
+      // Default to true in case of error
+      setRandomizeAnswers(true);
+    }
+  }, []);
 
   if (isLoading) {
     const loadedChapters = Object.values(chapterLoadingStates).filter(state => !state).length;
@@ -646,30 +678,68 @@ function App() {
           >
             Simulare Examen
           </button>
+          <button 
+            className={`mode-btn ${appMode === 'customSimulation' ? 'active' : ''}`}
+            onClick={() => switchAppMode('customSimulation')}
+          >
+            Simulare Personalizată
+          </button>
         </div>
         
         {appMode === 'quiz' && (
-          <div className="chapter-selector">
-            <select 
-              className="chapter-dropdown"
-              value={activeChapter}
-              onChange={(e) => switchChapter(e.target.value)}
-            >
-              <option value="cap1">Capitolul 1</option>
-              <option value="cap2">Capitolul 2</option>
-              <option value="cap3">Capitolul 3</option>
-              <option value="cap4">Capitolul 4</option>
-              <option value="cap5">Capitolul 5</option>
-              <option value="cap6">Capitolul 6</option>
-              <option value="cap7">Capitolul 7</option>
-              <option value="cap8">Capitolul 8</option>
-              <option value="cap9">Capitolul 9</option>
-              <option value="cap10">Capitolul 10</option>
-              <option value="cap11">Capitolul 11</option>
-              <option value="cap12">Capitolul 12</option>
-              <option value="cap13">Capitolul 13</option>
-              <option value="cap14">Capitolul 14</option>
-            </select>
+          <div>
+            <div className="chapter-selector">
+              <select 
+                className="chapter-dropdown"
+                value={activeChapter}
+                onChange={(e) => switchChapter(e.target.value)}
+              >
+                <option value="cap1">Capitolul 1</option>
+                <option value="cap2">Capitolul 2</option>
+                <option value="cap3">Capitolul 3</option>
+                <option value="cap4">Capitolul 4</option>
+                <option value="cap5">Capitolul 5</option>
+                <option value="cap6">Capitolul 6</option>
+                <option value="cap7">Capitolul 7</option>
+                <option value="cap8">Capitolul 8</option>
+                <option value="cap9">Capitolul 9</option>
+                <option value="cap10">Capitolul 10</option>
+                <option value="cap11">Capitolul 11</option>
+                <option value="cap12">Capitolul 12</option>
+                <option value="cap13">Capitolul 13</option>
+                <option value="cap14">Capitolul 14</option>
+              </select>
+            </div>
+            
+            <div className="quiz-options">
+              <div className="answer-order-toggle-container">
+                <p className="toggle-description">Ordine răspunsuri:</p>
+                <div className="answer-order-toggle">
+                  <label className="toggle-switch">
+                    <input 
+                      type="checkbox" 
+                      checked={randomizeAnswers} 
+                      onChange={toggleRandomizeAnswers}
+                    />
+                    <span className="toggle-slider"></span>
+                  </label>
+                  <span className="toggle-label">
+                    {randomizeAnswers ? 'Răspunsuri aleatorii' : 'Răspunsuri ordonate'}
+                  </span>
+                </div>
+              </div>
+            </div>
+            
+            <QuizContainer
+              questions={currentQuestionSet}
+              filteredQuestions={filteredQuestions}
+              correctAnswers={currentAnswers}
+              bookmarkedQuestions={bookmarkedQuestions}
+              updateStats={(isCorrect) => updateStats(activeChapter, isCorrect)}
+              toggleBookmark={toggleBookmark}
+              searchQuestions={searchQuestions}
+              randomizeAnswers={randomizeAnswers}
+            />
           </div>
         )}
       </header>
@@ -677,15 +747,6 @@ function App() {
       <main>
         {appMode === 'quiz' ? (
           <>
-            <QuizContainer
-              questions={currentQuestionSet}
-              filteredQuestions={filteredQuestions}
-              correctAnswers={currentAnswers}
-              bookmarkedQuestions={bookmarkedQuestions}
-              updateStats={updateStats}
-              toggleBookmark={toggleBookmark}
-              searchQuestions={searchQuestions}
-            />
             <Statistics
               correctCount={stats.correctCount}
               totalCount={stats.totalCount}
@@ -693,8 +754,14 @@ function App() {
               resetStats={resetStats}
             />
           </>
-        ) : (
+        ) : appMode === 'simulation' ? (
           <Simulation 
+            allChaptersData={allChaptersData}
+            correctAnswersData={correctAnswersData}
+            onExit={() => switchAppMode('quiz')}
+          />
+        ) : (
+          <CustomSimulation 
             allChaptersData={allChaptersData}
             correctAnswersData={correctAnswersData}
             onExit={() => switchAppMode('quiz')}

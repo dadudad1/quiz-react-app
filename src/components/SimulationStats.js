@@ -1,7 +1,12 @@
 import React from 'react';
 import '../styles/SimulationStats.css';
 
-const SimulationStats = ({ stats, onResetStats, totalAvailableQuestions = 0 }) => {
+const SimulationStats = ({ 
+  stats, 
+  onResetStats, 
+  totalAvailableQuestions = 0,
+  isCustom = false 
+}) => {
   const { 
     testsTaken, 
     testsPassed, 
@@ -29,7 +34,9 @@ const SimulationStats = ({ stats, onResetStats, totalAvailableQuestions = 0 }) =
 
   return (
     <div className="simulation-stats">
-      <h2 className="stats-title">Statistici Simulări</h2>
+      <h2 className="stats-title">
+        {isCustom ? 'Statistici Simulări Personalizate' : 'Statistici Simulări Standard'}
+      </h2>
       
       <div className="stats-overview">
         <div className="stat-card">
@@ -66,7 +73,14 @@ const SimulationStats = ({ stats, onResetStats, totalAvailableQuestions = 0 }) =
                   <div className="test-result-score">{test.score}%</div>
                   <div className="test-result-details">
                     <div>{test.correctCount} din {test.totalQuestions} corecte</div>
-                    <div className="test-result-date">{new Date(test.date).toLocaleDateString()}</div>
+                    <div className="test-result-date">
+                      {new Date(test.date).toLocaleDateString()}
+                      {isCustom && test.selectedChapters && (
+                        <span className="test-chapters">
+                          (Cap: {test.selectedChapters.map(ch => ch.replace('cap', '')).join(', ')})
+                        </span>
+                      )}
+                    </div>
                   </div>
                 </div>
               ))}

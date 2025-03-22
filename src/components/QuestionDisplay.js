@@ -6,23 +6,29 @@ const QuestionDisplay = ({
   selectedAnswers, 
   onAnswerSelect,
   feedback,
-  correctAnswer
+  correctAnswer,
+  randomizeAnswers = true // Default to true for backward compatibility
 }) => {
-  // Randomize the order of answers using useMemo to prevent re-randomization on each render
-  const randomizedAnswers = useMemo(() => {
+  // Process the answers based on randomizeAnswers flag
+  const processedAnswers = useMemo(() => {
     if (!question || !question.variante) return [];
     
-    // Convert object entries to array and shuffle
+    // Convert object entries to array
     const entries = Object.entries(question.variante);
     
-    // Fisher-Yates shuffle algorithm
-    for (let i = entries.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [entries[i], entries[j]] = [entries[j], entries[i]];
+    if (randomizeAnswers) {
+      // Fisher-Yates shuffle algorithm
+      for (let i = entries.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [entries[i], entries[j]] = [entries[j], entries[i]];
+      }
+    } else {
+      // Sort by letter for ordered display (A, B, C, D, etc.)
+      entries.sort((a, b) => a[0].localeCompare(b[0]));
     }
     
     return entries;
-  }, [question]);
+  }, [question, randomizeAnswers]);
   
   return (
     <div className="question-display">
@@ -31,7 +37,7 @@ const QuestionDisplay = ({
       </div>
       
       <div className="answers">
-        {randomizedAnswers.map(([letter, text]) => {
+        {processedAnswers.map(([letter, text]) => {
           const isSelected = selectedAnswers.includes(letter);
           const shouldBeSelected = feedback.visible && correctAnswer.includes(letter);
           const isIncorrect = feedback.visible && isSelected && !correctAnswer.includes(letter);

@@ -8,7 +8,9 @@ const SimulationResults = ({
   timeSpentInSeconds, 
   onRestart, 
   onExit,
-  totalAvailableQuestions = 0
+  totalAvailableQuestions = 0,
+  isCustom = false,
+  customParams = {}
 }) => {
   const { correctCount, resultsByChapter } = results;
   const score = Math.round((correctCount / totalQuestions) * 100);
@@ -31,8 +33,9 @@ const SimulationResults = ({
   
   // Load simulation statistics from localStorage
   useEffect(() => {
-    // Load simulation stats
-    const savedStats = localStorage.getItem('simulationStats');
+    // Load simulation stats from the appropriate storage key
+    const statsKey = isCustom ? 'customSimulationStats' : 'simulationStats';
+    const savedStats = localStorage.getItem(statsKey);
     if (savedStats) {
       try {
         const stats = JSON.parse(savedStats);
@@ -60,7 +63,7 @@ const SimulationResults = ({
         setCalculatedAvailableQuestions(500); // Default fallback
       }
     }
-  }, [resultsByChapter, totalAvailableQuestions]);
+  }, [resultsByChapter, totalAvailableQuestions, isCustom]);
   
   // Use the prop value if available, otherwise use calculated value
   const finalAvailableQuestions = totalAvailableQuestions || calculatedAvailableQuestions;
@@ -70,7 +73,9 @@ const SimulationResults = ({
       <div className="two-column-layout">
         <div className="left-column">
           <div className="simulation-results">
-            <h2 className="results-title">Rezultatele Simulării</h2>
+            <h2 className="results-title">
+              {isCustom ? 'Rezultatele Simulării Personalizate' : 'Rezultatele Simulării'}
+            </h2>
             
             <div className={`score-display ${isPassed ? 'passed' : 'failed'}`}>
               <div className="score-value">{score}%</div>
@@ -89,6 +94,22 @@ const SimulationResults = ({
                 <span className="summary-label">Timp utilizat:</span>
                 <span className="summary-value">{formatTime(timeSpentInSeconds)}</span>
               </div>
+              
+              {isCustom && customParams.selectedChapters && (
+                <div className="summary-item">
+                  <span className="summary-label">Capitole incluse:</span>
+                  <span className="summary-value">
+                    {customParams.selectedChapters.map(ch => ch.replace('cap', '')).join(', ')}
+                  </span>
+                </div>
+              )}
+              
+              {isCustom && customParams.simulationTime && (
+                <div className="summary-item">
+                  <span className="summary-label">Timp alocat:</span>
+                  <span className="summary-value">{customParams.simulationTime} minute</span>
+                </div>
+              )}
             </div>
             
             <h3 className="section-title">Performanță pe capitole</h3>
@@ -119,7 +140,7 @@ const SimulationResults = ({
                 className="btn btn-primary"
                 onClick={onRestart}
               >
-                Reîncepe Simularea
+                {isCustom ? 'Nouă Simulare Personalizată' : 'Reîncepe Simularea'}
               </button>
               <button 
                 className="btn btn-secondary"
@@ -134,7 +155,9 @@ const SimulationResults = ({
         <div className="right-column">
           {/* Statistics summary */}
           <div className="stats-summary">
-            <h2 className="stats-title">Statistici globale</h2>
+            <h2 className="stats-title">
+              {isCustom ? 'Statistici Simulări Personalizate' : 'Statistici Simulări Standard'}
+            </h2>
             <div className="stats-grid">
               <div className="stat-box">
                 <div className="stat-box-value">{simulationStats.testsTaken}</div>
@@ -183,7 +206,14 @@ const SimulationResults = ({
                     <div className="test-result-score">{test.score}%</div>
                     <div className="test-result-details">
                       <div>{test.correctCount} din {test.totalQuestions} corecte</div>
-                      <div className="test-result-date">{new Date(test.date).toLocaleDateString()}</div>
+                      <div className="test-result-date">
+                        {new Date(test.date).toLocaleDateString()}
+                        {isCustom && test.selectedChapters && (
+                          <span className="test-chapters">
+                            (Cap: {test.selectedChapters.map(ch => ch.replace('cap', '')).join(', ')})
+                          </span>
+                        )}
+                      </div>
                     </div>
                   </div>
                 ))}

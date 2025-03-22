@@ -1,0 +1,132 @@
+/* Custom Simulation Styles */
+.custom-simulation .simulation-setup {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.setup-section {
+  margin-bottom: 24px;
+}
+
+.setup-section h3 {
+  font-size: 18px;
+  margin-bottom: 12px;
+  color: #333;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 8px;
+}
+
+.setup-params {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 15px;
+}
+
+.setup-param {
+  display: flex;
+  flex-direction: column;
+  min-width: 150px;
+}
+
+.setup-param label {
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.setup-param input {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 100%;
+}
+
+.chapter-selection-actions {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.btn-small {
+  padding: 6px 12px;
+  font-size: 14px;
+  border-radius: 4px;
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  cursor: pointer;
+}
+
+.btn-small:hover {
+  background-color: #e0e0e0;
+}
+
+.chapters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.chapter-item {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background-color: #f9f9f9;
+}
+
+.chapter-item:hover {
+  border-color: #007bff;
+  background-color: #f0f7ff;
+}
+
+.chapter-item.selected {
+  background-color: #e6f2ff;
+  border-color: #007bff;
+}
+
+.chapter-checkbox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.chapter-checkbox input {
+  margin-right: 8px;
+}
+
+.chapter-info {
+  font-size: 13px;
+  color: #666;
+  margin-top: 5px;
+  margin-left: 20px;
+}
+
+.selection-summary {
+  background-color: #f0f7ff;
+  padding: 12px;
+  border-radius: 6px;
+  margin-top: 15px;
+}
+
+.warning {
+  color: #d9534f;
+  font-weight: 500;
+  margin-top: 5px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .setup-params {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .chapters-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
+} 
