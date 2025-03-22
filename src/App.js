@@ -771,7 +771,7 @@ function App() {
       
       <footer className="App-footer">
         <div className="footer-content">
-          <p>© 2024 Grile Admitere Timisoara Biologie</p>
+          <p>Grile Admitere Timisoara Biologie</p>
         </div>
       </footer>
     </div>
