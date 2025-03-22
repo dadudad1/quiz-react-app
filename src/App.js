@@ -5,7 +5,9 @@ import Statistics from './components/Statistics';
 import LoadingOverlay from './components/LoadingOverlay';
 import Simulation from './components/Simulation';
 import CustomSimulation from './components/CustomSimulation';
+import FutureImplementationsModal from './components/FutureImplementationsModal';
 import { Analytics } from '@vercel/analytics/react';
+import './styles/InfoButton.css';
 
 const isElectron = window?.electron !== undefined;
 
@@ -14,6 +16,7 @@ function App() {
   const [appMode, setAppMode] = useState('quiz'); // 'quiz', 'simulation', or 'customSimulation'
   const [activeChapter, setActiveChapter] = useState('cap1');
   const [randomizeAnswers, setRandomizeAnswers] = useState(true); // Default to randomized answers
+  const [modalOpen, setModalOpen] = useState(false); // State for modal visibility
   
   // State for question sets
   const [questions, setQuestions] = useState([]);
@@ -569,6 +572,11 @@ function App() {
     }
   }, []);
 
+  // Function to toggle modal visibility
+  const toggleModal = () => {
+    setModalOpen(!modalOpen);
+  };
+
   if (isLoading) {
     const loadedChapters = Object.values(chapterLoadingStates).filter(state => !state).length;
     const totalChapters = Object.keys(chapterLoadingStates).length;
@@ -688,6 +696,16 @@ function App() {
   return (
     <div className="App">
       <Analytics />
+      
+      {/* Info Button */}
+      <button className="info-button pulse-animation" onClick={toggleModal}>i</button>
+      
+      {/* Future Implementations Modal */}
+      <FutureImplementationsModal 
+        isOpen={modalOpen}
+        onClose={() => setModalOpen(false)}
+      />
+      
       <header className="App-header">
         <h1>Grile Admitere Timisoara Biologie 2024</h1>
         <a href="https://revolut.me/dragoscdk" target="_blank" rel="noopener noreferrer" className="donate-button">
