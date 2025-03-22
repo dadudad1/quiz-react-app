@@ -264,18 +264,21 @@ function App() {
 
   // Încărcăm întrebările salvate din localStorage
   useEffect(() => {
-    try {
-      const savedBookmarks = safeStorage.getItem('bookmarkedQuestions');
-      if (savedBookmarks) {
-        const bookmarks = JSON.parse(savedBookmarks);
-        setBookmarkedQuestions(new Set(bookmarks));
-        setStats(prev => ({
-          ...prev,
-          bookmarkedCount: bookmarks.length
+    const savedItems = safeStorage.getItem('bookmarkedQuestions');
+    if (savedItems) {
+      try {
+        const parsedItems = JSON.parse(savedItems);
+        const bookmarks = new Set(parsedItems);
+        setBookmarkedQuestions(bookmarks);
+        
+        // Update bookmarked count in stats
+        setStats(prevStats => ({
+          ...prevStats,
+          bookmarkedCount: bookmarks.size
         }));
+      } catch (e) {
+        console.error('Eroare la încărcarea întrebărilor salvate:', e);
       }
-    } catch (e) {
-      console.warn('Could not load bookmarks:', e);
     }
   }, []);
 
@@ -293,6 +296,24 @@ function App() {
       console.warn('Could not save bookmarks:', e);
     }
   }, [bookmarkedQuestions]);
+
+  // Load quiz statistics from localStorage on mount
+  useEffect(() => {
+    const savedStats = safeStorage.getItem('quizStats');
+    if (savedStats) {
+      try {
+        const parsedStats = JSON.parse(savedStats);
+        setStats(parsedStats);
+      } catch (e) {
+        console.error('Eroare la încărcarea statisticilor de quiz:', e);
+      }
+    }
+  }, []);
+
+  // Save quiz statistics to localStorage whenever they change
+  useEffect(() => {
+    safeStorage.setItem('quizStats', JSON.stringify(stats));
+  }, [stats]);
 
   // Funcția pentru schimbarea modului aplicației
   const switchAppMode = (mode) => {
@@ -348,7 +369,6 @@ function App() {
       default:
         setFilteredQuestions([]);
     }
-    resetStats();
   };
 
   // Funcția de căutare în întrebări
@@ -480,7 +500,7 @@ function App() {
   };
 
   // Funcția pentru actualizarea statisticilor
-  const updateStats = (chapter, isCorrect) => {
+  const updateStats = (isCorrect) => {
     setStats(prev => ({
       ...prev,
       correctCount: isCorrect ? prev.correctCount + 1 : prev.correctCount,
@@ -501,11 +521,20 @@ function App() {
   const toggleBookmark = (questionNumber) => {
     setBookmarkedQuestions(prev => {
       const newBookmarks = new Set(prev);
-      if (newBookmarks.has(questionNumber)) {
+      const wasBookmarked = newBookmarks.has(questionNumber);
+      
+      if (wasBookmarked) {
         newBookmarks.delete(questionNumber);
       } else {
         newBookmarks.add(questionNumber);
       }
+      
+      // Update bookmarked count in stats
+      setStats(prevStats => ({
+        ...prevStats,
+        bookmarkedCount: wasBookmarked ? prevStats.bookmarkedCount - 1 : prevStats.bookmarkedCount + 1
+      }));
+      
       return newBookmarks;
     });
   };
@@ -735,7 +764,7 @@ function App() {
               filteredQuestions={filteredQuestions}
               correctAnswers={currentAnswers}
               bookmarkedQuestions={bookmarkedQuestions}
-              updateStats={(isCorrect) => updateStats(activeChapter, isCorrect)}
+              updateStats={(isCorrect) => updateStats(isCorrect)}
               toggleBookmark={toggleBookmark}
               searchQuestions={searchQuestions}
               randomizeAnswers={randomizeAnswers}

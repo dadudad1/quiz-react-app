@@ -6,6 +6,7 @@ const Statistics = ({ correctCount, totalCount, bookmarkedCount, resetStats }) =
   
   return (
     <div className="statistics">
+      <h2>Statistici globale</h2>
       <div className="stat-item">
         <strong>Total răspunsuri corecte:</strong> {correctCount}
       </div>
