@@ -351,6 +351,7 @@ const Simulation = ({
             onAnswerSelect={handleAnswerSelection}
             feedback={{ visible: false }}
             correctAnswer=""
+            showQuestionNumber={false}
           />
           
           <div className="question-status">

@@ -7,7 +7,8 @@ const QuestionDisplay = ({
   onAnswerSelect,
   feedback,
   correctAnswer,
-  randomizeAnswers = true // Default to true for backward compatibility
+  randomizeAnswers = true, // Default to true for backward compatibility
+  showQuestionNumber = true // New prop to control question number display
 }) => {
   // Process the answers based on randomizeAnswers flag
   const processedAnswers = useMemo(() => {
@@ -33,7 +34,7 @@ const QuestionDisplay = ({
   return (
     <div className="question-display">
       <div className="question">
-        {question.numar}. {question.intrebare}
+        {showQuestionNumber ? `${question.numar}. ` : ''}{question.intrebare}
       </div>
       
       <div className="answers">
