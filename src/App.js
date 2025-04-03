@@ -6,6 +6,7 @@ import LoadingOverlay from './components/LoadingOverlay';
 import Simulation from './components/Simulation';
 import CustomSimulation from './components/CustomSimulation';
 import FutureImplementationsModal from './components/FutureImplementationsModal';
+import YearSelector from './components/YearSelector';
 import { Analytics } from '@vercel/analytics/react';
 import './styles/InfoButton.css';
 
@@ -15,6 +16,7 @@ function App() {
   // State for app mode and chapter selection
   const [appMode, setAppMode] = useState('quiz'); // 'quiz', 'simulation', or 'customSimulation'
   const [activeChapter, setActiveChapter] = useState('cap1');
+  const [selectedYear, setSelectedYear] = useState('2024');
   const [randomizeAnswers, setRandomizeAnswers] = useState(true); // Default to randomized answers
   const [modalOpen, setModalOpen] = useState(false); // State for modal visibility
   
@@ -80,6 +82,9 @@ function App() {
 
   const [chapterErrors, setChapterErrors] = useState({});
 
+  // Add state for available chapters
+  const [availableChapters, setAvailableChapters] = useState([]);
+
   // Helper function to update loading state for a chapter
   const setChapterLoading = (chapter, isLoading) => {
     setChapterLoadingStates(prev => ({
@@ -100,11 +105,11 @@ function App() {
   useEffect(() => {
     const loadChapters = async () => {
       try {
-        // Web browser fetch for questions in development
         const loadJsonFile = async (path) => {
           try {
-            console.log(`Attempting to load file from: ${path}`);
-            const response = await fetch(path);
+            const fullPath = `${process.env.PUBLIC_URL}/${path}`;
+            console.log(`Attempting to load file from: ${fullPath}`);
+            const response = await fetch(fullPath);
             
             if (!response.ok) {
               throw new Error(`Failed to load file: ${path} (Status: ${response.status})`);
@@ -115,136 +120,147 @@ function App() {
               console.warn(`Response is not JSON: ${path} (Content-Type: ${contentType})`);
             }
             
-            return await response.json();
+            const data = await response.json();
+            return data;
           } catch (error) {
             console.error(`Error loading file ${path}:`, error);
             setChapterError(path.replace('/capitole/cap', '').replace('.json', ''), error.message);
-            return [];
+            return null;
           }
         };
 
-        // Load all JSON files
-        const data1 = await loadJsonFile('./capitole/cap1.json');
-        const data2 = await loadJsonFile('./capitole/cap2.json');
-        const data3 = await loadJsonFile('./capitole/cap3.json');
-        const data4 = await loadJsonFile('./capitole/cap4.json');
-        const data5 = await loadJsonFile('./capitole/cap5.json');
-        const data6 = await loadJsonFile('./capitole/cap6.json');
-        const data7 = await loadJsonFile('./capitole/cap7.json');
-        const data8 = await loadJsonFile('./capitole/cap8.json');
-        const data9 = await loadJsonFile('./capitole/cap9.json');
-        const data10 = await loadJsonFile('./capitole/cap10.json');
-        const data11 = await loadJsonFile('./capitole/cap11.json');
-        const data12 = await loadJsonFile('./capitole/cap12.json');
-        const data13 = await loadJsonFile('./capitole/cap13.json');
-        const data14 = await loadJsonFile('./capitole/cap14.json');
-        
-        // Parse answer strings format
-        const parseAnswers = (answerStr) => {
-          const answers = {};
-          answerStr.split(';').forEach(item => {
-            const parts = item.trim().split('.');
-            if (parts.length === 2) {
-              const questionNumber = parseInt(parts[0]);
-              const answer = parts[1];
-              answers[questionNumber] = answer;
-            }
-          });
-          return answers;
-        };
-        
-        // Load answer files for all chapters
-        const loadAnswerFile = async (path) => {
+        // Function to load answer files
+        const loadAnswerFile = async (chapterNum) => {
           try {
-            const response = await fetch(`./capitole/${path}`);
+            const fullPath = `${process.env.PUBLIC_URL}/capitole/${selectedYear}/cap${chapterNum}_raspunsuri`;
+            console.log(`Attempting to load answer file from: ${fullPath}`);
+            const response = await fetch(fullPath);
             
             if (!response.ok) {
-              throw new Error(`Failed to load answer file: ${path} (Status: ${response.status})`);
+              throw new Error(`Failed to load answer file: ${fullPath} (Status: ${response.status})`);
             }
             
             const text = await response.text();
+            
+            // Parse answer strings format
+            const parseAnswers = (answerStr) => {
+              const answers = {};
+              answerStr.split(';').forEach(item => {
+                const parts = item.trim().split('.');
+                if (parts.length === 2) {
+                  const questionNumber = parseInt(parts[0]);
+                  const answer = parts[1];
+                  answers[questionNumber] = answer;
+                }
+              });
+              return answers;
+            };
+            
             return parseAnswers(text);
           } catch (error) {
-            console.error(`Error loading answer file ${path}:`, error);
-            setChapterError(path.replace('cap', '').replace('_raspunsuri', ''), error.message);
+            console.error(`Error loading answer file for chapter ${chapterNum}:`, error);
             return {};
           }
         };
-        
-        // Load all answer files
-        const answersMap1 = await loadAnswerFile('cap1_raspunsuri');
-        const answersMap2 = await loadAnswerFile('cap2_raspunsuri');
-        const answersMap3 = await loadAnswerFile('cap3_raspunsuri');
-        const answersMap4 = await loadAnswerFile('cap4_raspunsuri');
-        const answersMap5 = await loadAnswerFile('cap5_raspunsuri');
-        const answersMap6 = await loadAnswerFile('cap6_raspunsuri');
-        const answersMap7 = await loadAnswerFile('cap7_raspunsuri');
-        const answersMap8 = await loadAnswerFile('cap8_raspunsuri');
-        const answersMap9 = await loadAnswerFile('cap9_raspunsuri');
-        const answersMap10 = await loadAnswerFile('cap10_raspunsuri');
-        const answersMap11 = await loadAnswerFile('cap11_raspunsuri');
-        const answersMap12 = await loadAnswerFile('cap12_raspunsuri');
-        const answersMap13 = await loadAnswerFile('cap13_raspunsuri');
-        const answersMap14 = await loadAnswerFile('cap14_raspunsuri');
-        
-        // Set question data
-        setQuestions(data1);
-        setQuestionsChapter2(data2);
-        setQuestionsChapter3(data3);
-        setQuestionsChapter4(data4);
-        setQuestionsChapter5(data5);
-        setQuestionsChapter6(data6);
-        setQuestionsChapter7(data7);
-        setQuestionsChapter8(data8);
-        setQuestionsChapter9(data9);
-        setQuestionsChapter10(data10);
-        setQuestionsChapter11(data11);
-        setQuestionsChapter12(data12);
-        setQuestionsChapter13(data13);
-        setQuestionsChapter14(data14);
-        
-        // Set answers data
-        setCorrectAnswers(answersMap1);
-        setCorrectAnswersChapter2(answersMap2);
-        setCorrectAnswersChapter3(answersMap3);
-        setCorrectAnswersChapter4(answersMap4);
-        setCorrectAnswersChapter5(answersMap5);
-        setCorrectAnswersChapter6(answersMap6);
-        setCorrectAnswersChapter7(answersMap7);
-        setCorrectAnswersChapter8(answersMap8);
-        setCorrectAnswersChapter9(answersMap9);
-        setCorrectAnswersChapter10(answersMap10);
-        setCorrectAnswersChapter11(answersMap11);
-        setCorrectAnswersChapter12(answersMap12);
-        setCorrectAnswersChapter13(answersMap13);
-        setCorrectAnswersChapter14(answersMap14);
-        
-        // Update loading states for all chapters
-        setChapterLoading('cap1', false);
-        setChapterLoading('cap2', false);
-        setChapterLoading('cap3', false);
-        setChapterLoading('cap4', false);
-        setChapterLoading('cap5', false);
-        setChapterLoading('cap6', false);
-        setChapterLoading('cap7', false);
-        setChapterLoading('cap8', false);
-        setChapterLoading('cap9', false);
-        setChapterLoading('cap10', false);
-        setChapterLoading('cap11', false);
-        setChapterLoading('cap12', false);
-        setChapterLoading('cap13', false);
-        setChapterLoading('cap14', false);
-        
+
+        // Load all JSON files from the selected year
+        const chapters = [];
+        const loadChapter = async (chapterNum) => {
+          const data = await loadJsonFile(`capitole/${selectedYear}/cap${chapterNum}.json`);
+          if (data) {
+            chapters.push(chapterNum);
+            
+            // Load the answer file for this chapter
+            const answers = await loadAnswerFile(chapterNum);
+            
+            // Set the questions and answers
+            switch(chapterNum) {
+              case 1: 
+                setQuestions(data); 
+                setCorrectAnswers(answers);
+                break;
+              case 2: 
+                setQuestionsChapter2(data); 
+                setCorrectAnswersChapter2(answers);
+                break;
+              case 3: 
+                setQuestionsChapter3(data); 
+                setCorrectAnswersChapter3(answers);
+                break;
+              case 4: 
+                setQuestionsChapter4(data); 
+                setCorrectAnswersChapter4(answers);
+                break;
+              case 5: 
+                setQuestionsChapter5(data); 
+                setCorrectAnswersChapter5(answers);
+                break;
+              case 6: 
+                setQuestionsChapter6(data); 
+                setCorrectAnswersChapter6(answers);
+                break;
+              case 7: 
+                setQuestionsChapter7(data); 
+                setCorrectAnswersChapter7(answers);
+                break;
+              case 8: 
+                setQuestionsChapter8(data); 
+                setCorrectAnswersChapter8(answers);
+                break;
+              case 9: 
+                setQuestionsChapter9(data); 
+                setCorrectAnswersChapter9(answers);
+                break;
+              case 10: 
+                setQuestionsChapter10(data); 
+                setCorrectAnswersChapter10(answers);
+                break;
+              case 11: 
+                setQuestionsChapter11(data); 
+                setCorrectAnswersChapter11(answers);
+                break;
+              case 12: 
+                setQuestionsChapter12(data); 
+                setCorrectAnswersChapter12(answers);
+                break;
+              case 13: 
+                setQuestionsChapter13(data); 
+                setCorrectAnswersChapter13(answers);
+                break;
+              case 14: 
+                setQuestionsChapter14(data); 
+                setCorrectAnswersChapter14(answers);
+                break;
+            }
+          }
+        };
+
+        // Load all chapters in parallel
+        await Promise.all([
+          loadChapter(1), loadChapter(2), loadChapter(3), loadChapter(4),
+          loadChapter(5), loadChapter(6), loadChapter(7), loadChapter(8),
+          loadChapter(9), loadChapter(10), loadChapter(11), loadChapter(12),
+          loadChapter(13), loadChapter(14)
+        ]);
+
+        // Update available chapters
+        setAvailableChapters(chapters.sort((a, b) => a - b));
+
+        // If the current active chapter is not available, switch to the first available chapter
+        if (!chapters.includes(parseInt(activeChapter.replace('cap', '')))) {
+          setActiveChapter(`cap${chapters[0]}`);
+        }
+
         setIsLoading(false);
       } catch (error) {
-        console.error('Error fetching chapters:', error);
+        console.error('Error loading chapters:', error);
         setChapterError('general', 'Failed to load chapters');
         setIsLoading(false);
       }
     };
 
     loadChapters();
-  }, []);
+  }, [selectedYear]);
 
   // Helper function to safely interact with localStorage
   const safeStorage = {
@@ -577,6 +593,12 @@ function App() {
     setModalOpen(!modalOpen);
   };
 
+  const handleYearChange = (year) => {
+    setSelectedYear(year);
+    // Reset the active chapter when changing years
+    setActiveChapter('cap1');
+  };
+
   if (isLoading) {
     const loadedChapters = Object.values(chapterLoadingStates).filter(state => !state).length;
     const totalChapters = Object.keys(chapterLoadingStates).length;
@@ -733,6 +755,8 @@ function App() {
           </button>
         </div>
         
+        <YearSelector selectedYear={selectedYear} onYearChange={handleYearChange} />
+        
         {appMode === 'quiz' && (
           <div>
             <div className="chapter-selector">
@@ -741,20 +765,11 @@ function App() {
                 value={activeChapter}
                 onChange={(e) => switchChapter(e.target.value)}
               >
-                <option value="cap1">Capitolul 1</option>
-                <option value="cap2">Capitolul 2</option>
-                <option value="cap3">Capitolul 3</option>
-                <option value="cap4">Capitolul 4</option>
-                <option value="cap5">Capitolul 5</option>
-                <option value="cap6">Capitolul 6</option>
-                <option value="cap7">Capitolul 7</option>
-                <option value="cap8">Capitolul 8</option>
-                <option value="cap9">Capitolul 9</option>
-                <option value="cap10">Capitolul 10</option>
-                <option value="cap11">Capitolul 11</option>
-                <option value="cap12">Capitolul 12</option>
-                <option value="cap13">Capitolul 13</option>
-                <option value="cap14">Capitolul 14</option>
+                {availableChapters.map(chapterNum => (
+                  <option key={chapterNum} value={`cap${chapterNum}`}>
+                    Capitolul {chapterNum}
+                  </option>
+                ))}
               </select>
             </div>
             

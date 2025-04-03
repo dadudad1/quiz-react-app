@@ -59,4 +59,47 @@
   background-color: #f8d7da;
   border: 1px solid #f5c6cb;
   color: #721c24;
+}
+
+.report-container {
+  margin-top: 20px;
+  text-align: right;
+}
+
+.report-button {
+  display: inline-flex;
+  align-items: center;
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  padding: 8px 15px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-size: 14px;
+  color: #6c757d;
+  white-space: nowrap;
+}
+
+.report-button:hover {
+  background-color: #e9ecef;
+  color: #495057;
+}
+
+.report-icon {
+  margin-right: 8px;
+  font-size: 16px;
+}
+
+.report-text {
+  display: inline-block;
+}
+
+@media (max-width: 768px) {
+  .report-text {
+    display: none;
+  }
+  
+  .report-button {
+    padding: 8px;
+  }
 } 

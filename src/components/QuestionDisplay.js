@@ -31,6 +31,12 @@ const QuestionDisplay = ({
     return entries;
   }, [question, randomizeAnswers]);
   
+  // Function to handle report button click
+  const handleReportClick = () => {
+    // Open the report form in a new tab
+    window.open('https://forms.gle/QC7MGT9dVBfPMPPp9', '_blank');
+  };
+  
   return (
     <div className="question-display">
       <div className="question">
@@ -72,6 +78,17 @@ const QuestionDisplay = ({
           {feedback.message}
         </div>
       )}
+      
+      <div className="report-container">
+        <button 
+          className="report-button" 
+          onClick={handleReportClick}
+          title="Raportează o problemă cu această întrebare"
+        >
+          <span className="report-icon">⚠️</span>
+          <span className="report-text">Raportează o problemă cu această întrebare</span>
+        </button>
+      </div>
     </div>
   );
 };
