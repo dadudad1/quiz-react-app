@@ -4,6 +4,7 @@ import Timer from './Timer';
 import SimulationResults from './SimulationResults';
 import SimulationStats from './SimulationStats';
 import { calculateSimulationResults, formatTime } from './finishSimulation';
+import { Analytics } from '@vercel/analytics/react';
 import '../styles/Simulation.css';
 
 const Simulation = ({ 
@@ -165,6 +166,15 @@ const Simulation = ({
     
     // Calculate time spent in seconds
     const timeSpentInSeconds = SIMULATION_TIME_MINUTES * 60 - timeSpent;
+    
+    // Track analytics
+    Analytics.track('simulation_completed', {
+      totalQuestions: questions.length,
+      correctCount: simulationResults.correctCount,
+      timeSpentInSeconds,
+      score: Math.round((simulationResults.correctCount / questions.length) * 100),
+      resultsByChapter: simulationResults.resultsByChapter
+    });
     
     // Update statistics
     updateSimulationStats(simulationResults, questions.length, timeSpentInSeconds);

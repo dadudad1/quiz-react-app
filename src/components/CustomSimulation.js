@@ -4,6 +4,7 @@ import Timer from './Timer';
 import SimulationResults from './SimulationResults';
 import SimulationStats from './SimulationStats';
 import { calculateSimulationResults } from './finishSimulation';
+import { Analytics } from '@vercel/analytics/react';
 import '../styles/Simulation.css';
 import '../styles/CustomSimulation.css';
 
@@ -206,6 +207,18 @@ const CustomSimulation = ({
     // Calculate time spent in seconds
     const timeSpentInSeconds = simulationTime * 60 - timeSpent;
     
+    // Track analytics
+    Analytics.track('custom_simulation_completed', {
+      totalQuestions: questions.length,
+      correctCount: simulationResults.correctCount,
+      timeSpentInSeconds,
+      score: Math.round((simulationResults.correctCount / questions.length) * 100),
+      resultsByChapter: simulationResults.resultsByChapter,
+      selectedChapters: Object.keys(selectedChapters).filter(ch => selectedChapters[ch]),
+      simulationTime,
+      questionsCount
+    });
+    
     // Update statistics
     updateSimulationStats(simulationResults, questions.length, timeSpentInSeconds);
     
@@ -214,7 +227,7 @@ const CustomSimulation = ({
     
     // Mark simulation as completed
     setSimulationState('completed');
-  }, [questions, userAnswers, correctAnswersData, allChaptersData, timeSpent, simulationTime]);
+  }, [questions, userAnswers, correctAnswersData, allChaptersData, timeSpent, simulationTime, selectedChapters]);
   
   // Save answer for current question
   const saveAnswer = () => {

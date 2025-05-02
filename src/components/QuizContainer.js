@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import QuestionDisplay from './QuestionDisplay';
+import { Analytics } from '@vercel/analytics/react';
 import '../styles/QuizContainer.css';
 
 const QuizContainer = ({
@@ -126,6 +127,15 @@ const QuizContainer = ({
     
     // Determinăm dacă răspunsul este corect
     const isCorrect = userAnswer === correct;
+    
+    // Track analytics
+    Analytics.track('question_answered', {
+      questionNumber,
+      chapter: currentQuestion.chapter,
+      isCorrect,
+      userAnswer,
+      correctAnswer: correct
+    });
     
     // Actualizăm statisticile
     updateStats(isCorrect);
