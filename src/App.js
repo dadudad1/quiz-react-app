@@ -7,6 +7,8 @@ import Simulation from './components/Simulation';
 import CustomSimulation from './components/CustomSimulation';
 import FutureImplementationsModal from './components/FutureImplementationsModal';
 import { Analytics } from '@vercel/analytics/react';
+import { analytics } from './firebase';
+import { logEvent } from 'firebase/analytics';
 import './styles/InfoButton.css';
 
 const isElectron = window?.electron !== undefined;
@@ -534,12 +536,20 @@ function App() {
   };
 
   // Funcția pentru actualizarea statisticilor
-  const updateStats = (isCorrect) => {
+  const updateStats = (isCorrect, questionNumber) => {
     setStats(prev => ({
       ...prev,
       correctCount: isCorrect ? prev.correctCount + 1 : prev.correctCount,
       totalCount: prev.totalCount + 1
     }));
+
+    // Track the answer in Firebase Analytics
+    logEvent(analytics, 'question_answered', {
+      chapter: activeChapter,
+      question_number: questionNumber,
+      is_correct: isCorrect,
+      year: selectedYear
+    });
   };
 
   // Funcția pentru resetarea statisticilor
@@ -811,7 +821,7 @@ function App() {
             filteredQuestions={filteredQuestions}
             correctAnswers={currentAnswers}
             bookmarkedQuestions={bookmarkedQuestions}
-            updateStats={(isCorrect) => updateStats(isCorrect)}
+            updateStats={updateStats}
             toggleBookmark={toggleBookmark}
             searchQuestions={searchQuestions}
             randomizeAnswers={randomizeAnswers}

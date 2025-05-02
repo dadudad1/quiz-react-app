@@ -4,7 +4,8 @@ import Timer from './Timer';
 import SimulationResults from './SimulationResults';
 import SimulationStats from './SimulationStats';
 import { calculateSimulationResults, formatTime } from './finishSimulation';
-import { Analytics } from '@vercel/analytics/react';
+import { analytics } from '../firebase';
+import { logEvent } from 'firebase/analytics';
 import '../styles/Simulation.css';
 
 const Simulation = ({ 
@@ -87,6 +88,16 @@ const Simulation = ({
     };
     
     saveSimulationStats(newStats);
+    
+    // Track simulation completion in Firebase Analytics
+    logEvent(analytics, 'simulation_completed', {
+      score: score,
+      correct_count: correctCount,
+      total_questions: totalQuestions,
+      time_spent_seconds: timeSpentInSeconds,
+      passed: isPassed,
+      simulation_type: 'standard'
+    });
   };
   
   // Prepare simulation questions by selecting questions from each chapter
@@ -167,15 +178,6 @@ const Simulation = ({
     // Calculate time spent in seconds
     const timeSpentInSeconds = SIMULATION_TIME_MINUTES * 60 - timeSpent;
     
-    // Track analytics
-    Analytics.track('simulation_completed', {
-      totalQuestions: questions.length,
-      correctCount: simulationResults.correctCount,
-      timeSpentInSeconds,
-      score: Math.round((simulationResults.correctCount / questions.length) * 100),
-      resultsByChapter: simulationResults.resultsByChapter
-    });
-    
     // Update statistics
     updateSimulationStats(simulationResults, questions.length, timeSpentInSeconds);
     
@@ -190,10 +192,23 @@ const Simulation = ({
   const saveAnswer = () => {
     if (selectedAnswers.length === 0) return;
     
+    // Store the answer
     setUserAnswers(prev => ({
       ...prev,
       [currentQuestionIndex]: [...selectedAnswers]
     }));
+    
+    // Track the answer in Firebase Analytics
+    const currentQuestion = questions[currentQuestionIndex];
+    if (currentQuestion) {
+      logEvent(analytics, 'question_answered', {
+        chapter: currentQuestion.chapter,
+        question_number: currentQuestion.numar,
+        simulation_type: 'standard',
+        question_index: currentQuestionIndex + 1,
+        total_questions: questions.length
+      });
+    }
     
     // Move to next question
     if (currentQuestionIndex < questions.length - 1) {

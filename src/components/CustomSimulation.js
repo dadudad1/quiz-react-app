@@ -4,7 +4,8 @@ import Timer from './Timer';
 import SimulationResults from './SimulationResults';
 import SimulationStats from './SimulationStats';
 import { calculateSimulationResults } from './finishSimulation';
-import { Analytics } from '@vercel/analytics/react';
+import { analytics } from '../firebase';
+import { logEvent } from 'firebase/analytics';
 import '../styles/Simulation.css';
 import '../styles/CustomSimulation.css';
 
@@ -101,6 +102,18 @@ const CustomSimulation = ({
     };
     
     saveSimulationStats(newStats);
+    
+    // Track custom simulation completion in Firebase Analytics
+    logEvent(analytics, 'simulation_completed', {
+      score: score,
+      correct_count: correctCount,
+      total_questions: totalQuestions,
+      time_spent_seconds: timeSpentInSeconds,
+      passed: isPassed,
+      simulation_type: 'custom',
+      simulation_time_minutes: simulationTime,
+      selected_chapters: Object.keys(selectedChapters).filter(ch => selectedChapters[ch]).join(',')
+    });
   };
   
   // Prepare simulation questions by selecting questions from each selected chapter
@@ -207,18 +220,6 @@ const CustomSimulation = ({
     // Calculate time spent in seconds
     const timeSpentInSeconds = simulationTime * 60 - timeSpent;
     
-    // Track analytics
-    Analytics.track('custom_simulation_completed', {
-      totalQuestions: questions.length,
-      correctCount: simulationResults.correctCount,
-      timeSpentInSeconds,
-      score: Math.round((simulationResults.correctCount / questions.length) * 100),
-      resultsByChapter: simulationResults.resultsByChapter,
-      selectedChapters: Object.keys(selectedChapters).filter(ch => selectedChapters[ch]),
-      simulationTime,
-      questionsCount
-    });
-    
     // Update statistics
     updateSimulationStats(simulationResults, questions.length, timeSpentInSeconds);
     
@@ -227,16 +228,31 @@ const CustomSimulation = ({
     
     // Mark simulation as completed
     setSimulationState('completed');
-  }, [questions, userAnswers, correctAnswersData, allChaptersData, timeSpent, simulationTime, selectedChapters]);
+  }, [questions, userAnswers, correctAnswersData, allChaptersData, timeSpent, simulationTime]);
   
   // Save answer for current question
   const saveAnswer = () => {
     if (selectedAnswers.length === 0) return;
     
+    // Store the answer
     setUserAnswers(prev => ({
       ...prev,
       [currentQuestionIndex]: [...selectedAnswers]
     }));
+    
+    // Track the answer in Firebase Analytics
+    const currentQuestion = questions[currentQuestionIndex];
+    if (currentQuestion) {
+      logEvent(analytics, 'question_answered', {
+        chapter: currentQuestion.chapter,
+        question_number: currentQuestion.numar,
+        simulation_type: 'custom',
+        question_index: currentQuestionIndex + 1,
+        total_questions: questions.length,
+        simulation_time_minutes: simulationTime,
+        selected_chapters: Object.keys(selectedChapters).filter(ch => selectedChapters[ch]).join(',')
+      });
+    }
     
     // Move to next question
     if (currentQuestionIndex < questions.length - 1) {
