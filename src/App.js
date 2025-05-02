@@ -6,7 +6,6 @@ import LoadingOverlay from './components/LoadingOverlay';
 import Simulation from './components/Simulation';
 import CustomSimulation from './components/CustomSimulation';
 import FutureImplementationsModal from './components/FutureImplementationsModal';
-import YearSelector from './components/YearSelector';
 import { Analytics } from '@vercel/analytics/react';
 import './styles/InfoButton.css';
 
@@ -16,7 +15,7 @@ function App() {
   // State for app mode and chapter selection
   const [appMode, setAppMode] = useState('quiz'); // 'quiz', 'simulation', or 'customSimulation'
   const [activeChapter, setActiveChapter] = useState('cap1');
-  const [selectedYear, setSelectedYear] = useState('2024');
+  const [selectedYear] = useState('2025'); // Fixed to 2025
   const [randomizeAnswers, setRandomizeAnswers] = useState(true); // Default to randomized answers
   const [modalOpen, setModalOpen] = useState(false); // State for modal visibility
   
@@ -35,6 +34,7 @@ function App() {
   const [questionsChapter12, setQuestionsChapter12] = useState([]);
   const [questionsChapter13, setQuestionsChapter13] = useState([]);
   const [questionsChapter14, setQuestionsChapter14] = useState([]);
+  const [questionsChapter15, setQuestionsChapter15] = useState([]);
   const [filteredQuestions, setFilteredQuestions] = useState([]);
   
   // State for correct answers from all chapters
@@ -52,6 +52,7 @@ function App() {
   const [correctAnswersChapter12, setCorrectAnswersChapter12] = useState({});
   const [correctAnswersChapter13, setCorrectAnswersChapter13] = useState({});
   const [correctAnswersChapter14, setCorrectAnswersChapter14] = useState({});
+  const [correctAnswersChapter15, setCorrectAnswersChapter15] = useState({});
   
   const [isLoading, setIsLoading] = useState(true);
   const [stats, setStats] = useState({
@@ -77,7 +78,8 @@ function App() {
     cap11: true,
     cap12: true,
     cap13: true,
-    cap14: true
+    cap14: true,
+    cap15: true
   });
 
   const [chapterErrors, setChapterErrors] = useState({});
@@ -231,6 +233,10 @@ function App() {
                 setQuestionsChapter14(data); 
                 setCorrectAnswersChapter14(answers);
                 break;
+              case 15: 
+                setQuestionsChapter15(data); 
+                setCorrectAnswersChapter15(answers);
+                break;
             }
           }
         };
@@ -240,7 +246,7 @@ function App() {
           loadChapter(1), loadChapter(2), loadChapter(3), loadChapter(4),
           loadChapter(5), loadChapter(6), loadChapter(7), loadChapter(8),
           loadChapter(9), loadChapter(10), loadChapter(11), loadChapter(12),
-          loadChapter(13), loadChapter(14)
+          loadChapter(13), loadChapter(14), loadChapter(15)
         ]);
 
         // Update available chapters
@@ -385,6 +391,9 @@ function App() {
       case 'cap14':
         setFilteredQuestions(questionsChapter14);
         break;
+      case 'cap15':
+        setFilteredQuestions(questionsChapter15);
+        break;
       default:
         setFilteredQuestions([]);
     }
@@ -437,6 +446,9 @@ function App() {
         case 'cap14':
           setFilteredQuestions([...questionsChapter14]);
           break;
+        case 'cap15':
+          setFilteredQuestions([...questionsChapter15]);
+          break;
       }
       return true;
     }
@@ -487,6 +499,9 @@ function App() {
         break;
       case 'cap14':
         currentQuestions = questionsChapter14;
+        break;
+      case 'cap15':
+        currentQuestions = questionsChapter15;
         break;
       default:
         currentQuestions = [];
@@ -593,12 +608,6 @@ function App() {
     setModalOpen(!modalOpen);
   };
 
-  const handleYearChange = (year) => {
-    setSelectedYear(year);
-    // Reset the active chapter when changing years
-    setActiveChapter('cap1');
-  };
-
   if (isLoading) {
     const loadedChapters = Object.values(chapterLoadingStates).filter(state => !state).length;
     const totalChapters = Object.keys(chapterLoadingStates).length;
@@ -629,7 +638,8 @@ function App() {
     cap11: questionsChapter11,
     cap12: questionsChapter12,
     cap13: questionsChapter13,
-    cap14: questionsChapter14
+    cap14: questionsChapter14,
+    cap15: questionsChapter15
   };
   
   const correctAnswersData = {
@@ -646,7 +656,8 @@ function App() {
     cap11: correctAnswersChapter11,
     cap12: correctAnswersChapter12,
     cap13: correctAnswersChapter13,
-    cap14: correctAnswersChapter14
+    cap14: correctAnswersChapter14,
+    cap15: correctAnswersChapter15
   };
   
   // Get the correct answers based on active chapter
@@ -710,6 +721,10 @@ function App() {
       currentAnswers = correctAnswersChapter14;
       currentQuestionSet = questionsChapter14;
       break;
+    case 'cap15':
+      currentAnswers = correctAnswersChapter15;
+      currentQuestionSet = questionsChapter15;
+      break;
     default:
       currentAnswers = {};
       currentQuestionSet = [];
@@ -729,7 +744,7 @@ function App() {
       />
       
       <header className="App-header">
-        <h1>Grile Admitere Timisoara Biologie 2024</h1>
+        <h1>Grile Admitere Timisoara Biologie 2025</h1>
         <a href="https://revolut.me/dragoscdk" target="_blank" rel="noopener noreferrer" className="donate-button">
           Donează
         </a>
@@ -754,57 +769,55 @@ function App() {
             Simulare Personalizată
           </button>
         </div>
-        
-        <YearSelector selectedYear={selectedYear} onYearChange={handleYearChange} />
-        
-        {appMode === 'quiz' && (
-          <div>
-            <div className="chapter-selector">
-              <select 
-                className="chapter-dropdown"
-                value={activeChapter}
-                onChange={(e) => switchChapter(e.target.value)}
-              >
-                {availableChapters.map(chapterNum => (
-                  <option key={chapterNum} value={`cap${chapterNum}`}>
-                    Capitolul {chapterNum}
-                  </option>
-                ))}
-              </select>
-            </div>
-            
-            <div className="quiz-options">
-              <div className="answer-order-toggle-container">
-                <p className="toggle-description">Ordine răspunsuri:</p>
-                <div className="answer-order-toggle">
-                  <label className="toggle-switch">
-                    <input 
-                      type="checkbox" 
-                      checked={randomizeAnswers} 
-                      onChange={toggleRandomizeAnswers}
-                    />
-                    <span className="toggle-slider"></span>
-                  </label>
-                  <span className="toggle-label">
-                    {randomizeAnswers ? 'Răspunsuri aleatorii' : 'Răspunsuri ordonate'}
-                  </span>
-                </div>
+      </header>
+      
+      {appMode === 'quiz' && (
+        <div>
+          <div className="chapter-selector">
+            <select 
+              className="chapter-dropdown"
+              value={activeChapter}
+              onChange={(e) => switchChapter(e.target.value)}
+            >
+              {availableChapters.map(chapterNum => (
+                <option key={chapterNum} value={`cap${chapterNum}`}>
+                  Capitolul {chapterNum}
+                </option>
+              ))}
+            </select>
+          </div>
+          
+          <div className="quiz-options">
+            <div className="answer-order-toggle-container">
+              <p className="toggle-description">Ordine răspunsuri:</p>
+              <div className="answer-order-toggle">
+                <label className="toggle-switch">
+                  <input 
+                    type="checkbox" 
+                    checked={randomizeAnswers} 
+                    onChange={toggleRandomizeAnswers}
+                  />
+                  <span className="toggle-slider"></span>
+                </label>
+                <span className="toggle-label">
+                  {randomizeAnswers ? 'Răspunsuri aleatorii' : 'Răspunsuri ordonate'}
+                </span>
               </div>
             </div>
-            
-            <QuizContainer
-              questions={currentQuestionSet}
-              filteredQuestions={filteredQuestions}
-              correctAnswers={currentAnswers}
-              bookmarkedQuestions={bookmarkedQuestions}
-              updateStats={(isCorrect) => updateStats(isCorrect)}
-              toggleBookmark={toggleBookmark}
-              searchQuestions={searchQuestions}
-              randomizeAnswers={randomizeAnswers}
-            />
           </div>
-        )}
-      </header>
+          
+          <QuizContainer
+            questions={currentQuestionSet}
+            filteredQuestions={filteredQuestions}
+            correctAnswers={currentAnswers}
+            bookmarkedQuestions={bookmarkedQuestions}
+            updateStats={(isCorrect) => updateStats(isCorrect)}
+            toggleBookmark={toggleBookmark}
+            searchQuestions={searchQuestions}
+            randomizeAnswers={randomizeAnswers}
+          />
+        </div>
+      )}
       
       <main>
         {appMode === 'quiz' ? (

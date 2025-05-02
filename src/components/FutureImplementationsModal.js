@@ -15,12 +15,8 @@ const FutureImplementationsModal = ({ isOpen, onClose }) => {
           <h3>În Curând</h3>
           <ul className="features-list">
             <li>
-              <strong>Grile de admitere 2025</strong>
-              <p>Adaugă grilele de admitere 2025 în aplicație.</p>
-            </li>
-            <li>
-              <strong>Progres pe capitole</strong>
-              <p>Urmărește performanța ta pentru fiecare capitol în parte.</p>
+              <strong>Grile de admitere 2026</strong>
+              <p>Adaugă grilele de admitere 2026 în aplicație.</p>
             </li>
             <li>
               <strong>Mod de învățare</strong>
