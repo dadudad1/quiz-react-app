@@ -12,8 +12,11 @@ const SimulationResults = ({
   isCustom = false,
   customParams = {}
 }) => {
-  const { correctCount, resultsByChapter } = results;
+  // Ensure results and wrongAnswers are properly initialized
+  const { correctCount = 0, resultsByChapter = {}, wrongAnswers = [] } = results || {};
   const score = Math.round((correctCount / totalQuestions) * 100);
+  const [showWrongAnswers, setShowWrongAnswers] = useState(false);
+  const [expandedChapters, setExpandedChapters] = useState({});
   
   // Determine if the simulation was passed (a score of 70% or higher is passing)
   const isPassed = score >= 70;
@@ -30,6 +33,29 @@ const SimulationResults = ({
   const [calculatedAvailableQuestions, setCalculatedAvailableQuestions] = useState(
     totalAvailableQuestions || 0
   );
+
+  // Handle showing/hiding wrong answers with error handling
+  const handleToggleWrongAnswers = () => {
+    try {
+      console.log('Wrong answers data:', wrongAnswers); // Debug log
+      setShowWrongAnswers(prev => !prev);
+    } catch (error) {
+      console.error('Error toggling wrong answers:', error);
+    }
+  };
+
+  // Handle toggling chapter expansion
+  const handleToggleChapter = (chapter) => {
+    setExpandedChapters(prev => ({
+      ...prev,
+      [chapter]: !prev[chapter]
+    }));
+  };
+
+  // Get all answers for a specific chapter
+  const getChapterAnswers = (chapter) => {
+    return wrongAnswers.filter(answer => answer.chapter === chapter);
+  };
   
   // Load simulation statistics from localStorage
   useEffect(() => {
@@ -48,25 +74,80 @@ const SimulationResults = ({
     // Calculate total available questions if not provided as prop
     if (!totalAvailableQuestions) {
       try {
-        // This needs to be coordinated with the total question count in allChaptersData
-        // For now, we'll use a calculation based on the chapter results
         const chaptersTotal = Object.values(resultsByChapter).reduce((total, chapter) => {
-          // Estimate the total number of questions in the chapter
-          // This is a rough estimation, adjust based on your actual data
-          const estimatedChapterTotal = chapter.total * 5; // Assuming we're using about 20% of chapter questions
+          const estimatedChapterTotal = chapter.total * 5;
           return total + estimatedChapterTotal;
         }, 0);
         
-        setCalculatedAvailableQuestions(chaptersTotal || 500); // Fallback to 500 if calculation fails
+        setCalculatedAvailableQuestions(chaptersTotal || 500);
       } catch (e) {
         console.error('Eroare la calcularea numărului total de întrebări disponibile:', e);
-        setCalculatedAvailableQuestions(500); // Default fallback
+        setCalculatedAvailableQuestions(500);
       }
     }
   }, [resultsByChapter, totalAvailableQuestions, isCustom]);
   
   // Use the prop value if available, otherwise use calculated value
   const finalAvailableQuestions = totalAvailableQuestions || calculatedAvailableQuestions;
+
+  // Render answers for a specific chapter
+  const renderChapterAnswers = (chapter) => {
+    const chapterAnswers = getChapterAnswers(chapter);
+    if (!chapterAnswers.length) return null;
+
+    return (
+      <div className="chapter-answers">
+        <div className="answers-list">
+          {chapterAnswers.map((answer, index) => {
+            try {
+              return (
+                <div key={index} className={`answer-item ${answer.isCorrect ? 'correct' : 'incorrect'}`}>
+                  <div className="answer-header">
+                    <span className="answer-number">Întrebarea {answer.questionNumber}</span>
+                    <span className={`answer-status ${answer.isCorrect ? 'correct' : 'incorrect'}`}>
+                      {answer.isCorrect ? '✓ Corect' : '✗ Incorect'}
+                    </span>
+                  </div>
+                  <div className="answer-question">{answer.question}</div>
+                  <div className="answer-details">
+                    <div className="answer-options">
+                      {answer.options && Array.isArray(answer.options) ? (
+                        answer.options.map((option, optIndex) => (
+                          <div 
+                            key={optIndex}
+                            className={`option ${option === answer.correctAnswer ? 'correct' : option === answer.userAnswer ? 'incorrect' : ''}`}
+                          >
+                            {option}
+                          </div>
+                        ))
+                      ) : (
+                        <div className="error-message">Opțiunile nu sunt disponibile</div>
+                      )}
+                    </div>
+                    <div className="answer-feedback">
+                      <div className="feedback-item">
+                        <span className="feedback-label">Răspunsul tău:</span>
+                        <span className={`feedback-value ${answer.isCorrect ? 'correct' : 'incorrect'}`}>
+                          {answer.userAnswer || 'N/A'}
+                        </span>
+                      </div>
+                      <div className="feedback-item">
+                        <span className="feedback-label">Răspunsul corect:</span>
+                        <span className="feedback-value correct">{answer.correctAnswer || 'N/A'}</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              );
+            } catch (error) {
+              console.error('Error rendering answer:', error, answer);
+              return null;
+            }
+          })}
+        </div>
+      </div>
+    );
+  };
   
   return (
     <div className="simulation-container">
@@ -114,25 +195,39 @@ const SimulationResults = ({
             
             <h3 className="section-title">Performanță pe capitole</h3>
             <div className="chapter-results">
-              {Object.entries(resultsByChapter).map(([chapter, data]) => (
-                <div key={chapter} className="chapter-result">
-                  <div className="chapter-header">
-                    <h4>Capitolul {chapter.replace('cap', '')}</h4>
-                    <div className="chapter-score">
-                      {Math.round((data.correct / data.total) * 100)}%
+              {Object.entries(resultsByChapter).map(([chapter, data]) => {
+                const chapterAnswers = getChapterAnswers(chapter);
+                return (
+                  <div key={chapter} className="chapter-result">
+                    <div className="chapter-header">
+                      <h4>Capitolul {chapter.replace('cap', '')}</h4>
+                      <div className="chapter-score">
+                        {Math.round((data.correct / data.total) * 100)}%
+                      </div>
                     </div>
+                    <div className="chapter-detail">
+                      {data.correct} corecte din {data.total} întrebări
+                    </div>
+                    <div className="progress-bar">
+                      <div 
+                        className="progress-fill" 
+                        style={{ width: `${(data.correct / data.total) * 100}%` }}
+                      ></div>
+                    </div>
+                    {chapterAnswers.length > 0 && (
+                      <div className="chapter-actions">
+                        <button 
+                          className="btn btn-sm btn-outline-primary"
+                          onClick={() => handleToggleChapter(chapter)}
+                        >
+                          {expandedChapters[chapter] ? 'Ascunde' : 'Arată'} răspunsuri ({chapterAnswers.length})
+                        </button>
+                      </div>
+                    )}
+                    {expandedChapters[chapter] && renderChapterAnswers(chapter)}
                   </div>
-                  <div className="chapter-detail">
-                    {data.correct} corecte din {data.total} întrebări
-                  </div>
-                  <div className="progress-bar">
-                    <div 
-                      className="progress-fill" 
-                      style={{ width: `${(data.correct / data.total) * 100}%` }}
-                    ></div>
-                  </div>
-                </div>
-              ))}
+                );
+              })}
             </div>
             
             <div className="results-actions">

@@ -1,1918 +1,1304 @@
 [
   {
     "numar": 1,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la sistemul endocrin:",
+    "intrebare": "Selectati afirmațiile adevărate referitoare la funcțiile sistemului urinar",
     "variante": {
-      "A": "Este alcǎtuit din glande endocrine ai căror produși de secreție sunt eliberati în sânge,cu scopul de a mentine homeostazia",
-      "B": "Este alcǎtuit din glande endocrine ai căror produși de secreție sunt eliberati în limfǎ,unde îsi exercitǎ efectul",
-      "C": "Este alcătuit din totalitatea glandelorale căror produsi de secretie sunt eliberati direct în sânge sau în limfă, unde își exercitǎ efectul",
-      "D": "În alcătuirea lui intră și celule endocrine dispuse difuz în anumite tesuturi",
-      "E": "Sângele transportă hormonii până la organele țintă, unde aceștia produc modificǎri biochimice si fiziologice"
+      "A": "Principala funcție a sistemului urinar este formarea urinei din serul sanguin (un fluid complet lipsit de proteine)",
+      "B": "Functia primară a sistemului urinar este realizată de rinichi împreună cu alte organe asociate (structuri anexe)",
+      "C": "Functia primară a sistemului urinar constă în reglarea compoziției și a concentratiei fluidelor extracelulare (plasma și fluidele tisulare)",
+      "D": "Rinichii contribuie la menținerea presiunii sângelui prin reglarea volumului plasmei sanguine",
+      "E": "Rinichii și structurile anexe asigurǎ reglarea echilibrului acido-bazic în mediul intracelular,prin reglarea presiunii sângelui"
     }
   },
   {
     "numar": 2,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la hormoni:",
+    "intrebare": "Selectați afirmațiile false referitoare la funcția sistemului urinar",
     "variante": {
-      "A": "Sunt transportati de sânge la organele tintă, unde își exercită efectul (modificǎri biochimice si fiziologice)",
-      "B": "La nivelul celulelor țintă, se leagă doar de receptorii aflati în interiorul celulei",
-      "C": "Nu influențează creșterea și dezvoltarea organismului",
-      "D": "Unii hormoni favorizează retenția de apă și sodiu în organism",
-      "E": "Ridică sau scad nivelul glucozei din sânge (hormonii secretati de insulele Langerhans)"
+      "A": "Este asigurată exclusiv de către rinichi prin procesul de filtrare a sângelui",
+      "B": "Principala funcție a sistemului urinar este formarea urinei din plasma sanguinǎC. Constă în menținerea concentrației electroliților intracelulari(sodiu,glucozǎ)",
+      "D": "Reglează concentratia plasmatică a unor cationişi anioni (CO32-,HCO3)",
+      "E": "Intervine în reglarea concentrației plasmatice a carbonaților, nu și a bicarbonaților sau a calciului"
     }
   },
   {
     "numar": 3,
-    "intrebare": "Alegeti afirmațiile adevărate referitoare la produșii de secreție ai glandelor endocrine:",
+    "intrebare": "Constituie componente ale sistemului urinar urmǎtoarele",
     "variante": {
-      "A": "După structura chimică, sunt hormoni steroidieni (steroizi) și hormoni non-steroidieni (non-steroizi)",
-      "B": "Adrenalina și insulina aparțin hormonilor steroidieni",
-      "C": "Cortizolul, estrogenii și aldosteronul sunt hormoni derivati din colesterol",
-      "D": "Hormonii non-steroidieni au o structură inelară, complexă, lipidică",
-      "E": "Hormonii non-steroidieni includ hormonii proteici (alcătuiți din lanțuri de aminoacizi,interconectate prin legături peptidice)"
+      "A": "Rinichii, organe pereche, localizați în cavitatea abdominalǎ,retroperitoneal",
+      "B": "Vezica urinară, situată în cavitatea abdominală, posterior de simfiza pubiană",
+      "C": "Structurile anexe (ureterul,uretrele)",
+      "D": "Structurile anexe (ureterele, vezica urinară)",
+      "E": "Ureterul (organ pereche, tubular, care asigură transportul urinei de la rinichi la vezica urinarǎ)"
     }
   },
   {
     "numar": 4,
-    "intrebare": "Despre hormoni se poate afirma cǎ:",
+    "intrebare": "Identificați elementele anatomice care fac parte din sistemul urinar",
     "variante": {
-      "A": "Hormonii steroizi sunt reprezentați de ADH, oxitocină, insulină și prolactină",
-      "B": "Hormonii peptidici sunt reprezentați de ADH și oxitocină, iar cei proteici de insulină,STH si prolactina",
-      "C": "Unii hormoni non-steroizi (noradrenalina și adrenalina) conțin în structura lor grupări aminice",
-      "D": "Hormonii non-steroizi pot conține în structura lor și lipoproteine (VLDL, LDL și HDL)",
-      "E": "Tiroxina și calcitonina sunt hormoni cu structură lipidică, fiind derivati de colesterol"
+      "A": "Ureterul, organ pereche, tubular, care se întinde de la rinichi până la vezica urinarǎ",
+      "B": "Rinichiul, organ pereche, situat în cavitatea abdominalǎC. Vezica urinară, organ nepereche, extensibil, situat posterior de simfiza pubiană",
+      "D": "Uretra, organ pereche, conduce urina de la baza vezicii urinare spre spre uretere",
+      "E": "Uretra,formațiune tubulară, cu dimensiuni egale la ambele sexe si orientare anatomicǎspecificǎ la sexul masculin"
     }
   },
   {
     "numar": 5,
-    "intrebare": "Alegeți afirmațiile false referitoare la modul de actiune al hormonilor steroizi:",
+    "intrebare": "Sistemul urinar include:",
     "variante": {
-      "A": "Traverseazǎ cu usurintă membrana celularǎ,dizolvându-se în fosfolipidele din constitutia acesteia",
-      "B": "Fiind puternic hidrofili, au nevoie de sisteme specifice de transport prin membrana celularǎ",
-      "C": "Fiind puternic hidrofobi, nu pot traversa membrana celulară și se leagă de receptorii aflati pe suprafata acesteia",
-      "D": "Se combină cu fosfolipidele în citoplasma celulelor tintă, fenomen ce conduce la inhibarea sintezei proteice",
-      "E": "Se combină cu proteine în citoplasma celulelor țintă, rezultând un complex stimulator al activității unor gene care codifică tipuri specifice de molecule de ARN mesager"
+      "A": "Rinichii, organe pereche, cu rol în producerea urinei",
+      "B": "Ureterele, cu rol în transportul urinei spre vezica urinarǎ",
+      "C": "Vezica urinară, în care, între micțiuni se acumulează până la 800 ml urină",
+      "D": "Uretra, prin care se elimină urina din vezica urinară prin procesul mictiunii",
+      "E": "Alte structuri anexe prin care urina este condusǎ la rinichi"
     }
   },
   {
     "numar": 6,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la modul de actiune al hormonilor proteici,peptidici si aminici:",
+    "intrebare": "Structurile anexe ale sistemului urinar sunt reprezentate de:",
     "variante": {
-      "A": "Pot traversa cu ușurință membrana celulară, legându-se de receptorii din citoplasmă",
-      "B": "Actionează ca mesageri primari, care se leagă de receptorii aflați pe membrana celulelor țintă",
-      "C": "Intensifică activitatea adenilat ciclazei, enzimă membranară care asigură sinteza de AMP ciclic (cAMP) din ATP",
-      "D": "Prin AMP ciclic în calitate de mesager secundar, sunt activate anumite enzime și este stimulatǎ sinteza proteică",
-      "E": "Prin AMP ciclic ca mesager primar,ei determină alterarea permeabilitǎtii membranei celulare"
+      "A": "Ureterele, care continuă pelvisul renal în afara rinichilor",
+      "B": "Pelvisul renal, formațiune bombată aflată la ieșirea din rinichi, în care se deschid tubii colectori",
+      "C": "Uretra, mai scurtă la femei decât la bărbaț și poziționată anterior de vagin",
+      "D": "Prostata, glandă endocrină, cu rol în mnictiune",
+      "E": "Calicele mari, formate din confluența calicelor mici"
     }
   },
   {
     "numar": 7,
-    "intrebare": "Ce efecte biochimice și fiziologice exercită diferiti hormoni?",
+    "intrebare": "Despre rinichi este adevǎrat cǎ:",
     "variante": {
-      "A": "Modifică nivelul glucozei în sânge (hormonii pancreatici)",
-      "B": "Stimulează eliminarea apei (hormonul antidiuretic)",
-      "C": "Stimulează creșterea și dezvoltarea organismului (STH-hormonul somatotrop)",
-      "D": "Induc dezvoltarea caracteristicilor sexuale masculine (testosteronul)",
-      "E": "Favorizează eliminarea sodiului prin urină (aldosteronul)"
+      "A": "Sunt organe pereche, situate în cavitatea abdominalǎ",
+      "B": "Sunt localizati subdiafragmatic, de o parte și de alta a coloanei vertebrale",
+      "C": "Sunt localizați pe peretele abdominal posterior, acoperiți în întregime de peritoneul visceral",
+      "D": "Sunt organe abdominale retroperitoneale",
+      "E": "Fiecare rinichi prezintă la polul inferior o glandǎ suprarenalǎ"
     }
   },
   {
     "numar": 8,
-    "intrebare": "Care dintre următoarele afirmatii sunt false?",
+    "intrebare": "Selectați răspunsurile corecte cu privire la rinichi:",
     "variante": {
-      "A": "Pe membrana celulelor țintă există receptori de care se leagǎ hormonii cortizol, estrogeni,progesteron",
-      "B": "Pe membrana celulelor tintă există receptori de care se leagǎ majoritatea hormonilor proteici,peptidici si aminici",
-      "C": "Printre hormonii cu structură lipidică (non-steroizi), se numără aldosteronul, cortizolul și adrenalina",
-      "D": "Hormonii steroidieni (steroizi) nu se pot dizolva în fosfolipide",
-      "E": "cAMP (adenozin-monofosfatul ciclic) este un mesager secundar care odatǎ sintetizat, se dispersează în celulă și induce efecte ca activarea unor enzime, creșterea sintezei proteice,etc"
+      "A": "Sunt în număr de doi, dispuși retroperitoneal, cel stâng fiind situat mai sus decât cel drept",
+      "B": "Sunt situati lateral de coloana vertebrală și cântăresc minim 250g",
+      "C": "Se găsesc medial de coloana vertebrală toracală si cântǎresc minim 250g",
+      "D": "Sunt situați lateral de coloana vertebrală toracolombară și cântăresc în medie 175g",
+      "E": "Pozitia lor în cavitatea abdominală este menținută de către țesutul adipos si tesutul conjunctiv de vecinǎtate"
     }
   },
   {
     "numar": 9,
-    "intrebare": "Care dintre următoarele afirmații referitoare la hormonii steroizi (steroidieni) sunt adevǎrate?",
+    "intrebare": "Identificati afirmațiile adevărate privind localizarea și raporturile anatomice ale rinichilor:",
     "variante": {
-      "A": "Au o structură liniară simplă, fară structuri ciclice specifice moleculei de colesterol",
-      "B": "Au o structură lipidică derivatǎ din colesterol",
-      "C": "Au în compoziție lanțuri lungi de acizi grasi esentiali",
-      "D": "Au în compozitie atomi de carbon si de hidrogen",
-      "E": "Au în compozitie acizi grași esterificati cu glicerol"
+      "A": "Sunt dispusi lateral de coloana vertebralǎ,supradiafragmatic",
+      "B": "Sunt dispuși în cavitatea abdominală, subdiafragmatic",
+      "C": "Stabilesc prin polul lor superior raporturi cu glandele suprarenale",
+      "D": "Sunt în număr de doi, în cavitatea pelvină (pelviană), lateral de coloana vertebralǎ",
+      "E": "Sunt dispusi retroperitoneal, în cavitatea abdominală, de o parte și de alta a coloanei vertebrale"
     }
   },
   {
     "numar": 10,
-    "intrebare": "Alegeti asocierile corecte referitoare la hormoni si structura lor chimicǎ:",
+    "intrebare": "Despre localizarea și relațiile anatomice ale rinichilor este adevărat cǎ:",
     "variante": {
-      "A": "Cortizolul-steroidian, cu structură lipidică complexǎ,inelarǎ",
-      "B": "Hormonul antidiuretic și oxitocina-non-steroidieni cu structură aminică",
-      "C": "Adrenalina și noradrenalina-non-steroidieni cu structură peptidică",
-      "D": "Calcitonina și insulina-non-steroidieni cu structurǎ proteicǎ",
-      "E": "Parathormonul-steroidian cu structurǎ aminică"
+      "A": "Rinichii sunt dispusi supradiafragmatic, în cavitatea toracoabdominalǎ",
+      "B": "Rinichii sunt dispuși subdiafragmatic, în cavitatea abdominală, posterior de seroasa peritonealǎ (peritoneu)",
+      "C": "Polul superior al rinichiului stâng se află la o distantă mai mare de diafragmă decât cel al rinichiului drept",
+      "D": "La polul superior al fiecărui rinichi se află glanda suprarenală (o glandǎ endocrină care secretǎ hormoni derivați din colesterol, prin zona ei corticală și catecolamine,prin zona ei medularǎ)",
+      "E": "Pe marginea medială, fiecare rinichi prezintă o convexitate ce cuprinde hilul renal"
     }
   },
   {
     "numar": 11,
-    "intrebare": "Care dintre următoarele afirmatii, referitoare la hormonii proteici,sunt false?",
+    "intrebare": "Despre morfologia și relațiile anatomice ale rinichiului este adevǎrat cǎ",
     "variante": {
-      "A": "Sunt alcătuiți din lanțuri de monozaharide (glucagonul)",
-      "B": "Sunt alcǎtuiți din lanțuri de aminoacizi a căror secvență este controlată de gene (insulina)",
-      "C": "Sunt alcătuiți din lanțuri de acizi grași esterificati cu diferiti alcooli (hormonul somatotrop)",
-      "D": "Prezintă legǎturi peptidice -CO-NH- care leagă între ele aminoacizii constituenți (calcitonina)",
-      "E": "Au ca reprezentanti adrenalina, tiroxina, aldosteronul"
+      "A": "La o persoană adultă rinichiul este aproximativ de mărimea unui pumn si cântǎreste în medie 175 de grame",
+      "B": "În raport cu diafragma, rinichiul drept este situat mai jos decât rinichiul stâng",
+      "C": "Rinichiul stâng vine în raport anatomic cu lobul drept al ficatului",
+      "D": "Rinichiul stâng vine în contact cu splina, pe suprafața căreia lasă o depresiune, amprenta renalǎE. Pe marginea medială, fiecare rinichi prezintă o zonă concavă, hilul renal, la nivelul căruia intră în rinichi artera renalǎ"
     }
   },
   {
     "numar": 12,
-    "intrebare": "Care dintre urmǎtoarele afirmații, referitoare la hormonii peptidici, sunt adevarate?",
-    "variante": {
-      "A": "Lanțurile de aminoacizi care îi compun sunt mai scurte în comparatie cu cele ale hormonilor proteici",
-      "B": "Lanțurile de amine care îi compun sunt mai lungi în comnparatie cu cele ale hormonilor proteici (cum este insulina)",
-      "C": "Sunt alcătuiți din molecule de glucoză conectate între ele prin legǎturi glicozidice",
-      "D": "Sunt reprezentați de ADH (hormonul antidiuretic) și de oxitocinǎ",
-      "E": "Din grupa hormonilor peptidici nu fac parte adrenalina, noradrenalina si cortizolul"
-    }
-  },
-  {
-    "numar": 13,
-    "intrebare": "Care dintre următoarele afirmații, referitoare la hormonii steroizi, sunt adevǎrate?",
-    "variante": {
-      "A": "Se dizolvǎ în fosfolipidele membranare",
-      "B": "Au structura lipidicǎ",
-      "C": "În citoplasma celulelor tintă se combină cu fosfolipide",
-      "D": "Intracelular,se combină cu proteine formând un complex care stimulează gene ce codificǎmolecule de ARN mesager (ARNm)",
-      "E": "Intracelular se combină cu glucide formând un complex care va declansa sinteza proteicǎ"
-    }
-  },
-  {
-    "numar": 14,
-    "intrebare": "Care dintre următoarele afirmații, referitoare la hormonii non-steroidieni,sunt adevǎrate?",
-    "variante": {
-      "A": "Strǎbat membranele celulare, interacționând în celula țintă cu diverse proteine",
-      "B": "Cei mai mulți dintre ei se leagă de receptori aflați pe membrana celulelor tintǎ",
-      "C": "Intensifică activitatea anumitor enzime membranare, cum este adenilat ciclaza",
-      "D": "Contribuie direct, farǎ intervenția cAMP (mesager secundar), la producerea unor modificǎri celulare",
-      "E": "Actionează ca mesageri secundari, dispersându-se în celulă și activând anumite enzime"
-    }
-  },
-  {
-    "numar": 15,
-    "intrebare": "Care dintre urmǎtoarele afirmații, referitoare la adenozin-monofosfatul ciclic (cAMP),sunt adevǎrate?",
-    "variante": {
-      "A": "Rezultǎ din transformarea moleculei de ATP, sub acțiunea adenilat ciclazei",
-      "B": "Se transformǎ în ATP,sub actiunea ATP-azei",
-      "C": "Este un mesager primar, care se leagă de receptorii de pe membrana celulei țintă",
-      "D": "Este un mesager secundar, care după ce a fost sintetizat,se disperseazǎ în celulǎ",
-      "E": "Poate induce modificări celulare: alterarea permeabilitǎtii membranare, accelerarea metabolismului, contractie muscularǎ"
-    }
-  },
-  {
-    "numar": 16,
-    "intrebare": "Alegeți afirmațiile adevărate dintre cele -de mai jos:",
-    "variante": {
-      "A": "Ca mesager secund, ATP-ul (adenozin-trifosfatul) determină diviziunea celulei si activarea anumitor enzime",
-      "B": "Adenozin-monofosfatul ciclic (cAMP) produce exclusiv relaxare muscularǎ",
-      "C": "Pe membrana celulelor tintă se află receptori pentru mesagerii primari reprezentati de hormoni ca oxitocina, insulina, adrenalina",
-      "D": "Pe membrana celulelor țintă se află molecule proteice denumite CMH (complex major de histocompatibilitate) clasa I",
-      "E": "cAMP,sintetizat ca mesager secundar sub actiunea adenilat ciclazei, este responsabil de modificări ale permeabilitǎtii membranare"
-    }
-  },
-  {
-    "numar": 17,
-    "intrebare": "Ce semnifică mecanismul autocrin/paracrin al unei glande endocrine?",
-    "variante": {
-      "A": "Acțiunea hormonului se exercită la distanță de locul secreției - meanism paracrin",
-      "B": "Actiunea hormonului se exercită asupra celulei care l-a secretat-mecanism autocrin",
-      "C": "Actiunea hormonului se exercitǎ asupra celulelor din imediata vecinătate a celor care l-au secretat-mecanism paracrin",
-      "D": "Acțiunea hormonului este independentă de orice control-mecanism autocrin",
-      "E": "Actiunea hormonului se instalează imediat după ce este eliberat în circulatie-mecanism paracrin"
-    }
-  },
-  {
-    "numar": 18,
-    "intrebare": "Citiți cele 5 enunțuri de mai jos, cărora le mai lipsește un cuvânt/câteva cuvinte pentru a reprezenta afirmații adevărate. Alegeți A-dacă succesiunea completǎrilor este următoarea: 1. din imediata vecinătate, 2. adenohipofiză, 3. sella turcica,4. oxitocină; 5. inferior; B-dacă succesiunea completărilor este următoarea: 1. care l-au secretat,2. adenohipofiză, 3. foramen magnum, 4. oxitocină; 5. superior; C-dacǎexistă afirmații legate de localizarea unor glande în corp; D-dacă există o afīrmație referitoare la oase ale scheletului capului; E-dacă enunțul de la punctul 1. se referăla secretia de salivǎ",
-    "variante": {}
-  },
-  {
-    "numar": 1,
-    "intrebare": "Mecanismul paracrin al unei glande endocrine semnifică faptul că acțiunea hormonului se exercitǎ asupra celulelor",
+    "intrebare": "Analizați cu atenție următoarele enunțuri. Răspunsul este A dacă enunțul 1 și 3 sunt corecte, B dacă enunțurile 4 și 5 se referă la hilul renal și sunt ambele corecte,C daca afirmațiile 3 și 5 sunt corecte, D dacă afirmațiile referitoare la polul superior al rinichilor sunt corecte și E dacă 1,2,4 sunt corecte 1. În raport cu diafragma, polul superior al rinichiului stâng este situat mai sus fată de polul superior al rinichiului drept",
     "variante": {}
   },
   {
     "numar": 2,
-    "intrebare": "Lobul anterior al hipofizei se mai numeste..........",
-    "variante": {}
-  },
-  {
-    "numar": 3,
-    "intrebare": "Glanda hipofiză este situată într-o depresiune a osului sfenoid, numitǎ",
+    "intrebare": "La polul superior al rinichiului drept se află glanda suprarenalǎ dreaptǎ3. La exterior, rinichii sunt înveliti de o capsulă de tesut conjunctiv dens de culoare albicioasǎ",
     "variante": {}
   },
   {
     "numar": 4,
-    "intrebare": "Hormonul care are ca organ tinia uterul gravid la termen, căruia îi induce contractii puternice,este...........5. Glandele suprarenale nu sunt situate la polul..........al rinichiului",
+    "intrebare": "Pe fata anterioară a rinichiului se găsește o depresiune numită hilul renal 5. Pe marginea medială a rinichilor se află hilul renal, la nivelul căruia intră în rinichi artera renalǎ",
     "variante": {}
   },
   {
-    "numar": 19,
-    "intrebare": "Selectați afirmațiile false cu privire la glanda hipofizǎ:",
+    "numar": 13,
+    "intrebare": "Referitor la rinichi, selectați răspunsurile în care prima afirmație este falsă și cea de a doua adevǎratǎ",
     "variante": {
-      "A": "Este legaty de infundibul (porțiune a cerebelului) printr-o legătură nervoasǎ (sistemul port hipofizary",
-      "B": "Este legată de partea inferioară a hipotalamusului printr-o tijă denumitā infundibul",
-      "C": "Este situată în șaua turcească a osului temporal, imediat anterior chiasmei optice",
-      "D": "Este situată într-o depresiune a osului sfenoid denumită sella turcica (saua turcească)",
-      "E": "Este formatǎ din lobul anterior (neurohipofiza) și lobul posterior (adenohipofiza)"
+      "A": "Sunt înveliti la exterior de o capsulă fibroasă, capsula Bowman. Rinichii sunt organe pline, care prezintă pe secțiune frontală cortexul și medulara",
+      "B": "Sunt învelitți la exterior de capsula renală formată din tesut conjunctiv dens neordonat. La interior, imediat sub capsulă, rinichiul prezintă zona medulară,care cuprinde piramidele renale",
+      "C": "Prezintǎ hilul renal - o convexitate pe marginea laterală. Sunt înveliti la exterior de o capsulă de tesut conjunctiv fibros (capsula renală)",
+      "D": "Zona corticală cuprinde piramidele renale. Între piramidele renale se gǎsesc coloanele renale",
+      "E": "Prezintă hilul renal, prin care intră în rinichi vena renală, provenită din vena cavăinferioară. La nivelul hilului intră în rinichi artera renalǎ, ramură din trunchiul celiac"
+    }
+  },
+  {
+    "numar": 14,
+    "intrebare": "Alegeți dintre răspunsurile de mai jos pe cele care contin o primă afirmație adevărată și a doua falsă,referitoare la aspecte anatomice și structurale ale rinichilor",
+    "variante": {
+      "A": "În hilul fiecărui rinichi se află o arteră renală (care intră în rinichi) și o venă renală (care pǎrǎsește rinichiul). Fiecare rinichi eliberază urina într-o structură sub formă de pâlnie, denumită ureter",
+      "B": "Vascularizatia fiecărui rinichi este reprezentată de către o arteriolă renală și o venǎsuprarenală. Sistemul urinar are ca funcție primară reglarea compoziției și concentratiei fluidelor extracelulare (plasma și fluidele tisulare)",
+      "C": "Pe suprafata medială a rinichiului se descrie la exterior o depresiune (concavitate)denumită hil. Rinichii sunt organe peritoneale (intraperitoneale), situate în cavitatea pelviană pe peretele anterior al acesteia",
+      "D": "O secțiune frontală prin rinichi evidențiază două regiuni distincte, corticala renalăsi medulara renală. La adult, fiecare rinichi cântărește în medie 75 de grame",
+      "E": "Uretra este situată în continuarea pelvisului renal. Nefronul reprezintă structura la nivelul căreia se formeazǎ urina"
+    }
+  },
+  {
+    "numar": 15,
+    "intrebare": "Selectati afirmațiile adevărate referitoare la vascularizația rinichiului:",
+    "variante": {
+      "A": "Vascularizația arterială a rinichilor este asigurată de cele doua artere renale,ramuri ale aortei toracice",
+      "B": "Artera renalǎ, ramură a arterei aorte abdominale, pătrunde prin hilul renal în rinichi, unde se ramificǎ",
+      "C": "În rinichi, artera renala se divide în artere din ce în ce mai mici, până la nivel de arteriole aferente",
+      "D": "Vena renala se formează din unirea capilarelor venoase glomerulare și dreneazǎ sângele rinichiului spre vena cavă inferioarǎ",
+      "E": "Vena renalǎ stângǎ (afluent al venei cave inferioare) primește și sângele venei gonadale stângi"
+    }
+  },
+  {
+    "numar": 16,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Arteriola aferentă se află la originea capilarelor glomerulare",
+      "B": "Artera renală dă naștere direct rețelei capilare peritubulare a nefronului",
+      "C": "Ramificatiile arterei renale care ajung în corticala renală dau naștere arteriolelor aferente (vizibile doar microscopic)",
+      "D": "Din capilarele peritubulare, sângele este drenat în final în vene de dimensiuni mici care vor conflua în vene mai mari și acestea vor drena în final în vena renalǎ",
+      "E": "Vena renală, care drenează sângele din rinichi, se deschide în sistemul port hepato-renal iar acesta, în venele cave"
+    }
+  },
+  {
+    "numar": 17,
+    "intrebare": "Pe o secțiune frontală prin rinichi, la nivel macroscopic,se observǎ:",
+    "variante": {
+      "A": "O regiune externă denumită cortex sau corticala renală, care trimite prelungiri între piramidele renale",
+      "B": "O regiune profundă, medulara renală, compusă din piramidele renale - formatiuni triunghiulare",
+      "C": "Glomerulii renali (rețele de capilare venoase) situați în zona corticală",
+      "D": "Tubii uriniferi (proximali și distali) situați în zona medulară",
+      "E": "Pelvisul renal (un organ cavitar care colectează urina din calice și se continuă cu ureterul)"
+    }
+  },
+  {
+    "numar": 18,
+    "intrebare": "Care dintre următoarele structuri anatomice se găsesc intrarenal:",
+    "variante": {
+      "A": "Piramidele renale, formațiuni triunghiulare din zona medulară",
+      "B": "Coloanele renale, prelungiri ale zonei medulare în corticala renalǎ",
+      "C": "Calicele mari (rezultate fiecare din unirea câtorva calice mici)",
+      "D": "Papilele renale, care se deschid în calicele mari",
+      "E": "Calicele mici, care se deschid în calicele mari"
+    }
+  },
+  {
+    "numar": 19,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la zona corticală a rinichiului:",
+    "variante": {
+      "A": "Este reprezentată de calicele mari și mici, care converg spre pelvisul renal",
+      "B": "Conține coloanele renale (prelungiri ale corticalei printre piramidele renale)",
+      "C": "Conține glomeruli renali și capsulele Bowman, arteriole aferente și eferente și porțiuni din tubii nefronului",
+      "D": "Conține ansele Henle, la nivelul cărora se reabsoarbe glucoza din filtratul glomerular",
+      "E": "Este situată la periferia rinichiului, sub capsulă și trimite prelungiri în medulara renalǎ"
     }
   },
   {
     "numar": 20,
-    "intrebare": "Selectati afirmatiile adevărate cu privire la glanda hipofiză:",
+    "intrebare": "Selectați răspunsurile corecte referitoare la zona medulară a rinichiului",
     "variante": {
-      "A": "Este localizată în partea inferioară encefalului",
-      "B": "Este localizată imediat înapoia chiasmei optice",
-      "C": "Se mai numește și glandă pinealǎ",
-      "D": "Denumită și glandă pituitară, este alcătuită din doi lobi (anterior și posterior)",
-      "E": "Denumită și adenohipofiză, este alcătuită din doi lobi (superior și inferior)"
+      "A": "Contine numeroase formatiuni triunghiulare cu baza spre hilul renal",
+      "B": "Este formatǎ din glomeruli care se continuă cu tubii colectori",
+      "C": "Contine piramide renale printrecare se aflǎ coloane renale (prelungiri ale corticalei)",
+      "D": "Conține părți din structura nefronilor (ansele Henle) și capilare peritubulare",
+      "E": "Se află la periferia rinichiului, sub capsula renală"
     }
   },
   {
     "numar": 21,
-    "intrebare": "Despre glanda hipofiză și secrețiile ei, se pot afirma următoarele:",
+    "intrebare": "Selectați afirmațiile adevărate referitoare la piramidele renale",
     "variante": {
-      "A": "Hipofiza este situată pe sella turcica, o proeminentǎ a osului sfenoid",
-      "B": "Hormonul melanocitostimulator (MSH) acționează asupra melanocitelor cutanate",
-      "C": "Lobul anterior al hipofizei produce câțiva hormoni cu importanță majoră cum sunt STH,prolactina si hormonii tropi",
-      "D": "Hipofiza este situată în porțiunea inferioară a cerebelului, în saua turcească a osului sfenoid",
-      "E": "Hormonul melanocitostimulator (MSH) controlează pigmentarea pielii"
+      "A": "Au vârful orientat spre corticala renală și prevăzut cu o papilǎ renalǎ",
+      "B": "Sunt orientate cu baza spre zona corticala",
+      "C": "Au vârful orientat spre calicele mici și baza spre cortexul renal",
+      "D": "Au în componență tubii colectori, în care ajunge urina de la mai mulți nefroni din zonă",
+      "E": "De la vârful lor pornesc calicele mari, care confluează în pelivsul renal"
     }
   },
   {
     "numar": 22,
-    "intrebare": "Care dintre următoarele afirmații, referitoare la hipofiză, sunt adevǎrate?",
+    "intrebare": "Identificați răspunsurile corecte",
     "variante": {
-      "A": "Este localizată imediat anterior de chiasma optică",
-      "B": "Se mai numește și glanda pituitară",
-      "C": "Are 4 lobi: anterior, posterior, pǎtrat și caudat",
-      "D": "Are mărimea unui bob de mazǎre",
-      "E": "Este situată în șaua turcească a osului sfenoid"
+      "A": "Câteva calice mici se unesc pentru a forma un calice mare",
+      "B": "Papilele renale, denumite și calice mici, se deschid în calicele mari",
+      "C": "Calicele mici se unesc și se deschid în pelvisul renal",
+      "D": "Calicele mari converg și se deschid în pelvisul renal",
+      "E": "Pelvisul renal se continuă cu ureterul, care conduce urina spre vezica urinarǎ"
     }
   },
   {
     "numar": 23,
-    "intrebare": "Care dintre următoarele afirmații, referitoare la sipofizǎ,sunt adevǎrate?",
+    "intrebare": "Selectați răspunsurile corecte referitoare la pelvisul renal",
     "variante": {
-      "A": "Este situată în partea inferioară a encefalului, imediat posterior de chiasma optică",
-      "B": "Este constituită din adenohipofiză -lobul anterior și neurohipofizǎ-lobul posterior",
-      "C": "Este situată într-o depresiune a osului etmoid, sella turcica (șaua turcească)",
-      "D": "Lobul ei posterior, neurohipofiza, este mai degrabă un rezervor al unor hormoni hipotalamici,decât o glandă endocrină propriu-zisă",
-      "E": "Are 2 lobi laterali uniți printr-un istm și este situată în peretele ventriculului III"
+      "A": "Este o un organ cavitar în formă de pâlnie",
+      "B": "Se continuă cu un tub lung numit ureter, care ajunge în vezica urinarǎC. Este o structură cu rol în procesul de filtrare a urinei",
+      "D": "Se deschide la nivelul vezicii urinare - o structură cavitară situată în hipogastru",
+      "E": "Modul în care calicele mari converg pentru a forma pelvisul renal se observă pe o secțiune a rinichiului în plan frontal"
     }
   },
   {
     "numar": 24,
-    "intrebare": "Neurohipofiza:",
+    "intrebare": "Selectați afirmațiile adevărate cu privire la nefron",
     "variante": {
-      "A": "Reprezintă lobul anterior al hipofīzei si secretă hormoni aminici",
-      "B": "Intră în constituția glandei pituitare alături de adenohipofizǎ",
-      "C": "Este o glandă endocrină propriu-zisă care secretă hormoni peptidici",
-      "D": "Stochează temporar neurohormonii sintetizați în hipotalamus",
-      "E": "Elibereazǎ hormonii ca răspuns la stimuli proveniți din neuronii nucleilor supraoptic si paraventricular din hipotalamus"
+      "A": "Este unitatea functionalǎ a rinichiului",
+      "B": "Reprezintă structura la nivelul căreia se formeazǎ urina",
+      "C": "Numărul de nefroni este foarte mare, aproximativ 105 per rinichi",
+      "D": "Este format dintr-o capsulă glomerulară (Bowman), o rețea de capilare (glomerulul) și un sistem tubular cu rol în transportul filtratului glomerular (care suferǎ modificǎri cantitative și calitative, transformându-se în urină)",
+      "E": "Se compune dintr-un glomerul, căruia îi corespunde un singur tub colector cu mai multe segmente"
     }
   },
   {
     "numar": 25,
-    "intrebare": "Hormonii eliberati de neurohipofizǎ sunt:",
+    "intrebare": "În structura nefronului se regăsesc urmǎtoarele elemente",
     "variante": {
-      "A": "Peptide (oxitocina și vasopresina)",
-      "B": "Produși de celule neurosecretoare din epitalamus",
-      "C": "Transportați din hipotalamus de-a lungul infundibulului",
-      "D": "Sunt sintetizati de o structură denumită infundibul",
-      "E": "Stocați temporar și eliberați ca răspuns la stimulii proveniți din neuronii hipotalamici"
+      "A": "O capsulă fibroasă (țesut conjunctiv fibros neordonat) - capsula Bowman",
+      "B": "Un glomerul (retea de capilare arteriale) situat în cortexul renal",
+      "C": "Două arteriole, una aferentă și alta eferentă care încadreazǎ glomerulul",
+      "D": "Capilare glomerulare provenite din arteriola aferentă, care aduce la glomerul sângele ce urmează a fi epurat de reziduurile metabolice",
+      "E": "Un sistem tubular, cu rol în transportul filtratului glomerular (respectiv, al urinei)"
     }
   },
   {
     "numar": 26,
-    "intrebare": "Care dintre urmǎtoarele informații, referitoare la interrelațiile structurale și funcționale dintre hipotalamus și glanda hipofizǎ,sunt false?",
+    "intrebare": "Din structura nefronului fac parte urmǎtoarele:",
     "variante": {
-      "A": "Hipotalamusul controlează glanda hipofiză (pituitară), contribuind astfel la mentinerea homeostaziei organismului",
-      "B": "Hipofiza (glanda pineală) controlează hipotalamusul, contribuind astfel la mentinerea homeostaziei organismului",
-      "C": "Hormonul antidiuretic și oxitocina sunt transportati spre neurohipofiză de-a lungul infundibulului",
-      "D": "Între partea superioară a hipotalamusului subiacent și partea inferioară a hipofizei supraiacente există o tijă denumită infundibul",
-      "E": "Nucleii supraoptic și paraventricular secretă hormonii ce vor fi temporar depozitati în infundibulul glandei hipofize, de unde vor fi eliberați în sânge și limfǎ"
+      "A": "O retea de capilare (glomerulul) constând în terminații ale arteriolei aferente (vas de dimensiuni microscopice)",
+      "B": "Un singur glomerul, localizat în medulara renalǎ",
+      "C": "Mai mulți glomeruli care se găsesc atât în corticala, cât și în medulara renală",
+      "D": "O succesiune de tubi la nivelul cărora au loc procese de reabsorbție și secreție tubularǎ",
+      "E": "Ansa Henle, care se continuă cu tubul contort distal"
     }
   },
   {
     "numar": 27,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la adenohipofizǎ si hormonii secretati de aceasta:",
+    "intrebare": "Din structura nefronului fac parte următoarele:",
     "variante": {
-      "A": "Adenohipofiza este controlată de către hipotalamus prin hormoni stimulatori si inhibitori,eliberați în vasele sistemului port hipotalamo-hipofizar",
-      "B": "Hipotalamusul este controlat de către adenohipofiză prin oxitocină și hormonul antidiuretic",
-      "C": "Hormonii tropi adenohipofizari realizează controlul altor glande endocrine",
-      "D": "Pentru că secretă hormonii tropi, hipofiza ,,dirijează” sistemul endocrin",
-      "E": "Hormonul stimulator tiroidian (TSH) controlează sinteza și eliberarea parathormonului"
+      "A": "Glomerulul, retea de capilare rezultate din ramificarea arteriolei aferente",
+      "B": "Capsula glomerulară, retea macroscopică de capilare",
+      "C": "Glomerulul,retea de capilare care se reunesc formând arteriola eferentǎ",
+      "D": "Tubul contort proximal, ansa Henle șitubul contort distal",
+      "E": "Tubul colector, în care ajunge urina de la un singur nefron"
     }
   },
   {
     "numar": 28,
-    "intrebare": "Alegeti afirmatiile adevǎrate despre adenohipofiză",
+    "intrebare": "Identificați afirmațiile false referitoare la nefron:",
     "variante": {
-      "A": "Reprezintă lobul posterior al hipofizei și secretǎ ADH si oxitocină",
-      "B": "Este controlată de hipotalamus care secretă hormoni stimulatori și hormoni inhibitori",
-      "C": "Secretă hormoni tropi, care controlează alte glande endocrine",
-      "D": "Este considerată glanda ,,dirijor” a sistemului endocrin",
-      "E": "Secretă hormoni tropi de naturǎ lipidicǎ (steroidieni sau steroizi)"
+      "A": "La nivelul glomerulului se termină sub formă de retea arteriolele aferente de dimensiuni microscopice",
+      "B": "Sângele părăsește glomerulul renal prin arteriolele eferente, care ulterior formeazǎreteaua capilarelor peritubulare",
+      "C": "Capsula Bowman sau capsula glomerulară are o structură conjunctiv-fibroasă și învelește capilarele peritubulare",
+      "D": "Capilarele peritubulare drenează în vene mici, care confluează între ele, dând naştere unor vene mai mari iar acestea formează în cele din urmă vena renalǎ",
+      "E": "În alcătuirea porțiunii tubulare a unui nefron participă o unică structură- capsula ce înconjoara glomerulul"
     }
   },
   {
     "numar": 29,
-    "intrebare": "Selectați asocierile corecte cu privire la hipofiză și hormonii acesteia:",
+    "intrebare": "Nefronul are în componența sa următoarele structuri, excepând:",
     "variante": {
-      "A": "Glanda pituitară-localizare în partea anterioară a cavității craniene-localizare în partea inferioarǎ a encefalului",
-      "B": "Adenohipofiza-controlată de către hipotalamus prin hormoni inhibitori și stimulatori produce hormoni de importanță majoră (hormonul de creștere- HGH sau STH)",
-      "C": "Adenohipofiza-controlată de către neurohipofizǎ-produce hormoni peptidici (ADH, oxitocinǎ)",
-      "D": "STH (hormon stimulator tiroidian)- structură peptidică-reducerea sintezei proteice",
-      "E": "Adenohipofiza-hormoni tropi-TSH,ACTH,gonadotropi"
+      "A": "O capsulă cu pereți permeabili în care intră fluidul provenit din plasma sanguinǎ (filtrat prin fante submicroscopice)",
+      "B": "Capsula glomerulară, fibroasă (capsula Bowman)",
+      "C": "Trei segmente tubulare care se succed în ordinea:tub contort proximal, ansa Henle,tub colector",
+      "D": "Ansa Henle, cu două ramuri, una descendentă și alta ascendentǎ",
+      "E": "O rețea de capilare arteriale (capilarele peritubulare) înconjurate de capsula Bowman"
     }
   },
   {
     "numar": 30,
-    "intrebare": "Alegeti asocierile gresite dintre cele de mai jos",
+    "intrebare": "Din structura nefronului fac parte urmǎtoarele elemente:",
     "variante": {
-      "A": "Lobul posterior al hipofizei-hormon foliculostimulant-pigmentarea pielii",
-      "B": "Adenohipofiza-hormoni proteici-Human growth hormone (HGH), prolactina",
-      "C": "Hormoni tropi-hormonul adrenocorticotrop (ACTH) - controlează exclusiv medulara glandei suprarenale-controlează exclusiv secreția de adrenalină",
-      "D": "Neurohipofiza-lobul posterior al hipofizei- eliberează hormon antidiuretic-elibereazǎvasopresinǎ",
-      "E": "STH-hormon somatotrop-structurǎ lipoproteică cu 191 de acizi grași- mobilizarea grǎsimilor corpului"
+      "A": "Capsula glomerulară, în concavitatea căreia se capilarizează arteriola eferentă, formând reteaua peritubularǎ",
+      "B": "Glomerulul (fiecare nefron prezintă un singur glomerul)",
+      "C": "Tubul contort proximal, aflat în continuarea capsulei Bowman",
+      "D": "Tubul contort distal, aflat în continuarea ramurii ascendente a ansei Henle",
+      "E": "Tubul colector, situat pentru fiecare nefron, în continuarea tubului contort distal"
     }
   },
   {
     "numar": 31,
-    "intrebare": "Selectați afirmațiile adevărate cu privire la hormonii adenohipofizei",
+    "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
     "variante": {
-      "A": "Hormonii gonadotropi sunt reprezentați de foliculină sau FSH și de prolactină",
-      "B": "Hormonii tropi acționează asupra altor glande endocrine",
-      "C": "ACTH are ca tintă zona corticală a glandei suprarenale",
-      "D": "TSH este un hormon care reglează dezvoltarea gonadelor și asigură captarea iodului de cǎtre acestea",
-      "E": "STH se mai numeste si hormon de creștere și are ca acțiune stimularea sintezei proteice"
+      "A": "Sângele arteria1 pătrunde în glomerulul renal prin arteriola aferentǎ",
+      "B": "Din arteriola aferentă sângele trece direct în arteriola eferentă, care se recapilarizeazǎ la nivelul glomerulului renal",
+      "C": "Sângele din capilarele venoase peritubulare se reîntoarce la glomerul prin arteriola eferentǎ",
+      "D": "Capilarele peritubuare, provenite din arteriola eferentă, formează o rețea în jurul tubilor",
+      "E": "Capilarele peritubulare transportă filtratul glomerular spre tubii uriniferi"
     }
   },
   {
     "numar": 32,
-    "intrebare": "Hormonii secretati de adenohipofizǎ sunt",
+    "intrebare": "Identificați răspunsurile corecte cu privire la vasele de sânge de la nivelul nefronului",
     "variante": {
-      "A": "Hormonul stimulator tiroidian (TSH)-hormon trop, care reglează dezvoltarea glandei tiroide",
-      "B": "Prolactina-hormon cu structură steroidiană și acțiune asupra secretiei glandei mamare",
-      "C": "Hormonul somatotrop (STH,hormnonul de creștere)- proteină cu 191 aminoacizi",
-      "D": "Hormonul adrenocorticotrop (ACTH)- inhibă secreția hormonilor glucocorticoizi",
-      "E": "Hormonii gonadotropi (FSH și LH)- au efecte asupra gonadelor (organele sexuale)"
+      "A": "Prin arteriola aferentă pătrunde în glomerul sângele care a fost adus la rinichi de artera renalǎ",
+      "B": "Din arteriolele aferente, de dimensiuni microscopice, se formează rețeaua de capilare glomerulare",
+      "C": "În jurul capsulei glomerulare este dispusă rețeaua capilarelor peritubulare",
+      "D": "Din arteriolele aferente se formează reteaua capilarelor peritubulare, care vor drena în vasele renale de tip venos",
+      "E": "Capilarele peritubulare drenează în vene mici, care confluează apoi pentru a forma vene mai mari, care se vor uni în final pentru a forma vena renalǎ"
     }
   },
   {
     "numar": 33,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la hormonii gonadotropi secretati de adenohipofizǎ",
+    "intrebare": "Cu privire la glomerulul renal, este adevǎrat cǎ",
     "variante": {
-      "A": "Sunt reprezentați de hormonul somatotrop (PRL, HGH) și de prolactina (STH)",
-      "B": "Sunt reprezentati de hormonul foliculostimulant (FSH) și luteinizant (LH)",
-      "C": "LH stimulează la femei maturarea foliculilor ovarieni și ovulația",
-      "D": "Atât FSH cât și LH au structură steroidiană, la fel cu hormonii sexuali",
-      "E": "La bǎrbați, LH stimulează producerea testosteronului la nivel testicular"
+      "A": "Este format dintr-o retea de capilare provenite din arteriola aferenta",
+      "B": "Prin procesul de filtrare, realizează trecerea plasmei sanguine și a eritrocitelor în capsula Bowman",
+      "C": "Prin procesul de filtrare tubulară, realizează trecerea fluidului din plasma sanguină în capsula glomerularǎ",
+      "D": "La nivelul său, sângele intrǎ prin arteriola aferentǎ și iese prin arteriola eferentǎE. Este o rețea de capilare care se găsește între două arteriole, aferentă și eferentǎ"
     }
   },
   {
     "numar": 34,
-    "intrebare": "Alegeți afirmațiile adevărate despre hormonul luteinizant (LH):",
+    "intrebare": "Despre tubii nefronului, este adevărat că",
     "variante": {
-      "A": "Este unul dintre hormonii gonadotropi adenohipofizari și are structurǎ glicoproteicǎ",
-      "B": "Controlează pigmentarea pielii, stimulând secreția de melaninǎ",
-      "C": "La femei,stimulează secreția de progesteron de către corpul galben (corpus luteum)",
-      "D": "La bărbați, stimulează secreția de testosteron a celulelor interstițiale din testicule",
-      "E": "La femei, nu intervine în producerea ovulației, aceasta fiind declansată de FSH (hormon foliculostimulant)"
+      "A": "Tubul contort distal se află în continuarea tubului proximal",
+      "B": "Ramura ascendentă a ansei Henle se continuă cu tubul contort distal",
+      "C": "Ansa Henle prezintă o ramura descendentă, ansa propriu-zisă si o ramură ascendentǎ",
+      "D": "Tubul contort distal se deschide în tubul colector, care adună urină de la mai mulți nefroni",
+      "E": "Ansa Henle, prima porțiune tubulară, se continuă cu tubul contort proximal"
     }
   },
   {
     "numar": 35,
-    "intrebare": "La femei, hormonii adenohipofizari au urmǎtoarele actiuni:",
+    "intrebare": "Despre tubii nefronului nu este adevǎrat cǎ",
     "variante": {
-      "A": "Reducerea ritmului de creștere a organismului-actiune a STH",
-      "B": "Stimularea captării iodului de către glanda tiroidă - acțiune a hormonului stimulator tiroidian (TSH)",
-      "C": "Stimularea secreției de progesteron a corpului galben-acțiune a hormonului LH (hormon luteinizant)",
-      "D": "Stimularea producerii tiroxinei-actiune a STH",
-      "E": "Dezvoltarea foliculilor ovarieni - acțiune a gonadotropului foliculostimulant"
+      "A": "Tubul contort proximal este situat în continuarea ansei Henle",
+      "B": "Tubul contort proximal este situat în cortexul renal",
+      "C": "Ansa Henle continuă tubul contort proximal și are forma literei,,U”",
+      "D": "Tubul contort distal reprezintă continuarea ramurii ascendente a ansei Henle",
+      "E": "Tubul contort distal este situat în continuarea capsulei Bowman"
     }
   },
   {
     "numar": 36,
-    "intrebare": "Despre hormonul somatotrop (STH) este adevǎrat cǎ:",
+    "intrebare": "Urina se formează la nivelul diferitelor părți componente ale nefronului prin",
     "variante": {
-      "A": "Deficitul secreției STH în copilărie determină acromegalia",
-      "B": "Excesul de STH la adult are ca rezultat gigantismul",
-      "C": "Accelerează creșterea organismului prin stimularea introducerii în celule a aminoacizilor care vor fi încorporati în proteine",
-      "D": "Denumit și HGH - Human Growth Hormone, inhibă sinteza proteică și favorizeazǎdepunerea grasimilor în tesuturi",
-      "E": "Stimulează sinteza (anabolismul) proteinelor și mobilizarea grăsimilor din țesuturi"
+      "A": "Filtrarea plasmei, cu o rată de aproximativ 105ml/min la femei-125ml/min la bǎrbati",
+      "B": "Trecerea din capilarele glomerulare în capsula glomerulară a fluidului provenit din plasma sanguinǎC. Trecerea apei prin osmoză, datorită proteinelor prezente în capsula Bowman",
+      "D": "Reabsorbția tubulară, prin care sunt transportate (din tubi în sânge) proteine și alte macromolecule",
+      "E": "Secreția tubulară, prin care se realizează transportul unor substante din capilarele peritubulare (din sânge) în tubul contort distal (în filtratul glomerular)"
     }
   },
   {
     "numar": 37,
-    "intrebare": "Despre hormonul somatotrop (STH), este fals cǎ:",
+    "intrebare": "Selectati afirmațiile adevărate referitoare la fiziologia nefronului",
     "variante": {
-      "A": "În copilăie,deficitul său este cauza nanismului hipofizar, iar excesulsǎu,cauza gigantismului",
-      "B": "Excesul sǎu determină acromegalie la copil și gigantism la adult",
-      "C": "La adult, excesul sǎu determină acromegalia, caracterizată prin îngroșarea oaselor și prin creșterea exagerată a tesuturilor moi",
-      "D": "Inhibă sinteza proteică și stimulează biosinteza acizilor grași și a trigliceridelor",
-      "E": "Intervine în metabolismul proteinelor,facilitând transportul activ al aminoacizilor în afara celulelor, unde vor fi utilizați pentru sinteza proteică"
+      "A": "La nivelul glomerulului și al capsulei Bowman are loc filtrarea plasmei sanguine si se formeazǎ filtratul glomerular",
+      "B": "Prin filtrare, eritrocitele trec din capilarele glomerulare în filtratul glomerular, fiind responsabile de culoarea chihlimbarie a urinei",
+      "C": "Reabsorbtia apei la nivelul tubului contort distal al nefronului și al tubului colector este stimulată de cǎtre ADH (hormonul antidiuretic)",
+      "D": "Secreția tubulară este un proces activ care, prin modificarea concentrației urinare a unor ioni, contribuie la menținerea homeostaziei sângelui",
+      "E": "Artera renală se evidențiază pe o secțiune frontală a rinichiului și provine din artera aortăabdominalǎ"
     }
   },
   {
     "numar": 38,
-    "intrebare": "Ce efecte are hormonul somatotrop (STH) asupra metabolismului?",
+    "intrebare": "Despre procesul de filtrare este adevǎrat cǎ:",
     "variante": {
-      "A": "Stimulează procesele de sinteză a proteinelor, prin introducerea aminoacizilor în celule",
-      "B": "Stimulează procesele de degradare intracelulară a proteinelor",
-      "C": "Asigură mobilizarea grăsimilor din tesutul adipos",
-      "D": "Asigură depunerea grăsimilor în tesutul adipos",
-      "E": "Prin stimularea sintezei proteice, asigură accelerarea creșterii organismului"
+      "A": "Presupune trecerea serului sanguin și a proteinelor plasmatice din capsula glomerularǎ în tubul contort proximal, rezultând filtratul glomerular",
+      "B": "Presupune trecerea fluidului din plasma sanguină în capsula glomerularǎ,rezultând filtratul glomerular",
+      "C": "Are loc deoarece permeabilitatea capilarelor glomerulare este mai mare decât cea a altor capilare din corp",
+      "D": "Se realizează pe seama presiunii sanguine mai mari în capilarele glomerulare comparativ cu alte capilare din corp",
+      "E": "Are ca rezultat concentrația finală a urinei (menținută și după procesele de reabsorbtie si secretie)"
     }
   },
   {
     "numar": 39,
-    "intrebare": "Alegeti afirmațiile adevărate referitoare la alăptare, secreția și ejecția laptelui:",
+    "intrebare": "Filtrarea reprezintǎ procesul prin care:",
     "variante": {
-      "A": "Ejectia laptelui din glanda mamară este stimulată de oxitocină",
-      "B": "Producerea laptelui este inhibată de prolactină",
-      "C": "Actul suptului este singurul factor implicat în reglarea secreției de oxitocină",
-      "D": "Actul suptului reglează parțial secreția de oxitocină la femeile care alǎpteazǎ",
-      "E": "Producerea laptelui pentru alăptarea nou-născutului necesită interventia prolactinei asupra glandei mamare"
+      "A": "Substanțele trec din urină înapoi în sânge la nivelul capilarelor glomerulare",
+      "B": "Substanțele cu moleculă mare dizolvate în plasmă (proteinele) trec pasiv din capilarele glomerulare în capsula glomerularǎ",
+      "C": "Substanțele cu moleculă mare dizolvate în plasmă (glucoza, aminoacizii, polipeptidele)sau diferiți ioni trec din capilarele glomerulare în capsula glomerularǎ",
+      "D": "Apa și moleculele mici din plasmă trec din vasele de sânge glomerulare în capsula Bowman, de unde vor ajunge în tubul proximal al nefronului",
+      "E": "Presiunea sângelui din capilarele glomerulare este mai mare decât presiunea din capilarele care vascularizează alte organe"
     }
   },
   {
     "numar": 40,
-    "intrebare": "Urmatoarele afirmatii despre prolactina (PRL) sunt false:",
+    "intrebare": "Cu privire la filtrarea glomerulară se poate afirma cǎ:",
     "variante": {
-      "A": "Nu actioneazǎ asupra glandei mamare",
-      "B": "Este un hormon corticotrop, produs de adenohipofizǎ",
-      "C": "Este un hormon care are ca organ tintă glanda mamarǎD. Stimulează producerea laptelui necesar nutriției nou-născutului",
-      "E": "Inhibă producerea laptelui după naștere"
+      "A": "Asigură trecerea moleculelor mici și a apei prin ,,filtrul glomerular” în capsula Bowman,fiind condiționată de presiunea hidrostatică a sângelui în arteriola aferentǎ",
+      "B": "Este un mecanism activ realizat cu consum de ATP",
+      "C": "Este favorizată de presiunea hidrostatică negativă a sângelui din capilarele glomerulare si peritubulare",
+      "D": "Forteaza trecerea moleculelor de glucoză prin mecanism activ",
+      "E": "Are loc cu o rată de filtrare glomerulară de aproximativ 105 ml de plasmă/minut,la femei"
     }
   },
   {
     "numar": 41,
-    "intrebare": "Care dintre următoarele efecte privind actiunea hormonilor tropi secretati de adenohipofizǎ sunt adevǎrate?A. Hormonul somatotrop (STH) stimulează degradarea aminoacizilor în celule",
+    "intrebare": "Selectați afirmațiile adevărate referitoare la filtrarea glomerulară:",
     "variante": {
-      "B": "Hormonul antidiuretic (ADH) inhibă reabsorbția apei în rinichi",
-      "C": "Hormonul FSH stimulează la femei dezvoltarea foliculilor ovarieni în vederea producerii ovulelor",
-      "D": "Hormonul adrenocorticotrop (ACTH) are ca tesut țintă zona corticală a glandei suprarenale",
-      "E": "Hormonul luteinizant (LH) stimulează secreția testosteronului întesticule"
+      "A": "Reprezintă trecerea plasmei sanguine prin ,,filtrul glomerular\", reprezentat de fantele submicroscopice ale capilarelor glomerulare",
+      "B": "Endoteliul capilar glomerular, cu permeabilitate mai mică decât alte capilare din corp,nu va permite trecerea apei în capsula Bowman",
+      "C": "Arteriola eferentă are un diametru mai mic decât cea aferentă, ceea ce va genera o presiune mai mare în arteriola aferentǎ",
+      "D": "Prin glomerulii renali se filtrează la bărbat aproximativ 125 ml de plasmă în interval de o orǎ",
+      "E": "Glomerulii nefronilor renali filtrează 7,5 litri de plasmă într-o orǎ"
     }
   },
   {
     "numar": 42,
-    "intrebare": "Care dintre urmǎtoarele afirmații despre hormonii secretați de adenohipofiză sunt adevǎrate?A. Hormonul stimulator tiroidian (TSH) stimulează sinteza și eliberarea tiroxinei (T4)",
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos",
     "variante": {
-      "B": "Hormonul adrenocorticotrop (ACTH) inhibă secretia hormonilor glucocorticoizi",
-      "C": "La femeie, hormonul foliculostimulant (FSH) inhibă dezvoltarea foliculilor ovarieni și producerea ovulelor",
-      "D": "La femeie, hormonul luteinizant (LH) stimulează ovulația și secretia de progesteron a corpului luteal",
-      "E": "TSH nu are niciun efect asupra sintezei și eliberării triiodotironinei"
+      "A": "Plasma sanguină este filtrată prin fantele submicroscopice ale capilarelor glomerulare,rezultatul fiind filtratul glomerular (în medie, aproximativ 180 1/zi)",
+      "B": "La nivelul glomerulului are loc reabsorbția glucozei și a aminoacizilor",
+      "C": "Prin glomerulii nefronilor renali se filtrează aproximativ 7,5 litri de plasmă sanguină pe oră,ceea ce corespunde unei rate a filtrării de aproximativ 125 ml/minut, la bărbați",
+      "D": "Secretia tubulară este un proces pasiv, prin care compuși chimici cum sunt creatinina,protoni și unii hormoni proteici, trec din sânge în filtratul ajuns în tubi",
+      "E": "Substantele cu moleculă mică trec din capilarele glomerulare în capsula glomerularǎ prin procesul de filtrare"
     }
   },
   {
     "numar": 43,
-    "intrebare": "Lespre hormonul stimulator tiroidian (TSH) sunt adevărate următoarele afirmatii",
+    "intrebare": "Procesul de filtrare glomerularǎ",
     "variante": {
-      "A": "Sub actiunea TSH adenohipofizar au loc sinteza și eliberarea hormonilor tiroidieni",
-      "B": "Sub actiunea STH adenohipofizar au loc sinteza și eliberarea hormonilor tiroidieni",
-      "C": "Este un hormon trop, produs de lobul anterior al hipofizei",
-      "D": "Este un hormon trop, produs de lobul posterior al hipofizei",
-      "E": "TSH stimulează captarea iodului de către tiroida"
+      "A": "Apare deoarece permeabilitatea capilarelor glomerulare este mai mare decât a altor capilare din corp",
+      "B": "Este trecerea fluidului din plasma sanguină în capsula glomerulară prin fante submicroscopice",
+      "C": "Excretă moleculele din capilarele peritubulare în tubii nefronului",
+      "D": "Asigură trecerea apei și a moleculelor mici din plasma capilarelor glomerulare în interiorul capsulei Bowman",
+      "E": "Transportǎ urina la uretere și de aici la vezica urinară, la uretra si în exteriorul organismului"
     }
   },
   {
     "numar": 44,
-    "intrebare": "Alegeți asocierile greșite dintre cele de mai jos",
+    "intrebare": "La nivel glomerular se filtreazǎ",
     "variante": {
-      "A": "Hormonul de creștere uman (HGH)- deficit în perioada copilăriei-gigantism",
-      "B": "Prolactina-glanda mamarǎ-stimularea producerii laptelui",
-      "C": "Prolactina-toate tesuturile organismului-stimularea cresterii",
-      "D": "Vasopresina-tubii contorți distali ai nefronilor și tubii colectori-stimuleazǎ reabsorbtia apei la nivelul rinichiului",
-      "E": "Oxitocina-tubii seminiferi testiculari-stimulează productia de testosteron"
+      "A": "Aproximativ 7,5 l de plasmă sanguinǎ pe orǎ",
+      "B": "Elementele figurate-eritrocite,trombocite,leucocite-prezente în sânge",
+      "C": "Aproximativ 105 ml de plasmă pe minut la femei (rată de filtrare glomerulară)",
+      "D": "Aproximativ 12,5 de ml de plasmă pe minut la bărbați (rată de filtrare tubularǎ)",
+      "E": "Apǎ,glucozǎ, aminoacizi"
     }
   },
   {
     "numar": 45,
     "intrebare": "Alegeti asocierile corecte dintre cele de mai jos",
     "variante": {
-      "A": "Hormonul somatotrop(STH)-are ca tintǎ tesuturi ale întregului organism-accelerează cresterea",
-      "B": "Hormonul adrenocorticotrop (ACTH)-are ca tintă mușchii netezi - stimulează producerea insulinei",
-      "C": "Hormonul foliculostimulant (FSH) - structură lipidică non-steroidiană - stimuleazǎdezvoltarea foliculului ovarian",
-      "D": "Hormonul melanocitostimulator (MSH)- are ca țintă tubii renali- provoacă vasodilatație",
-      "E": "Oxitocina-hormon peptidic-stimulează contracția uterului (inițiatăde hormonii ovarieni)"
+      "A": "Filtratul glomnerular-absența proteinelor-prezența glucozei",
+      "B": "Filtratul glomerular-absenta glucozei-prezența proteinelor",
+      "C": "Arteriola aferentă-capilarizare-retea de capilare cu fante submicroscopice",
+      "D": "Capsula glomerulară-capsula Bowman-continuare directă cu ansa Henle",
+      "E": "Tub contort proximal -microvilozități - suprafață mărită de contact cu lumenul tubului"
     }
   },
   {
     "numar": 46,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la secretia de hormon adrenocorticotrop (ACTH):",
+    "intrebare": "Selectati afirmațiile adevărate referitoare la rețeaua capilarelor peritubulare",
     "variante": {
-      "A": "Inhibă producerea glucocorticoizilor",
-      "B": "Stimulează producerea glucocorticoizilor",
-      "C": "Are ca și țesut țintă zona medulară a glandei suprarenale",
-      "D": "Stimulează pigmentarea pielii",
-      "E": "Stimulează depunerea glicogenului în ficat"
+      "A": "Primește sângele care a trecut prin glomerulul renal si arteriola eferenta",
+      "B": "Este o retea de capilare care se formează prin recapilarizarea arteriolei aferente",
+      "C": "La nivelul ei ajung substantele reabsorbite din tubii uriniferi ai nefronilor",
+      "D": "În această rețea, sângele ajunge direct din arteriola aferentǎE. La nivelul ei ajung prin reabsorbție cantități variabile de apă, săruri și alte molecule"
     }
   },
   {
     "numar": 47,
-    "intrebare": "Selectati afirmațiile adevărate dintre cele de mai jos:",
+    "intrebare": "La nivelul tubului contort proximal",
     "variante": {
-      "A": "Hormonul somatotrop este o proteină în constituția căreia intră 191 de aminoacizi",
-      "B": "Captarea iodului de către glanda tiroidă este stimulată de către ACTH",
-      "C": "Secventa de aminoacizi a STH se aflǎ sub control genetic",
-      "D": "Acromegalia (exces de STH la adult) este caracterizată de modificări ale fizionomiei",
-      "E": "Neurohipofiza sintetizează și eliberează doi hormoni proteici (hormonul antidiuretic si vasopresina)"
+      "A": "Există milioane de microvilozități în perete, cu rolul de a mǎri foarte mult suprafata de contact cu conținutul lumenului",
+      "B": "Ajunge filtratul glomerular care păraseste capsula glomerularǎC. Au loc procese de reabsorbție a unor ionisi a moleculelor proteice",
+      "D": "Ajunge filtratul glomerular care a străbătut ansa Henle",
+      "E": "Au loc procese de reabsorbție a ionilor de sodiu prin transport activ"
     }
   },
   {
     "numar": 48,
-    "intrebare": "Alegeți enunțurile care conțin câte două afirmații false despre hormonii gonadotropi hipofizari:",
+    "intrebare": "Selectați enunțurile corecte cu privire la reabsorbtia tubulară:",
     "variante": {
-      "A": "Sunt reprezentați de către FSH și LH. Sunt hormoni cu structurǎ glicoproteicǎ",
-      "B": "LH actionează asupra epiteliului de suprafată al ovarului. LH inhibă secreția de progesteron a corpului galben",
-      "C": "La femeie, FSH acționează asupra foliculilor ovarieni, a căror dezvoltare o stimuleazǎ.La bǎrbat, FSH are ca tesut țintă tubii seminiferi testiculari",
-      "D": "Gonadotropii hipofizari nu au niciun efect asupra testiculelor. Spre deosebire de FSH,LH este un hormon trop cu structură lipidicǎ",
-      "E": "La bǎrbat,producerea spermatozoizilor este inhibată de către FSH. LH inhibă producerea testosteronului la nivel testicular și a progesteronului de către corpul galben al ovarului"
+      "A": "Are loc în toate segmentele tubulare ale nefronului (tub contort proximal, ansa Henle, tub contort distal)",
+      "B": "Se desfășoară doar prin mecanisme active de transport și de aceea se numeste transport selectiv",
+      "C": "Transportul moleculelor este în general efectuat de transportori membranari specifici (transport selectiv)",
+      "D": "Glucoza și aminoacizii se reabsorb fiecare printr-un transport activ, utilizând ATP ca sursǎ de energie",
+      "E": "Proteinele transportoare specifice transferă substanțele din celulele tubulare în intersitiu și de aici în sângele capilarelor peritubulare"
     }
   },
   {
     "numar": 49,
-    "intrebare": "Despre hormonul luteinizant (LH) este adevǎrat cǎ:",
+    "intrebare": "La nivelul tubului contort proximal:",
     "variante": {
-      "A": "Este un hormon trop hipofizar cu structură glicoproteică",
-      "B": "Asigură și controlează pigmentarea pielii la ambele sexe",
-      "C": "La femei stimulează secreția de progesteron iar la bǎrbați, secreția de testosteron",
-      "D": "La femei după naștere, stimulează secretia si ejectia laptelui",
-      "E": "La femei,stimulează formarea corpului galben (luteal)"
+      "A": "Are loc reabsorbtia apei prin osmozǎ",
+      "B": "Ionii de clor se reabsorb prin transport activ",
+      "C": "Reabsorbtia ionilor se face atât prin mecanisme active,cât si pasive(C1)",
+      "D": "Are loc filtrarea plasmei sanguine",
+      "E": "Reabsorbția ionilor de sodiu și a altor ioni se realizează prin osmozǎ"
     }
   },
   {
     "numar": 50,
-    "intrebare": "Care dintre urmǎtoarele afirmatii legate de hormonii gonadotropi sunt false?",
+    "intrebare": "La nivelul tubilor proximali ai nefronilor are loc:",
     "variante": {
-      "A": "Hormonul foliculostimulant (FSH) stimulează la femeie dezvoltarea foliculilor ovarieni",
-      "B": "Hormonul foliculostimulant (FSH) stimulează la femeie productia de progesteron în ovare, în cea de-a doua perioadă a ciclului menstrual",
-      "C": "LH este secretat în cantități scăzute înainte de ovulație de cǎtre lobul posterior al glandei hipofize",
-      "D": "Hormonul luteinizant (LH) stimulează la femeie producția de progesteron la nivelul ovarului",
-      "E": "Au efecte asupra gonadei feminine, dar nu și asupra testiculului"
+      "A": "Filtrarea plasmei sanguine cu formarea filtratului glomerular",
+      "B": "Reabsorbția prin transport activ a ionilor de sodiu, a glucozei și a aminoacizilor",
+      "C": "Reabsorbția cationilor de sodiu creează un gradient electric de o parte și de alta a peretelui tubului, gradient care va facilita transportul pasiv al ionilor de clor în capilarele peritubulare",
+      "D": "Reabsorbția apei prin osmoză, ca urmare a gradientului osmotic creat prin concentrarea NaCl în capilarele peritubulare",
+      "E": "Reabsorbția ionilor de sodiu prin difuziune facilitată din capilarele peritubulare în lumenul tubului proximal"
     }
   },
   {
     "numar": 51,
-    "intrebare": "Care dintre urmǎtoarele afirmatii legate de hormonii gonadotropi sunt adevǎrate?",
+    "intrebare": "Selectati enunturile corecte dintre cele de mai jos:",
     "variante": {
-      "A": "Au structură chimică steroidică, asemănătoare cu a hormonilor sexuali (estrogeni,testosteron)",
-      "B": "Din punct de vedere al structurii lor chimice, sunt glicoproteine",
-      "C": "Au efecte asupra gonadelor/organelor sexuale atât la bărbat, cât si la femeie",
-      "D": "Hormonul foliculostimulant (FSH) stimulează la femeie dezvoltarea foliculilor tiroidieni",
-      "E": "Hormonul luteinizant (LH) acționează la bărbat, stimulând producerea testosteronului la nivel testicular"
+      "A": "Prin acumularea ionilor decapilarele glomerulare, în cursul procesului de filtrare,se creeazǎ o diferență de sarcină electrică (gradient electric) de o parte și de alta a peretelui tubului proximal",
+      "B": "Prin acumularea ionilor de\tîn capilarele peritubulare, în cursul procesului de reabsorbtie tubularǎ,se creează o diferență de sarcină electrică (gradient electric) de o parte și de alta a peretelui tubului proximal",
+      "C": "Ca urmare a gradientului electric, ionii de Cl părăsesc filtratul glomerular urmând ionii de Na+, ceea ce va conduce la concentrarea NaCl în capilarele peritubulare",
+      "D": "Prin concentrarea NaCl în capilarele peritubulare, se crează un gradient osmotic între acestea si tubul proximal",
+      "E": "Osmoza asigură reabsorbția glucozei la nivelul tubului proximal"
     }
   },
   {
     "numar": 52,
-    "intrebare": "Care dintre asocierile de mai jos sunt corecte?",
+    "intrebare": "Selectati informațiile corecte referitoare la procesul de reabsorbtie în tubul proximal și la modificările pe care acesta le produce în compoziția filtratului :",
     "variante": {
-      "A": "Adenohipofizǎ-lob posterior-STH,FSH,LH",
-      "B": "Neurohipofizǎ-lob posterior-eliberare de ADH",
-      "C": "Neurohipofizǎ-lob posterior-sintezǎ de ADH",
-      "D": "Hormoni tropi-prolactinǎ-inhibarea producerii laptelui",
-      "E": "Lob anterior-TSH-eliberarea hormonilor tiroidieni"
+      "A": "În tubul contort proximal se reabsorb ureea, amoniacul, filtratul glomerular și acidul uric",
+      "B": "În tubul contort proximal se reabsorb glucoza și sodiul prin transport activ",
+      "C": "Reabsorbtiaprin osmoză creste concentratia defiltratului glomerular",
+      "D": "Reabsorbția prin osmoză a apei din filtratul glomerular duce la egalizarea concentratiei NaCl între capilarele peritubulare și tubul proximal (fluidul din tubul proximal devine izoton cu plasma din capilarele peritbulare)",
+      "E": "În tubul contort proximal se reabsorb proteine cu greutate moleculară mare"
     }
   },
   {
     "numar": 53,
-    "intrebare": "Despre hormonul melanocitostimulator (MSH) se poate afirma cǎ:",
+    "intrebare": "La nivelul tubilor proximali are loc",
     "variante": {
-      "A": "Este produs de către lobul posterior al neurohipofizei",
-      "B": "Actionează asupra melanocitelor cutanate",
-      "C": "Controleazǎ pigmentarea pielii",
-      "D": "Este un hormon secretat de adenohipofiză și care acționează asupra unor celule din stratul bazal (germinativ) al epidermului",
-      "E": "Este un hormon cu structurǎ aminicǎ"
+      "A": "Reabsorbtia pasivă a ionilor de sodiu și a celor de clor",
+      "B": "Reabsorbția prin transport activ a ionilor de sodiu din fluidul tubului proximal în capilarele peritubulare",
+      "C": "Aparitia unui gradient electric de-o parte și de alta a peretelui tubului datorită acumulǎrii capilarele peritubulare",
+      "D": "Reabsorbția anionilor de clor prin transport facilitat de gradientul electric creat de o parte și de alta a peretelui tubului, ionii de clor urmând pasiv ionii de sodiu",
+      "E": "Reabsorbtia ionilor de sodiu prin transport facilitat, din capilarele peritubulare în fluidul tubului proximal"
     }
   },
   {
     "numar": 54,
-    "intrebare": "Care dintre afirmatiile de mai jos privind hormonii sunt false?A. Sunt produși de secreție ai glandelor endocrine, eliminați în sânge după secreție",
+    "intrebare": "Despre reabsorbția tubulară la nivelul tubului proximal al nefronului se pot afirma urmǎtoarele",
     "variante": {
-      "B": "Dintre hormonii care actionează ca mesager primar asupra unei celule tintǎ face parte adenilat ciclaza",
-      "C": "Cei care, fiind secretati de o celulă endocrină, acționează asupra celulelor din imediata vecinătate prezintă un mecanism de actiune autocrin",
-      "D": "Estrogenii,progesteronul și testosteronul prezintă structuri ciclice complexe derivate din colesterol",
-      "E": "Hormonii steroidieni se leagă în exteriorul celulelor țintă pe receptori care din punct de vedere biochimic sunt fosfolipide membranare"
+      "A": "Este rezultatul particularităților structurale (pereții tubului conțin milioane de microvilozitǎti care cresc suprafața de absorbție) și funcționale (prezența unor transportori membranari specifici) la acest nivel",
+      "B": "Asigurǎ transportul din capilarele peritubulare în lumenul tubului al unor cantitǎti fixe de apă și de compuși organici",
+      "C": "Se realizeză prin transport activ pentru glucoză si aminoacizi",
+      "D": "Apa se deplasează în gradient osmotic, în direcția concentrației mai mari a clorurii de sodiu pe care o diluează până când filtratul din tubul proximal devine izoton cu plasma din capilarele peritubulare",
+      "E": "Apa,sǎrurile și ureea sunt reabsorbite în totalitate"
     }
   },
   {
     "numar": 55,
-    "intrebare": "Selectați afirmațiile adevărate cu privire la lobul posterior hipofizar",
+    "intrebare": "Reabsorbtia glucozei și a aminoacizilor se realizeazǎ:",
     "variante": {
-      "A": "Se mai numnește neurohipofīză și depozitează temporar hormoni secretati de cǎtre nuclei ai hipotalamusului",
-      "B": "Se mai numește adenohipofiză și depozitează hormoni secretați de către neurohipofiză",
-      "C": "Eliberează în circulație peptide cum sunt vasopresina și oxitocina",
-      "D": "Reprezintă un rezervor al hormonilor produși de către diencefal, situat subiacent în raport cu neurohipofiza",
-      "E": "Nu este considerat o glandă endocrină propriu-zisă, ci un rezervor al hormonilor produși de cǎtre hipotalamus"
+      "A": "În tubul contort proximal",
+      "B": "În tubul contort distal prin osmozǎ",
+      "C": "Prin transport pasiv (cu consum de ATP)",
+      "D": "Prin transport activ (cu consum de ATP)",
+      "E": "În ansa Henle (izoosmotic)"
     }
   },
   {
     "numar": 56,
-    "intrebare": "Despre neurohipofiza și hormonii eliberati de această glandă, sunt adevărate urmǎtoarele:",
+    "intrebare": "La nivelul ansei Henle",
     "variante": {
-      "A": "Hormonii eliberați în circulație de către neurohipofiză sunt hormonul antidiuretic (ADH,vasopresina) și oxitocina",
-      "B": "Hormonii eliberați în circulație de către neurohipofiză sunt produși de către celulele neurosecretoare din hipotalamus",
-      "C": "Vasopresina provoacă vasodilatație, scăzând astfel presiunea sanguină",
-      "D": "Oxitocina inhibă contracțiile uterine din timpul nașterii",
-      "E": "Hiposecretia de hormon antidiuretic are ca rezultat diabetul insipid"
+      "A": "Are loc reabsorbția ionilor de sodiu și clor în ramura descendentă",
+      "B": "Are loc reabsorbția ionilor de sodiu și clor în ramura ascendentǎC. Acumularea de sare în interstițiul medularei determină hipertonicitatea acestuia si crearea unui gradient osmotic",
+      "D": "Acumularea de sare în interstițiul medularei creează un gradient electric,datoritǎ cǎruia apa din filtratul ajuns în ramura ascendentă trece în interstitiu",
+      "E": "Apa se reabsoarbe din ramura descendentă a ansei, dinspre porțiunea proximală spre cea distală, precum și la vârful ansei Henle"
     }
   },
   {
     "numar": 57,
-    "intrebare": "Despre hormonul antidiuretic (ADH) se poate afirma cǎ:",
+    "intrebare": "Ansa Henle:",
     "variante": {
-      "A": "Este cunoscut și sub denumirea de prolactinǎ",
-      "B": "Este cunoscut și sub denumirea de vasopresină",
-      "C": "Acționează asupra tubilor renali, stimulând reabsorbția apei si determinând astfel cresterea volumului sanguin",
-      "D": "Determină creșterea presiunii sangvine prn stimularea reabsorbtiei apei",
-      "E": "Hipersecreția de hormon antidiuretic are ca rezultat diabetul insipid"
+      "A": "Prezintă o ramură descendentă, în care se realizează reabsorbtia apei",
+      "B": "Prezintă o ramură descendentă, în care se realizează reabsorbția ionilor",
+      "C": "Prezintă o ramură ascendentă, în care se realizează reabsorbtia masivă a apei",
+      "D": "Prezintă o ramură ascendentă, în care se realizează reabsorbtia ionilor",
+      "E": "Prezintă o ramură descendentăși una ascendentă, în fiecare realizându-se atât reabsorbția apei în cantitate mare, cât și cea a ionilor"
     }
   },
   {
     "numar": 58,
-    "intrebare": "Care dintre următoarele informații, referitoare la vasopresina,sunt false?",
+    "intrebare": "La nivelul ansei Henle au loc:",
     "variante": {
-      "A": "Actionează asupra glomerulului renal, scăzând reabsorbția prin vasodilatatie",
-      "B": "Denumit si hormon antidiuretic, stimulează eliminarea apei, scăzând reabsorbtia ei la nivel renal",
-      "C": "Stimulând reabsorbtia apei la nivelul tubului contort distal al nefronului și al tubului colector,asigură creșterea volemiei",
-      "D": "Are structurǎ peptidică și este eliberat de către neurohipofiză",
-      "E": "Hipersecreția acestui hormon conduce la eliminare excesivă de urină și diabet insipid"
+      "A": "Pǎtrunderea filtratului glomerular din ramura ascendentă a ansei în tubul contort proximal (după reabsorbția selectivă din tubul proximal)",
+      "B": "Pătrunderea filtratului glomerular din tubul contort proximal în ramura descendentă a ansei (după reabsorbția selectivă din tubul proximal)",
+      "C": "Iesirea Na+și Cl în interstițiul medularei la nivelul ramurii ascendente,pe care o strǎbate fluidul din tub",
+      "D": "Reabsorbția în totalitate a apei, sodiului și clorului",
+      "E": "Procese de reabsorbtie prin transport activ a apei, sodiului și produșilor azotați"
     }
   },
   {
     "numar": 59,
-    "intrebare": "Alegeti asocierile corecte între hormonii tropi și actiunile lor:",
+    "intrebare": "Selectati afirmațiile adlevărate referitoare la ansa Henle și la mecanismul contracurent:",
     "variante": {
-      "A": "Hormonul adrenocorticotrop-cresterea secretiei de glucocorticoizi",
-      "B": "Hormonul stimulator tiroidian-stimularea secreției de parathormon și calcitonină",
-      "C": "Hormonul stimulator tiroidian - stimularea sintezei și eliberǎrii desi T4",
-      "D": "Hormonii gonadotropi (LH și MSH)- control al funcției medulosuprarenalei",
-      "E": "Hormonul foliculostimulant - stimularea cresterii foliculilor ovarieni si a tubilor seminiferi testiculari"
+      "A": "Ansa Henle propriu-zisă se află superficial în medularǎ",
+      "B": "La nivelul ramurii ascendente a ansei Henle, ionii de sodiu și cei de clor ies în țesuturile din jurul tubilor",
+      "C": "Acumularea de sare în interstițiul medularei determină hipertonicitatea acesteia și, deci,un gradient osmotic",
+      "D": "Ca urmare a gradientului osmotic creat de acumulareade NaCl, moleculele de apǎpărăsesc ramura ascendentă a ansei trecând în interstițiul medularei, pentru a ajunge în cele din urmă în circulația sanguinǎ",
+      "E": "Ca urmare a gradientului osmotic creat de acumularea de NaCl, moleculele de apǎpǎrǎsesc ramura descendentă a ansei și vârful acesteia, trecând în interstitiul medularei,pentru a ajunge în cele din urmă în circulatia sanguinǎ"
     }
   },
   {
     "numar": 60,
-    "intrebare": "Selectati afirmatiile false referitoare la neurohipofizǎ:",
+    "intrebare": "Despre mecanismul contracurent al circulației apei sunt false urmǎtoarele:",
     "variante": {
-      "A": "Reprezintă lobul anterior al hipofizei și secretǎ hormoni cu structură lipidică",
-      "B": "Reprezintă lobul posterior al hipofizei și este un rezervor al hormonilor antidiuretic (ADH)și oxitocinǎ",
-      "C": "Sintetizează și secretă hormonul antidiuretic (ADH) care acționează la nivelul tubilor renali",
-      "D": "Sintetizează și secretă oxitocina, care acționează asupra uterului și glandei mamare",
-      "E": "Depozitează și eliberează în sânge hormonii produși de către celulele neurosecretoare hipotalamice"
+      "A": "Hipertonicitatea interstițiului medularei va determina, prin gradient osmotic (datorat clorurii de sodiu), trecerea apei din filtrat în interstițiu, în ramura descendentă și vârful ansei Henle",
+      "B": "Acumularea de ioni de sodiu și clor în medulara rinichiului determină iesirea apei din anumite structuri ale nefronului (cum este tubul colector) în interstițiu",
+      "C": "Acumularea de ioni de sodiu și clor în medulara rinichiului determină iesirea apei din ramura descendentă, din ansa propriu-zisă (structuri ale nefronului) și din tubul colector",
+      "D": "Eliminarea ureei favorizează circulația apei, care se deplasează către papila renalǎ și pelvisul renal",
+      "E": "Eliminarea ureei favorizează circulația apei, care se deplasează către fluxul sanguin,contribuind la concentrarea urinei"
     }
   },
   {
     "numar": 61,
-    "intrebare": "Este adevǎrat cǎ neurohipofiza:",
+    "intrebare": "Despre ramura ascendentă a ansei Henle, este adevărat cǎ:",
     "variante": {
-      "A": "Secretă și depozitează în hipotalamus hormonul antidiuretic (ADH)",
-      "B": "Nu secretǎ hormonul stimulator tiroidian (TSH)",
-      "C": "Depozitează hormonul antidiuretic (ADDH) secretat de nuclei hipotalamici",
-      "D": "Depozitează oxitocina, hormon peptidic secretat de hipotalamus și transportat de-a lungul infundibulului pânǎ la neurohipofizǎ",
-      "E": "Secretă și depozitează hormonul melanocitostimulator (MSH)"
+      "A": "La nivelul ei nu se reabsoarbe apǎ (sau doar în cantități foarte mici)",
+      "B": "Este foarte permeabilă pentru apă, care se reabsoarbe prin mecanismul contracurent",
+      "C": "Permite reabsorbtia ionilor de natriu și clor",
+      "D": "Urcă din medulară înapoi în corticala",
+      "E": "La acest nivel, intră ionii de natriu șicei de clor din interstitiul medularei"
     }
   },
   {
     "numar": 62,
-    "intrebare": "Selectați afirmatiile adevărate referitoare la hormonul antidiuretic (ADH)",
+    "intrebare": "Care dintre structurile nefronului este considerată impermeabilă pentru apă?",
     "variante": {
-      "A": "Stimulează reabsorbția apei prin acțiunea asupra tuabilor renali (tubii distali ai nefronilor si tubii colectori)",
-      "B": "Determină creșterea volumului sanguin prin creșterea reabsorbției apei în tubii renali",
-      "C": "Creste volumul și scade presiunea sângelui prin vasoconstricție",
-      "D": "Produce vasodilatație, crescând astfel presiunea sanguină",
-      "E": "Produce vasoconstrictie, crescând astfel presiunea sanguinǎ"
+      "A": "Glomerulul (retea de capilare)",
+      "B": "Tubul proximal (aflat în continuarea capsulei glomerulare)",
+      "C": "Ramura ascendentă a ansei Henle (care urcă din medulară spre corticalǎ)",
+      "D": "Ramura descendentă a ansei Henle (care coboară spre profunzimea medularei)",
+      "E": "Tubul colector si capilarele peritubulare"
     }
   },
   {
     "numar": 63,
-    "intrebare": "Care dintre următoarele efecte aparțin hormonilor eliberati de neurohipofizǎ",
+    "intrebare": "Procesul de reabsorbtie tubulară selectivǎ",
     "variante": {
-      "A": "Contractia musculaturii netede uterine-efect al oxitocinei",
-      "B": "Vasoconstricție și creșterea presiunii sanguine-efecte ale ADH",
-      "C": "Stimularea sintezei proteinelor-efect al oxitocinei",
-      "D": "Scăderea presiunii sanguine datorită vasoconstrictiei-efect al ADH",
-      "E": "Reabsorbtia apei la nivelul tubilor renali-efect al ADH"
+      "A": "Forțează apa și moleculele mici din plasmă să treacă din capilarele glomerulare în tubul nefronului",
+      "B": "Recuperează nutrienți, săruri și apă din lichidul tubului proximal si distal",
+      "C": "Transporta substanțe în capilarele peritubulare pentru a le întoarce în curentul sanguin",
+      "D": "Excretă moleculele din capilarele peritubulare în tubii nefronului",
+      "E": "Transportă urina la uretere, apoi la vezica urinară, ureră și în exteriorul organismului"
     }
   },
   {
     "numar": 64,
-    "intrebare": "Despre hormonul antidiuretic (ADH) se poate afirma cǎ",
+    "intrebare": "Despre procesele de formare a urinei este adevărat cǎ",
     "variante": {
-      "A": "Are ca actiune principală scăderea reabsorbției apei la nivelul tubilor renali",
-      "B": "Are ca actiune principală creșterea reabsorbției apei la nivelul tubilor renali",
-      "C": "Determina scăderea volumului și presiunii sanguine",
-      "D": "Determina creșterea volumului și presiunii sanguine",
-      "E": "Hiposecretia lui are ca rezultat producere și eliminare excesivă de urinǎ"
+      "A": "Prin filtrare, substanțele dizolvate în plasmă (molecule mari, cum sunt proteinele) trec din capilarele glomerulare în capsula Bowman",
+      "B": "Prin filtrare, substanțele dizolvate în plasmă (moleculele mici, cum este glucoza) trec din capilarele glomerulare în capsula Bowman",
+      "C": "În timpul reabsorbției, prin celulele epiteliale tubulare sunt transportate din lumenul tubului în capilarele peritubulare, cantități variabile de săruri, apă și alte molecule",
+      "D": "Filtrarea are loc și la nivelul tubului proximal și distal",
+      "E": "Secreția tubulară constă în transportul anumitor constituenti chimici din sângele din capilareleperitubulare în fluidul din tubul contort distal"
     }
   },
   {
     "numar": 65,
-    "intrebare": "Alegeti afirmațiile adevărate referitoare la actiunile unor hormoni legate de actul nasterii",
+    "intrebare": "La nivelul tubului contort distal se realizeazǎ",
     "variante": {
-      "A": "Oxitocina are drept celule tintă fibrele musculare striate din peretele uterului si din peretele abdominal",
-      "B": "Oxitocina are drept celule tintă fibrele musculare netede din peretele uterului și induce contracții uterine puternice în timpul nașterii",
-      "C": "La debutul travaliului scade secreția de progesteron din placentă, ceea ce duce la anularea efectului inhibitor al progesteronului asupra endometrului",
-      "D": "Eliberarea suplimentară de oxitocina din lobul posterior al hipofizei este inhibatǎ în timpul travaliului de distensia musculaturii colului uterin, pe măsura trecerii capului fetal la acest nivel",
-      "E": "La debutul travaliului se înregistrează și o creștere a sintezei de prostaglandine,care vor stimula contracțiile mușchilor netezi din peretele uterin și dilatarea colului uterin,pentru a se deschide orificiul cervical"
+      "A": "Prin transport pasiv, reabsorbția ionilor (natriu, clor, potasiu)",
+      "B": "Reabsorbtia apei sub influenta hormonului antidiuretic-ADH",
+      "C": "Prin difuziune, filtrarea apei din capilarele glomerulare",
+      "D": "Prin transport activ, reabsorbția clorurii de sodiu si de potasiu",
+      "E": "Secreția amoniacului, a creatininei și a acidului uric"
     }
   },
   {
     "numar": 66,
-    "intrebare": "Care dintre urmǎtoarele efecte nu apartin oxitocinei?A. Stimularea contractiilor musculaturii netede a uterului (contractii initiate de cǎtre hormonii ovarieni)",
+    "intrebare": "La nivelul tubilor contorti distali are loc",
     "variante": {
-      "B": "Cresterea frecventei contractiilor musculaturii striate a uterului negravid",
-      "C": "Stimularea eliminării laptelui produs de glanda mamară (la femeile care alǎptează)",
-      "D": "Stimularea reabsorbției apei la nivelul tubilor renali",
-      "E": "Stimularea secreției hormonilor estrogeni de către corpul galben (luteal) ovarian"
+      "A": "Reabsorbția selectivă a ionilor prin transport activ",
+      "B": "Reabsorbtia apei sub influenta ADH-ului",
+      "C": "Secretia glucozei si a potasiului",
+      "D": "Secreția unor medicamente și a unor hormoni",
+      "E": "Filtrarea plasmei sanguine"
     }
   },
   {
     "numar": 67,
-    "intrebare": "Alegeți afirmațiile adevǎrate despre oxitocină:",
+    "intrebare": "Procesul de secretie tubularǎ",
     "variante": {
-      "A": "Este un hormon produs de hipotalamus și eliberat de epifiză",
-      "B": "Acest hormon nu este produs de neurohipofiză, ci doar eliberat în circulatie de catre aceasta",
-      "C": "Are ca și celule țintă fibrele musculare netede din uter",
-      "D": "Este un hormon cu structură peptidică, sintetizat de către neuroni din hipotalamus",
-      "E": "Este un hormon cu structură glicoproteică, sintetizat de adenohipofiză"
+      "A": "Are loc în tubii nefronului (mai ales în tubul contort distal) și în tubii colectori",
+      "B": "Este un proces pasiv, carerealizează transportul compușilor chimici în sânge din fluidul tubular",
+      "C": "Este un proces activ, care realizează transportul compușilor chimici din sânge în fluidul din tubi",
+      "D": "Are loc predominant în tubii contorți proximali și în capsula glomerularǎE. Realizează transportul unor compuși chimici din capilarele peritubulare în fluidul din tubi"
     }
   },
   {
     "numar": 68,
-    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
+    "intrebare": "Sunt secretate la nivelul tubilor nefronului:",
     "variante": {
-      "A": "Glanda mamară-ejecția laptelui- inhibată de oxitocinǎ",
-      "B": "Glanda mamarǎ - ejecția laptelui - stimulată de oxitocină",
-      "C": "Vasopresina-acțiune asupra mușchilor netezi ai venulelor-vasoconstrictie",
-      "D": "Prolactina-hormon proteic-stimulează producerea laptelui dupǎ naștere",
-      "E": "ACTH-organ tintă ficat-depunere de glicogen"
+      "A": "Aminoacizii,glucoza și proteinele",
+      "B": "Creatinina, ionii de potasiu, protonii (H+)",
+      "C": "Eritropoietină si renină",
+      "D": "Ionii de clor, medicamente (acid uric), ioni de amoniu",
+      "E": "Unele medicamente (antibiotice)."
     }
   },
   {
     "numar": 69,
-    "intrebare": "Alegeti asocierile corecte:",
+    "intrebare": "Alegeti afirmațiile adevărate dintre cele de mai jos:",
     "variante": {
-      "A": "Exces de STH -gigantism în copilărie-acromegalie la adult",
-      "B": "Exces de STH-gigantism la adult-acromegalie în copilǎrie",
-      "C": "Secretie de glucocorticoizi-reglare de către ACTH (prin feed-back negativ)",
-      "D": "Hiposecretie de glucocorticoizi-sindrom Cushing-hipertensiune arterialǎ",
-      "E": "Timus-secretie de timozine-rol în maturarea limfocitelor T"
+      "A": "Consecutiv proceselor care au loc la nivelul tubului contort distal, urina se transformă în filtrat glomerular",
+      "B": "Consecutiv proceselor care au loc la nivelul tubului contort distal, filtratul devine urinǎ",
+      "C": "Pentru că tubul colector (în drumul său spre pelvisul renal) coboară în medulara renalǎhipotonǎ,apa este extrasă din acest tub prin osmoză, ajungând în final înapoi în circulatia sanguinǎ generalǎ",
+      "D": "Pentru că tubul colector (în drumul său spre pelvisul renal) coboară în medulara renalǎhipertonă, apa este extrasă din acest tub prin osmoză, ajungând în final înapoi în circulația sanguinǎ generalǎ",
+      "E": "Reabsorbția tubulară este un proces activ, în care anumiți compuși chimici sunt transpor-tați din sângele capilarelor peritubulare în fluidul din tubul contort distal și tubul colector"
     }
   },
   {
     "numar": 70,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la glanda tiroidǎ:",
+    "intrebare": "Procesul de secretie tubularǎ:",
     "variante": {
-      "A": "Este localizată în tesuturile moi ale gâtului",
-      "B": "Este situată posterior de laringe",
-      "C": "Este situată anterior de laringe",
-      "D": "Este formatǎ din trei lobi laterali, dintre care unul reprezintă istmul tiroidian",
-      "E": "Este formată din doi lobi laterali, interconectati prin intermediul unei benzi de tesut denumitǎ istm"
+      "A": "Forțează apa și moleculele mici din plasmă să treacă din capilarele glomerulare în tubul nefronului",
+      "B": "Este un proces activ în care anumiți compuși chimici sunt transportați din sânge în filtratul ajuns în tubi",
+      "C": "Modifică concentrația ionilor pentru a menține homeostazia sângelui",
+      "D": "Excretǎ moleculele sau ionii din capilarele peritubulare în tubii nefronului",
+      "E": "Transportă urina la uretere, apoi la vezica urinară, uretră și în exteriorul organismului"
     }
   },
   {
     "numar": 71,
-    "intrebare": "Selectati afirmatiile adevǎrate referitoare la poziția glandei tiroide la nivelul gâtului",
+    "intrebare": "Directia de traversarea structurilor componente ale nefronului de către filtratul glomerular este:",
     "variante": {
-      "A": "Este situată anterior în raport cu faringele și posterior în raport cu laringele",
-      "B": "Vârful fiecǎrui lob tiroidian se situează medial de treimea inferioară a cartilajului cricoid al laringelui",
-      "C": "Vârful fiecărui lob tiroidian se situează lateral decartilajul tiroidian al laringelui (de treimea lui inferioarǎ)",
-      "D": "Baza fiecărui lob tiroidian este situată lateral față de portiunea superioarǎ a traheei",
-      "E": "Fiecare lob tiroidian are vârful orientat superior spre laringe și baza orientată inferior spre trahee"
+      "A": "Tub proximal - ansa propriu-zisă - ramură ascendentă a ansei Henle - ramurǎdescendentă a ansei Henle-tub distal",
+      "B": "Tub distal-ramură ascendentă a ansei Henle- ramură descendentă a ansei Henle-ansa propriu-zisǎ-tub proximal",
+      "C": "Tub proximal - ramură descendentă a ansei Henle - ansa propriu-zisǎ - ramurǎascendentă a ansei Henle-tub distal",
+      "D": "Ramură ascendentă a ansei Henle- ramură descendentă a ansei Henle-tub proximal-tub distal",
+      "E": "Ramurǎ descendentă a ansei Henle-ramură ascendentă a ansei Henle-tub proximal -tub distal"
     }
   },
   {
     "numar": 72,
-    "intrebare": "Selectati afirmațiile adevărate referitoare la anatomia glandei tiroide:",
+    "intrebare": "Selectați răspunsurile corecte cu privire la aspectele funcționale ale nefronului:",
     "variante": {
-      "A": "Este formată din doi lobi și un istm care îi interconecteazǎ",
-      "B": "Secretă trei hormoni principali: tiroxina, triiodotironina si calcitonina",
-      "C": "Istmul tiroidian este o bandă de tesut care unește între ei cei doi lobi laterali ai glandei",
-      "D": "Hormonii tiroidienisistimulează creșterea numărului de receptori din vasele sanguine,menținând presiunea sângelui",
-      "E": "Este poziționată în țesuturile moi ale gâtului, în zona anterioară a acestuia"
+      "A": "Glomerulul și capsula glomerulară realizează filtrarea plasmei sanguine",
+      "B": "În tubii proximali celulele prezintă la polul apical microvilozitǎti",
+      "C": "În tubii proximali se face reabsorbția apei prin transport activ",
+      "D": "În tubii distali are loc secretia unor medicamente",
+      "E": "În ansa Henle, sodiul este reabsorbit prin transport activ în ramnura ascendentǎ"
     }
   },
   {
     "numar": 73,
-    "intrebare": "Selectati afirmațiile adevărate despre glanda tiroidǎ",
+    "intrebare": "Despre ADH si rolul său în controlul eliminării apei din organism, este adevǎrat cǎ",
     "variante": {
-      "A": "Este situată retrosternal, în torace, în vecinǎtatea timusului",
-      "B": "Este situată în țesuturile moi ale gâtului, anterior de laringe",
-      "C": "Este situată în zona posterioară a gâtului, în țesuturile moi ale acestuia",
-      "D": "Este alcǎtuită din trei lobi tiroidieni (anterior, lateral și posterior)",
-      "E": "Dezvoltarea ei este reglată de cǎtre hormonul stimulator tiroidian (TSH)"
+      "A": "Este un hormon secretat de hipotalamus și eliberat de lobul posterior al hipofizei",
+      "B": "Deschide, printr-un mecanism chimic complex, porii din membranele celulare și permite trecerea apei",
+      "C": "Secreția sa este inhibată când receptorii din hipofiză percep modificări ale concentratiei unor ioni în plasmǎ",
+      "D": "În caz de deshidratare, prin intermediul receptorilor hipotalamici, scade eliberarea de ADH",
+      "E": "În caz de exces de apă în organism, prin intermediul receptorilor hipotalamici, este inhibată secreția de ADH, ca urmare, scade reabsorbția apei în tubii distali și colectori"
     }
   },
   {
     "numar": 74,
-    "intrebare": "Care dintre următoarele afirmații despre hormonii tiroidieni sunt adevarate?",
+    "intrebare": "Despre ADH și rolul său în controlul eliminării apei din organism, nu este adevărat cǎ",
     "variante": {
-      "A": "T3 se mai numește și triiodotiroxină și conține iod",
-      "B": "se mai numește și triiodotironină și conține iod în structura sa",
-      "C": "se mai numește și tetraiodotironină, prezentând 4 molecule de iod în moleculă",
-      "D": "T4 (tiroxina) și stimulează, alături de T3, creșterea numărului de receptori din vasele sanguine, contribuind la menținerea presiunii sanguine",
-      "E": "7T4se mai numeste și tetraiodotirovică și conține 3 molecule de iod în moleculǎ"
+      "A": "Hormonul controlează permeabilitatea membranei celulelor din peretele tubilor distali și colectori",
+      "B": "Nu intervine în reabsorbția apei în tubul colector",
+      "C": "Actionează printr-un mecanism complex, care determină închiderea porilor membranei celulelor din peretele tuturor tubilor nefronului",
+      "D": "La exces de apă în organism, crește secreția de ADH, ceea ce va duce la eliminare crescutǎde apă și urinǎ diluatǎE. Când receptorii hipotalamici detectează o scădere a concentrației ionilor de sodiu, dar și a altor ioni în sânge, are loc inhibarea secreției de ADH și scăderea reabsorbției de apă"
     }
   },
   {
     "numar": 75,
-    "intrebare": "Care dintre urmǎtoarele afirmatii despre hormonii tiroidieni T3 si T4sunt adevǎrate?A. Stimulează activitatea enzimelor asociate cu metabolismul glucozei",
+    "intrebare": "ADH-ul este eliberat din lobul posterior al glandei hipofize atunci când",
     "variante": {
-      "B": "Scad rata metabolismul bazal",
-      "C": "Accelereazǎ rata metabolismului celular în tot organismul",
-      "D": "Scad consumul de oxigen al celulelor",
-      "E": "Au rol în mentinerea presiunii sanguine"
+      "A": "Concentrația ionilor de sodiu sau a altor ioni din sânge este crescutǎ",
+      "B": "Există un exces de apă în organism",
+      "C": "Organismul este deshidratat",
+      "D": "Concentrația plasmatică a ionilor este scǎzutǎE. Receptorii chimici din hipotalamus sunt stimulați de variațiile concentrației sodiului (de cresterea acesteia)"
     }
   },
   {
     "numar": 76,
-    "intrebare": "Despre hormonii tiroidieni sunt false urmǎtoarele afirmatii",
+    "intrebare": "Eliberarea ADH-ului din lobul posterior al glandei hipofize este inhibatǎ atunci când;A. Creste osmolaritatea plasmei (concentrație plasmatică a ionilor crescutǎ)",
     "variante": {
-      "A": "Sunt reprezentați de hormonul stimulator tiroidian, tiroxină și triiodotironina",
-      "B": "Tiroxinași triiodotironina reduc rata metabolismului celular în tot organismul",
-      "C": "Tiroxina și triiodotironina accelerează rata metabolismului celular în tot organismul",
-      "D": "Sinteza hormonilor tiroidieni este reglată de hormonul stimulator tiroidian (TSH), secretat de către neurohipofizǎE. Sinteza hormonilor tiroidieni este reglată de hormonul stimulator tiroidian (TSH),secretat de cǎtre adenohipofizǎ"
+      "B": "Există un exces de apă în organism",
+      "C": "Organismul este deshidratat",
+      "D": "Concentrația ionilor de sodiu (sau a altor ioni) din sânge este scǎzutǎ",
+      "E": "Receptorii chimici din hipotalamus sunt stimulați de creșterea concentratiei sodiului"
     }
   },
   {
     "numar": 77,
-    "intrebare": "Despre hormonii tiroidieni sunt adevărate urmǎtoarele afirmatii",
+    "intrebare": "Despre aldosteron și rolul său în reglarea functiei renale,este adevǎrat cǎ",
     "variante": {
-      "A": "Sunt reprezentati de TSH (T3)si tiroxinǎ(și conțin iod în molecula lor",
-      "B": "Calcitonina este secretată de către adenohipofiză și depozitată în tiroidǎC. Cresc rata metabolismului bazal",
-      "D": "Cresc cantitatea de oxigen consumată de către celule",
-      "E": "Cresc cantitatea de căldură produsă de către celule"
+      "A": "Secretat de către cortexul glandelor suprarenale, actionează în principal asupra tubului contort distal al nefronului",
+      "B": "Are ca efect stimularea reabsorbtiei ionilor de sodiu din tubul contort distal",
+      "C": "Stimulează eliminarea apei și reabsorbția potasiului la nivelul tubilor proximali ai nefronului",
+      "D": "Stimulează secreția potasiului din sânge în fluidul tubului contort distal",
+      "E": "Excesul secreției hormonului apae în boala Addison"
     }
   },
   {
     "numar": 78,
-    "intrebare": "Alegeti asocierile corecte dintre cele de mai jos:",
+    "intrebare": "Rolul aldosteronului este de a",
     "variante": {
-      "A": "T4,,calcitriol-hormoni tiroidieni",
-      "B": "Calcitonină-acțiune antagonistă cu parathormonul în reglarea calcemiei",
-      "C": "Calcitonină- scăderea nivelului de calciu în sânge",
-      "D": "T3-accelerarea ratei metabolismului celular",
-      "E": "T4-creșterea nivelului de calciu în sânge"
+      "A": "Stimula reabsorbtia ionilor de sodiu din tubul contort distal",
+      "B": "Stimula reabsorbția apei (apa ,,urmează” ionii de sodiu)",
+      "C": "Stimula secretia potasiului din sânge în fluidul tubului contort distal",
+      "D": "Stimula secretia ionilor de sodiu în fluidul din tubul contort distal",
+      "E": "Stimula eliminarea potasiului din organism (prevenind astfel tulburări ale functiei cardiace)"
     }
   },
   {
     "numar": 79,
-    "intrebare": "Care dintre următoarele efecte aparțin hormonilor tiroidieni:",
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
     "variante": {
-      "A": "Stimularea activității enzimelor asociate cu metabolismul glucozei (accelerarea glicolizei)",
-      "B": "Inhibarea activității enzimelor asociate cu metabolismul glucozei (reducerea ratei oxidǎrii glucozei)",
-      "C": "Creșterea ratei metabolismului bazal (RMB), creșterea producerii de cǎldurǎ de cǎtre celule",
-      "D": "Scăderea consumului de oxigen al celulelor și a cantității de căldură produsă de către acestea",
-      "E": "Creșterea consumului de oxigen al celulelor (stimularea proceselor metabolice aerobe)"
+      "A": "Procesul de reabsorbtie tubulară este neselectiv fiind reabsorbiti toti compusii din filtratul glomerular prin transport pasiv",
+      "B": "Secretia insuficientă de aldosteron reprezintă o caracteristică a afecțiunii denumite boala Addison",
+      "C": "Scǎderea potasiului din sânge este rezultatul unui catabolism proteic exagerat,stimulat de aldosteron",
+      "D": "Dezechilibrul sodiului și potasiului, deshidratarea, hipotensiunea sunt semne ale afectiunii denumite boala Addison",
+      "E": "Renina este o substanță eliberată de rinichi și care intervine în mecanismele de reglare a presiunii arteriale"
     }
   },
   {
     "numar": 80,
-    "intrebare": "Care dintre următoarele efecte nu aparțin hormonilor tiroidieni?",
+    "intrebare": "Despre urină și compoziția acesteia, sunt adevărate următoarele afirmatii:",
     "variante": {
-      "A": "Cresterea ratei metabolismului bazal",
-      "B": "Scăderea ratei metabolismului bazal (RMIB)",
-      "C": "Cresterea consumului de oxigen al celulelor",
-      "D": "Scăderea consumului de oxigen al celulelor",
-      "E": "Mentinerea presiunii sanguine"
+      "A": "Reprezintă lichidul rezultat din proceselor de filtrae,reabsorbție și secreție care au loc la nivelul nefronului",
+      "B": "Este un lichid de culoare verzuie, datorată biliverdinei (pigment rezultat din degradarea hemului), cu un conținut în apă de aproximativ 75%",
+      "C": "Este un lichid care are în mod obisnuit culoare galbenă sau chihlimbarie și un conținut de apă de aproximativ 95%",
+      "D": "În compoziția urinei intră compuși azotați (ureea), ca și diferiți ioni și săruri, care se pot regăsi în procent de aproximativ 5%",
+      "E": "În urină nu se regăsesc amoniacul și acidul uric"
     }
   },
   {
     "numar": 81,
-    "intrebare": "Care dintre următoarele efecte sunt caracteristice hormonilor tiroidieni:",
+    "intrebare": "În urină pot fi prezente anumite substante:",
     "variante": {
-      "A": "Scăderea concentratiei sanguine a calciului, efect al calcitoninei",
-      "B": "Creșterea concentrației sanguine a calciului, produsă de parathormon",
-      "C": "La tineri-reglarea creșterii și stimularea maturării sistemului nervos",
-      "D": "La tineri - influență negativă asupra maturării sistemului nervos, cu diminuarea creșterii",
-      "E": "Mentinerea presiunii sanguine (prin creșterea numărului de receptori din vasele sanguine)"
+      "A": "Corpi cetonici, în cantități crescute la persoanele sănătoase și scăzute la persoanele cu diabet zaharat",
+      "B": "Pigmenti derivați din substante prezente în dietǎ",
+      "C": "Urobilinogenul, produs din bilirubină în intestin (sub acțiunea bacteriilor locale), de undc este transportat la ficat și de aici, prin circulația sanguină, la rinichi",
+      "D": "Hormoni și diferite medicamente (spre exemplu, unele antibiotice)",
+      "E": "Uree, sintetizată în ficat, prin metabolizarea aminoacizilor și utilizarea grupărilor amino (-NH2)ale acestora"
     }
   },
   {
     "numar": 82,
-    "intrebare": "Alegeti asocierile corecte dintre cele de mai jos:",
+    "intrebare": "Despre uree se poate afirma cǎ:",
     "variante": {
-      "A": "Sintezǎ deaport adecvat alimentar de fluor-reglare de cǎtre TSH",
-      "B": "Aport alimentar adecvat de iod-creștere în dimensiuni a tiroidei-gusǎ",
-      "C": "Iod alimentar indisponibil-creștere în dimensiuni a tiroidei-gusǎ",
-      "D": "T4-hormoni derivați din aminoacizi- sinteză reglată de către TSH",
-      "E": ",calcitonină-hormoni aminici-acțiune antagonistǎ parathormonului"
+      "A": "Este inofensivă pentru celulele organismului, indiferent de concentrație, eliminarea ei prin urinǎ fiind facultativǎ",
+      "B": "Este un produs rezidual al catabolismului aminoacizilor și al utilizării grupărilor aminice rezultate din dezaminarea acestora",
+      "C": "Este un produs al metabolismului lipidelor în procesul de conversie a acestora la compusi furnizori de energie",
+      "D": "Odatǎ sintetizată, trece în circulația saguină și va ajunge la rinichi, de unde va fi eliminatǎprin urinǎ",
+      "E": "Se sintetizează în ficat, prin ciclul ornitinei (o serie ciclică de reacții enzimatice pe care le parcurge amoniacul)"
     }
   },
   {
     "numar": 83,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la hormonii glandei tiroide:",
+    "intrebare": "Selectati afirmnațiile adevărate cu privire la uree",
     "variante": {
-      "A": "Este necesar aportul alimentar de iod pentru sinteza tiroxinei, dar nu și a triiodotironinei",
-      "B": "Este necesar aportul alimentar de iod pentru sinteza tiroxinei și a triiodotironinei",
-      "C": "Sinteza hormonilor tiroidieni este controlată de un hormon trop adenohipofizar",
-      "D": "Captarea iodului de către tiroidă nu depinde de TSH (hormonul stimulator tiroidian)",
-      "E": "Eliberarea tiroxinei este controlată de adenohipofiză prin TSH"
+      "A": "Este o substanță anorganică, extrem de toxică pentru toate celulele organismului",
+      "B": "Este o substanță organică, sintetizată în ficat prin ciclul ureei (sau ciclul ornitinei)",
+      "C": "În procesul de formare a urinei, ureea, alături de alte reziduuri azotate, părăsește lumenul tubului colector în porțiunea lui profundă, acumulându-se în profunzimea medularei renale",
+      "D": "În procesul de formare a urinei, ureea se acumulează în corticala renalǎ, unde contribuie la cresterea concentratiei moleculelor organice",
+      "E": "În structura chimică a moleculei de uree se regăsesc atomi de azot, carbon, oxigen"
     }
   },
   {
     "numar": 84,
-    "intrebare": "Sinteza și secreția hormonilor tiroidieni sunt reglate după cum urmează:",
+    "intrebare": "Despre ionii prezenți în urină,sunt adevǎrate urmǎtoarele",
     "variante": {
-      "A": "Adenohipofiza produce hormonul stimulator tiroidian (STH) care regleazǎ nivelul secreției de hormoni tiroidieni",
-      "B": "Adenohipofiza produce hormonul stimulator tiroidian (TSH) care stimulează captarea iodului de cǎtre tiroidǎ",
-      "C": "Producerea tiroxinei de către foliculul ovarian este stimulată de hormonul trop TSH",
-      "D": "T3(triiodotironina) și T4 (tiroxina) necesită iod pentru a fi sintetizați",
-      "E": "TSH adenohipofizar, denumit și hormon adrenocorticotrop, reglează dezvoltarea tioidei"
+      "A": "Cationii, ioni cu sarcină negativă, sunt reprezentati de clor si fosfati",
+      "B": "Concentratiile plasmatice ale sodiului și potasiului sunt influențate de aldosteron",
+      "C": "Potasiul și sodiul sunt cationi monovalenți, a căror concentrație urinară este reglatǎ de aldosteron",
+      "D": "Calciulsi magneziulapartin cationilor si sunt bivalenti",
+      "E": "Ionul sulfat și ionul de clor sunt anioni"
     }
   },
   {
     "numar": 85,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la glanda tiroidă și la unele aspecte de patologie",
+    "intrebare": "Despre anionii din urină este fals cǎ",
     "variante": {
-      "A": "Nu necesită aport alimentar de iod pentru a putea produce tiroxinǎ și triiodotironinǎ",
-      "B": "Creșterea ei în dimensiuni (gușa) nu este corelată cu aportul alimentar de iod",
-      "C": "Indisponibilitatea aportului alimentar de iod conduce la creșterea ei în dimensiuni (fărăsintezǎ de T3 și T4)",
-      "D": "Suplimentarea iodului alimentar ameliorează afecțiunea caracterizată prin creșterea ei în dimensiuni",
-      "E": "Cresterea în dimensiuni a glandei tiroide atunci când iodul nu este disponibil se numeste gusǎ"
+      "A": "Sunt ioni cu sarcină negativă, monovalenți (K+), bivalenți (calciul) sau trivalenți (sulfații)",
+      "B": "Fosfații nu aparțin acestei categorii de ioni",
+      "C": "Includ",
+      "D": "Cl este un anion monovalent",
+      "E": "Includ ionul de amoniusub forma clorurii de amoniu (NH4+CI)"
     }
   },
   {
     "numar": 86,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la glanda tiroidǎ",
+    "intrebare": "Alegeti afirmațiile adevărate despre caracteristicile și compoziția urinei umane",
     "variante": {
-      "A": "Pentru ca tiroida să poată produce tiroxină (T4) și triiodotironină (T3) este necesar aportul alimentar de iod",
-      "B": "Secretǎ hormoni iodati、care au ca tintă celule din toate tesuturile organismului",
-      "C": "Pentru ca tiroida să poată produce calcitonină, este necesar aportul alimentar de iod",
-      "D": "Unitatea funcțională a tiroidei este reprezentată de foliculul matur de Graaf",
-      "E": "Prin secretia de calcitonină, tiroida contribuie la reglarea concentratiei sanguine a calciului și la depunerea lui în os"
+      "A": "Culoarea galben,galben pai sau chihlimbariu a urinei poate fi dată de urobilinogen sau de pigmenti derivați din substantele prezente în dietă",
+      "D": "Cantitatea de urină eliminată în 24 de ore este de aproximativ 1500 ml",
+      "E": "De obicei tulbure imediat după micțiune, devine clară și transparentă prin depozitare mai îndelungatǎ"
     }
   },
   {
     "numar": 87,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la calcitonină",
+    "intrebare": "Alegeti,răspunsurile care contin în enunțt o primă afirmație falsă și o a doua,adevărată,referitor la caracteristicile urinei umane",
     "variante": {
-      "A": "Este un hormon secretat de glanda tiroida",
-      "B": "Este un hormon secretat de glanda mamarǎC. Are rol în reglarea nivelului sanguin al glucozei",
-      "D": "Are rol în reglarea concentratiei sanguine a calciului",
-      "E": "Are actiune antagonistă parathormonului (în ceea ce privește concentratia sanguinǎ a calciului)"
+      "A": "Urina nu are în mod obișnuit culoarea galbenă sau chihlimbarie, ci roșie. Urina conține urobilinogen, pigment rezultat prin acțiunea bacteriilor asupra bilirubinei din intestin",
+      "B": "Densitatea urinei este mai scǎzută dimineața. Prezența eritrocitelor în urină este întotdeauna normalǎC. În prezența hematiilor, urina dobândește o culoare roșie. Prin păstrare, urina dobândește miros amoniacal",
+      "D": "pH-ul urinar este cuprins în mod normal în intervalul de la 2 la 4 (usor acid). Urina este de obicei clară sau transparentǎE. Corpii cetonici, rezultați din metabolizarea proteinelor, sunt prezenți în cantități mari în urină în mod normal. Cantitatea de urină produsă pe zi este de aproximativ 1-2 litri"
     }
   },
   {
     "numar": 88,
-    "intrebare": "Despre calcitonină se poate afirma cǎ",
+    "intrebare": "Despre procesul de excreție renală, este adevărat cǎ:",
     "variante": {
-      "A": "Este secretată de glanda tiroidă, fiind al treilea hormon principal al acesteia, după tiroxinǎsi triiodotironinǎ",
-      "B": "Este secretată de pancreas, ca si insulina",
-      "C": "Este un hormon non-steroidian, de naturǎ proteică",
-      "D": "Reglează activitatea osteoclastelor, stimulând resorbtia osoasă",
-      "E": "Stimulează creșterea osoasă (crescând rapid depunerea de calciu în oase)"
+      "A": "Este procesul prin care apa și moleculele mici din plasmă sunt fortate sǎ treacǎ din capilarele glomerulare în tubul nefronului",
+      "B": "Recuperează nutrienți, săruri și apă din lichidul tubului proximal și distal",
+      "C": "Elimină urina din calicele mari în pelvisul renal",
+      "D": "Asigură transportul urinei din pelvisul renal la ureter",
+      "E": "Asigură transportul urinei prin uretere la vezica urinară, uretră și în exteriorul organismului"
     }
   },
   {
     "numar": 89,
-    "intrebare": "Selectati afirmațiile adevǎrate referitoare la calcitonină",
+    "intrebare": "Selectați răspunsurile corecte referitoare la uretere:",
     "variante": {
-      "A": "Intervine împreunǎ cu parathormonul în controlul nivelului sanguin al calciului",
-      "B": "Scade rapid depunerea de calciu în oase, crescând calcemia",
-      "C": "Stimulează activitatea osteoclastelor, producând resorbtie osoasǎ",
-      "D": "Este un hormon proteic cu acțiune antagonistă parathormonului în privința calcemiei",
-      "E": "Stimulează resorbtia calciului din os, actionând la fel ca parathormonul"
+      "A": "Aparțin structurilor anexe ale sistemului urinar",
+      "B": "Transportă plasmă de la rinichi la vezica urinarǎ",
+      "C": "Transportă urina de la rinichi la vezica urinară",
+      "D": "Conțin în peretele lor fibre musculare care produc unde peristaltice",
+      "E": "Portiunea lor superioară se deschide în vezica urinarǎ"
     }
   },
   {
     "numar": 90,
-    "intrebare": "Alegeti asocierile corecte dintre cele de mai jos",
+    "intrebare": "Selectați afirmațiile adevărate referitoare la uretere:",
     "variante": {
-      "A": "Cresterea concentratiei sanguine a calciului-calcitonină-acțiune identică cu parathormonul",
-      "B": "Scăderea concentrației sanguine a calciului - calcitonină - actiune antagonicǎ cu parathormonul",
-      "C": "Maturarea sistemului nervos la tineri-tiroxină,triiodotironină-hormoni care conțin iod",
-      "D": "Creșterea resorbției calciului din oase - creșterea nivelului de calciu din sânge -parathormon",
-      "E": "Stimularea activitǎtii osteoclastelor-T3,T4-reglare prin TSH"
+      "A": "Se găsesc în continuarea pelvisului renal",
+      "B": "Se întind de la rinichi la vezica urinară, având o lungime de aproximativ 25-30 cm",
+      "C": "Sunt organe tubulare cu un traiect descendent",
+      "D": "Elimină urina din vezicǎ la exterior",
+      "E": "Transportă urina la vezica urinară prin unde peristaltice, produse de mușchii netezi prezenti în peretii lor"
     }
   },
   {
     "numar": 91,
-    "intrebare": "Alegeți asocierile incorecte dintre cele de mai jos:",
+    "intrebare": "Selectați afirmațiile adevărate cu privire la ureter:",
     "variante": {
-      "A": "Vârful lobului tiroidian - situat lateral de treimea inferioară a cartilajului tiroidian al laringelui",
-      "B": "Baza lobului tiroidian-situată medial de trahee",
-      "C": "Doi lobi laterali și un istm - componente ale glandei paratiroide",
-      "D": "Unitate functională a glandei tiroide-lobulul tiroidian",
-      "E": "TSH adenohipofizar-glicoproteinǎ"
+      "A": "Porțiunea lui inferioară se deschide în vezica urinară",
+      "B": "Portiunea lui superioară se află în continuarea pelvisului renal",
+      "C": "Este un organ tubular scurt în care se acumulează urina",
+      "D": "Este un tub lung prin care urina este condusă în vezica urinară",
+      "E": "Transportă urina la vezica biliară prin unde peristaltice"
     }
   },
   {
     "numar": 92,
-    "intrebare": "Despre modificările secreției hormonilor tiroidieni se poate afirma că:",
+    "intrebare": "Referitor la vezica urinară, este adevarat cǎ:",
     "variante": {
-      "A": "Hipersecreția de triiodotironină la adult determină mixedem",
-      "B": "Hiposecreția de tiroxină la adult duce la mixedem",
-      "C": "Hiposecreția de tiroxină la copii are ca rezultat cretinismul",
-      "D": "Hipersecretia de tiroxină la copii provoacă cretinism",
-      "E": "Excesul deși tiroxină la adult determină gusa exoftalmicǎ"
+      "A": "Este situată în subdiviziunea inferioară a cavității abdomino-pelviene",
+      "B": "Se aflǎ pozitionată posterior de simfiza pubianǎ",
+      "C": "Se află poziționată anterior de simfiza pubiană",
+      "D": "Poate acumula până la 600 ml de urină pe care îi elimină prin procesul de micțiune",
+      "E": "Prezintă colul vezical la nivelul căruia se deschid ureterele"
     }
   },
   {
     "numar": 93,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la anatomia glandei tiroide:",
+    "intrebare": "Selectați răspunsurile corecte referitoare la vezica urinarǎ:",
     "variante": {
-      "A": "Glanda este situată în țesuturile moi din partea anterioară a gâtului",
-      "B": "Bazele lobilor tiroidieni vin în raport cu porțiunea superioarǎ a traheei",
-      "C": "Interconectarea lobilor tiroidieni se realizează printr-o bandă de țesut, denumită istmul tiroidian",
-      "D": "Cartilajul tiroidian al laringelui (treimea lui superioară) vine în raport cu bazele lobilor tiroidieni și cu istmul tiroidian",
-      "E": "Unitatea funcțională a glandei tiroide este foliculul tiroidian"
+      "A": "Se umple progresiv prin procesul de mictiune",
+      "B": "Este un organ cavitar, nedistensibil, aflat în continuarea uretrei",
+      "C": "Este un organ cavitar în care se acumulează urina",
+      "D": "Este capabilă de o extensie considerabilă, acumulând până la 600 ml de urină",
+      "E": "Elimină prin uretră urina acumulată între două mictiuni"
     }
   },
   {
     "numar": 94,
-    "intrebare": "Selectați informațiile corecte despre elementele de vecinătate ale glandei tiroide:",
+    "intrebare": "Selectați afirmațiile adevărate referitoare la vezica urinarǎ:",
     "variante": {
-      "A": "Superior și medial de vârful lobului tiroidian se află cartilajul cricoid asemǎnǎtor unui inel cu pecete",
-      "B": "Superior și medial de vârful lobului tiroidian se află treimea inferioară a cartilajului tiroid (tiroidian), cunoscut și sub numele de,,mǎrul lui Adam\"",
-      "C": "Porțiunea superioară a traheei este flancată lateral de vârfurile lobilor glandei tiroide",
-      "D": "Porțiunea superioară a traheei este flancată lateral de bazele lobilor glandei tiroide",
-      "E": "Cranial în raport cu tiroida și cu cartilajul tiroid (tiroidian) al laringelui se situează osul hioid"
+      "A": "Este o cavitate cu pereti formati din fibre musculare netede",
+      "B": "Este o cavitate cu pereți alcătuiți din musculaturǎ striatǎ",
+      "C": "Prezintă o tunică mucoasă ca strat exterior al peretelui vezicii",
+      "D": "Primește urina din uretere sub formă de jeturi, cu un flux de 5 ml pe minut",
+      "E": "Prin procesul de micțiune (urinare) elimină urina acumulatǎ"
     }
   },
   {
     "numar": 95,
-    "intrebare": "Ce se întâmplă în situația lipsei iodului alimentar?",
+    "intrebare": "Despre vezica urinarǎ este fals cǎ aceasta",
     "variante": {
-      "A": "Tiroida se atrofiază (scade în dimensiuni)",
-      "B": "Apare afectiunea caracterizată prin creșterea în dimensiuni a tiroidei (gusa)",
-      "C": "Tiroida nu poate producecare sunt hormoni aminici iodurati",
-      "D": "Nu se întâmplă nimic, organismul sintetizând iodul din precursori",
-      "E": "Apare boala Graves (gușa exoftalmică) cu hipersecreție de hormoni funcționali"
+      "A": "Prezintă trei orificii de comunicare cu ureterele",
+      "B": "Prezintă inferior colul vezical, care se continuǎ cu uretra",
+      "C": "Prin orificiile ureterale,asigură trecerea urinei din uretere în vezica urinară",
+      "D": "Prin orificiile uretrale asigură trecerea urinei din uretere în vezica urinară",
+      "E": "Prin orificiul uretral asigurǎ trecerea urinei în uretrǎ"
     }
   },
   {
     "numar": 96,
-    "intrebare": "Referitor la glandele paratiroide,este fals cǎ:",
+    "intrebare": "Selectati afirmațiile adevărate referitoare la uretra masculină",
     "variante": {
-      "A": "Sunt patru mici mase de tesut glandular localizate pe fața anterioară a glandei tiroide",
-      "B": "Sunt glande exocrine care își varsă produșii de secreție în cavitatea bucală",
-      "C": "Sunt patru mici mase de țesut glandular, situate pe fața posterioară a glandei tiroide",
-      "D": "Secretǎ hormonul paratiroidian (PTH, parathormonul) care influentează reabsorbtia calciului în tubii renali și la nivelul mucoasei intestinale",
-      "E": "Sunt două glande de dimensini mari, situate pe fața posterioară a glandei tiroide"
+      "A": "Este un tub care conduce urina de la baza vezicii urinare la exterior",
+      "B": "Este înconjurată în porțiunea terminală, peniană, de prostată (glanda prostatică)",
+      "C": "Are o lungime de aproximativ 15 cm atunci când penisul este relaxat",
+      "D": "Are rol în eliminarea spermei și a urinei",
+      "E": "Se deschide la exteriorul corpului prin orificiul uretral intern"
     }
   },
   {
     "numar": 97,
-    "intrebare": "Paratiroidele",
+    "intrebare": "Referitor la uretră, este adevărat cǎ:",
     "variante": {
-      "A": "Sunt în număr de patru, două drepte și două stângi",
-      "B": "Sunt situate pe fata posterioarǎ a tiroidei",
-      "C": "Sunt situate pe fața posterioară a lobulilor timici",
-      "D": "Secretǎ parathormonul (PTH,hormonul paratiroidian)",
-      "E": "Secretǎ tiroxina și triiodotironina"
+      "A": "Este un organ care secretǎ urina",
+      "B": "La femei, este poziționată ventral față de vagin",
+      "C": "La bărbați, prezintă trei porțiuni (prostatică, membranoasă și peniană)",
+      "D": "La bărbați, este înconjurată de glanda prostatică (în porțiunea inițială, denumită uretrǎprostatică)",
+      "E": "Este un tub care se află în continuarea pelvisului renal"
     }
   },
   {
     "numar": 98,
-    "intrebare": "Selectați afirmațiile false referitoare la glandele paratiroide",
+    "intrebare": "Din structurile anexe ale sistemului urinar fac parte",
     "variante": {
-      "A": "Sunt două formațiuni mici, situate pe fața posterioară a tiroidei",
-      "B": "Sunt în numǎr de patru, situate pe fața posterioară a laringelui și traheei",
-      "C": "Secretă un hormon care intervine în menținerea concentratiei calciului în sânge",
-      "D": "Au dimensiunea aproximativă dublă față de cea a unui bob de mazǎre",
-      "E": "Secretǎ parathormonul (PTH), cu rol în reglarea calciului plasmatic"
+      "A": "Ureterul, organ tubular, care continuǎ pelvisul renal",
+      "B": "Vezica urinară, organ cavitar distensibil ce poate acumula până la 600 ml urinǎC. Vezica urinarǎ, organ cavitar pozitionat anterior fatǎ de simfiza pubianǎ",
+      "D": "Uretra, care se deschide la exterior prin orificiul uretral extern",
+      "E": "Tubii semniniferi contorti și ductul deferent la bărbat"
     }
   },
   {
     "numar": 99,
-    "intrebare": "Alegeti asocierile corecte referitoare la actiunile unor hormoni",
+    "intrebare": "Ce alte organe, în afară de cele ale sistemului urinar, sunt considerate organe excretorii?A. Ficatul,la nivelul căruia este catabolizată hemoglobina eritrocitarǎ (din hem rezultând pigmenti biliari)",
     "variante": {
-      "A": "Parathormon-acțiune asupra osului-activarea osteoclastelor(celule resorbante)",
-      "B": "Parathormon-acțiune asupra osului-activarea osteoblastelor (celule osteoformatoare)",
-      "C": "Calcitoninǎ-cresterea concentrației sanguine a calciului - depunere rapidă de calciu în OS",
-      "D": "Calcitonină- scăderea concentrației sanguine a calciului- depunere rapidă de calciu în OS",
-      "E": "Parathormon-acțiune asupra rinichiului și intestinului- activarea renalǎ a vitaminei D -reglarea absorbtiei intestinale a calciului"
+      "B": "Plămânii, care excretă dioxidul de carbon și degajă o cantitate redusă de apă (produși reziduali ai procesului de respiratie celulară)",
+      "C": "Intestinul gros, prin procesul de defecație (excretă produși de degradare ai metabolis-mului)",
+      "D": "Intestinul, care prin celulele epiteliale ale mucoasei care îl tapetează, elimină săruri de fier și de calciu si apǎE. Pielea, pentru că excretǎ prin transpirație cantități variabile de săruri, amoniac, uree, aciduric"
     }
   },
   {
     "numar": 100,
-    "intrebare": "Care dintre efectele de mai jos nu aparțin parathormonului",
+    "intrebare": "Selectați afirmațiile adevărate referitoare la rolul fiecǎrui organ în cadrul sistemului urinar",
     "variante": {
-      "A": "Creșterea concentrației calciului în sânge",
-      "B": "Inhibarea activitǎtii osteoclastelor",
-      "C": "Stimularea activitǎtii osteoclastelor",
-      "D": "Reabsorbția calciului la nivelul mucoasei intestinale",
-      "E": "Activarea vitaminei D la nivelul glandei suprarenale"
+      "A": "Rinichii reglează volumul plasmei sanguine",
+      "B": "Ureterele asigură eliminarea urinei din vezica urinarǎC. Ureterele transportă urina de la rinichi la vezica urinarǎ",
+      "D": "Uretra asigură golirea vezicii urinare (prin micțiune)",
+      "E": "Uretra transportă urina la vezica urinarǎ"
     }
   },
   {
     "numar": 101,
-    "intrebare": "Care dintre următoarele afirmații despre parathormon (PTH) sunt adevarate?A. Este secretat de către patru mase mici de tesut glandular (glandele paratiroide)",
+    "intrebare": "Selectați răspunsurile corecte dintre cele de mai jos:",
     "variante": {
-      "B": "Controlează niveluI sanguin al calciului, fiind antagonistul calcitoninei",
-      "C": "Acționează asupra osului și rinichiului, dar nu acționează asupra mucoasei intestinale",
-      "D": "La nivelul tubilor renali influentează reabsorbtia calciului",
-      "E": "Este un hormon cu structură lipidică, aparținând hormonilor steroizi"
+      "A": "Mictiunea este procesul de eliminare a urinei din vezica urinarǎ",
+      "B": "Micțiunea este procesul de acumulare a urinei în vezica biliară",
+      "C": "Incontinența urinară este micțiunea care se produce involuntar",
+      "D": "Incontinența urinară este micțiunea care se produce voluntar",
+      "E": "Creșterea în volum a prostatei poate împiedica curgerea normală a urinei"
     }
   },
   {
     "numar": 102,
-    "intrebare": "Parathormonul",
+    "intrebare": "Alegeti asocierile gresite dintre cele de mai jos:",
     "variante": {
-      "A": "Acționează asupra osului, rinichiului și mucoasei intestinale",
-      "B": "Denumit și hormon paratiroidian, influențează reabsorbția calciului în tubii renali",
-      "C": "Este secretat de glanda tiroidă împreună cu calcitonina",
-      "D": "Creste nivelul sanguin al calciului",
-      "E": "Activeazǎ vitamina D la nivel renal"
+      "A": "Rinichi-reglarea volumului plasmei sanguine-participare la reglarea presiunii sanguine",
+      "B": "Capsula Bowman-capsula renalǎ cu structură conjunctiv-fibroasă",
+      "C": "Capsula Bowman - capsula care cuprinde unul sau doi glomeruli - capsulǎ cu pereti impermeabili",
+      "D": "Filtrare-procesul care are loc în nefron, la nivelul glomerulului și capsulei acestuia",
+      "E": "Glomerulul renal-mǎnunchi de capilare venoase-origine în rețeaua peritubulară"
     }
   },
   {
     "numar": 103,
-    "intrebare": "Selectați efectele parathormonului (PTH) asupra osului:",
+    "intrebare": "Alegeti dintre cele de mai jos asocierile corecte, referitoare la segmentele nefronului și fiziologia acestora:",
     "variante": {
-      "A": "Inhibarea activitǎtii osteoclastelor",
-      "B": "Stimularea activității osteoclastelor, celule resorbante",
-      "C": "Stimularea resorbției osoase-actiune antagonistă calcitoninei,care stimulează cresterea osoasǎ",
-      "D": "Stimulează activitatea osteoblastelor,celule formatoare de os",
-      "E": "Hipersecretia lui conduce la scăderea densității oaselor și la deformări osoase,cu posibile fracturi"
+      "A": "Filtrare-glomerul și capsulă glomerulară - trecerea unor substanțe din sânge în filtrat",
+      "B": "Reabsorbtie neselectivă-tub contort proximal și colector-ansa Henle",
+      "C": "Reabsorbtie selectivă-tub contort proximal, ansa Henle",
+      "D": "Secretie tubulară-tub contort distal-trecerea unor substanțe (creatinină, amoniac) din sânge în filtrat",
+      "E": "Filtrare-tub distal al nefronului si tub colector-filtrarea apei sia proteinelor"
     }
   },
   {
     "numar": 104,
-    "intrebare": "Care dintre următoarele afirmații despre parathormon (PTH) și calcitonină sunt adevǎrate?",
+    "intrebare": "Alegeți, dintre cele de mai jos, asocierile corecte între structura anatomică si procesul care se desfasoară la acel nivel:",
     "variante": {
-      "A": "Parathormonul (PTH) este secretat și eliberat de glandele parotide",
-      "B": "Parathormonul (PTH) este secretat și eliberat de glandele paratiroide",
-      "C": "Calcitonina este secretată de glanda tiroidǎD. Actionează sinergic în privința concentrației sanguine a calciului (ambii hormoni o cresc)",
-      "E": "Parathormonul este antagonistul calcitoninei (el crește nivelul sanguin al calciului, în timp ce calcitonina îl scade)"
+      "A": "Secreție tubulară-capilare glomerulare",
+      "B": "Reabsorbție selectivă-calice mici",
+      "C": "Excretie-tub colector",
+      "D": "Filtrare-tub contort distal",
+      "E": "Secreție tubularǎ-tub colector"
     }
   },
   {
     "numar": 105,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la acțiunile parathormonului:",
+    "intrebare": "Alegeti asocierile corecte dintre cele de mai jos:",
     "variante": {
-      "A": "Se exercită asupra osului, rinichiului și intestinului",
-      "B": "Conduc la cresterea concentratiei sanguine a calciului",
-      "C": "Sunt antagoniste față de cele ale calcitoninei (privind nivelul sanguin al calciului)",
-      "D": "Cresc rapid depunerea de calciu în oase, reducând calcemia",
-      "E": "Inhibă activarea renală a vitaminei D, ceea ce conduce la scăderea absorbției intestinale a calciului"
+      "A": "Rinichii- organe tubulare care au rol în producerea urinei",
+      "B": "Glandele suprarenale-glande endocrine situate la polul superior al rinichilor",
+      "C": "Glandele suprarenale-glande care produc hormoni proteici",
+      "D": "Mictiune-procesul de acumulare a urinei în vezica urinară",
+      "E": "Uretra- tub prin care se elimină urina de la vezica urinară spre exterior"
     }
   },
   {
     "numar": 106,
-    "intrebare": "Care dintre următoarele afirmații despre parathormon (PTH) și calcitoninǎ sunt false?",
+    "intrebare": "Alegeți asocierile corecte referitoare la vascularizația rinichiului:",
     "variante": {
-      "A": "Ambii hormoni produc creșterea nivelului sanguin al calciului",
-      "B": "Ambii hormoni produc scăderea nivelului sanguin al calciului",
-      "C": "Ambii hormoni sunt secretați de glanda tiroidǎ",
-      "D": "Parathormonul crește nivelul sanguin al calciului, iar calcitonina îl scade",
-      "E": "Calcitonina crește nivelul sanguin al calciului iar parathormonul nu are influentǎ asupra calcemiei"
+      "A": "Capilarele peritubulare-rețea vasculară care se formează din arteriola aferenta",
+      "B": "Capilarele peritubulare-rețea vasculară care se formează din arteriola eferentǎ",
+      "C": "Arteriole aferente-vase de calibru foarte mic, vizibile doar microscopic",
+      "D": "Vena renală- vas prin care sângele venos pătrunde în rinichi",
+      "E": "Artera renală-vas prin care sângele arterial pǎtrunde în rinichi"
     }
   },
   {
     "numar": 107,
-    "intrebare": "Referitor la bolile datorate hipersecretiei de parathormon, este adevǎrat cǎ:",
+    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
     "variante": {
-      "A": "Determină scǎderea concentratiei calciului plasmatic",
-      "B": "Pot avea ca și cauză o tumorǎ paratiroidianǎ",
-      "C": "Nu au niciodată drept cauză existenta unei tumori paratiroidiene",
-      "D": "Au ca semne caracteristice deformările osoase",
-      "E": "Au ca semne caracteristice scăderea densității osoase"
+      "A": "Rinichii-organe cu rol în formarea urinei",
+      "B": "Rinichii-organe situate în cavitatea pelviană",
+      "C": "Nefronul-unitate functională a rinichiului",
+      "D": "Capsula Bowman-capsula glomerularǎ",
+      "E": "Glomerulul renal-retea de capilare arteriale"
     }
   },
   {
     "numar": 108,
-    "intrebare": "Referitor la parathormon (PTH), este adevǎrat cǎ:",
+    "intrebare": "Alegeti asocierile corecte dintre cele de mai jos:",
     "variante": {
-      "A": "Inhibă reabsorbția calciului în tubii renali și la nivelul mucoasei intestinale",
-      "B": "Stimulează activarea intestinală a vitaminei D",
-      "C": "Bolile datorate hiposecreției de parathormon au în general drept cauză o tumoră parotidiană",
-      "D": "Bolile datorate hipersecretiei de parathormon au în general ca și cauză o tumoră paratiroidiană",
-      "E": "Prin activarea osteocitelor, crește depunerea calciului în oase"
+      "A": "Corticala renală-regiunea externă a rinichiului",
+      "B": "Medulara renală-regiunea internă a rinichiului",
+      "C": "Piramidele renale-structuri care apartin zonei corticale",
+      "D": "Piramidele renale-structuri care aparțin zonei medulare a rinichiului",
+      "E": "Coloanele renale-prelungiri ale cortexului în medulara renalǎ"
     }
   },
   {
     "numar": 109,
-    "intrebare": "Alegeti asocierile corecte dintre cele de mai jos",
+    "intrebare": "Alegeti asocierile corecte dintre cele de mai jos:",
     "variante": {
-      "A": "Glande paratiroide-parathormon (PTH)- creșterea nivelului sanguin al calciului",
-      "B": "Glanda parotida-hormon stimulator paratiroidian-deformǎri osoase",
-      "C": "Glanda tiroidǎ-calcitonină-hormon non-steroidian-hormon implicat în reglarea calcemiei",
-      "D": "Glanda parotidă-glandă exocrină - organ anex al sistemului digestiv-secreție de salivǎE. Neurohipofiză-eliberare de TSH (hormon stimulator tiroidian)-sintezǎ de T3,"
+      "A": "Papila renală-vârful piramidelor renale",
+      "B": "Bazinetul-pelvisul osos",
+      "C": "Calicele mici-unirea calicelor mnari",
+      "D": "Calicele mari-unirea calicelor mici",
+      "E": "Ureterele-mici tuburi musculare care descind până la uretrǎ"
     }
   },
   {
     "numar": 110,
-    "intrebare": "Despre pancreas,se poate afirma cǎ",
+    "intrebare": "Dintre asocierile de mai jos,selectati-le pe cele corecte:",
     "variante": {
-      "A": "Este cea mai mare glandă endocrină, divizată în doi lobi de mărime egalǎ",
-      "B": "Este un organ glandular, de dimensiuni mari, având forma aplatizatǎC. Este localizat în cavitatea abdominală, posterior de stomac si peritoneu",
-      "D": "Este localizat în cavitatea abdominală, anterior de peritoneu și de stomac",
-      "E": "Este un organ cu funcție dublă, digestivă și endocrinǎ"
+      "B": "Reteaua capilarelor peritubulare-retea de capilare glomerulare",
+      "C": "Numărul nefronilor-echivalentul numărului de glomeruli",
+      "D": "Urina-plasma cu compoziția nemodificată la trecerea prin tubii renali",
+      "E": "Filtratul-fluid derivat din plasmă, obținut prin filtrare glomerulară"
     }
   },
   {
     "numar": 111,
-    "intrebare": "Alegeti afirmatiile adevǎrate despre pancreas și secrețiile lui",
+    "intrebare": "Dintre asocierile de mai jos, selectati-le pe cele gresite:",
     "variante": {
-      "A": "Este un organ glandular, cu o formă aplatizată, situat în cavitatea abdominalǎ",
-      "B": "Secrețiile lui endocrine sunt reprezentate de doi hormoni, insulina și glucagonul",
-      "C": "Contine mai multe celule care produc hormoni decât celule care produc enzime digestive",
-      "D": "Hormonii lui sunt produși de celule situate în exteriorul insulelor pancreatice",
-      "E": "Insulina este eliberată postprandial, iar glucagonul în condiții de înfometare"
+      "A": "Mictiune-proces de eliminare a urinei",
+      "B": "Ficatul-organ excretor-organ cavitar anex al tubului digestiv",
+      "C": "Vezica urinară- organ cavitar, structura anexă a sistemului urinar",
+      "D": "Ureter-organ tubular situat între vezica urinarǎ și rect",
+      "E": "Uretra-organ tubular situat între rinichi și vezica urinarǎ"
     }
   },
   {
     "numar": 112,
-    "intrebare": "Care dintre următoarele afirmații, referitoare la pancreas,sunt adevǎrate?A. Este un organ cavitar, retroperitoneal, cu funcie secretorie",
+    "intrebare": "Care dintre afirmațiile de mai jos reprezintă funcții ale rinichiului?",
     "variante": {
-      "B": "Este un organ glandular abdominal de dimensiuni mari",
-      "C": "Este localizat în regiunea pelvină (pelviană) posterior de peritoneu",
-      "D": "Prezintă un cap în raport cu duodenul, un corp și o coadă orientată spre splină",
-      "E": "Este situat posterior de stomac și retroperitoneal"
+      "A": "Reglarea volumului plasmei sanguine",
+      "B": "Reglarea concentrației produșilor reziduali din sânge",
+      "C": "Transportul și eliminarea nutrienților (glucoză, aminoacizi, acizi grași) din lichidele tisulare",
+      "D": "Reglarea concentrației ionilor din plasmă și menținerea homeostaziei",
+      "E": "Reglarea osmolarității plasmei sanguine și a presiunii sângelui"
     }
   },
   {
     "numar": 113,
-    "intrebare": "Care dintre următoarele afirmații, referitoare la celulele pancreatice, sunt adevǎrate?A. Cele care produc hormonii sunt mai numeroase decât cele care sintetizează enzimele digestive",
+    "intrebare": "Care dintre afirmațiile de mai jos descriu proprietăți anatomice și structurale ale rinichilor?",
     "variante": {
-      "B": "Cele care produc hormonii sunt mai puțin numeroase decât cele care sintetizează enzimele digestive",
-      "C": "Cele care produc hormonii sunt situate în interiorul unor ,,insule” de țesut endocrin (insulele Langerhans) aflate într-o ,,mare” de țesut ce produce enzime digestive",
-      "D": "Cele care produc enzime digestive se găsesc în interiorul insulelor Langerhans",
-      "E": "Cele cu rol în digestie se organizează sub formă de acini, care conțin epiteliu glandular secretor"
+      "A": "Sunt situati lateral de coloana vertebrală, în subdiviziunea abdominală a cavitǎtii abdomino-pelviene",
+      "B": "Fiecare rinichi prezintă la exterior o proeminență pe suprafața medială, denumită hil sau pelvis renal",
+      "C": "La nivelul hilului renal se află artera renală (ramură a porțiunii abdominale a aortei) și vena renalǎ",
+      "D": "La nivelul hilului renal, părăsește rinichiul vena renală, care drenează în vena cavǎinferioarǎ",
+      "E": "Coloanele renale reprezintă prelungiri ale corticalei renale în zona medularǎ a rinichiului"
     }
   },
   {
     "numar": 114,
-    "intrebare": "La vascularizatia pancreasului participă",
+    "intrebare": "Despre componentele sistemului excretor,se poate afirma cǎ:",
     "variante": {
-      "A": "Artera gastroduodenală (care emite și ramuri pentru duoden) și artera splenică (ramurădin trunchiul celiac)",
-      "B": "Artera splenică, desprinsă din trunchiul celiac ce reprezintă o ramură a aortei abdominale,și vena splenică (afluent al venei porte)",
-      "C": "Vena cavă inferioară,care colectează sângele direct din vena splenicǎ",
-      "D": "Arterele și venele renale (care se regăsesc în hilurile rinichilor)",
-      "E": "Ramuri din artera mezenterică superioară (care se desprinde din aorta abdominalǎ)"
+      "A": "Rinichii sunt localizați pe peretele abdominal posterior, retroperitoneal",
+      "B": "Pelvisul renal, ureterele și vezica urinară sunt organele care produc urina",
+      "C": "Uretra este un organ tubular care conduce urina de la vezica urinară spre exterior",
+      "D": "Ureterele se întind de la rinichi la vezica urinară și au o lungime de aproximativ 25-30cm",
+      "E": "La bărbați, la ieșirea din rinichi, pelvisul renal se continuă cu uretra"
     }
   },
   {
     "numar": 115,
-    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos",
+    "intrebare": "În rinichi și căi urinare, urina se deplasează în directia:",
     "variante": {
-      "A": "Pancreas endocrin - celulele alfa din insulele Langerhans - glucagon - hormon hiperglicemiant",
-      "B": "Pancreas endocrin -celulele beta din insulele Langerhans -glucagon-hormon care inhibă gluconeogeneza hepaticǎC. Pancreas endocrin-celulele beta din insulele Langerhans-insulina-hormon care reduce nivelul sanguin al glucozei",
-      "D": "Pancreas endocrin-acini pancreatici-tesut glandular conjunctiv secretor-insulină",
-      "E": "Pancreas exocrin- acini pancreatici - amilaza pancreatică (enzimǎ care hidrolizeazǎpolizaharide)"
+      "A": "Calicele mari-calicele mici-ureter-pelvis renal",
+      "B": "Pelvis renal-ureter-vezica urinarǎ-uretra",
+      "C": "Calicele mici-calicele mari-pelvis renal",
+      "D": "Glomerul-tubii nefronului-tubii colectori-calicele mici",
+      "E": "Glomerul-tubul colector-tuboul contort distal-ansa Henle"
     }
   },
   {
     "numar": 116,
-    "intrebare": "Alegeti asocierile gresite:",
+    "intrebare": "Care dintre următoarele afirmații sunt adevǎrate?",
     "variante": {
-      "A": "Pancreas endocrin-insulele pancreatice-insulinǎ si glucagon",
-      "B": "Pancreas endocrin-acinii pancreatici-rol în desfășurarea procesului de digestie",
-      "C": "Pancreas exocrin-acinii pancreatici-suc pancreatic",
-      "D": "Pancreas exocrin-celulele alfa din insulele Langerhans-insulina",
-      "E": "Pancreas endocrin-acini pancreatici - tripsină și chemotripsinǎ"
+      "A": "Rinichii, în număr de doi, sunt situați retroperitoneal și sunt susținuți în poziție de tesut conjunctiv si adipos",
+      "B": "Rezultatul final al activității rinichiului este formarea urinei (aproximativ 1500 ml/24 de ore)",
+      "C": "Filtratul glomerular este drenat din rețeaua de capilare peritubulare într-o venǎ care pǎrăsește rinichiul prin hil",
+      "D": "Filtrarea este procesul prin care fluidul provenit din plasma sanguină intră în capsula Bowman prin fante submicroscopice",
+      "E": "Reabsorbția și secreția tubulară au loc la nivelul unor porțiuni tubulare ale nefronului denumite uretere"
     }
   },
   {
     "numar": 117,
-    "intrebare": "Prin hormonii secretați, pancreasul endocrin este implicat în transformǎri biochimice ale:",
+    "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
     "variante": {
-      "A": "Glicogenului (glicogenoliză la nivelul ficatului)- efect al glucagonului",
-      "B": "Monozaharidelor-scǎderea nivelului sanguin al glucozei de către glucagon-stimularea glicolizei musculare",
-      "C": "Aminoacizilor și glucozei (gluconeogeneză din aminoacizi)-efect al glucagonului",
-      "D": "Glucozei- îndepărtarea acesteia din sânge și facilitarea oxidǎrii ei-efect hipoglicemiant al insulinei",
-      "E": "Calciului și fosfatilor (asigurând depunerea lor î os)- efecte sinergice ale ambilor hormoni pancreatici"
+      "A": "Formarea urinei este rezultatul a trei procese: filtrare, reabsorbție selectivă și secreție tubularǎ",
+      "B": "Urina rezultă în urma proceselor de filtrare, secretie si excretie",
+      "C": "Urina contine aproximativ 95% apă și 5% substanțe solide (reziduuri organice,ioni si sǎruri)",
+      "D": "Potasiul este secretat din sânge în fluidul din tubul contort distal sub actiunea aldosteronului",
+      "E": "pH-ul urinar, cu valori care variază de la 4,6 la 8,este total independent de dietǎ"
     }
   },
   {
     "numar": 118,
-    "intrebare": "Alegeți afirmațiile false dintre cele de mai jos",
+    "intrebare": "Alegeți dintre răspunsurile de mai jos pe cele care conțin două afirmații adevărate",
     "variante": {
-      "A": "Pancreasul endocrin este reprezentat de insule de hepatocite (celule secretoare cu originea în ficat) situate printre acinii pancreatici",
-      "B": "Pancreasul endocrin secretă un hormon cu structură proteică,format din 51 de aminoacizi (insulina)",
-      "C": "Pancreasul endocrin este implicat în metabolismul glucidelor, prinhormonii pe care îi secretă, insulina fiind hormon hipoglicemiant iar glucagonul-hiperglicemiant",
-      "D": "Hormonii secretați de pancreasul endocrin sunt insulina și glucocorticoizii",
-      "E": "Insulele Langerhans conțin celule endocrine secretorii de tip alfa(a)și beta(β)"
+      "A": "Rinichiul intervine în controlul concentrației produșilor de degradare din sânge. Nefronul reprezintă unitatea funcțională a rinichilor",
+      "B": "Permeabilitatea membranei celulelor peretelui tubului colector este controlată de ADH.Aldosteronul, hormon proteic, crește secreția de ioni de sodiu la nivelul tubului contort distal",
+      "C": "Urina are un pH acid care nu este influențat de dietă. Ureterul este situat în întregime în cavitatea pelvianǎ",
+      "D": "În structura nefronului intră o rețea de capilare microscopice numită glomerul.Fluidul care trece prin filtrare în capsula Bowman se numește filtrat glomerular",
+      "E": "Peretii tubului contort proximal contin milioane de microvilozități cu rolul de a mări suprafata de contact cu conținutul lumenului. Celulele sănguine și proteinele nu ajung în mod normal în filtrat"
     }
   },
   {
     "numar": 119,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la insulele pancreatice",
+    "intrebare": "Alegeți dintre răspunsurile de mai jos pe cele care conțin două afirmatii false referitoare la nefron",
     "variante": {
-      "A": "Denumite și insule Langerhans, reprezintă componenta endocrină a pancreasului",
-      "B": "Sunt constituite, din punct de vedere structural, de ,,mase” de substantă nervoasă cenușie aflate într-o ,,mare\" de tesut care produce enzime digestive",
-      "C": "Sunt constituite din celule care sintetizeazǎ și elibereazǎ hormoni",
-      "D": "Sunt constituite din celule a (alfa) care secretă insulină și celule β (beta) care secretă glucagon",
-      "E": "Prezintă celulele alfa (a) care secretă glucagon și celulele beta (β) care secretǎ insulinǎ"
+      "A": "Prin glomerulii nefronilor renali se filtrează aproximativ 7,5 litri de plasmă sanguină pe oră. Ionii de sodiu se reabsorb activ la nvelul tubului proximal",
+      "B": "Filtrarea este procesul prin care eritrocitele ajung în urină în mod normal. Secretia tubulară are loc exclusiv la nivelul tubului contort proximal",
+      "C": "Nefronii produc urina prin procesele de secreție glomerulară, reabsorbție și filtrare tubulară. Filtrarea este funcția specifică a tubului distal",
+      "D": "Nefronii sunt în număr de aproximativ un milion pentru fiecare rinichi. Setul de tubi din structura nefronului conține tubul proximal, ansa lui Henle (ramura ascendentǎ, ansa propriu-zisă, ramura descendentă), tubul distal",
+      "E": "Tubul colector primeste urina de la un singur nefron. Arteriola eferentă dã naștere capilarelor glomerulului"
     }
   },
   {
     "numar": 120,
-    "intrebare": "Selectati afirmațiile adevărate referitoare la insulele Langerhans",
+    "intrebare": "Selectați enunțurile în care prima afirmatie este adevărată, iar a doua falsǎ",
     "variante": {
-      "A": "Hormonii secretați sunt insulina (în starea metabolică postprandială) și glucagonul (în lipsa aportului alimentar)",
-      "B": "Nu secretă tiroxină și melatonină, dar secretă hormoni cu structură proteică (insulina)",
-      "C": "Conțin două tipuri de celule secretoare de hormoni (celulele α, alfa) și de enzime digestive (celulele β,beta)",
-      "D": "Contin două tipuri de celule secretoare de hormoni: α (alfa) pentru glucagon si B (beta)pentru insulinǎE. Sunt ,,insule” de tesut care secretă enzime digestive într-o ,,mare\" de tesut care secretǎhormoni"
-    }
-  },
-  {
-    "numar": 121,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la insulele Langerhans",
-    "variante": {
-      "A": "Sunt formate din celule care secretă insulina și glucagonul, hormoni implicati în homeostazia glicemiei",
-      "B": "Prezintă în interior o cavitate compusă din acinii pancreatici",
-      "C": "Secretǎ doi hormoni principali, insulină și glucagon, cu acțiune antagonică în privința glicogenului (glucagonul stimulând formarea lui, iar insulina stimulând glicogenoliza hepaticǎ)",
-      "D": "Secretǎ doi hormoni principali, insulină și glucagon, cu acțiune antagonică în privinta glicogenului (insulina stimulând formarea lui, iar glucagonul stimulând glicogenoliza hepatică)",
-      "E": "Secretă glucagonul, care crește nivelul sanguin al glucozei"
-    }
-  },
-  {
-    "numar": 122,
-    "intrebare": "Selectati afirmațiile adevărate referitoare la insulină",
-    "variante": {
-      "A": "Este secretată de celulele β (beta) ale insuielor Langerhans",
-      "B": "Este secretată după ingestia de alimente, intervenind în starea metabolică de absorbtie (postprandialǎ)",
-      "C": "Este secretată în lipsa aportului alimentar, controlând starea metabolicǎ denumitǎ stare postabsorbtivǎ",
-      "D": "Este un hormon proteic cu molecula formată din 51 de aminoacizi asamblați în două lanturi",
-      "E": "Este secretată când nivelul sanguin al glucozei este scǎzut (hipoglicemie), ea însǎși fiind un hormon hipoglicemiant"
-    }
-  },
-  {
-    "numar": 123,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la efectele insulinei",
-    "variante": {
-      "A": "Stimuleazǎ trecerea moleculelor de glucoză din celule în sânge, când nivelul intracelular al glucozei este ridicat",
-      "B": "Stimulează intrarea moleculelor de glucoză din sânge în celule, când nivelul sanguin al glucozei este ridicat",
-      "C": "Activeazǎ degradarea glicogenului (glicogenoliza)",
-      "D": "Stimulează la nivelul ficatului formarea glicogenului prin glicogenogenezǎE. Creste nivelul sanguin al glucozei, fiind un hormon hiperglicemiant"
-    }
-  },
-  {
-    "numar": 124,
-    "intrebare": "Despre secreția și efectele insulinei, este adevǎrat cǎ",
-    "variante": {
-      "A": "Stimulează formarea glicogenului în ficat (proces anabolic)",
-      "B": "Produce gluconeogeneză din aminoacizi și acizi grași",
-      "C": "Este secretată când nivelul de glucoză din sânge este crescut (în hiperglicemie)",
-      "D": "Stimulează intrarea moleculelor de glucoză în celulele țintă, unde aceasta urmează să fie metabolizată (spre exemplu,pe cale glicolitică)",
-      "E": "Stimulează gluconeogeneza din molecule lipidice acide (acizi grași, corpi cetonici)"
-    }
-  },
-  {
-    "numar": 125,
-    "intrebare": "Care dintre următoarele afirmații referitoare la structura si/sau efectele metabolice ale insulinei sunt false?",
-    "variante": {
-      "A": "Este un hormon cu structură non-proteică și care acționează exclusiv la nivelul ficatului si hematiilor",
-      "B": "Este un hormon compus din 51 de aminoacizi, asamblați în două lanțuri proteice",
-      "C": "Este un hormon cu structură steroidiană și cu efecte asupra metabolismului mineral",
-      "D": "Stimulează la nivel hepatic glicogenogeneza (proces anabolic)",
-      "E": "Stimulează gluconeogeneza la nivelul ficatului și rinichiului, cu efect hiperglicemiant"
-    }
-  },
-  {
-    "numar": 126,
-    "intrebare": "Care dintre următoarele afirmații referitoare la hormonii produși de pancreasul endocrin sunt adevǎrate?",
-    "variante": {
-      "A": "Nivelul crescut de glucoză din sânge stimulează secreția de insulină",
-      "B": "Insulina stimulează scindarea glicogenului hepatic (glicogenoliza hepaticǎ) si hiperglicemia",
-      "C": "Nivelul scăzut de glucoză din sânge (hipoglicemia) stimulează secretia de glucagon",
-      "D": "Glucagonul stimulează scindarea glicogenului hepatic, cu eliberarea glucozei în sânge",
-      "E": "Glucagonul stimulează pătrunderea glucozei din sânge în celule și oxidarea ei pe cale glicoliticǎ"
-    }
-  },
-  {
-    "numar": 127,
-    "intrebare": "Selectați afirmațiile false referitoare la glucagon:",
-    "variante": {
-      "A": "Este secretat în lipsa aportului alimentar, în starea metabolicǎ denumitǎ stare postabsorbtivǎ",
-      "B": "Este secretat când nivelul glucozei în sânge este crescut (în condiții de hiperglicemie)",
-      "C": "Este secretat de célulele α (alfa) ale insulelor Langerhans, alături de tripsină și alte enzime",
-      "D": "Facilitează glicogenoliza la nivelul ficatului, cu eliberarea moleculelor de glucozǎă în sânge",
-      "E": "Rezultatul actiunii sale asupra ficatului este eliberarea în sânge a moleculelor de glicogen"
-    }
-  },
-  {
-    "numar": 128,
-    "intrebare": "Următoarele afirmații referitoare la glucagon sunt adevǎrate:",
-    "variante": {
-      "A": "Este un hormon pancreatic care prin stimularea glicogenolizei determină eliberarea în sânge a moleculelor de glucozǎ",
-      "B": "Are acțiune antagonică insulinei în ceea ce privește nivelul sanguin al glucozei",
-      "C": "Când organismul este lipsit de glucagon, se dezvoltă o afectiune denumitǎ diabet zaharat",
-      "D": "Glucagonul inhibă gluconeogeneza, îndepărtând astfel aminoacizii din sânge",
-      "E": "Glucagonul stimulează gluconeogeneza, având ca efect îndepărtarea aminoacizilor din sânge"
-    }
-  },
-  {
-    "numar": 129,
-    "intrebare": "Selectati afirmațiile false referitoare la efectele glucagonului:",
-    "variante": {
-      "A": "Stimulează scindarea glicogenului la nivelul ficatului, cu eliberarea moleculelor de glucozǎ în sânge",
-      "B": "Stimulează gluconeogeneza (sinteza glucozei din aminoacizi)",
-      "C": "Inhiba gluconeogeneza (sinteza de glucoză din compuși neglucidici - aminoacizi)",
-      "D": "Stimuleazǎ pǎtrunderea glucozei din sânge în celule, scăzând astfel nivelul sanguin al glucozei",
-      "E": "Creste nivelul sanguin al glucozei, stimulând gluconeogeneza din corpii cetonici rezultati din cetolizǎ hepaticǎ"
-    }
-  },
-  {
-    "numar": 130,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la efectele antagoniste ale insulinei si glucagonului",
-    "variante": {
-      "A": "Efectele de acest tip ale celor doi hormoni pancreatici se manifestǎ asupra nivelului sanguin al glucozei",
-      "B": "Când nivelul sanguin al glucozei este ridicat, glucagonul stimulează celulele organismului și ficatul să îndepărteze glucoza din sânge",
-      "C": "Când nivelul sanguin al glucozei este ridicat, insulina stimulează celulele tintǎ din organism să preia glucoza, îndepărtând-o din sânge",
-      "D": "Insulina stimulează ficatul să sintetizeze glucoză din acizi grași, iar glucagonul- sǎdegradeze glucoza",
-      "E": "Glucagonul este un hormon hiperglicemiant iar insulina- un hormon hipoglicemiant"
-    }
-  },
-  {
-    "numar": 131,
-    "intrebare": "Scăderea nivelului de glucoză din sânge:",
-    "variante": {
-      "A": "Este denumită hipoglicemie",
-      "B": "Stimulează secreția de glucagon",
-      "C": "Stimulează atât secreția de insulină, cât și pe cea de glucagon si adrenalinǎD. Stimulează secreția hormonilor hiperglicemianți (glucagon, epinefrină) care sǎ readucǎnivelul glicemiei la valori normale",
-      "E": "Este consecința pătrunderii glucozei sanguine în celule, a metabolizării ei pe cale oxidativă în scop energetic și a transformării ei în glicogen la nivel hepatic"
-    }
-  },
-  {
-    "numar": 132,
-    "intrebare": "Selectați afirmațiile false referitoare la glandele suprarenale",
-    "variante": {
-      "A": "Sunt glande endocrine pereche, localizate la polul inferior al rinichilor",
-      "B": "Sunt în numnăr de două, localizate la polul superior al rinichilor",
-      "C": "Sunt alcătuite dintr-o porțiune corticală (în centru) și una medulară (la periferie)",
-      "D": "Sunt alcătuite dintr-o porțiune corticală (la periferie) și una medulară (în centru)",
-      "E": "Sunt alcătuite dintr-o porțiune corticală cu funcție endocrină, și una medulară cu functie exocrinǎ"
-    }
-  },
-  {
-    "numar": 133,
-    "intrebare": "Alegeti afirmatiile adevǎrate despre hormonii glandei suprarenale",
-    "variante": {
-      "A": "Porțiunea centrală, reprezentată de medulara glandei, secretǎ hormoni cu structurǎproteicǎ",
-      "B": "Corticala glandei secretă hormoni glucocorticoizi și mineralocorticoizi",
-      "C": "Portiunea de la periferia glandei secretă cortizol și aldosteron",
-      "D": "Hormonii secretati de medulara glandei sunt de natură lipidică",
-      "E": "Hormonii zonei corticale contribuie la reglarea echilibrului mineral și energetic"
-    }
-  },
-  {
-    "numar": 134,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la hormonii secretati de corticala glandei suprarenale",
-    "variante": {
-      "A": "Sunt hormoni cu rol în reglarea concentratiei plasmatice a unor minerale (aldosteronul,pentru sodiu și potasiu) sau a glucozei (cortizolul)",
-      "B": "Sunt mineralocorticoizi (aldosteron), glucocorticoizi (cortizol) și hormoni sexuali (care suplimentează cantitatea celor produsi de gonade)",
-      "C": "Sunt hormoni de natură lipidică, cu unic reprezentant colesterolul,o substantǎ cu structurǎchimică policiclicǎ",
-      "D": "Spre deosebire de aldosteron, cortizolul nu aparține grupei hormonilor steroizi (steroidieni)",
-      "E": "Cortizolul are o configurație moleculară tipică hormonilor derivati din colesterol"
-    }
-  },
-  {
-    "numar": 135,
-    "intrebare": "Hormonii glucocorticoizi:",
-    "variante": {
-      "A": "Sunt reprezentati în special de cortizol, care are în structura moleculei sale cicluri atomice condensate (trei cicluri hexaatomice și un al patrulea, pentaatomic)",
-      "B": "Stimulează vasoconstricția și creșterea presiunii sanguine",
-      "C": "Au efecte asupra metabolismului glucidelor, lipidelor și proteinelor",
-      "D": "Stimulează vasodilatația și procesele inflamatorii și nu pot fi utilizati ca medicamente antiinflamatorii",
-      "E": "Au rol antiinflamator (rol terapeutic în inflamatii)"
-    }
-  },
-  {
-    "numar": 136,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la hormonii glucocorticoizi:",
-    "variante": {
-      "A": "Sunt reprezentati în special de cortizol si de hormonul adrenocorticotrop",
-      "B": "Secretia lor este reglată de către ACTH (hormonul adrenocorticotrop) din adenohipofizǎ",
-      "C": "Sunt reprezentați de aldosteron, adrenalină și estrogeni",
-      "D": "Secretia lor este reglată prin mecanism de feed-back negativ",
-      "E": "Hipersecretia lor provoacă sindromul Cushing"
-    }
-  },
-  {
-    "numar": 137,
-    "intrebare": "Selectati afirmatiile adevărate referitoare la efectele și reglarea secretiei hormonilor glucocorticoizi:",
-    "variante": {
-      "A": "Stimulează vasoconstricția și au rol inflamator",
-      "B": "Favorizează degradarea proteinelor în celule",
-      "C": "Secretia lor este stimulată de hormonul adrenocorticotrop (ACTH), prin feed-back negativ",
-      "D": "Stimulează vasodilatația, dar nu intervin în metabolismul proteinelor",
-      "E": "Stimulează vasoconstricția și intervin în metabolismul glucidelor și lipidelor"
-    }
-  },
-  {
-    "numar": 138,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la hormonii mineralocorticoizi:",
-    "variante": {
-      "A": "Sunt reprezentati de corticosteron, care reglează concentrația unor electroliți din fluidele corporale",
-      "B": "Sunt reprezentati de aldosteron, care reglează concentrația unor electroliti (în special sodiu și potasiu) din sânge",
-      "C": "Actionează în principal asupra tubului contort distal al nefronului, unde au mai multe efecte (unul dintre ele fiind reabsorbția ionilor de Na+)",
-      "D": "Reglarea secreției lor se face de către concentrația sanguină a electroliților,prin feed-back negativ",
-      "E": "Reglarea secretiei lor se face de cǎtre TSH prin feed-back pozitiv"
-    }
-  },
-  {
-    "numar": 139,
-    "intrebare": "Selectati afirmatiile adevărate referitoare la actiunile hormonului aldosteron la nivel renal:",
-    "variante": {
-      "A": "Actionează în principal asupra tubului contort proximal și a ansei Henle a nefronului",
-      "B": "Acționează în principal asupra tubului contort distal al nefronului",
-      "C": "Stimulează reabsorbția apei, care atrage după sine ionii de sodiu si clor",
-      "D": "Stimulează reabsorbtia cationilor de,care atrag anionii de Cl și apa",
-      "E": "Stimuleazǎ secretia ionilor dedin sânge în urină, asigurând astfel menținerea unei concentrații normale a potasiului în sânge"
-    }
-  },
-  {
-    "numar": 140,
-    "intrebare": "Selectati afirmatiile adevărate referitoare la aldosteron:",
-    "variante": {
-      "A": "Este reprezentantul principal al hormonilor mineralocorticoizi",
-      "B": "Apartine hormonilor steroizi (steroidieni), împreună cu hormonul adrenocorticotrop și FSH-ul",
-      "C": "Reglează concentrația electroliților, în special,în diferite fluide ale corpului",
-      "D": "Stimulează eliberarea glucozei din ficat",
-      "E": "Este secretat de zona periferică a glandei suprarenale"
-    }
-  },
-  {
-    "numar": 141,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la hormonii steroizi secretați de corticala glandei suprarenale",
-    "variante": {
-      "A": "Unii dintre ei intervin în metabolismul glucidic si proteic (cortizolul)",
-      "B": "Mineralocorticoizii reglează echilibrul sodiului și al potasiului în organism",
-      "C": "Hormonii care influențează caracterele sexuale se adaugă celor produsi de cǎtre gonade",
-      "D": "Au o structură tipică derivată din nucleotide, constând în cicluri cu azot",
-      "E": "Prezintă o structură ciclică complexă, cu patru cicluri condensate, derivată din colesterol"
-    }
-  },
-  {
-    "numar": 142,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la medulara glandelor suprarenale",
-    "variante": {
-      "A": "Reprezintă porțiunea din centrul glandei suprarenale",
-      "B": "Secretǎ hormoni catecolaminici, cu acțiune complementară cu cea a sistemului nervos vegetativ simpatic",
-      "C": "Hormonii ei sunt derivați din colesterol, o substanță de natură lipidică",
-      "D": "Hormonii ei sunt adrenalina (epinefrina) și noradrenalina (norepinefrina)",
-      "E": "Secretă trei tipuri de hormoni: mineralocorticoizi,glucocorticoizi și aminici"
-    }
-  },
-  {
-    "numar": 143,
-    "intrebare": "Zona medulară a glandei suprarenale secretǎ:",
-    "variante": {
-      "A": "Cortizon si cortizol-derivați din colesterol",
-      "B": "Catecolamine-hormoni aminici",
-      "C": "Epinefrina-hormon peptidic",
-      "D": "Noradrenalină (norepinefrină)-hormon non-steroidian",
-      "E": "Hormon adrenocorticotrop-glicoproteinǎ"
-    }
-  },
-  {
-    "numar": 144,
-    "intrebare": "Zona medulară a glandei suprarenale secretǎ",
-    "variante": {
-      "A": "Hormoni aminici, cu acțiune complementară cu cea a componentei simpatice a sistemului nervos vegetativ",
-      "B": "Hormoni steroizi care influentează caracterele sexuale",
-      "C": "Glucocorticoizi (cortizolul) și mineralocorticoizi (aldosteronul)",
-      "D": "Catecolamine, care au în structura lor o grupare aminică liberǎ-NH2 (noradrenalina) sau metilatǎ,-NH-CH3(adrenalina)",
-      "E": "Catecolamine: adrenalină (epinefữrină) și noradrenalină (norepinefrină)"
-    }
-  },
-  {
-    "numar": 145,
-    "intrebare": "Despre actiunile catecolaminelor este adevǎrat cǎ",
-    "variante": {
-      "A": "Realizează pregătirea organismului pentru efort fizic intens, în care creste consumul energetic",
-      "B": "Adrenalina este un hormon hiperglicemiant (accelerează glicogenoliza)",
-      "C": "Noradrenalina asigură scăderea nivelului sanguin al glucozei prin glicogenolizǎ",
-      "D": "Adrenalina asigură creșterea nivelului sanguin al glucozei prin glicolizǎE. Realizează pregătirea organismului pentru reacția ,,fight or flight\""
-    }
-  },
-  {
-    "numar": 146,
-    "intrebare": "Adrenalina și noradrenalina au urmǎtoarele efecte",
-    "variante": {
-      "A": "Actionează asupra altor glande endocrine împreună cu sistemul nervos vegetativ parasimpatic, fiind denumiti hormoni tropi",
-      "B": "Acționează împreună cu sistemul nervos vegetativ simpatic",
-      "C": "Adrenalina intervine în special în situațiile de urgență (reacția ,,luptă sau fugi”)",
-      "D": "Noradrenalina, denumită și norepinefrină, este și neurotransmițător, reglând anumite functii cerebrale",
-      "E": "Adrenalina are un efect hiperglicemiant prin glicogenolizǎ hepaticǎ"
-    }
-  },
-  {
-    "numar": 147,
-    "intrebare": "Următoarele afirmații referitoare la glandele suprarenale sunt adevǎrate:",
-    "variante": {
-      "A": "Sunt în număr de două, fiecare dintre ele fiind alcătuită din două porțiuni diferite, centralăși perifericǎ",
-      "B": "Sunt situate la polul inferior al rinichilor",
-      "C": "Una dintre actiunile epinefrinei (secretată de zona medulară a glande)i este pregătirea organismului pentru situatiile de urgentǎ",
-      "D": "Hormonii sexuali, secretați de zona corticală a glandei, au structurǎ lipidicǎ",
-      "E": "Hormonii sexuali, secretați de zona medulară a glandei, au structurǎ aminicǎ"
-    }
-  },
-  {
-    "numar": 148,
-    "intrebare": "Despre timus,este fals cǎ:",
-    "variante": {
-      "A": "Este localizat în mediastinul inferior, alături de vasele mari de la vârful inimii",
-      "B": "Este un organ nepereche situat retrosternal (dorsal de stern)",
-      "C": "La nivelul său ajung celulele limfopoietice care se maturează și formeazǎ limfocitele T,cu rol în răspunsul imun mediat celular (IMC)",
-      "D": "Se dezvoltă odată cu înaintarea în vârstă, atingând maximum de functionare la persoanele vârstnice",
-      "E": "Este sediu pentru maturarea limfocitelor B, care provin din diapedeza plasmocitelor"
-    }
-  },
-  {
-    "numar": 149,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la timus:",
-    "variante": {
-      "A": "Este un organ localizat în mediastinul superior, înapoia sternului",
-      "B": "Este un organ localizat în mediastinul inferior, anterior sternului",
-      "C": "Secretă timozine, cu efecte asupra sistemului imunitar al orgaismului",
-      "D": "Secretă hormoni implicați în maturarea și dezvoltarea limfocitelor T",
-      "E": "Secretă hormoni implicați în dezvoltarea caracterelor sexuale"
-    }
-  },
-  {
-    "numar": 150,
-    "intrebare": "Selectați afirmatiile adevărate referitoare la timus:",
-    "variante": {
-      "A": "Este un organ pereche,situat retrosternal în mediastin",
-      "B": "Are și rol de glandă endocrină prin producția de timozine",
-      "C": "Nu este functional la copil, ci doar la adult",
-      "D": "Este bine dezvoltat la fat și nou-născut",
-      "E": "Este un organ limfoid, în care se maturează limfocitele T"
-    }
-  },
-  {
-    "numar": 151,
-    "intrebare": "Selectați afirmatiile false referitoare la timus:",
-    "variante": {
-      "A": "Este un organ situat în torace,în cavitatea pericardicǎ",
-      "B": "Glanda scade în dimensiuni odată cu înaintarea în vârstǎ",
-      "C": "Are rol de glandă exocrină, secretând timozine cu rol enzimatic",
-      "D": "Secretǎ hormoni care contribuie la maturarea limfocitelor T (litera T-de la timus)",
-      "E": "Este un organ mai putin dezvoltat la făt și nou-născut, comparativ cu adultul"
-    }
-  },
-  {
-    "numar": 152,
-    "intrebare": "Selectați afirmațiile adevǎrate referitoare la epifizǎ:",
-    "variante": {
-      "A": "Este o glandă de dimensiuni mici, situată la nivelul encefalului",
-      "B": "Este situată în afara encefalului, la nivel cervical",
-      "C": "Secretă un hormon, melatonina, cu rol în reglarea ritmului nictemeral",
-      "D": "Este o glandă exocrină, denumită și glanda pineală",
-      "E": "Secreta melatonina, substantă care pare să regleze activitatea altor hormoni"
-    }
-  },
-  {
-    "numar": 153,
-    "intrebare": "Selectati afirmatiile false referitoare la epifizǎ",
-    "variante": {
-      "A": "Se mai numește glandă pineală și este situată în craniu",
-      "B": "Se mai numește glandă pituitară și este situată în afara encefalului",
-      "C": "Nu secretă hormoni cu structură steroidiană, derivați din colesterol",
-      "D": "Secretă un hormon (melatonina) care poate influenta ritmul nictemeral",
-      "E": "Prezintă un lob anterior și unul posterior și are legături funcționale cu imunitatea mediatǎcelular"
-    }
-  },
-  {
-    "numar": 154,
-    "intrebare": "Selectati afirmatiile false dintre cele de mai jos:",
-    "variante": {
-      "A": "Epifiza este denumită și glandă pineală",
-      "B": "Glanda pituitară, denumită și epifiză, secretă melatonină - o aminǎ activǎ",
-      "C": "Timusul secretă adenozină, hormon implicat în maturarea limfocitelor T, care vor dezvolta receptori membranari pentru antigene",
-      "D": "Între hipofiză și hipotalamus există atât legături anatomice, cât si funcționale",
-      "E": "Rinichiul produce eritropoietină, enzimă care intervine în reglarea productiei de limfocite si anticorpi"
-    }
-  },
-  {
-    "numar": 155,
-    "intrebare": "Alegeti asocierile corecte",
-    "variante": {
-      "A": "Epifizǎ-glandǎ pinealǎ-hormon melatonină- posibil reglarea activității altor hormoni",
-      "B": "Epifizǎ-glandǎ pituitară - melanină - pigmentarea pielii",
-      "C": "Neurohipofiza-glandǎ pinealǎ-calcitoninǎ-reglarea calcemiei",
-      "D": "Hipofizǎ-glandǎ pinealǎ-parathormon-reglarea glicemiei",
-      "E": "Adenohipofiză (lob anterior al hipofizei) - hormoni tropi (TSH, ACTH, FSH și LH)-reglarea activității altor glande endocrine"
-    }
-  },
-  {
-    "numar": 156,
-    "intrebare": "Selectati afirmațiile adevǎrate referitoare la melatoninǎ",
-    "variante": {
-      "A": "Este un hormon steroidian (steroid)",
-      "B": "Este secretatǎ de glanda pinealǎC. Se crede cǎ reglează secretia altor hormoni",
-      "D": "Formează împreună cu melanina un sistem enzimatic",
-      "E": "Influentează ritmul nictemeral (ciclul zi-noapte)"
-    }
-  },
-  {
-    "numar": 157,
-    "intrebare": "Care dintre asocierile de mai jos între glandele endocrine și disfuncțiile endocrine sunt corecte:",
-    "variante": {
-      "A": "Neurohipofizǎ-gigantism hipofizar",
-      "B": "Adenohipofizǎ-nanism hipofizar",
-      "C": "Tiroida-gusǎ exoftalmicǎD. Medulara glandei suprarenale-sindromul Cushing",
-      "E": "Corticala glandei suprarenale-Boala Addison"
-    }
-  },
-  {
-    "numar": 158,
-    "intrebare": "Alegeti asocierile gresite dintre hormon și efectul său asupra metabolismului glucidic",
-    "variante": {
-      "A": "Glucagon - creșterea nivelului sanguin al glucozei -- hormon hiperglicemiant prin accelerarea glicogenolizei hepatice",
-      "B": "Glucagon - scăderea nivelului sanguin al glucozei - hormon hipoglicemiant prin accelerarea glicolizei în toate celulele corpului",
-      "C": "Glucagon-glicolizǎ-scindarea glicogenului cu eliberare de galactoză în sânge",
-      "D": "Insulina-gluconeogeneză din aminoacizi -hormon hiperglicemiant",
-      "E": "Insulina-scăderea nivelului sanguin al glucozei-hormon hipoglicemiant"
-    }
-  },
-  {
-    "numar": 159,
-    "intrebare": "Alegeti asocierile corecte dintre cele de mai jos:",
-    "variante": {
-      "A": "Creșterea nivelului sanguin al glucozei-stimularea TSH și a secreției de T3 șiT4",
-      "B": "Glucagon-gluconeogeneză-creșterea nivelului sanguin al glucozei",
-      "C": "Calcitonină-creșterea nivelului sanguin al calciului-demineralizare osoasǎ",
-      "D": "Glucagon-glicogenoliză-eliberare de glucoză-cresterea glicemiei",
-      "E": "Parathormon-stimularea osteoclastelor-resorbție osoasă-creșterea nivelului sanguin al calciului"
-    }
-  },
-  {
-    "numar": 160,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la hormoni:",
-    "variante": {
-      "A": "Hormonul somatotrop (STH) secretat de adenohipofiză stimulează creșterea organismului",
-      "B": "Calcitonina (hormon tiroidian, alǎturi deT3 și T4) se poate sintetiza doar în condițiile unui aport alimentar corespunzător de iod",
-      "C": "Hormonii tiroidieni aminici (tiroxina și triiodotironina) se pot sintetiza doar în condițiile unui aport alimentar corespunzǎtor deiod",
-      "D": "Prolactina și STH-ul sunt hormoni neurohipofizari",
-      "E": "Hormonul luteinizant (LH) este un hormon trop care stimulează maturarea celulelor interstițiale testiculare și producerea de testosteron"
-    }
-  },
-  {
-    "numar": 161,
-    "intrebare": "Alegeți asocierile greșite dintre cele de mai jos:",
-    "variante": {
-      "A": "Vasopresina-vasoconstricție- creșterea presiunii sanguine",
-      "B": "Somatotrop-hormon de creștere-hiposecreția lui produce mixedem",
-      "C": "T3-tiroxină-scăderea ratei mnetabolismului bazal",
-      "D": "Calcitoninǎ-creșterea nivelului sanguin de calciu-depunerea calciului în oase",
-      "E": "Timus-glandǎ endocrină-timozine care stimulează maturarea limfocitelor T"
-    }
-  },
-  {
-    "numar": 162,
-    "intrebare": "Care dintre asocierile de mai jos sunt corecte:",
-    "variante": {
-      "A": "Hormoni epifizari-STH,ACTH",
-      "B": "Hormoni tropi adenohipofizari-LH,ACTH,TSH,FSH",
-      "C": "Hormoni aminici - noradrenalină, adrenalină, tiroxinǎ",
-      "D": "Hormoni steroizi (steroidieni)-serotonină,histamină, tripsină",
-      "E": "Hormoni steroizi (steroidieni)-aldosteron,cortizol,progesteron"
-    }
-  },
-  {
-    "numar": 163,
-    "intrebare": "Despre localizarea glandelor endocrine se pot afirma urmǎtoarele:",
-    "variante": {
-      "A": "Tiroida este poziționată anterior si superior fatǎ de faringe",
-      "B": "Timusul este situat în cavitatea toracică, în mediastin, retrosternal",
-      "C": "Paratiroida (glandă unică) este localizată pe suprafata anterioarǎ a glandei tiroide",
-      "D": "Hipofiza este localizată în partea inferioară a encefalului, în sella turcica a osului sfenoid",
-      "E": "Pancreasul este localizat în cavitatea abdominală, posterior de stomac și de peritoneu"
-    }
-  },
-  {
-    "numar": 164,
-    "intrebare": "Alegeti afirmațiile adevărate referitoare la localizarea unor glande endocrine:",
-    "variante": {
-      "A": "Suprarenala este localizată la polul superior al rinichiului",
-      "B": "Suprarenala este localizată în cavitatea abdominalǎ",
-      "C": "Paratiroidele sunt localizate pe suprafața anterioarǎ a glandei tiroide",
-      "D": "Paratiroidele sunt localizate pe suprafața posterioară a glandei tiroide",
-      "E": "Hipofiza este localizată într-o depresiune a osului etmoid,denumită sella turcica"
-    }
-  },
-  {
-    "numar": 165,
-    "intrebare": "Alegeti afirmațiile false referitoare la hormoni:",
-    "variante": {
-      "A": "Calcitonina crește rapid depunerea de calciu în oase și scade concentrația sanguină a calciului",
-      "B": "Parathormonul reglează activitatea osteoclastelor și crește concentratia sanguinǎ a calciului",
-      "C": "Glucagonul facilitează sinteza glicogenului în ficat si rinichi",
-      "D": "Insulina facilitează pătrunderea glucozei în celulele țintă (hormon hipoglicemiant)",
-      "E": "Melatonina facilitează pătrunderea glucozei în celule și crește concentrația sanguinǎ a calciului"
-    }
-  },
-  {
-    "numar": 166,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la hormoni",
-    "variante": {
-      "A": "Adrenalina și noradrenalina acționează în reacțiile de urgentǎ (,,fight or flight”)",
-      "B": "Calcitonina reglează activitatea osteoclastelor și crește concentrația sanguină a calciului",
-      "C": "Mineralocorticoizii reglează metabolismul lipidelor și al glucidelor",
-      "D": "Glucocorticoizii reglează metabolismul proteinelor și al glucidelor",
-      "E": "Melatonina poate actiona asupra organelor reproducătoare, în special asupra ovarelor"
-    }
-  },
-  {
-    "numar": 167,
-    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
-    "variante": {
-      "A": "Pancreas-glucagon-degradarea glicogenului în ficat",
-      "B": "Pancreas-insulinǎ-degradarea glicogenului în muschi",
-      "C": "Corticala suprarenalei-mineralocorticoizi-reglarea echilibrului sodiului",
-      "D": "Medulara suprarenalei-glucocorticoizi-depunerea calciului în oase",
-      "E": "Epifiza-melatonină-hormon la sinteza căruia participă cuprul- influențarea ciclului zi-noapte"
-    }
-  },
-  {
-    "numar": 168,
-    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
-    "variante": {
-      "A": "Pancreas-insulinǎ-gluconeogenezǎ hepaticǎ",
-      "B": "Tiroidǎ-triiodotironină-accelerarea metabolismului celular",
-      "C": "Adenohipofizǎ-prolactină-stimularea producerii laptelui după naștere",
-      "D": "Hipotalamus-oxitocină- stimularea ejecției laptelui de către glanda mamarǎ",
-      "E": "Hipofiza-melatonină-controlul pigmentǎrii pielii"
-    }
-  },
-  {
-    "numar": 169,
-    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
-    "variante": {
-      "A": "Hipofizǎ-vasopresină-scăderea presiunii sângelui",
-      "B": "Hipotalamus-vasopresină- vasoconstricție-creste reabsorbtia apei în tubul contort distal al nefronului",
-      "C": "Adenohipofiză-hormon luteinizant (LH) - stimulează ovulația și secretia de progesteron a corpului galben",
-      "D": "Adenohipofizǎ-hormon luteinizant (LH) - stimnulează producerea testosteronului la nivel testicular",
-      "E": "Pancreas-insulele Langerhans-cortizol-glicolizǎ anaerobǎ"
-    }
-  },
-  {
-    "numar": 170,
-    "intrebare": "Alegeți enunțurile cu câte două afirmatii adevărate referitoare la sistemul endocrin",
-    "variante": {
-      "A": "Hipofiza prezintă un lob anterior (adenohipofiza) și un lob posterior (neurohipofiza).Celulele endocrine digestive pot fi localizate în epiteliul care tapetează stomacul si intestinul subtire",
-      "B": "Ficatul, plămânii și rinichii pot secreta cantități extrem de mici de hormoni cu structurǎsteroidiană (steroidă). Rinichii secretă eritropoietină la nivelul ansei Henle",
-      "C": "Celulele pancreasului produc hormonul secretină, cu rol în maturarea limfocitelor T.Adenozin-monofosfatul ciclic(cAMP) este un mesager primar pentru hormonii lipidici",
-      "D": "Hormonii peptidici conțin lanțuri mai lungi de aminoacizi decât hormonii proteici.Celulele rinichiului produc aldosteron cu rol în creșterea reabsorbției potasiului în tubii renali",
-      "E": "În organe ca inima,rinichii sau ficatul există celule endocrine care secretǎ cantitǎti extrem de mici de prostaglandine. Prostaglandinele sunt substanțe non-steroidice care stimuleazǎcontractia fibrelor musculare netede"
-    }
-  },
-  {
-    "numar": 171,
-    "intrebare": "Alegeți enunțurile cu câte trei afirmații referitoare la sistemul endocrin, prima si a treia adevărate, a doua falsǎ:",
-    "variante": {
-      "A": "Celulele endocrine aflate în epiteliul care tapetează stomacul și intestinul subtire secretǎprogesteron. Celulele endocrine aflate în epiteliul care tapetează stomacul si intestinul subtire secretǎ gastrinǎ și secretină. Secreția excesivă de STH în copilărie duce la acromegalie",
-      "B": "Hormonul care actionează asupra glandei mamare stimulând secretia lactată se numește prolactină. Estrogenii sunt exemple de hormoni catecolaminici. TSH este secretat de cǎtre adenohipofiză și este un hormon trop, care stimulează tiroida",
-      "C": "Celulele endocrine prezente în ficat și plămâni secretă prostaglandine. Gastrina și secretina sunt eliberate de către celulele α (alfa) endocrine ale pancreasului, alături de tripsinǎ.Prostaglandinele pot fi secretate de către celule endocrine prezente în inimǎ",
-      "D": "Calcitonina crește depunerea calciului în tesutul osos, stimulând creșterea osoasă",
-      "E": "Pancreasul, având ca și componentă endocrină insulele Langerhans, este situat posterior de stomac și în afara peritoneului. Parathormonul inhibă activitatea renală a vitaminei"
-    }
-  },
-  {
-    "numar": 172,
-    "intrebare": "Alegeți afirmațiile/asocierile adevărate referitoare la sistemul endocrin:",
-    "variante": {
-      "A": "Eritropoietina este secretată de epiteliul care tapetează stomacul și intestinul subțire și are funcție de enzimǎ",
-      "B": "Eritropoietina-hormon-secretat de celule renale în condiții de hipoxie-stimularea formǎrii hematilor-stimularea eritropoiezei-proces de adaptare a organismului la altitudini mari",
-      "C": "Timus-organ limfoid-secretie de timozine-maturarea si dezvoltarea limfocitelor T-maturarea celulelor implicate în imunitatea mediată celular (IMC)",
-      "D": "Gastrina și secretina sunt secretate de celulele endocrine ale plămânilor",
-      "E": "Gastrina și secretina sunt secretate de celule endocrine din mucoasa gastrică și a intestinului subțire și sunt implicate în procesele digestive"
-    }
-  },
-  {
-    "numar": 173,
-    "intrebare": "Alegeți afirmațiile adevărate referitoare la sistemul endocrin:",
-    "variante": {
-      "A": "În ficat, inimă și plămâni există celule endocrine care secretă prostaglandine, cu diverse efecte asupra tesuturilor",
-      "B": "În stomac și intestin există celule endocrine care secretă enzime digestive (pepsină, lipaze,amilaze)",
-      "C": "Hormonii proteici și peptidici acționează în general ca mesageri secundari, fiind introdusi în celulă de cǎtre cAMP (mesagerul primar)",
-      "D": "Hormonii proteici și peptidici acționează în genera ca mesageri primari care se leagǎ de receptorii prezenți în membrana celulelor țintă",
-      "E": "Spre deosebire de hormonii proteici, hormonii steroizi traversează cu ușurință membrana plasmatică și ajung în citoplasma celulei țintă"
-    }
-  },
-  {
-    "numar": 174,
-    "intrebare": "Alegeti asocierile corecte dintre cele de mai jos",
-    "variante": {
-      "A": "Rinichi-eritropoietină- eritropoieza- adaptare a organismului la hipoxie-adaptare a organismului la altitudini mari",
-      "B": "Plǎmân-eritropoietină- contracție a musculaturii striate-spasme musculare dureroase",
-      "C": "Ficat - celule endocrine- secreție de prostaglandine-efect→ contracție a țesutului muscular neted",
-      "D": "Inimǎ-celule endocrine- secretină,gastrină-hematopoieză accelerată în conditii de hipoxie",
-      "E": "Intestin subtire - mucoasă intestinală - celule endocrine - secretie de secretina,colecistochininǎ- control al eliberării sucului pancreatic și bilei"
-    }
-  },
-  {
-    "numar": 175,
-    "intrebare": "Alegeți enunțurile cu câte două afirmații false referitoare la structura chimicǎsi/sau la mecanismul de actiune al hormonilor",
-    "variante": {
-      "A": "Hormonul insulină este format din 51 de aminoacizi asamblați în două lanțuri proteice.Cortizolul și aldosteronul prezintă o structură ciclică complexă, formată din atomi de carbon si hidrogen",
-      "B": "Hormoni ca insulina și STH-ul au structuri peptidice (lanțuri de aminoacizi mai scurte decât cei proteici - ADH, oxitocină). Acționând ca mesageri primari,hormonii lipidici stimulează enzima denumită cAMP din membrana celulelor țintă, ceea ce va permite intrarea lor în celulǎC. Hormonii secretați de către celulele glandelor endocrine sunt eliberați în sânge, cu scopul de a menține homeostazia mediului intern. Hormonii acționează la nivelul unor celule (țesuturi) țintă, unde vor produce modificările biochimice și fiziologice",
-      "D": "În cazul unui hormon peptidic, celula conjunctivă exocrină produce hormonul,care este eliberat în limfă. Hormonul proteic se leagă de un receptor din membrana celulei tintă,intensifică activitatea adenilat ciclazei, care catalizează transformarea ATP în ADP,mesager secundar",
-      "E": "În cadrul mecanismului de acțiune autocrin întâlnit la unele glande endocrine, hormonii secretati de o celulă endocrină actionează asupra celulei care l-a secretat. AMP ciclic este un mesager secundar (sintetizat la semnalul mesagerului primar hormonal), care determină un răspuns celular, spre exemplu creșterea sau scăderea ratei metabolismului în celule"
+      "A": "Endoteliul din peretele capilarelor glomerulare este un epiteliu simplu pavimentos.Permeabilitatea capilarelor glomerulare este mai mică decât cea a capilarelor din alte organe",
+      "B": "Celulele epiteliale ale tubilor contorți distali prezintă milioane de microvilozități care reduc suprafața de absorbție. Reabsorbția la nivelul tubilor contorți proximali reintroduce în sânge o mică fracțiune din glucoză și aminoacizi",
+      "C": "Hormonul antidiuretic (ADH) crește reabsorbția apei la nivelul tubilor contorti distali prin modificări de permeabilitate. La nivelul tubilor contorți proximali se reabsorb cationii monovalenti de Na si Cl",
+      "D": "Acumularea de ioni desin Cl în medulara rinichiului determină intrarea apei din interstițiu în ramura descendentă a ansei Henle. În tubii distali se secretă produsi de catabolism (amoniac,creatinină, acid uric)",
+      "E": "În apropierea glomerulului se află aparatul juxtaglomerular. Acesta este o glandǎendocrină cu rol în secreția angiotensinei și a aldosteronului"
     }
   }
 ]
