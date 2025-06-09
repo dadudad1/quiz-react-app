@@ -133,8 +133,9 @@
   },
   {
     "numar": 13,
-    "intrebare": "Referitor la dezvoltarea testiculelor, care dintre urmǎtoarele afirmatii sunt adevǎrate?A. În timpul vietii fetale, testiculele se dezvoltă în cavitatea abdominală, lângă rnichi, apoi coboară în scrot, până la sfârșitul lunii a 7-a de sarcinǎ",
+    "intrebare": "Referitor la dezvoltarea testiculelor, care dintre urmǎtoarele afirmatii sunt adevǎrate?",
     "variante": {
+      "A": "În timpul vietii fetale, testiculele se dezvoltă în cavitatea abdominală, lângă rnichi, apoi coboară în scrot, până la sfârșitul lunii a 7-a de sarcinǎ",
       "B": "Gubernaculum este un cordon de tesut muscular striat, responsabil de tracționarea testiculelor în scrot",
       "C": "Criptorhidia este o afectiune în care testiculele coboară în scrot până la sfârșitul lunii a 7-a de sarcinǎ",
       "D": "Criptorhidia poate conduce la infertilitate și necesită interventie chirurgicala",
@@ -168,7 +169,8 @@
     "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos",
     "variante": {
       "A": "Cordonul spermatic este format din vase de sânge, nervi si ductul deferent",
-      "B": "Cordonul spermatic este canalul ce străbate peritoneul și leagă compartimentele scrotului de cavitatea peritonealǎC. Zona canalului inghinal reprezintă un punct de rezistență slabă în peretele abdominal și poate fi locul de producere a herniilor inghinale",
+      "B": "Cordonul spermatic este canalul ce străbate peritoneul și leagă compartimentele scrotului de cavitatea peritonealǎ",
+      "C": "Zona canalului inghinal reprezintă un punct de rezistență slabă în peretele abdominal și poate fi locul de producere a herniilor inghinale",
       "D": "Zona canalului inghinal reprezintă un punct de rezistență crescută în peretele abdominal si în peritoneu",
       "E": "Herniile sunt protruzii ale oricărei structuri abdominale prin peretele abdominal"
     }
@@ -290,7 +292,8 @@
       "A": "Testicul-formǎ ovalară-situat în pelvis",
       "B": "Scrot-douǎ compartimente-muschi dartos",
       "C": "Scrot-câte un compartiment pentru fiecare testicul-rafeu",
-      "D": "Canal inghinal-punct de rezistență crescută a1 peretelui abdominal anterior-hernie abdominalǎE. Canal inghinal - punct de rezistență slabă al peretelui abdominal anterior - hernie inghinalǎ"
+      "D": "Canal inghinal-punct de rezistență crescută a1 peretelui abdominal anterior-hernie abdominalǎ",
+      "E": "Canal inghinal - punct de rezistență slabă al peretelui abdominal anterior - hernie inghinalǎ"
     }
   },
   {
@@ -383,9 +386,11 @@
   },
   {
     "numar": 36,
-    "intrebare": "Care dintre urmǎtoarele afirmatii referitoare la uretra masculină este falsǎ?A. Se întinde de la vezica urinarǎ până la vârful penisului",
+    "intrebare": "Care dintre urmǎtoarele afirmatii referitoare la uretra masculină este falsǎ?",
     "variante": {
-      "B": "Este împărțită în trei porțiuni: prostatică, membranoasǎ si penianǎC. Uretra prostatică trece prin mijlocul prostatei și primește secrețiile acesteia",
+      "A": "Se întinde de la vezica urinarǎ până la vârful penisului",
+      "B": "Este împărțită în trei porțiuni: prostatică, membranoasǎ si penianǎ",
+      "C": "Uretra prostatică trece prin mijlocul prostatei și primește secrețiile acesteia",
       "D": "Uretra membranoasă este un segment lung, care străbate planseul fibros al cavitǎtii pelviene",
       "E": "Uretra peniană se extinde până la orificiul uretral extern și primește secrețiile glandelor bulbouretrale"
     }
@@ -397,7 +402,8 @@
       "A": "Epididim-prima subdiviziune a sistemului de ducte care pornesc de la nivelul testiculului -locul unde spermatozoizii devin mobili",
       "B": "Duct deferent-lateral de vezica urinarǎ-antero-inferior de glanda prostatica",
       "C": "Uretrǎ prostatică-extinsă prin penis - primește secreții ale glandelor bulbo-uretrale",
-      "D": "Duct ejaculator-duct relativ scurt-se deschide în uretrǎE. Rete testis-rețea testiculară-plex format prin unirea tubilor seminiferi - drenatǎ de canalele eferente"
+      "D": "Duct ejaculator-duct relativ scurt-se deschide în uretrǎ",
+      "E": "Rete testis-rețea testiculară-plex format prin unirea tubilor seminiferi - drenatǎ de canalele eferente"
     }
   },
   {
@@ -482,8 +488,10 @@
     "intrebare": "Selectați afirmațiile adevărate referitoare la spermatocitele primare",
     "variante": {
       "A": "Se formează în urma diviziunii mitotice a spermatogoniilor",
-      "B": "Sunt celule diploide (2n), în nucleul lor existând 46 de cromozomi per celulǎC. Sunt celule haploide (n), în nucleul lor existând 23 de cromozomi per celulǎ",
-      "D": "Sunt celule diploide (2n), în nucleul lor existând 23 de cromozomi per celulăǎE. Se formează în tubii seminiferi contorți și sunt împinse spre interiorul acestora"
+      "B": "Sunt celule diploide (2n), în nucleul lor existând 46 de cromozomi per celulǎ",
+      "C": "Sunt celule haploide (n), în nucleul lor existând 23 de cromozomi per celulǎ",
+      "D": "Sunt celule diploide (2n), în nucleul lor existând 23 de cromozomi per celulă",
+      "E": "Se formează în tubii seminiferi contorți și sunt împinse spre interiorul acestora"
     }
   },
   {
@@ -491,7 +499,8 @@
     "intrebare": "Selectați afirmațiile adevǎrate referitoare la spermatogenezǎ",
     "variante": {
       "A": "În urma diviziunii reducționale a spermatocitelor primare, rezultǎ spermatocitele secundare,celule haploide, cu 23 de cromozomi per celulǎ",
-      "B": "În urma diviziunii reducționale a spermatocitelor primare, rezultă spermatocitele secundare,celule cu 46 de cromozomi per celulǎC. În urma diviziunilor succesive, dintr-un spermatocit primar diploid, vor rezulta patru spermatozoizi maturi,haploizi",
+      "B": "În urma diviziunii reducționale a spermatocitelor primare, rezultă spermatocitele secundare,celule cu 46 de cromozomi per celulǎ",
+      "C": "În urma diviziunilor succesive, dintr-un spermatocit primar diploid, vor rezulta patru spermatozoizi maturi,haploizi",
       "D": "În urma diviziunilor succesive, dintr-un spermatocit primar diploid, vor rezulta doi spermatozoizi maturi haploizi",
       "E": "Spermatidele (haploide, n) se maturează, transformându-se în spermatozoizi maturi (haploizi,n)"
     }
@@ -501,8 +510,10 @@
     "intrebare": "Selectați afirmațiile adevărate despre următoarele celule",
     "variante": {
       "A": "Spermatocitele primare sunt celule haploide, dețin 23 de cromozomi per celulă",
-      "B": "Spermatocitele secundare sunt celule haploide, dețin 23 de cromozomi per celulǎC. Spermatocitele secundare sunt celule diploide, dețin 23 de cromozomi per celulă",
-      "D": "Spermatocitele primare sunt celule diploide, detin 46 de cromozomi per celulǎE. Spermatidele sunt celule diploide, dețin 46 de cromozomi per celulǎ"
+      "B": "Spermatocitele secundare sunt celule haploide, dețin 23 de cromozomi per celulǎ",
+      "C": "Spermatocitele secundare sunt celule diploide, dețin 23 de cromozomi per celulă",
+      "D": "Spermatocitele primare sunt celule diploide, detin 46 de cromozomi per celulǎ",
+      "E": "Spermatidele sunt celule diploide, dețin 46 de cromozomi per celulǎ"
     }
   },
   {
@@ -586,7 +597,8 @@
     "numar": 55,
     "intrebare": "Selectati afirmațiile adevărate referitoare la profaza I a meiozei:",
     "variante": {
-      "A": "Cromozomii omologi formeazǎ o tetradǎB. Cromatidele cromozomilor omologi se suprapun,formând chiasme",
+      "A": "Cromozomii omologi formeazǎ o tetradǎ",
+      "B": "Cromatidele cromozomilor omologi se suprapun,formând chiasme",
       "C": "Pentru că segmentele de cromatide nu pot trece de pe o cromatidă pe alta, nu se produce schimb de material genetic între cromozomii omologi și scade variabilitatea genetică",
       "D": "Pentru că segmentele de cromatide pot trece de pe o cromatidă pe alta, se produce schimb de material genetic între cromozomii omologi si creste variabilitatea geneticǎ",
       "E": "Este etapa în care are loc separarea celor patru celule fiice haploide(n)"
@@ -609,7 +621,8 @@
     "variante": {
       "A": "Sunt celule somatice diploide",
       "B": "Se formează în urma unor succesiuni de diviziuni mitotice",
-      "C": "Iau nastere prin procesul de spermatogenezǎD. Sunt celule haploide formate în celulele interstițiale din tubii seminiferi contorți",
+      "C": "Iau nastere prin procesul de spermatogenezǎ",
+      "D": "Sunt celule haploide formate în celulele interstițiale din tubii seminiferi contorți",
       "E": "Se mai numesc și celule reproducătoare masculine sau gameti"
     }
   },
@@ -835,8 +848,9 @@
   },
   {
     "numar": 78,
-    "intrebare": "Care dintre evenimentele de mai jos se produc în sistemul reproducător masculin în timpul actului sexual?A. În erecție, țesutul erectil al prostatei se umple cu sânge",
+    "intrebare": "Care dintre evenimentele de mai jos se produc în sistemul reproducător masculin în timpul actului sexual?",
     "variante": {
+      "A": "În erecție, țesutul erectil al prostatei se umple cu sânge",
       "B": "În erecție, țesutul neerectil al penisului se umple cu sânge",
       "C": "Componenta parasimpatică a sistemului nervos vegetativ determină dilatația arteriolelor din tesuturile erectile în timpul excitării sexuale",
       "D": "În apogeul sexual, sperma ajunge prin ureter la orificiul uretral extern",
@@ -878,8 +892,9 @@
   },
   {
     "numar": 82,
-    "intrebare": "Cu privire la funcțiile organelor sistemului reproducător feminin, care dintre urmǎtoarele afirmatii sunt false?A. Rolul ovarelor este de a produce ovulele (gameții feminini) și de asecreta hormonii sexuali feminini (estrogenii și progesteronul)",
+    "intrebare": "Cu privire la funcțiile organelor sistemului reproducător feminin, care dintre urmǎtoarele afirmatii sunt false?",
     "variante": {
+      "A": "Rolul ovarelor este de a produce ovulele (gameții feminini) și de asecreta hormonii sexuali feminini (estrogenii și progesteronul)",
       "B": "Trompele uterine reprezintă locul fecundației",
       "C": "Vaginul protejează și hrănește fătul în timpul dezvoltǎrii sale",
       "D": "Labiile mici formează marginile vestibulului și protejează orificiile de deschidere ale vaginului și ale uretrei",
@@ -987,8 +1002,9 @@
   },
   {
     "numar": 92,
-    "intrebare": "Care dintre următoarele afirmații, referitoare la straturile peretelui uterin,sunt adevǎrate?A. Endometrul este compus dintr-un strat superficial subțire, numit strat funcțional și un strat profund,mai gros,numit strat bazal",
+    "intrebare": "Care dintre următoarele afirmații, referitoare la straturile peretelui uterin,sunt adevǎrate?",
     "variante": {
+      "A": "Endometrul este compus dintr-un strat superficial subțire, numit strat funcțional și un strat profund,mai gros,numit strat bazal",
       "B": "Stratul functional al endometrului este locul unde se implantează embrionul",
       "C": "Stratul functional asigură regenerarea stratului bazal după ce a avut loc menstruatia",
       "D": "Stratul mijlociu al peretelui uterin se numește miometru și prezintă mușchi netezi, care se contractă ritmic în travaliul din timpul nașterii",
@@ -1331,7 +1347,8 @@
     "variante": {
       "A": "Debutul menstruației marchează prima zi a unui nou ciclu menstrual",
       "B": "Ultima menstruație din viața femeii este numită menarhă",
-      "C": "Prima menstruatie din viata femeii este numită menarhǎD. Încetarea definitivă a ciclurilor menstruale se numeste menopauzǎ",
+      "C": "Prima menstruatie din viata femeii este numită menarhǎ",
+      "D": "Încetarea definitivă a ciclurilor menstruale se numeste menopauzǎ",
       "E": "Ovulația se produce în timpul fazei secretorii a ciclului menstrual"
     }
   },
@@ -1359,8 +1376,9 @@
   },
   {
     "numar": 126,
-    "intrebare": "Care dintre următoarele afirmatii, referitoare la formarea și dezvoltarea foliculilor ovarieni și a gameților feminini, sunt false?A. Oocitul primar are 23 de cromozomi, fiind haploid",
+    "intrebare": "Care dintre următoarele afirmatii, referitoare la formarea și dezvoltarea foliculilor ovarieni și a gameților feminini, sunt false?",
     "variante": {
+      "A": "Oocitul primar are 23 de cromozomi, fiind haploid",
       "B": "Foliculul ovarian primar este prezent la naștere în ovar",
       "C": "Oocitul secundar, rezultat din încheierea primei faze a meiozei la pubertate, este diploid (2n)",
       "D": "Oocitul secundar este o celulǎ haploidǎ (n)",
@@ -1445,8 +1463,9 @@
   },
   {
     "numar": 134,
-    "intrebare": "Care dintre următoarele efecte este indus de hormonii estrogeni?A. Stimularea contracțiilor uterine în timpul nasterii",
+    "intrebare": "Care dintre următoarele efecte este indus de hormonii estrogeni?",
     "variante": {
+      "A": "Stimularea contracțiilor uterine în timpul nasterii",
       "B": "Inhibarea dezvoltării caracterelor sexuale feminine",
       "C": "Stimularea dezvoltării caracterelor sexuale feminine",
       "D": "Stimularea secretiei laptelui în glandele mamare",
@@ -1458,8 +1477,10 @@
     "intrebare": "Efectele principale ale hormonului eliberator de gonadotropină (GnRH) sunt",
     "variante": {
       "A": "Stimularea sintezei de hormon foliculostimulant (FSH) de cǎtre hipofizǎ",
-      "B": "Inhibarea sintezei de hormon foliculostimulant (FSHI) de cǎtre hipofizǎC. Stimularea sintezei de hormon foliculostimulant (FSH) de cǎtre ovar",
-      "D": "Stimularea sintezei de hormon luteinizant (LH) de cǎtre hipofizǎE. Stimularea sintezei de hormon luteinizant (FSH) de către hipotalamus"
+      "B": "Inhibarea sintezei de hormon foliculostimulant (FSHI) de cǎtre hipofizǎ",
+      "C": "Stimularea sintezei de hormon foliculostimulant (FSH) de cǎtre ovar",
+      "D": "Stimularea sintezei de hormon luteinizant (LH) de cǎtre hipofizǎ",
+      "E": "Stimularea sintezei de hormon luteinizant (FSH) de către hipotalamus"
     }
   },
   {
@@ -1584,8 +1605,9 @@
   },
   {
     "numar": 147,
-    "intrebare": "Cu privire la stadiile de evoluție ale zigotului, care dintre următoarele afirmatii sunt adevǎrate?A. După fecundație, zigotul suferă un proces de segmentare (mai multe diviziuni mitotice)",
+    "intrebare": "Cu privire la stadiile de evoluție ale zigotului, care dintre următoarele afirmatii sunt adevǎrate?",
     "variante": {
+      "A": "După fecundație, zigotul suferă un proces de segmentare (mai multe diviziuni mitotice)",
       "B": "Stadiul de blastocist este reprezentat de o structură celulară cavitară mai mică decât ovulul",
       "C": "În cavitatea uterină, blastocistul absoarbe nutrienții necesari, din secrețiile glandelor uterine",
       "D": "Procesul de implantare presupune erodarea epiteliului endometrial de cǎtre blastocist si fixarea acestuia în endometru",
@@ -1649,8 +1671,9 @@
   },
   {
     "numar": 153,
-    "intrebare": "Cu privire la embrion, care dintre următoarele afirmații sunt adevǎrate?A. Embrionul este cuprins în întregime de un sac, denumit sac corionic (membranāalantoidǎ)",
+    "intrebare": "Cu privire la embrion, care dintre următoarele afirmații sunt adevǎrate?",
     "variante": {
+      "A": "Embrionul este cuprins în întregime de un sac, denumit sac corionic (membranāalantoidǎ)",
       "B": "Embrionul este cuprins în întregime de un sac, denumit sac amniotic (amnion)",
       "C": "Zona din afara amnionului se numește corion și este delimitată de membrana corionicǎ",
       "D": "Din membrana amniotică se formează vilozitǎtile coriale",
@@ -1662,7 +1685,8 @@
     "intrebare": "Referitor la dezvoltarea embrionară și fetală, selectati afirmatiile false dintre cele de mai jos",
     "variante": {
       "A": "Membrana alantoidă, lipsită de vascularizație, intră în alcătuirea placentei",
-      "B": "În cursul primelor șase săptămâni, embrionul are un sac vitelin cuprins într-o membranǎvitelinǎC. Cordonul ombilical conține două vene ombilicale și o arteră ombilicalǎ",
+      "B": "În cursul primelor șase săptămâni, embrionul are un sac vitelin cuprins într-o membranǎvitelinǎ",
+      "C": "Cordonul ombilical conține două vene ombilicale și o arteră ombilicalǎ",
       "D": "Cordonul ombilical se extinde de la placentă la embrion și apoi la fat si transportǎ gaze,nutrienți și reziduuri între organismul mamei și cel al viitorului individ",
       "E": "Primele șase săptămâni de viață intrauterină sunt considerate perioada fetalǎ"
     }
@@ -1672,7 +1696,8 @@
     "intrebare": "Cu privire la dezvoltarea embrionară și fetală, selectați afirmațiile adevǎrate dintre cele de mai jos",
     "variante": {
       "A": "La începutul dezvoltării embrionare, se formează membranele amniotice, corionului,alantoidei și membrana vitelină",
-      "B": "Sistemele de organe iau naștere în perioada fetală și se dezvoltă în perioada embrionarǎC. În luna a treia de sarcină încep să se formeze sistemele de organe",
+      "B": "Sistemele de organe iau naștere în perioada fetală și se dezvoltă în perioada embrionarǎ",
+      "C": "În luna a treia de sarcină încep să se formeze sistemele de organe",
       "D": "În timpul lunii a patra de sarcină, cresc membrele și apar puncte de osificare în scheletul cartilaginos",
       "E": "În luna a cincea de sarcină, pielea fătului este acoperită cu păr fin și pufos, numit lanugo"
     }
@@ -1690,11 +1715,13 @@
   },
   {
     "numar": 157,
-    "intrebare": "Referitor la naștere, care dintre urmǎtoarele afirmatii sunt adevǎrate?A. Nasterea mai este denumită parturitie",
+    "intrebare": "Referitor la naștere, care dintre urmǎtoarele afirmatii sunt adevǎrate?",
     "variante": {
+      "A": "Nasterea mai este denumită parturitie",
       "B": "La debutul travaliului, secreția de progesteron din placenta creste",
       "C": "Modificările nivelului sanguin de progesteron și estrogeni au efect stimulator asupra sintezei de prostaglandine",
-      "D": "Ca răspuns la contracțiile musculare uterine, lobul anterior al hipofizei elibereazǎoxitocinǎE. Contracțiile uterine induc, prin reflexe de la nivelul măduvei spinării, contractii ale peretelui abdominal"
+      "D": "Ca răspuns la contracțiile musculare uterine, lobul anterior al hipofizei elibereazǎoxitocinǎ",
+      "E": "Contracțiile uterine induc, prin reflexe de la nivelul măduvei spinării, contractii ale peretelui abdominal"
     }
   },
   {

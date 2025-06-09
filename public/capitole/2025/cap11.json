@@ -15,7 +15,8 @@
     "intrebare": "Selectați afirmațiile false referitoare la funcția sistemului urinar",
     "variante": {
       "A": "Este asigurată exclusiv de către rinichi prin procesul de filtrare a sângelui",
-      "B": "Principala funcție a sistemului urinar este formarea urinei din plasma sanguinǎC. Constă în menținerea concentrației electroliților intracelulari(sodiu,glucozǎ)",
+      "B": "Principala funcție a sistemului urinar este formarea urinei din plasma sanguinǎ",
+      "C": "Constă în menținerea concentrației electroliților intracelulari(sodiu,glucozǎ)",
       "D": "Reglează concentratia plasmatică a unor cationişi anioni (CO32-,HCO3)",
       "E": "Intervine în reglarea concentrației plasmatice a carbonaților, nu și a bicarbonaților sau a calciului"
     }
@@ -36,7 +37,8 @@
     "intrebare": "Identificați elementele anatomice care fac parte din sistemul urinar",
     "variante": {
       "A": "Ureterul, organ pereche, tubular, care se întinde de la rinichi până la vezica urinarǎ",
-      "B": "Rinichiul, organ pereche, situat în cavitatea abdominalǎC. Vezica urinară, organ nepereche, extensibil, situat posterior de simfiza pubiană",
+      "B": "Rinichiul, organ pereche, situat în cavitatea abdominalǎ",
+      "C": "Vezica urinară, organ nepereche, extensibil, situat posterior de simfiza pubiană",
       "D": "Uretra, organ pereche, conduce urina de la baza vezicii urinare spre spre uretere",
       "E": "Uretra,formațiune tubulară, cu dimensiuni egale la ambele sexe si orientare anatomicǎspecificǎ la sexul masculin"
     }
@@ -114,23 +116,23 @@
       "A": "La o persoană adultă rinichiul este aproximativ de mărimea unui pumn si cântǎreste în medie 175 de grame",
       "B": "În raport cu diafragma, rinichiul drept este situat mai jos decât rinichiul stâng",
       "C": "Rinichiul stâng vine în raport anatomic cu lobul drept al ficatului",
-      "D": "Rinichiul stâng vine în contact cu splina, pe suprafața căreia lasă o depresiune, amprenta renalǎE. Pe marginea medială, fiecare rinichi prezintă o zonă concavă, hilul renal, la nivelul căruia intră în rinichi artera renalǎ"
+      "D": "Rinichiul stâng vine în contact cu splina, pe suprafața căreia lasă o depresiune, amprenta renalǎ",
+      "E": "Pe marginea medială, fiecare rinichi prezintă o zonă concavă, hilul renal, la nivelul căruia intră în rinichi artera renalǎ"
     }
   },
   {
     "numar": 12,
-    "intrebare": "Analizați cu atenție următoarele enunțuri. Răspunsul este A dacă enunțul 1 și 3 sunt corecte, B dacă enunțurile 4 și 5 se referă la hilul renal și sunt ambele corecte,C daca afirmațiile 3 și 5 sunt corecte, D dacă afirmațiile referitoare la polul superior al rinichilor sunt corecte și E dacă 1,2,4 sunt corecte 1. În raport cu diafragma, polul superior al rinichiului stâng este situat mai sus fată de polul superior al rinichiului drept",
-    "variante": {}
-  },
-  {
-    "numar": 2,
-    "intrebare": "La polul superior al rinichiului drept se află glanda suprarenalǎ dreaptǎ3. La exterior, rinichii sunt înveliti de o capsulă de tesut conjunctiv dens de culoare albicioasǎ",
-    "variante": {}
-  },
-  {
-    "numar": 4,
-    "intrebare": "Pe fata anterioară a rinichiului se găsește o depresiune numită hilul renal 5. Pe marginea medială a rinichilor se află hilul renal, la nivelul căruia intră în rinichi artera renalǎ",
-    "variante": {}
+    "intrebare": "Analizați cu atenție următoarele enunțuri.
+    1. În raport cu diafragma, polul superior al rinichiului stâng este situat mai sus fată de polul superior al rinichiului drept
+    2.La polul superior al rinichiului drept se află glanda suprarenalǎ dreaptǎ 3. La exterior, rinichii sunt înveliti de o capsulă de tesut conjunctiv dens de culoare albicioasǎ 4.Pe fata anterioară a rinichiului se găsește o depresiune numită hilul renal 5. Pe marginea medială a rinichilor se află hilul renal, la nivelul căruia intră în rinichi artera renalǎ" ,
+    "variante": {
+      "A": "Dacă enunțul 1 și 3 sunt corecte.",
+      "B": "Dacă enunțurile 4 și 5 se referă la hilul renal și sunt ambele corecte.",
+      "C": "Dacă afirmațiile 3 și 5 sunt corecte.",
+      "D": "Dacă afirmațiile referitoare la polul superior al rinichilor sunt corecte",
+      "E": "Dacă 1,2,4 sunt corecte ",
+    }
+    
   },
   {
     "numar": 13,
@@ -247,7 +249,8 @@
     "intrebare": "Selectați răspunsurile corecte referitoare la pelvisul renal",
     "variante": {
       "A": "Este o un organ cavitar în formă de pâlnie",
-      "B": "Se continuă cu un tub lung numit ureter, care ajunge în vezica urinarǎC. Este o structură cu rol în procesul de filtrare a urinei",
+      "B": "Se continuă cu un tub lung numit ureter, care ajunge în vezica urinarǎ",
+      "C": "Este o structură cu rol în procesul de filtrare a urinei",
       "D": "Se deschide la nivelul vezicii urinare - o structură cavitară situată în hipogastru",
       "E": "Modul în care calicele mari converg pentru a forma pelvisul renal se observă pe o secțiune a rinichiului în plan frontal"
     }
@@ -358,7 +361,8 @@
       "A": "Este format dintr-o retea de capilare provenite din arteriola aferenta",
       "B": "Prin procesul de filtrare, realizează trecerea plasmei sanguine și a eritrocitelor în capsula Bowman",
       "C": "Prin procesul de filtrare tubulară, realizează trecerea fluidului din plasma sanguină în capsula glomerularǎ",
-      "D": "La nivelul său, sângele intrǎ prin arteriola aferentǎ și iese prin arteriola eferentǎE. Este o rețea de capilare care se găsește între două arteriole, aferentă și eferentǎ"
+      "D": "La nivelul său, sângele intrǎ prin arteriola aferentǎ și iese prin arteriola eferentǎ",
+      "E": "Este o rețea de capilare care se găsește între două arteriole, aferentă și eferentǎ"
     }
   },
   {
@@ -388,7 +392,8 @@
     "intrebare": "Urina se formează la nivelul diferitelor părți componente ale nefronului prin",
     "variante": {
       "A": "Filtrarea plasmei, cu o rată de aproximativ 105ml/min la femei-125ml/min la bǎrbati",
-      "B": "Trecerea din capilarele glomerulare în capsula glomerulară a fluidului provenit din plasma sanguinǎC. Trecerea apei prin osmoză, datorită proteinelor prezente în capsula Bowman",
+      "B": "Trecerea din capilarele glomerulare în capsula glomerulară a fluidului provenit din plasma sanguinǎ",
+      "C": "Trecerea apei prin osmoză, datorită proteinelor prezente în capsula Bowman",
       "D": "Reabsorbția tubulară, prin care sunt transportate (din tubi în sânge) proteine și alte macromolecule",
       "E": "Secreția tubulară, prin care se realizează transportul unor substante din capilarele peritubulare (din sânge) în tubul contort distal (în filtratul glomerular)"
     }
@@ -499,7 +504,8 @@
       "A": "Primește sângele care a trecut prin glomerulul renal si arteriola eferenta",
       "B": "Este o retea de capilare care se formează prin recapilarizarea arteriolei aferente",
       "C": "La nivelul ei ajung substantele reabsorbite din tubii uriniferi ai nefronilor",
-      "D": "În această rețea, sângele ajunge direct din arteriola aferentǎE. La nivelul ei ajung prin reabsorbție cantități variabile de apă, săruri și alte molecule"
+      "D": "În această rețea, sângele ajunge direct din arteriola aferentǎ",
+      "E": "La nivelul ei ajung prin reabsorbție cantități variabile de apă, săruri și alte molecule"
     }
   },
   {
@@ -507,7 +513,8 @@
     "intrebare": "La nivelul tubului contort proximal",
     "variante": {
       "A": "Există milioane de microvilozități în perete, cu rolul de a mǎri foarte mult suprafata de contact cu conținutul lumenului",
-      "B": "Ajunge filtratul glomerular care păraseste capsula glomerularǎC. Au loc procese de reabsorbție a unor ionisi a moleculelor proteice",
+      "B": "Ajunge filtratul glomerular care păraseste capsula glomerularǎ",
+      "C": "Au loc procese de reabsorbție a unor ionisi a moleculelor proteice",
       "D": "Ajunge filtratul glomerular care a străbătut ansa Henle",
       "E": "Au loc procese de reabsorbție a ionilor de sodiu prin transport activ"
     }
@@ -605,7 +612,8 @@
     "intrebare": "La nivelul ansei Henle",
     "variante": {
       "A": "Are loc reabsorbția ionilor de sodiu și clor în ramura descendentă",
-      "B": "Are loc reabsorbția ionilor de sodiu și clor în ramura ascendentǎC. Acumularea de sare în interstițiul medularei determină hipertonicitatea acestuia si crearea unui gradient osmotic",
+      "B": "Are loc reabsorbția ionilor de sodiu și clor în ramura ascendentǎ",
+      "C": "Acumularea de sare în interstițiul medularei determină hipertonicitatea acestuia si crearea unui gradient osmotic",
       "D": "Acumularea de sare în interstițiul medularei creează un gradient electric,datoritǎ cǎruia apa din filtratul ajuns în ramura ascendentă trece în interstitiu",
       "E": "Apa se reabsoarbe din ramura descendentă a ansei, dinspre porțiunea proximală spre cea distală, precum și la vârful ansei Henle"
     }
@@ -727,7 +735,8 @@
       "A": "Are loc în tubii nefronului (mai ales în tubul contort distal) și în tubii colectori",
       "B": "Este un proces pasiv, carerealizează transportul compușilor chimici în sânge din fluidul tubular",
       "C": "Este un proces activ, care realizează transportul compușilor chimici din sânge în fluidul din tubi",
-      "D": "Are loc predominant în tubii contorți proximali și în capsula glomerularǎE. Realizează transportul unor compuși chimici din capilarele peritubulare în fluidul din tubi"
+      "D": "Are loc predominant în tubii contorți proximali și în capsula glomerularǎ",
+      "E": "Realizează transportul unor compuși chimici din capilarele peritubulare în fluidul din tubi"
     }
   },
   {
@@ -803,7 +812,8 @@
       "A": "Hormonul controlează permeabilitatea membranei celulelor din peretele tubilor distali și colectori",
       "B": "Nu intervine în reabsorbția apei în tubul colector",
       "C": "Actionează printr-un mecanism complex, care determină închiderea porilor membranei celulelor din peretele tuturor tubilor nefronului",
-      "D": "La exces de apă în organism, crește secreția de ADH, ceea ce va duce la eliminare crescutǎde apă și urinǎ diluatǎE. Când receptorii hipotalamici detectează o scădere a concentrației ionilor de sodiu, dar și a altor ioni în sânge, are loc inhibarea secreției de ADH și scăderea reabsorbției de apă"
+      "D": "La exces de apă în organism, crește secreția de ADH, ceea ce va duce la eliminare crescutǎde apă și urinǎ diluatǎ",
+      "E": "Când receptorii hipotalamici detectează o scădere a concentrației ionilor de sodiu, dar și a altor ioni în sânge, are loc inhibarea secreției de ADH și scăderea reabsorbției de apă"
     }
   },
   {
@@ -813,13 +823,15 @@
       "A": "Concentrația ionilor de sodiu sau a altor ioni din sânge este crescutǎ",
       "B": "Există un exces de apă în organism",
       "C": "Organismul este deshidratat",
-      "D": "Concentrația plasmatică a ionilor este scǎzutǎE. Receptorii chimici din hipotalamus sunt stimulați de variațiile concentrației sodiului (de cresterea acesteia)"
+      "D": "Concentrația plasmatică a ionilor este scǎzutǎ",
+      "E": "Receptorii chimici din hipotalamus sunt stimulați de variațiile concentrației sodiului (de cresterea acesteia)"
     }
   },
   {
     "numar": 76,
-    "intrebare": "Eliberarea ADH-ului din lobul posterior al glandei hipofize este inhibatǎ atunci când;A. Creste osmolaritatea plasmei (concentrație plasmatică a ionilor crescutǎ)",
+    "intrebare": "Eliberarea ADH-ului din lobul posterior al glandei hipofize este inhibatǎ atunci când;",
     "variante": {
+      "A": "Creste osmolaritatea plasmei (concentrație plasmatică a ionilor crescutǎ)",
       "B": "Există un exces de apă în organism",
       "C": "Organismul este deshidratat",
       "D": "Concentrația ionilor de sodiu (sau a altor ioni) din sânge este scǎzutǎ",
@@ -930,6 +942,8 @@
     "intrebare": "Alegeti afirmațiile adevărate despre caracteristicile și compoziția urinei umane",
     "variante": {
       "A": "Culoarea galben,galben pai sau chihlimbariu a urinei poate fi dată de urobilinogen sau de pigmenti derivați din substantele prezente în dietă",
+      "B": "Densitatea urinei este mai scǎzută dimineața. Prezența eritrocitelor în urină este întotdeauna normalǎ",
+      "C": "SO4;PO4",
       "D": "Cantitatea de urină eliminată în 24 de ore este de aproximativ 1500 ml",
       "E": "De obicei tulbure imediat după micțiune, devine clară și transparentă prin depozitare mai îndelungatǎ"
     }
@@ -939,8 +953,10 @@
     "intrebare": "Alegeti,răspunsurile care contin în enunțt o primă afirmație falsă și o a doua,adevărată,referitor la caracteristicile urinei umane",
     "variante": {
       "A": "Urina nu are în mod obișnuit culoarea galbenă sau chihlimbarie, ci roșie. Urina conține urobilinogen, pigment rezultat prin acțiunea bacteriilor asupra bilirubinei din intestin",
-      "B": "Densitatea urinei este mai scǎzută dimineața. Prezența eritrocitelor în urină este întotdeauna normalǎC. În prezența hematiilor, urina dobândește o culoare roșie. Prin păstrare, urina dobândește miros amoniacal",
-      "D": "pH-ul urinar este cuprins în mod normal în intervalul de la 2 la 4 (usor acid). Urina este de obicei clară sau transparentǎE. Corpii cetonici, rezultați din metabolizarea proteinelor, sunt prezenți în cantități mari în urină în mod normal. Cantitatea de urină produsă pe zi este de aproximativ 1-2 litri"
+      "B": "Densitatea urinei este mai scǎzută dimineața. Prezența eritrocitelor în urină este întotdeauna normalǎ",
+      "C": "În prezența hematiilor, urina dobândește o culoare roșie. Prin păstrare, urina dobândește miros amoniacal",
+      "D": "pH-ul urinar este cuprins în mod normal în intervalul de la 2 la 4 (usor acid). Urina este de obicei clară sau transparentǎ",
+      "E": "Corpii cetonici, rezultați din metabolizarea proteinelor, sunt prezenți în cantități mari în urină în mod normal. Cantitatea de urină produsă pe zi este de aproximativ 1-2 litri"
     }
   },
   {
@@ -1058,15 +1074,17 @@
     "intrebare": "Din structurile anexe ale sistemului urinar fac parte",
     "variante": {
       "A": "Ureterul, organ tubular, care continuǎ pelvisul renal",
-      "B": "Vezica urinară, organ cavitar distensibil ce poate acumula până la 600 ml urinǎC. Vezica urinarǎ, organ cavitar pozitionat anterior fatǎ de simfiza pubianǎ",
+      "B": "Vezica urinară, organ cavitar distensibil ce poate acumula până la 600 ml urinǎ",
+      "C": "Vezica urinarǎ, organ cavitar pozitionat anterior fatǎ de simfiza pubianǎ",
       "D": "Uretra, care se deschide la exterior prin orificiul uretral extern",
       "E": "Tubii semniniferi contorti și ductul deferent la bărbat"
     }
   },
   {
     "numar": 99,
-    "intrebare": "Ce alte organe, în afară de cele ale sistemului urinar, sunt considerate organe excretorii?A. Ficatul,la nivelul căruia este catabolizată hemoglobina eritrocitarǎ (din hem rezultând pigmenti biliari)",
+    "intrebare": "Ce alte organe, în afară de cele ale sistemului urinar, sunt considerate organe excretorii?",
     "variante": {
+      "A": "Ficatul,la nivelul căruia este catabolizată hemoglobina eritrocitarǎ (din hem rezultând pigmenti biliari)",
       "B": "Plămânii, care excretă dioxidul de carbon și degajă o cantitate redusă de apă (produși reziduali ai procesului de respiratie celulară)",
       "C": "Intestinul gros, prin procesul de defecație (excretă produși de degradare ai metabolis-mului)",
       "D": "Intestinul, care prin celulele epiteliale ale mucoasei care îl tapetează, elimină săruri de fier și de calciu si apǎE. Pielea, pentru că excretǎ prin transpirație cantități variabile de săruri, amoniac, uree, aciduric"
@@ -1077,7 +1095,8 @@
     "intrebare": "Selectați afirmațiile adevărate referitoare la rolul fiecǎrui organ în cadrul sistemului urinar",
     "variante": {
       "A": "Rinichii reglează volumul plasmei sanguine",
-      "B": "Ureterele asigură eliminarea urinei din vezica urinarǎC. Ureterele transportă urina de la rinichi la vezica urinarǎ",
+      "B": "Ureterele asigură eliminarea urinei din vezica urinarǎ",
+      "C": "Ureterele transportă urina de la rinichi la vezica urinarǎ",
       "D": "Uretra asigură golirea vezicii urinare (prin micțiune)",
       "E": "Uretra transportă urina la vezica urinarǎ"
     }
@@ -1185,6 +1204,7 @@
     "numar": 110,
     "intrebare": "Dintre asocierile de mai jos,selectati-le pe cele corecte:",
     "variante": {
+      "A": "Capsula Bowman-capsula renalǎ cu pereți permeabili",
       "B": "Reteaua capilarelor peritubulare-retea de capilare glomerulare",
       "C": "Numărul nefronilor-echivalentul numărului de glomeruli",
       "D": "Urina-plasma cu compoziția nemodificată la trecerea prin tubii renali",
