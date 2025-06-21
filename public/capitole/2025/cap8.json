@@ -110,8 +110,9 @@
   },
   {
     "numar": 11,
-    "intrebare": "Care dintre urmǎtoarele afirmații referitoare la compoziția sângelui sunt false?A. Partea fluidǎ a sângelui este reprezentată de plasmǎ (care rǎmâne dpǎ coagularea sângelui și consumarea proteinelor de coagulare)",
+    "intrebare": "Care dintre urmǎtoarele afirmații referitoare la compoziția sângelui sunt false?A",
     "variante": {
+      "A": "Partea fluidǎ a sângelui este reprezentată de plasmǎ (care rǎmâne dpǎ coagularea sângelui și consumarea proteinelor de coagulare)",
       "B": "Serul este fluidul care rămâne după coagularea sângelui și consumarea proteinelor de coagulare din plasmǎ",
       "C": "Proteinele plasmatice sunt albuminele, globulinele,fibrinogenul",
       "D": "În plasmă sunt prezenți ion de sodiu și de potasiu, dar sunt absenți cei de bicarbonat si calciu,prezenți doar în celule",
@@ -376,7 +377,8 @@
     "intrebare": "Selectati afirmațiile false cu privire la hematii",
     "variante": {
       "A": "Conțin hemoglobină, alcătuită din două lanțuri polipeptidice,alfa si delta",
-      "B": "Mai sunt denumite globule roșii și se formează prin procesul de eritropoiezǎ desfasurat în mǎduva rosie osoasǎC. Producția lor este reglată de eritropoietină, o enzimă secretată dc cclulele suprarenalei",
+      "B": "Mai sunt denumite globule roșii și se formează prin procesul de eritropoiezǎ desfasurat în mǎduva rosie osoasǎ",
+      "C": "Producția lor este reglată de eritropoietină, o enzimă secretată dc cclulele suprarenalei",
       "D": "O funcție importantă a lor este transportul oxigenului, care se face prin legarea acestuia de hemoglobină, o proteină existentă în nucleul hematiilor",
       "E": "Sunt flexibile și au formă de disc biconcav, mai gros la margini decât în centru"
     }
@@ -817,7 +819,8 @@
       "A": "Se mai numesc globule albe și au rol în apărarea țesuturilor împotriva infectiilor",
       "B": "Procesul lor de formare se desfășoară în măduva osoasă roșie",
       "C": "Trecerea leucocitelor din măduva roșie osoasă în sânge se numește diapedezǎ",
-      "D": "Trecerea leucocitelor din sânge în țesuturi se numeste diapedezǎE. Leucocitele lipsite de granulatii sunt de trei categorii: neutrofile, eozinofile și bazofile"
+      "D": "Trecerea leucocitelor din sânge în țesuturi se numeste diapedezǎ",
+      "E": "Leucocitele lipsite de granulatii sunt de trei categorii: neutrofile, eozinofile și bazofile"
     }
   },
   {
@@ -1046,7 +1049,9 @@
     "variante": {
       "A": "În timpul celei de a 3-a luni după concepție, în măduva osoasă apar celulele stem (celule primitive)",
       "B": "În cea de a 3-a săptămână după concepție, apar în măduva osoasă precursorii sistemului imun, care vor forma celulele stem",
-      "C": "În cursul dezvoltării sistemului imun la om, apare bursa lui Fabricius ca organ limfoid propriu-zis"
+      "C": "În cursul dezvoltării sistemului imun la om, apare bursa lui Fabricius ca organ limfoid propriu-zis",
+      "D": "La embrionii de pui, apare bursa lui Fabricius reprezinta un sediu de maturare al limfocitelor B",
+      "E": "Sistem imun devine funcțional la aproximativ șase saptamani dupǎ nastere"
     }
   },
   {
@@ -1055,7 +1060,9 @@
     "variante": {
       "A": "Hemocitoblaștii (celulele stem) din măduva osoasă vor da naștere celulelor limfopoietice",
       "B": "Hemocitoblaștii (celulele stem) din măduva osoasă dau naștere exclusiv hematiilor",
-      "C": "Celulele limfopoietice care trec prin timus se transformă în limfocite T,mecanism la care participă hormonii denumiti timozine"
+      "C": "Celulele limfopoietice care trec prin timus se transformă în limfocite T,mecanism la care participă hormonii denumiti timozine",
+      "D": "majoritatea limfocitelor T mature se intorc in maduva osoasa unde participa la rectiile imune iar cateva se acumuleaza in tesuturi limfoide precum nodulii limfatici splina si pancreasule",
+      "E": "unele celule limfopoietice sunt modificate pentru a forma limfocitele B si celulele natural killer"
     }
   },
   {
@@ -1064,7 +1071,9 @@
     "variante": {
       "A": "Unele dintre celulele stem se diferentiază în celule limfopoietice (precursori ai sistemului imun)",
       "B": "Unele celule limfopoietice sunt modificate pentru a forma limfocitele B",
-      "C": "O parte din celulele stem vor migra în organele echivalente bursei lui Fabricius (măduvǎosoasă, amigdale, splină) unde vor deveni limfocite B"
+      "C": "O parte din celulele stem vor migra în organele echivalente bursei lui Fabricius (măduvǎosoasă, amigdale, splină) unde vor deveni limfocite B",
+      "D": "Anumite celule limfopoietice trec prin timus unde sunt maturate si formeaza limfocitele T",
+      "E": "In timpul formarii limfocitelor B, vor dobandi anticorpi pe surafata lor datoria carora vor realiza imunitatea mediata celular"
     }
   },
   {
@@ -1072,6 +1081,8 @@
     "intrebare": "Seectati afirmațiile adevărate referitoare la limfocitele T",
     "variante": {
       "A": "Provin din celulele limfopoietice (precursori ai sistemului imun)",
+      "B": "Initiala T provine de la timus unde aceste celule ajung dupa ce sunt maturate in amigdale",
+      "C": "Initiala T provine de la timus sediu al maturarii acestor celule",
       "D": "Sunt maturate în tesutul limfoid al amigdalelor și splinei, de unde vor migra în timus",
       "E": "În cursul procesului de maturare, achiziționează pe suprafața lor molecule de receptori"
     }
@@ -1081,6 +1092,8 @@
     "intrebare": "Alegeți răspunsurile care conțin în enunț o primă afirmație falsă și o a doua, adevărată",
     "variante": {
       "A": "Limfocitele T se maturează în splină și în nodulii limfatici, apoi ajung în timus, unde interactionează cu antigenele. Limfocitele T helper se mai numesc și celule T4",
+      "B": "Limfocitele T prezinta pe suprafata lor anticorpi moleculele din clasa lipoproteinelor HFL. Celulele limfocitele sunt precursorii limfocitelor T",
+      "C": "Limfocitele B se matureaza in maduva osoasa, ficat, nodulii limfatici. Limfocitele B prezinta pe suprafata membranelor lor anticorpi ",
       "D": "La embrionii de pui, limfocitele T se maturează în bursa lui Fabricius. Limfocitele mature B nu prezintă pe suprafata membranelor lor molecule de anticorpi",
       "E": "Limfocitele B provin din maturarea limfocitelor T în timus.Maturarea limfocitelor B are loc în mǎduva osoasă (organ corespunzător la om bursei lui Fabricius de la embrionii de pui)"
     }
@@ -1285,17 +1298,20 @@
   },
   {
     "numar": 119,
-    "intrebare": "Care dintre afirmatiile de mai jos sunt false?A. Macrofagele sunt celule fagocitare de formă neregulată și talie mare",
+    "intrebare": "Care dintre afirmatiile de mai jos sunt false?",
     "variante": {
-      "B": "Monocitele nu pot traversa peretele capilar, nefiind capabile de diapedezǎC. Macrofagele au pe suprafața lor moleculele CMH clasa II și CMH clasa I",
+      "A": "Macrofagele sunt celule fagocitare de formă neregulată și talie mare",
+      "B": "Monocitele nu pot traversa peretele capilar, nefiind capabile de diapedezǎ",
+      "C": "Macrofagele au pe suprafața lor moleculele CMH clasa II și CMH clasa I",
       "D": "Limfocitele T helper activate produc și eliberează proteine înalt reactive (limfokine)",
       "E": "Macrofagele au pe suprafata lor anticorpi (molecule glicoproteice)"
     }
   },
   {
     "numar": 120,
-    "intrebare": "Care sunt rolurile macrofagelor în rǎspunsul imun?A. Înglobarea și digerarea microorganismelor prin exocitozǎ",
+    "intrebare": "Care sunt rolurile macrofagelor în rǎspunsul imun?",
     "variante": {
+      "A": "Înglobarea și digerarea microorganismelor prin exocitozǎ",
       "B": "Fagocitarea microorganismelor si legarea antigenelor acestora de moleculele CMH clasa II",
       "C": "Migrarea macrofagelor prin diapedeză în capilare și transformarea lor în monocite",
       "D": "Deplasarea macrofagelor spre vasele limfatice și tesutul limfoid, după fagocitarea agentului infectios",
@@ -1370,8 +1386,9 @@
   },
   {
     "numar": 127,
-    "intrebare": "Care dintre afirmațiile de mai jos referitoare la limfocitele T citotoxice sunt adevǎrate?A. Interactionează cu celulele infectate cu fungi,protozoare,virusuri,bacterii",
+    "intrebare": "Care dintre afirmațiile de mai jos referitoare la limfocitele T citotoxice sunt adevǎrate?",
     "variante": {
+      "A": "Interactionează cu celulele infectate cu fungi,protozoare,virusuri,bacterii",
       "B": "Sunt rezultatul acțiunii limfokinelor eliberate de macrofage asupra limfocitelor T",
       "C": "Recunosc antigenele străine si celulele tumorale",
       "D": ",,Atacă letal\" celulele tumorale",
@@ -1405,7 +1422,8 @@
     "intrebare": "Limfocitele T supresoare (celulele T8) au numeroase funcții, cu exceptia",
     "variante": {
       "A": "Scăderii activitătii limfocitelor T citotoxice",
-      "B": "Scăderii activității celulelor,,natural killer\"C. Încetinirii procesului imun pe măsura diminuării stimulului antigenic",
+      "B": "Scăderii activității celulelor,,natural killer",
+      "C": "Încetinirii procesului imun pe măsura diminuării stimulului antigenic",
       "D": "Atragerii de noi macrofage și polimorfonucleare la locul infecției, pentru a amplifica rǎspunsul imun",
       "E": "Secretiei de anticorpi-proteine din clasa gamma-globulinelor"
     }
@@ -1421,9 +1439,11 @@
   },
   {
     "numar": 132,
-    "intrebare": "Alegeti dintre răspunsurile de mai jos acele enunțuri care conțin două afirmații adevǎrate:Imunitatea mediată prin anticorpi (IMA) depinde de activitatea limfocitelor",
+    "intrebare": "Alegeti dintre răspunsurile de mai jos acele enunțuri care conțin două afirmații adevǎrate:",
     "variante": {
-      "B": "C. La locul infecției, orice tip de virus este ingerat de un macrofag.Macrofagul exprimǎ pe suprafata sa anticorpi si enzime",
+      "A": "Imunitatea mediata prin anticorpri depinde de activitatea limfocitelor B. imunitatea mediata celular depinde de activitatea limfocitelor T",
+      "B": "Imunitatea mediata prin anticorpri depinde de activitatea limfocitelor T. imunitatea mediata celular depinde de activitatea limfocitelor B",
+      "C": "La locul infecției, orice tip de virus este ingerat de un macrofag.Macrofagul exprimǎ pe suprafata sa anticorpi si enzime",
       "D": "Antigenul microorganismului fagocitat se leagă de moleculele CMH clasa II de pe suprafata macrofagului. Antigenul viral se poate lega și de moleculele CMH clasa I de pe suprafata macrofagului",
       "E": "La locul infectiei, microorganismul este înglobat si digerat de macrofag. Macrofagul prezintă pe suprafața sa antigenele microorganismului fagocitat legate de moleculele CMH clasa II,ceea ce permite recunoasterea lor de cǎtre limfocite"
     }
@@ -1441,8 +1461,9 @@
   },
   {
     "numar": 134,
-    "intrebare": "Care dintre afirmatiile de mai jos sunt adevǎrate?A. Limfocitele T citotoxice, odată activate, sunt capabile de multiplicare clonalǎ",
+    "intrebare": "Care dintre afirmatiile de mai jos sunt adevǎrate?",
     "variante": {
+      "A": "Limfocitele T citotoxice, odată activate, sunt capabile de multiplicare clonalǎ",
       "B": "Proliferarea clonală presupune multiplicarea monocitelor activate de contactul cu un virus sau o bacterie",
       "C": "Limfocitul T citotoxic interactionează cu celulele infectate,recunoscând antigenele CMH si antigenele strǎine",
       "D": "Clonele limfocitului original activat nu rămân în nodulii limfatici sau în alte tesuturi limfoide după ce cauza activării limfocitelor T a fost îndepărtată din organism",
@@ -1478,7 +1499,8 @@
       "A": "Antigenele (fungice, bacteriene) interacționează cu orice tip de limfocit T",
       "B": "Antigenele agentului infectios reactionează doar cu acele limfocite T care au receptori antigenici complementari",
       "C": "În urma interacțiunii specifice, se formează un complex receptor-antigen și se produce activarea limfocitului T",
-      "D": "Înainte ca limfocitul T să fie activat, se prodluce proliferarea clonalǎE. Odată limfocitul T activat, se dezvoltă un proces complex, cu formarea unei clone de limfocite T (multiple copii ale limfocitului T original)"
+      "D": "Înainte ca limfocitul T să fie activat, se prodluce proliferarea clonalǎ",
+      "E": "Odată limfocitul T activat, se dezvoltă un proces complex, cu formarea unei clone de limfocite T (multiple copii ale limfocitului T original)"
     }
   },
   {
@@ -1494,8 +1516,9 @@
   },
   {
     "numar": 139,
-    "intrebare": "Care dintre afirmatiile de mai jos sunt false?A. Activarea limfocitelor B presupune interventia limfocitelor T helper",
+    "intrebare": "Care dintre afirmatiile de mai jos sunt false?",
     "variante": {
+      "A": "Activarea limfocitelor B presupune interventia limfocitelor T helper",
       "B": "Activarea limfocitelor B presupune intervenția limfocitelor T supresoare",
       "C": "Odată angajate, limfocitele B încep să se dividă și dau naștere unor clone celulare programate să producă anticorpi",
       "D": "Activarea limfocitelor B determină transformarea lor în plasmocite",
@@ -1573,8 +1596,10 @@
     "intrebare": "Alegeti dintre răspunsurile de mai jos acele enunțuri care conțn douǎ afirmatii adevǎrate",
     "variante": {
       "A": "Un microorganism pătrunde în organism printr-o mică soluție de continuitate de la nivelul membranei tractului respirator și este fagocitat de o celulă Kupffer. În urma fagocitǎrii unui microorganism pătruns în organism, celula Kupffer se transformă într-un limfocit B activat",
-      "B": "Un microorganism poate pătrunde în corp printr-o mică soluție de continuitate la nivelul pielii.Acest microorganism este fagocitat de o celulă T4 (helper), care se transformǎ într-o celulǎ T4 activatǎC. Un microorganism pătrunde în corp printr-o mică soluție de continuitate la nivelul pielii și inițiază răspunsul imun, fiind fagocitat de un macrofag. Antigenele microorganismului fagocitat se vor lega de moleculele CMH clasa II ale macrofagului",
-      "D": "Un antigen pătruns în corp prin mușcătura unui țânțar este captat de un macrofag.Acest macrofag ajunge pe cale limfatică într-un nodul limfatic, unde întâlneste limfocite T helper (celule T4) cu care interactioneazǎE. Un antigen pătruns în corp, printr-o mușcătură de căpusă este fagocitat de un limfocit T helper.Limfocitul T helper, numit și celulă T8, secretă anticorpi specifici"
+      "B": "Un microorganism poate pătrunde în corp printr-o mică soluție de continuitate la nivelul pielii.Acest microorganism este fagocitat de o celulă T4 (helper), care se transformǎ într-o celulǎ T4 activatǎ",
+      "C": "Un microorganism pătrunde în corp printr-o mică soluție de continuitate la nivelul pielii și inițiază răspunsul imun, fiind fagocitat de un macrofag. Antigenele microorganismului fagocitat se vor lega de moleculele CMH clasa II ale macrofagului",
+      "D": "Un antigen pătruns în corp prin mușcătura unui țânțar este captat de un macrofag.Acest macrofag ajunge pe cale limfatică într-un nodul limfatic, unde întâlneste limfocite T helper (celule T4) cu care interactioneazǎ",
+      "E": "Un antigen pătruns în corp, printr-o mușcătură de căpusă este fagocitat de un limfocit T helper.Limfocitul T helper, numit și celulă T8, secretă anticorpi specifici"
     }
   },
   {
@@ -1582,7 +1607,8 @@
     "intrebare": "Alegeti dintre răspunsurile de mai jos acele enunțuri care contin douǎ afirmatii adevǎrate:",
     "variante": {
       "A": "Limfokinele sunt produse și eliberate de limfocitele T4. Limfokinele sunt molecule lipoproteice non-reactive, care atrag macrofagele la locul infectiei",
-      "B": "Limfocitele T helper activate de interacțiunea cu macrofagele produc proteine înalt reactive, numite anticorpi. Moleculele de anticorpi sunt specifice pentru antigenele care au inițiat răspunsul imun și sunt eliberate cu o rată de peste 2000 molecule pe secundǎC. Limfokinele sunt produse și eliberate de limfocitele T citotoxice, dar și de alte celule ale sistemului imun. Secretate la locul unde este cantonat antigenul, limfokinele atrag noi macrofage la locul infecției și le stimulează să distrugă microorganismele",
+      "B": "Limfocitele T helper activate de interacțiunea cu macrofagele produc proteine înalt reactive, numite anticorpi. Moleculele de anticorpi sunt specifice pentru antigenele care au inițiat răspunsul imun și sunt eliberate cu o rată de peste 2000 molecule pe secundǎ",
+      "C": "Limfokinele sunt produse și eliberate de limfocitele T citotoxice, dar și de alte celule ale sistemului imun. Secretate la locul unde este cantonat antigenul, limfokinele atrag noi macrofage la locul infecției și le stimulează să distrugă microorganismele",
       "D": "Celulele infectate cu protozoare sunt ținte ale limfocitelor T citotoxice.Dupǎ contactul cu celulele infectate, limfocitele T citotoxice produc limfokine (proteine înalt reactive)",
       "E": "Limfokinele sunt produse și eliberate de limfocitele T4 activate. Limfokinele eliberate la locul infecției sunt fosfolipide înalt reactive responsabile de proliferarearea clonalǎ"
     }
@@ -1842,8 +1868,9 @@
   },
   {
     "numar": 172,
-    "intrebare": "Care dintre afirmatiile de mai jos sunt adevǎrate?A. Limfa este un fluid vehiculat prin capilarele sanguine, care o dreneazǎ în sistemul limfatic",
+    "intrebare": "Care dintre afirmatiile de mai jos sunt adevǎrate?",
     "variante": {
+      "A": "Limfa este un fluid vehiculat prin capilarele sanguine, care o dreneazǎ în sistemul limfatic",
       "B": "Limfa transportă glucidele absorbite din intestin spre sistemul port hepatic",
       "C": "Proteinele se gasesc în concentratie crescutǎ în limfǎ",
       "D": "Limfa curge în dublu sens, de la tesuturi la inimǎ si invers",
@@ -1852,8 +1879,9 @@
   },
   {
     "numar": 173,
-    "intrebare": "Care dintre afirmațiile de mai jos este adevǎratǎ?A. Splina este un organ limfoid, compartimentat prin septuri scurte capsulare în lobi și lobuli",
+    "intrebare": "Care dintre afirmațiile de mai jos este adevǎratǎ?",
     "variante": {
+      "A": "Splina este un organ limfoid, compartimentat prin septuri scurte capsulare în lobi și lobuli",
       "B": "Lobulul splenic este rezervorul de limfocite al organismului",
       "C": "Splina este delimitată de o capsulă alcătuitǎ din tesut epitelial",
       "D": "Splina intervine în metabolismul globulelor roșii și al fierului (ion pe care îl recicleazǎ si îl trimite la ficat unde este depozitat sub formă de feritină)",
@@ -1944,7 +1972,8 @@
       "A": "Formarea cheagului de sânge apare doar în cazul unor microleziuni ale vaselor de sânge",
       "B": "Formarea cheagului de sânge apare în cazul unor leziuni mai mari ale vaselor de sânge",
       "C": "Activarea mecanismului de coagulare a sângelui se realizează pe două căi: intrinsecăsi extrinsecǎ",
-      "D": "Calea intrinsecă este initiată de factori care se gasesc în tesuturi, rezultatul fiind tromboplastina plachetarǎE. Ambele cǎi implică tromboplastina (derivată din plachete și, respectiv, tisularǎ) și duc la activarea protrombinei si convertirea ei în trombina"
+      "D": "Calea intrinsecă este initiată de factori care se gasesc în tesuturi, rezultatul fiind tromboplastina plachetarǎ",
+      "E": "Ambele cǎi implică tromboplastina (derivată din plachete și, respectiv, tisularǎ) și duc la activarea protrombinei si convertirea ei în trombina"
     }
   },
   {
@@ -1965,7 +1994,8 @@
       "A": "Este initiată de factori din afara fluxului sanguin",
       "B": "Factorii tisulari de la nivelul vaselor lezate interacționează cu ionii desi cu factorul VII al coagulării, determinând activarea acestuia",
       "C": "Factorii tisulari de pe suprafața celulelor din tot organismul interactionează cu ionii de Sicu factorul VII al coaguării, determinând activarea acestuia",
-      "D": "Odată activat, factorul VII activează alti factori de coagulare pentru a forma tromboplastina tisularǎE. Tromboplastina, împreună cu ionii desi alti factori de coagulare, formeazǎactivatorul trombinei, care va converti trombina în protrombinǎ"
+      "D": "Odată activat, factorul VII activează alti factori de coagulare pentru a forma tromboplastina tisularǎ",
+      "E": "Tromboplastina, împreună cu ionii desi alti factori de coagulare, formeazǎactivatorul trombinei, care va converti trombina în protrombinǎ"
     }
   },
   {
@@ -2036,22 +2066,13 @@
   },
   {
     "numar": 190,
-    "intrebare": "Cititi cu atenție cele 5 răspunsuri de mai jos, care trebuie completate cu unul sau mai multe cuvinte pentru a reprezenta afirmatii adevǎrate. AlegetiA-dacǎînșiruirea cuvintelor lipsă este următoarea: 1. medulară, 2. venelor, 3. fosa cubitală,4. molecule polizaharidice, 5. forma literei Z; B- dacă înșiruirea cuvintelor lipsǎeste următoarea: 1. medulară, 2. venelor, 3. fosa poplitee, 4. molecule de anticorpi,5. forma literei Y; C-dacǎ afirmația 1 se referă la centrul germinal al unui folicul limfatic; D- dacă afirmația de la punctu1 2 se referǎ la ductul toracic;E-dacǎexistă cel puțin o afirmatie care se referǎ la anticorpi:",
-    "variante": {}
-  },
-  {
-    "numar": 1,
-    "intrebare": "Regiunea centrală a nodulului limfatic este denumită2. Valvele de pe traseul vaselor limfatice actionează în mod similar cu valvele de pe traseul............",
-    "variante": {}
-  },
-  {
-    "numar": 3,
-    "intrebare": "În spatele genunchiului se află o regiune care conține noduli limfatici și este denumitǎ",
-    "variante": {}
-  },
-  {
-    "numar": 4,
-    "intrebare": "În timpul maturării lor, limfocitele B, achizitionează pe suprafata membranarǎreceptori constând în 5. Deoarece lanțurile polipeptidice ale moleculei de anticorp IgG sunt divergente,aceasta este descrisǎ în............",
-    "variante": {}
+    "intrebare": "Cititi cu atenție cele 5 răspunsuri de mai jos, care trebuie completate cu unul sau mai multe cuvinte pentru a reprezenta afirmatii adevǎrate. 1.Regiunea centrală a nodulului limfatic este denumită...... 2. Valvele de pe traseul vaselor limfatice actionează în mod similar cu valvele de pe traseul...... 3.În spatele genunchiului se află o regiune care conține noduli limfatici și este denumitǎ..... 4. În timpul maturării lor, limfocitele B, achizitionează pe suprafata membranarǎreceptori constând în ...... 5. Deoarece lanțurile polipeptidice ale moleculei de anticorp IgG sunt divergente,aceasta este descrisǎ în............",
+    "variante": {
+      "A": "dacǎ înșiruirea cuvintelor lipsă este următoarea: 1. medulară, 2. venelor, 3. fosa cubitală,4. molecule polizaharidice, 5. forma literei Z",
+      "B": "dacă înșiruirea cuvintelor lipsǎeste următoarea: 1. medulară, 2. venelor, 3. fosa poplitee, 4. molecule de anticorpi,5. forma literei Y",
+      "C": "dacǎ afirmația 1 se referă la centrul germinal al unui folicul limfatic",
+      "D": "dacă afirmația de la punctu1 2 se referǎ la ductul toracic",
+      "E": "dacǎ există cel puțin o afirmatie care se referǎ la anticorpi"
+    }
   }
 ]

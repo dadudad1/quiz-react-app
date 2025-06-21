@@ -188,28 +188,14 @@
   },
   {
     "numar": 18,
-    "intrebare": "Citiți cele 5 enunțuri de mai jos, cărora le mai lipsește un cuvânt/câteva cuvinte pentru a reprezenta afirmații adevărate. Alegeți A-dacă succesiunea completǎrilor este următoarea: 1. din imediata vecinătate, 2. adenohipofiză, 3. sella turcica,4. oxitocină; 5. inferior; B-dacă succesiunea completărilor este următoarea: 1. care l-au secretat,2. adenohipofiză, 3. foramen magnum, 4. oxitocină; 5. superior; C-dacǎexistă afirmații legate de localizarea unor glande în corp; D-dacă există o afīrmație referitoare la oase ale scheletului capului; E-dacă enunțul de la punctul 1. se referăla secretia de salivǎ",
-    "variante": {}
-  },
-  {
-    "numar": 1,
-    "intrebare": "Mecanismul paracrin al unei glande endocrine semnifică faptul că acțiunea hormonului se exercitǎ asupra celulelor",
-    "variante": {}
-  },
-  {
-    "numar": 2,
-    "intrebare": "Lobul anterior al hipofizei se mai numeste..........",
-    "variante": {}
-  },
-  {
-    "numar": 3,
-    "intrebare": "Glanda hipofiză este situată într-o depresiune a osului sfenoid, numitǎ",
-    "variante": {}
-  },
-  {
-    "numar": 4,
-    "intrebare": "Hormonul care are ca organ tinia uterul gravid la termen, căruia îi induce contractii puternice,este...........5. Glandele suprarenale nu sunt situate la polul..........al rinichiului",
-    "variante": {}
+    "intrebare": "Citiți cele 5 enunțuri de mai jos, cărora le mai lipsește un cuvânt/câteva cuvinte pentru a reprezenta afirmații adevărate. 1.Mecanismul paracrin al unei glande endocrine semnifică faptul că acțiunea hormonului se exercitǎ asupra celulelor......  2.Lobul anterior al hipofizei se mai numeste.......... 3. Glanda hipofiză este situată într-o depresiune a osului sfenoid, numitǎ......  4. Hormonul care are ca organ tinia uterul gravid la termen, căruia îi induce contractii puternice,este...........5. Glandele suprarenale nu sunt situate la polul..........al rinichiului",
+    "variante": {
+      "A": "A-dacă succesiunea completǎrilor este următoarea: 1. din imediata vecinătate, 2. adenohipofiză, 3. sella turcica,4. oxitocină; 5. inferior",
+      "B": "B-dacă succesiunea completărilor este următoarea: 1. care l-au secretat,2. adenohipofiză, 3. foramen magnum, 4. oxitocină; 5. superior",
+      "C": "C-dacǎexistă afirmații legate de localizarea unor glande în corp",
+      "D": "D-dacă există o afīrmație referitoare la oase ale scheletului capului",
+      "E": "E-dacă enunțul de la punctul 1. se referăla secretia de salivǎ"
+    }
   },
   {
     "numar": 19,
@@ -448,14 +434,16 @@
     "variante": {
       "A": "Nu actioneazǎ asupra glandei mamare",
       "B": "Este un hormon corticotrop, produs de adenohipofizǎ",
-      "C": "Este un hormon care are ca organ tintă glanda mamarǎD. Stimulează producerea laptelui necesar nutriției nou-născutului",
+      "C": "Este un hormon care are ca organ tintă glanda mamarǎ",
+      "D": "Stimulează producerea laptelui necesar nutriției nou-născutului",
       "E": "Inhibă producerea laptelui după naștere"
     }
   },
   {
     "numar": 41,
-    "intrebare": "Care dintre următoarele efecte privind actiunea hormonilor tropi secretati de adenohipofizǎ sunt adevǎrate?A. Hormonul somatotrop (STH) stimulează degradarea aminoacizilor în celule",
+    "intrebare": "Care dintre următoarele efecte privind actiunea hormonilor tropi secretati de adenohipofizǎ sunt adevǎrate?",
     "variante": {
+      "A": "Hormonul somatotrop (STH) stimulează degradarea aminoacizilor în celule",
       "B": "Hormonul antidiuretic (ADH) inhibă reabsorbția apei în rinichi",
       "C": "Hormonul FSH stimulează la femei dezvoltarea foliculilor ovarieni în vederea producerii ovulelor",
       "D": "Hormonul adrenocorticotrop (ACTH) are ca tesut țintă zona corticală a glandei suprarenale",
@@ -464,8 +452,9 @@
   },
   {
     "numar": 42,
-    "intrebare": "Care dintre urmǎtoarele afirmații despre hormonii secretați de adenohipofiză sunt adevǎrate?A. Hormonul stimulator tiroidian (TSH) stimulează sinteza și eliberarea tiroxinei (T4)",
+    "intrebare": "Care dintre urmǎtoarele afirmații despre hormonii secretați de adenohipofiză sunt adevǎrate?",
     "variante": {
+      "A": "Hormonul stimulator tiroidian (TSH) stimulează sinteza și eliberarea tiroxinei (T4)",
       "B": "Hormonul adrenocorticotrop (ACTH) inhibă secretia hormonilor glucocorticoizi",
       "C": "La femeie, hormonul foliculostimulant (FSH) inhibă dezvoltarea foliculilor ovarieni și producerea ovulelor",
       "D": "La femeie, hormonul luteinizant (LH) stimulează ovulația și secretia de progesteron a corpului luteal",
@@ -595,8 +584,9 @@
   },
   {
     "numar": 54,
-    "intrebare": "Care dintre afirmatiile de mai jos privind hormonii sunt false?A. Sunt produși de secreție ai glandelor endocrine, eliminați în sânge după secreție",
+    "intrebare": "Care dintre afirmatiile de mai jos privind hormonii sunt false?",
     "variante": {
+      "A": "Sunt produși de secreție ai glandelor endocrine, eliminați în sânge după secreție",
       "B": "Dintre hormonii care actionează ca mesager primar asupra unei celule tintǎ face parte adenilat ciclaza",
       "C": "Cei care, fiind secretati de o celulă endocrină, acționează asupra celulelor din imediata vecinătate prezintă un mecanism de actiune autocrin",
       "D": "Estrogenii,progesteronul și testosteronul prezintă structuri ciclice complexe derivate din colesterol",
@@ -726,8 +716,9 @@
   },
   {
     "numar": 66,
-    "intrebare": "Care dintre urmǎtoarele efecte nu apartin oxitocinei?A. Stimularea contractiilor musculaturii netede a uterului (contractii initiate de cǎtre hormonii ovarieni)",
+    "intrebare": "Care dintre urmǎtoarele efecte nu apartin oxitocinei?",
     "variante": {
+      "A": "Stimularea contractiilor musculaturii netede a uterului (contractii initiate de cǎtre hormonii ovarieni)",
       "B": "Cresterea frecventei contractiilor musculaturii striate a uterului negravid",
       "C": "Stimularea eliminării laptelui produs de glanda mamară (la femeile care alǎptează)",
       "D": "Stimularea reabsorbției apei la nivelul tubilor renali",
@@ -824,8 +815,9 @@
   },
   {
     "numar": 75,
-    "intrebare": "Care dintre urmǎtoarele afirmatii despre hormonii tiroidieni T3 si T4sunt adevǎrate?A. Stimulează activitatea enzimelor asociate cu metabolismul glucozei",
+    "intrebare": "Care dintre urmǎtoarele afirmatii despre hormonii tiroidieni T3 si T4sunt adevǎrate?",
     "variante": {
+      "A": "Stimulează activitatea enzimelor asociate cu metabolismul glucozei",
       "B": "Scad rata metabolismul bazal",
       "C": "Accelereazǎ rata metabolismului celular în tot organismul",
       "D": "Scad consumul de oxigen al celulelor",
@@ -847,7 +839,8 @@
     "intrebare": "Despre hormonii tiroidieni sunt adevărate urmǎtoarele afirmatii",
     "variante": {
       "A": "Sunt reprezentati de TSH (T3)si tiroxinǎ(și conțin iod în molecula lor",
-      "B": "Calcitonina este secretată de către adenohipofiză și depozitată în tiroidǎC. Cresc rata metabolismului bazal",
+      "B": "Calcitonina este secretată de către adenohipofiză și depozitată în tiroidǎ",
+      "C": "Cresc rata metabolismului bazal",
       "D": "Cresc cantitatea de oxigen consumată de către celule",
       "E": "Cresc cantitatea de căldură produsă de către celule"
     }
@@ -956,7 +949,8 @@
     "intrebare": "Alegeți afirmațiile adevărate referitoare la calcitonină",
     "variante": {
       "A": "Este un hormon secretat de glanda tiroida",
-      "B": "Este un hormon secretat de glanda mamarǎC. Are rol în reglarea nivelului sanguin al glucozei",
+      "B": "Este un hormon secretat de glanda mamarǎ",
+      "C": "Are rol în reglarea nivelului sanguin al glucozei",
       "D": "Are rol în reglarea concentratiei sanguine a calciului",
       "E": "Are actiune antagonistă parathormonului (în ceea ce privește concentratia sanguinǎ a calciului)"
     }
@@ -1106,8 +1100,9 @@
   },
   {
     "numar": 101,
-    "intrebare": "Care dintre următoarele afirmații despre parathormon (PTH) sunt adevarate?A. Este secretat de către patru mase mici de tesut glandular (glandele paratiroide)",
+    "intrebare": "Care dintre următoarele afirmații despre parathormon (PTH) sunt adevarate?",
     "variante": {
+      "A": "Este secretat de către patru mase mici de tesut glandular (glandele paratiroide)",
       "B": "Controlează niveluI sanguin al calciului, fiind antagonistul calcitoninei",
       "C": "Acționează asupra osului și rinichiului, dar nu acționează asupra mucoasei intestinale",
       "D": "La nivelul tubilor renali influentează reabsorbtia calciului",
@@ -1142,7 +1137,8 @@
     "variante": {
       "A": "Parathormonul (PTH) este secretat și eliberat de glandele parotide",
       "B": "Parathormonul (PTH) este secretat și eliberat de glandele paratiroide",
-      "C": "Calcitonina este secretată de glanda tiroidǎD. Actionează sinergic în privința concentrației sanguine a calciului (ambii hormoni o cresc)",
+      "C": "Calcitonina este secretată de glanda tiroidǎ",
+      "D": "Actionează sinergic în privința concentrației sanguine a calciului (ambii hormoni o cresc)",
       "E": "Parathormonul este antagonistul calcitoninei (el crește nivelul sanguin al calciului, în timp ce calcitonina îl scade)"
     }
   },
@@ -1197,7 +1193,8 @@
       "A": "Glande paratiroide-parathormon (PTH)- creșterea nivelului sanguin al calciului",
       "B": "Glanda parotida-hormon stimulator paratiroidian-deformǎri osoase",
       "C": "Glanda tiroidǎ-calcitonină-hormon non-steroidian-hormon implicat în reglarea calcemiei",
-      "D": "Glanda parotidă-glandă exocrină - organ anex al sistemului digestiv-secreție de salivǎE. Neurohipofiză-eliberare de TSH (hormon stimulator tiroidian)-sintezǎ de T3,"
+      "D": "Glanda parotidă-glandă exocrină - organ anex al sistemului digestiv-secreție de salivǎ",
+      "E": "Neurohipofiză-eliberare de TSH (hormon stimulator tiroidian)-sintezǎ de T3,"
     }
   },
   {
@@ -1205,7 +1202,8 @@
     "intrebare": "Despre pancreas,se poate afirma cǎ",
     "variante": {
       "A": "Este cea mai mare glandă endocrină, divizată în doi lobi de mărime egalǎ",
-      "B": "Este un organ glandular, de dimensiuni mari, având forma aplatizatǎC. Este localizat în cavitatea abdominală, posterior de stomac si peritoneu",
+      "B": "Este un organ glandular, de dimensiuni mari, având forma aplatizatǎ",
+      "C": "Este localizat în cavitatea abdominală, posterior de stomac si peritoneu",
       "D": "Este localizat în cavitatea abdominală, anterior de peritoneu și de stomac",
       "E": "Este un organ cu funcție dublă, digestivă și endocrinǎ"
     }
@@ -1223,8 +1221,9 @@
   },
   {
     "numar": 112,
-    "intrebare": "Care dintre următoarele afirmații, referitoare la pancreas,sunt adevǎrate?A. Este un organ cavitar, retroperitoneal, cu funcie secretorie",
+    "intrebare": "Care dintre următoarele afirmații, referitoare la pancreas,sunt adevǎrate?",
     "variante": {
+      "A": "Este un organ cavitar, retroperitoneal, cu funcie secretorie",
       "B": "Este un organ glandular abdominal de dimensiuni mari",
       "C": "Este localizat în regiunea pelvină (pelviană) posterior de peritoneu",
       "D": "Prezintă un cap în raport cu duodenul, un corp și o coadă orientată spre splină",
@@ -1233,8 +1232,9 @@
   },
   {
     "numar": 113,
-    "intrebare": "Care dintre următoarele afirmații, referitoare la celulele pancreatice, sunt adevǎrate?A. Cele care produc hormonii sunt mai numeroase decât cele care sintetizează enzimele digestive",
+    "intrebare": "Care dintre următoarele afirmații, referitoare la celulele pancreatice, sunt adevǎrate?",
     "variante": {
+      "A": "Cele care produc hormonii sunt mai numeroase decât cele care sintetizează enzimele digestive",
       "B": "Cele care produc hormonii sunt mai puțin numeroase decât cele care sintetizează enzimele digestive",
       "C": "Cele care produc hormonii sunt situate în interiorul unor ,,insule” de țesut endocrin (insulele Langerhans) aflate într-o ,,mare” de țesut ce produce enzime digestive",
       "D": "Cele care produc enzime digestive se găsesc în interiorul insulelor Langerhans",
@@ -1257,7 +1257,8 @@
     "intrebare": "Alegeți asocierile corecte dintre cele de mai jos",
     "variante": {
       "A": "Pancreas endocrin - celulele alfa din insulele Langerhans - glucagon - hormon hiperglicemiant",
-      "B": "Pancreas endocrin -celulele beta din insulele Langerhans -glucagon-hormon care inhibă gluconeogeneza hepaticǎC. Pancreas endocrin-celulele beta din insulele Langerhans-insulina-hormon care reduce nivelul sanguin al glucozei",
+      "B": "Pancreas endocrin -celulele beta din insulele Langerhans -glucagon-hormon care inhibă gluconeogeneza hepaticǎ",
+      "C": "Pancreas endocrin-celulele beta din insulele Langerhans-insulina-hormon care reduce nivelul sanguin al glucozei",
       "D": "Pancreas endocrin-acini pancreatici-tesut glandular conjunctiv secretor-insulină",
       "E": "Pancreas exocrin- acini pancreatici - amilaza pancreatică (enzimǎ care hidrolizeazǎpolizaharide)"
     }
@@ -1313,7 +1314,8 @@
       "A": "Hormonii secretați sunt insulina (în starea metabolică postprandială) și glucagonul (în lipsa aportului alimentar)",
       "B": "Nu secretă tiroxină și melatonină, dar secretă hormoni cu structură proteică (insulina)",
       "C": "Conțin două tipuri de celule secretoare de hormoni (celulele α, alfa) și de enzime digestive (celulele β,beta)",
-      "D": "Contin două tipuri de celule secretoare de hormoni: α (alfa) pentru glucagon si B (beta)pentru insulinǎE. Sunt ,,insule” de tesut care secretă enzime digestive într-o ,,mare\" de tesut care secretǎhormoni"
+      "D": "Contin două tipuri de celule secretoare de hormoni: α (alfa) pentru glucagon si B (beta)pentru insulinǎ",
+      "E": "Sunt ,,insule” de tesut care secretă enzime digestive într-o ,,mare\" de tesut care secretǎhormoni"
     }
   },
   {
@@ -1345,7 +1347,8 @@
       "A": "Stimuleazǎ trecerea moleculelor de glucoză din celule în sânge, când nivelul intracelular al glucozei este ridicat",
       "B": "Stimulează intrarea moleculelor de glucoză din sânge în celule, când nivelul sanguin al glucozei este ridicat",
       "C": "Activeazǎ degradarea glicogenului (glicogenoliza)",
-      "D": "Stimulează la nivelul ficatului formarea glicogenului prin glicogenogenezǎE. Creste nivelul sanguin al glucozei, fiind un hormon hiperglicemiant"
+      "D": "Stimulează la nivelul ficatului formarea glicogenului prin glicogenogenezǎ",
+      "E": "Creste nivelul sanguin al glucozei, fiind un hormon hiperglicemiant"
     }
   },
   {
@@ -1431,7 +1434,8 @@
     "variante": {
       "A": "Este denumită hipoglicemie",
       "B": "Stimulează secreția de glucagon",
-      "C": "Stimulează atât secreția de insulină, cât și pe cea de glucagon si adrenalinǎD. Stimulează secreția hormonilor hiperglicemianți (glucagon, epinefrină) care sǎ readucǎnivelul glicemiei la valori normale",
+      "C": "Stimulează atât secreția de insulină, cât și pe cea de glucagon si adrenalinǎ",
+      "D": "Stimulează secreția hormonilor hiperglicemianți (glucagon, epinefrină) care sǎ readucǎnivelul glicemiei la valori normale",
       "E": "Este consecința pătrunderii glucozei sanguine în celule, a metabolizării ei pe cale oxidativă în scop energetic și a transformării ei în glicogen la nivel hepatic"
     }
   },
@@ -1585,7 +1589,8 @@
       "A": "Realizează pregătirea organismului pentru efort fizic intens, în care creste consumul energetic",
       "B": "Adrenalina este un hormon hiperglicemiant (accelerează glicogenoliza)",
       "C": "Noradrenalina asigură scăderea nivelului sanguin al glucozei prin glicogenolizǎ",
-      "D": "Adrenalina asigură creșterea nivelului sanguin al glucozei prin glicolizǎE. Realizează pregătirea organismului pentru reacția ,,fight or flight\""
+      "D": "Adrenalina asigură creșterea nivelului sanguin al glucozei prin glicolizǎ",
+      "E": "Realizează pregătirea organismului pentru reacția ,,fight or flight\""
     }
   },
   {
@@ -1703,7 +1708,8 @@
     "intrebare": "Selectati afirmațiile adevǎrate referitoare la melatoninǎ",
     "variante": {
       "A": "Este un hormon steroidian (steroid)",
-      "B": "Este secretatǎ de glanda pinealǎC. Se crede cǎ reglează secretia altor hormoni",
+      "B": "Este secretatǎ de glanda pinealǎ",
+      "C": "Se crede cǎ reglează secretia altor hormoni",
       "D": "Formează împreună cu melanina un sistem enzimatic",
       "E": "Influentează ritmul nictemeral (ciclul zi-noapte)"
     }
@@ -1714,7 +1720,8 @@
     "variante": {
       "A": "Neurohipofizǎ-gigantism hipofizar",
       "B": "Adenohipofizǎ-nanism hipofizar",
-      "C": "Tiroida-gusǎ exoftalmicǎD. Medulara glandei suprarenale-sindromul Cushing",
+      "C": "Tiroida-gusǎ exoftalmicǎ",
+      "D": "Medulara glandei suprarenale-sindromul Cushing",
       "E": "Corticala glandei suprarenale-Boala Addison"
     }
   },
@@ -1910,7 +1917,8 @@
     "intrebare": "Alegeți enunțurile cu câte două afirmații false referitoare la structura chimicǎsi/sau la mecanismul de actiune al hormonilor",
     "variante": {
       "A": "Hormonul insulină este format din 51 de aminoacizi asamblați în două lanțuri proteice.Cortizolul și aldosteronul prezintă o structură ciclică complexă, formată din atomi de carbon si hidrogen",
-      "B": "Hormoni ca insulina și STH-ul au structuri peptidice (lanțuri de aminoacizi mai scurte decât cei proteici - ADH, oxitocină). Acționând ca mesageri primari,hormonii lipidici stimulează enzima denumită cAMP din membrana celulelor țintă, ceea ce va permite intrarea lor în celulǎC. Hormonii secretați de către celulele glandelor endocrine sunt eliberați în sânge, cu scopul de a menține homeostazia mediului intern. Hormonii acționează la nivelul unor celule (țesuturi) țintă, unde vor produce modificările biochimice și fiziologice",
+      "B": "Hormoni ca insulina și STH-ul au structuri peptidice (lanțuri de aminoacizi mai scurte decât cei proteici - ADH, oxitocină). Acționând ca mesageri primari,hormonii lipidici stimulează enzima denumită cAMP din membrana celulelor țintă, ceea ce va permite intrarea lor în celulǎ",
+      "C": "Hormonii secretați de către celulele glandelor endocrine sunt eliberați în sânge, cu scopul de a menține homeostazia mediului intern. Hormonii acționează la nivelul unor celule (țesuturi) țintă, unde vor produce modificările biochimice și fiziologice",
       "D": "În cazul unui hormon peptidic, celula conjunctivă exocrină produce hormonul,care este eliberat în limfă. Hormonul proteic se leagă de un receptor din membrana celulei tintă,intensifică activitatea adenilat ciclazei, care catalizează transformarea ATP în ADP,mesager secundar",
       "E": "În cadrul mecanismului de acțiune autocrin întâlnit la unele glande endocrine, hormonii secretati de o celulă endocrină actionează asupra celulei care l-a secretat. AMP ciclic este un mesager secundar (sintetizat la semnalul mesagerului primar hormonal), care determină un răspuns celular, spre exemplu creșterea sau scăderea ratei metabolismului în celule"
     }

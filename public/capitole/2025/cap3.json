@@ -39,7 +39,8 @@
       "A": "În alcătuirea organelor sale se găsesc în principal corpi celulari și axoni ai interneuronilor",
       "B": "Include encefalul, protejat de oasele craniului și ale coloanei vertebrale",
       "C": "Include encefalul (protejat de craniu) și măduva spinării (protejată de coloana vertebralǎ)",
-      "D": "Include encefalul, în proximitatea căruia sunt localizate organele de simț (ochiul,urechea etc)"
+      "D": "Include encefalul, în proximitatea căruia sunt localizate organele de simț (ochiul,urechea etc)",
+      "E": "Este situat în canalul rahidian"
     }
   },
   {
@@ -401,7 +402,8 @@
       "A": "Corpul celular prezintă prelungiri foarte ramificate (axonii)",
       "B": "Corpul celular reprezintă doar un mic procent din volumul total al celulei",
       "C": "Dendritele sunt specializate în recepționarea impulsurilor nervoase și transmiterea lor dinspre corpul celular spre un alt neuron",
-      "D": "Pe suprafata dendritelor există mii de formațiuni spinoase prin care acestea realizeazǎjoncțiuni cu alți neuroni La nivelul corpului celular al neuronului se găsesc nucleul, mitocondriile,aparatul Golgi,lizozomii,corpii Nissl"
+      "D": "Pe suprafata dendritelor există mii de formațiuni spinoase prin care acestea realizeazǎjoncțiuni cu alți neuroni",
+      "E": "La nivelul corpului celular al neuronului se găsesc nucleul, mitocondriile,aparatul Golgi,lizozomii,corpii Nissl"
     }
   },
   {
@@ -485,7 +487,8 @@
     "numar": 45,
     "intrebare": "Alegeti dintre răspunsurile de mai jos acele enunțuri care contin douǎ afirmatii adevǎrate:",
     "variante": {
-      "A": "Axonul este o prelungire scurtă și ramificată. Axonul este delimitat de axolema și conține carioplasmǎB. Dendrita prezintă pe suprafață mii de formațiuni spinoase. Dendritele realizează joncțiuni cu alți neuroni sau cu receptori senzoriali",
+      "A": "Axonul este o prelungire scurtă și ramificată. Axonul este delimitat de axolema și conține carioplasmǎ",
+      "B": "Dendrita prezintă pe suprafață mii de formațiuni spinoase. Dendritele realizează joncțiuni cu alți neuroni sau cu receptori senzoriali",
       "C": "Butonii terminali sunt dilatări ale terminațiilor axonale. Fibrele nervoase (axoni ai unui singur neuron) se reuinesc,alcǎtuind nervi",
       "D": "Axonul neuronilor este o prelungire unică și lungă. Axonul se terminǎ prin ramificatii microscopice denumite terminatii axonale",
       "E": "Partea externă a tecii de mielină care înconjoară axonii se numeste neurilemǎ. Mielina este rǎspunzătoare de culoarea substanței albe a encefalului și a mǎduvei spinǎrii"
@@ -784,7 +787,8 @@
       "A": "Este de peste 10 ori mai mare în exterior decât în interior",
       "B": "Este dublă în interior fată de exterior",
       "C": "Este de peste 10 ori mai mare în interior decât în exterior",
-      "D": "Este responsabilă de încărcarea pozitivă a suprafeței externe a membranei comparativ cu suprafata ei internǎE. Este responsabilă de încărcarea pozitivă a suprafeței interne a membranei comparativ cu suprafata ei externǎ"
+      "D": "Este responsabilă de încărcarea pozitivă a suprafeței externe a membranei comparativ cu suprafata ei internǎ",
+      "E": "Este responsabilă de încărcarea pozitivă a suprafeței interne a membranei comparativ cu suprafata ei externǎ"
     }
   },
   {
@@ -893,7 +897,8 @@
       "A": "După ce potentialul de repaus a părăsit zona inițială, propagându-se ca undă de depolarizare, membrana începe sǎ se repolarizeze",
       "B": "După ce potențialul de acțiune a părăsit zona inițială, propagându-se ca undă de depolarizare,membrana începe sǎ se repolarizeze",
       "C": "Are loc închiderea canalelor de potasiu și deschiderea canalelor de sodiu cu ieșirea acestuia din celulǎ",
-      "D": "Are loc închiderea canalelor de sodiu și deschiderea canalelor de potasiu cu iesirea acestuia din celulǎE. Odată cu ieșirea potasiului din celulă, sarcina din exterior redevine pozitivă (membrana se repolarizeazǎ)"
+      "D": "Are loc închiderea canalelor de sodiu și deschiderea canalelor de potasiu cu iesirea acestuia din celulǎ",
+      "E": "Odată cu ieșirea potasiului din celulă, sarcina din exterior redevine pozitivă (membrana se repolarizeazǎ)"
     }
   },
   {
@@ -988,7 +993,8 @@
     "numar": 91,
     "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
     "variante": {
-      "A": "Canalele de sodiu voltaj-dependente se deschid în momentul când membrana neuronalǎse repolarizează,permitând accesulcelulǎB. Întregul ciclu de depolarizare-repolarizare al neuronului durează mai puțin desecunde",
+      "A": "Canalele de sodiu voltaj-dependente se deschid în momentul când membrana neuronalǎse repolarizează,permitând accesulcelulǎ",
+      "B": "Întregul ciclu de depolarizare-repolarizare al neuronului durează mai puțin desecunde",
       "C": "Canalele de sodiu și cele de potasiu sunt exemple de ,,gated channels” (canale cu poartă)",
       "D": "Nodul lui Ranvier (nodul Ranvier) reprezintă spatiul dintre două celule Schwann succesive în SNP",
       "E": "Unda de depolarizare se propagă ca o reacție în lanț de-a lungul neuronului și reprezintăpotentialul de repaus"
@@ -1029,8 +1035,9 @@
   },
   {
     "numar": 95,
-    "intrebare": "Care dintre următoarele afirmații despre activitatea sinaptică sunt adevărate?A. Când impulsul nervos ajunge la capătul axonului neuronului presinaptic, el ,,sare” peste spațiul din exteriorul sinapsei, denumit fantă sinaptică",
+    "intrebare": "Care dintre următoarele afirmații despre activitatea sinaptică sunt adevărate?",
     "variante": {
+      "A": "Când impulsul nervos ajunge la capătul axonului neuronului presinaptic, el ,,sare” peste spațiul din exteriorul sinapsei, denumit fantă sinaptică",
       "B": "Când impulsul nervos ajunge la capătul axonului neuronului presinaptic, nu poate sări pestespațiul din interiorul sinapsei, denumit fantă sinaptică",
       "C": "La nivelul sinapsei există un mecanism chimic ce conduce mesajul spre neuronul postsinaptic, muschi sau glandǎ",
       "D": "În butonii terminali ai axonului neuronului presinaptic se află stocați neurotransmitǎtorii în vezicule sinaptice",
@@ -1042,7 +1049,8 @@
     "intrebare": "Odată ce impulsul nervos ajunge la butonii terminali ai axonului, au loc urmǎtoarele evenimente:",
     "variante": {
       "A": "Este stimulată eliberarea în fanta sinaptică a substanțelor chimice denumite neurotransmitǎtori",
-      "B": "Neurotransmițătorii sunt eliberați din veziculele sinaptice în spatiul sau fanta sinapticǎ,prin exocitozǎC. Neurotransmitǎtorii sunt eliberați prin endocitoză din veziculele sinaptice direct în membrana postsinapticǎ",
+      "B": "Neurotransmițătorii sunt eliberați din veziculele sinaptice în spatiul sau fanta sinapticǎ,prin exocitozǎ",
+      "C": "Neurotransmitǎtorii sunt eliberați prin endocitoză din veziculele sinaptice direct în membrana postsinapticǎ",
       "D": "Neurotransmitǎtorii eliberati difuzează rapid prin fanta sinaptică pe care o traversează,pentru a ajunge să se lege de receptorii de pe suprafața membranei postsinaptice",
       "E": "Moleculele de neurotransmițǎtor traversează fanta sinaptică și se leagă de receptorii de pe suprafata membranei presinaptice"
     }
@@ -1107,7 +1115,8 @@
     "intrebare": "Transmiterea sinaptică se realizează cu ajutorul unui mecanism chimic ce implicǎneurotransmițători.Acestia",
     "variante": {
       "A": "Sunt numeroși și au structură chimică diferită (se cunosc peste 50 de tipuri de neurotransmitǎtori)",
-      "B": "Pot inhiba neuronul presinaptic odată eliberați prin endocitoză în fanta sinapticǎC. Pot stimula sau inhiba neuronul postsinaptic, celula musculară sau celula glandulară",
+      "B": "Pot inhiba neuronul presinaptic odată eliberați prin endocitoză în fanta sinapticǎ",
+      "C": "Pot stimula sau inhiba neuronul postsinaptic, celula musculară sau celula glandulară",
       "D": "Pot fi serotonina și melanina, dar nu și glicina și endorfinele",
       "E": "Pot inhiba diverși neuroni din encefal (acidul gamma aminobutiric) sau din măduva spinării (acidul gamma aminobutiric și glicina)"
     }
@@ -1261,6 +1270,7 @@
     "variante": {
       "A": "Fac parte din clasa catecolaminelor acetilcolina și glicina",
       "B": "Nu fac parte din clasa catecolaminelor dopamina si adrenalina",
+      "C": "Epinefrina este catecolamină alături de noradrenalină si dopamină",
       "D": "Norepinefrina, denumită și noradrenalină, este secretatǎ de fibrele vegetative postganglionare simpatice",
       "E": "Serotonina este o enzimă cu structură aminică și descompune acetilcolina în interiorul sinapsei"
     }
@@ -1443,8 +1453,9 @@
   },
   {
     "numar": 133,
-    "intrebare": "Care sunt membranele ce compun meningele?A. Dura mater-tesut epitelial fibros,rezistent, cu numeroase vase de sânge",
+    "intrebare": "Care sunt membranele ce compun meningele?",
     "variante": {
+      "A": "Dura mater-tesut epitelial fibros,rezistent, cu numeroase vase de sânge",
       "B": "Dura mater- la exterior, arahnoida-la mijloc și pia mater-stratul intern",
       "C": "Arahnoida-un strat subțire cu aspect de rețea (situată între dura mater și pia mater)",
       "D": "Pia mater- separată de arahnoidă prin spațiul supraarahnoidian care conține un lichid asemǎnǎtor cu limfa",
@@ -1632,8 +1643,10 @@
     "intrebare": "Alegeți asocierile greșite referitoare la nervii cranieni:",
     "variante": {
       "A": "Nervi motori-perechile III,IV,V",
+      "B": "Nervi senzoriali-perechile I, II,IV",
       "C": "Nervi senzoriali-perechile I, II,III",
-      "D": "Nervi senzoriali-perechile I,II,VII"
+      "D": "Nervi senzoriali-perechile I,II,VII",
+      "E": "Nervi senzoriali-perechile I,II,VI"
     }
   },
   {
@@ -1774,7 +1787,8 @@
       "A": "Sunt situate în mai mulți lobi (spre exemplu, lobul temporal conține zone pentru auz,iar cel occipital,pentru vǎz)",
       "B": "Ariile senzoriale sunt localizate strict în lobul parietal",
       "C": "Aria responsabilă pentru simțul mirosului este situată superficial în emisferele cerebrale",
-      "D": "Posterior de santul central, în lobul parietal, se găsesc ariile senzoriale care primesc informatii de la picior, brat, mânǎE. Posterior de sanțul central, sosesc informațiile senzoriale de la cavitatea orala, buze si limbǎ"
+      "D": "Posterior de santul central, în lobul parietal, se găsesc ariile senzoriale care primesc informatii de la picior, brat, mânǎ",
+      "E": "Posterior de sanțul central, sosesc informațiile senzoriale de la cavitatea orala, buze si limbǎ"
     }
   },
   {
@@ -1988,43 +2002,45 @@
   },
   {
     "numar": 183,
-    "intrebare": "Studiați enunțurile de mai jos, notate cu cifre de la 1 la 5. Selectati rǎspunsurile corecte astfel:A-dacă enunțurile 3 și 4 sunt adevărate și se referă la nervii spinali;B-dacă enunturile 1 și 2 sunt false; C - dacă enunțurile 1 și 4 sunt false;D-dacǎ1 și 2 sunt adevărate și E - dacă 2 și 5 sunt adevărate și descriu nervi cranieni.1. Nervul optic, nerv motor, transmite informații și comenzi legate de văz și devine vizibil la nivelul mezencefalului\n2. Unul dintre nervii cranieni responsabili de gust și salivație este nervul facial (VII)3. Nervii spinali, în număr de 31 de perechi sunt grupați în cervicali (8 perechi), toracici (12perechi), lombari (5 perechi), sacrali (5 perechi) și coccigieni (o pereche)\n4. Emergența nervilor spinali din măduva spinării are loc prin intermediul rădăcinilor ventrale, provenite din coarnele posterioare ale substantei cenusii\n5. Cele 12 perechi de nervi cranieni aparțin diferitelor zone ale encefalului si trec pe dedesubtul emisferelor cerebrale",
-    "variante": {}
+    "intrebare": "Studiați enunțurile de mai jos, notate cu cifre de la 1 la 5. Selectati rǎspunsurile corecte astfel:  1. Nervul optic, nerv motor, transmite informații și comenzi legate de văz și devine vizibil la nivelul mezencefalului 2. Unul dintre nervii cranieni responsabili de gust și salivație este nervul facial (VII)3. Nervii spinali, în număr de 31 de perechi sunt grupați în cervicali (8 perechi), toracici (12perechi), lombari (5 perechi), sacrali (5 perechi) și coccigieni (o pereche) 4. Emergența nervilor spinali din măduva spinării are loc prin intermediul rădăcinilor ventrale, provenite din coarnele posterioare ale substantei cenusii 5. Cele 12 perechi de nervi cranieni aparțin diferitelor zone ale encefalului si trec pe dedesubtul emisferelor cerebrale ",
+    "variante": {
+      "A": "dacă enunțurile 3 și 4 sunt adevărate și se referă la nervii spinali",
+      "B": "dacă enunturile 1 și 2 sunt false", 
+      "C": "dacă enunțurile 1 și 4 sunt false",
+      "D": "dacǎ1 și 2 sunt adevărate",
+      "E": "dacă 2 și 5 sunt adevărate și descriu nervi cranieni"
+    }
   },
   {
     "numar": 184,
-    "intrebare": "În emisferele cerebrale se găsesc o serie de cavități denumite ventriculi.Selectati rǎspunsurile corecte astfel: A - dacă enunțurile 1 și 3 se referǎ la continutul ventriculilor; B dacă 1 și3 sunt adevărate; C dacă 2 este o afirmație falsă; D- dacǎ 4 si 5 descriu caracteristici anatomice ale ventriculilor; E-dacă 5 este o afirmatie falsǎ.",
-    "variante": {}
-  },
-  {
-    "numar": 1,
-    "intrebare": "Lichidul cefalorahidian servește nevoilor nutriționale ale celulelor nervoase",
-    "variante": {}
-  },
-  {
-    "numar": 2,
-    "intrebare": "Ventriculul al patrulea este localizat între trunchiul cerebral si cerebel",
-    "variante": {}
-  },
-  {
-    "numar": 3,
-    "intrebare": "Fluidul prezent în ventriculi este clar, apos, asemănător cu limfa",
-    "variante": {}
-  },
-  {
-    "numar": 4,
-    "intrebare": "Ventriculii laterali comunică între ei printr-un orificiu denumit foramen interventricular",
-    "variante": {}
-  },
-  {
-    "numar": 5,
-    "intrebare": "Ventriculul al treilea este situat la nivelul diencefalului și comunică pin apeductul cerebral cu ventriculul al patrulea",
-    "variante": {}
+    "intrebare": "În emisferele cerebrale se găsesc o serie de cavități denumite ventriculi. 1. Lichidul cefalorahidian servește nevoilor nutriționale ale celulelor nervoase
+2. Ventriculul al patrulea este localizat între trunchiul cerebral si cerebel
+3. Fluidul prezent în ventriculi este clar, apos, asemănător cu limfa
+4. Ventriculii laterali comunică între ei printr-un orificiu denumit foramen interventricular
+5. Ventriculul al treilea este situat la nivelul diencefalului și comunică pin apeductul cerebral cu ventriculul al patrulea",
+    "variante": {
+      "A": "dacă enunțurile 1 și 3 se referǎ la continutul ventriculilor", 
+      "B": "dacă 1 și3 sunt adevărate", 
+      "C": "dacă 2 este o afirmație falsă", 
+      "D": "dacǎ 4 si 5 descriu caracteristici anatomice ale ventriculilor", 
+      "E": "dacă 5 este o afirmatie falsǎ"
+    }
   },
   {
     "numar": 185,
-    "intrebare": "Studiați enunțurile de mai jos, notate cu cifre de la 1 la 5. Selectati rǎspunsurile corecte astfel: A-dacă nu toate enunțurile sunt adevărate; B- dacă 1 și 3 descriu aspecte anatomice și/sau funcționale ale emisferelor cerebrale; C-dacă toate enunțurile descriu funcții ale componentelor encefalului; D-dacă 2 și 4 descriu plexuri nervoase; E-dacă5 contine informații despre vase de sânge de la nivelul encefalului.\n1. Aria responsabila pentru simțul mirosului se află profund în interiorul emisferelor cerebrale\n2. Retelele complexe rezultate din combinarea nervilor spinali, înainte ca aceștia să ajungǎla destinatie, se numesc plexuri\n3. La nivelul lobului frontal este descrisă o regiune denumită aria lui Broca, legată de vorbire si de planificarea vorbirii\n4. Plexul brahial este unul dintre cele patru plexuri nervoase majore rezultate din combinarea fibrelor provenite de la mai mulți nervi spinali\n5. Poligonul lui Willis este alcătuit din arterele mari de la baza encefalului",
-    "variante": {}
+    "intrebare": "Studiați enunțurile de mai jos, notate cu cifre de la 1 la 5.
+  1. Aria responsabila pentru simțul mirosului se află profund în interiorul emisferelor cerebrale
+2. Retelele complexe rezultate din combinarea nervilor spinali, înainte ca aceștia să ajungǎla destinatie, se numesc plexuri
+3. La nivelul lobului frontal este descrisă o regiune denumită aria lui Broca, legată de vorbire si de planificarea vorbirii
+4. Plexul brahial este unul dintre cele patru plexuri nervoase majore rezultate din combinarea fibrelor provenite de la mai mulți nervi spinali
+5. Poligonul lui Willis este alcătuit din arterele mari de la baza encefalului",
+    "variante": {
+      "A": "dacă nu toate enunțurile sunt adevărate",
+      "B": "dacă 1 și 3 descriu aspecte anatomice și/sau funcționale ale emisferelor cerebrale",
+      "C": "dacă toate enunțurile descriu funcții ale componentelor encefalului",
+      "D": "dacă 2 și 4 descriu plexuri nervoase",
+      "E": "dacă5 contine informații despre vase de sânge de la nivelul encefalului"
+    }
   },
   {
     "numar": 186,
@@ -2077,7 +2093,8 @@
       "A": "Neurotransmitǎtori cu rol inhibitor-dopamina-adrenalina-noradrenalina",
       "B": "Noradrenalină - norepinefrină - dopamină - epinefrină - neurotransmitǎtori cu rol excitator",
       "C": "Aria lui Broca-arie cerebelară-situare în partea anterioarǎ a emisferei cerebelare-rol în activitatea motorie legatǎ de vorbire",
-      "D": "Medulla oblongata - centri de control pentru vasoconstricție, reglarea respiratiei,frecventa cardiacǎE. Colinesteraza-ARN polimeraza-catalaza-proteine cu rol enzimatic"
+      "D": "Medulla oblongata - centri de control pentru vasoconstricție, reglarea respiratiei,frecventa cardiacǎ",
+      "E": "Colinesteraza-ARN polimeraza-catalaza-proteine cu rol enzimatic"
     }
   },
   {
@@ -2098,13 +2115,15 @@
       "A": "Encefalul consumă aproximativ 25% din cantitatea totală de oxigen a sistemului nervos.Tesutul din constitutia encefalului este extrem de sensibil la diminuarea nivelului de oxigen și nu este sensibil la diminuarea celui de glucozǎ",
       "B": "Sanful central separă lobul parietal (situat posterior) de lobul frontal (situat anterior).Lobul occipital drept este situat posterior de lobul parietal drept",
       "C": "Lobul insulei, denumit și insula lui Langerhans, este situat profund în fiecare emisferǎ. El reprezintă aria de proiecție pentru sensibilitatea vizualǎ",
-      "D": "Fibrele nervoase care unesc cele două emisfere cerebrale se organizeazǎ într-o structurǎanatomicǎ numitǎ corp calos.Emisferele cerebrale reprezintă cea mai mare parte a encefalului"
+      "D": "Fibrele nervoase care unesc cele două emisfere cerebrale se organizeazǎ într-o structurǎanatomicǎ numitǎ corp calos.Emisferele cerebrale reprezintă cea mai mare parte a encefalului",
+      "E": "In encefal se gasesc o serie de cavitati interconectate numite ventriculi. Ventriculii cerebrali contin lichid cefalorahidian, cu rol nutritiv pentru tesutul nervos"
     }
   },
   {
     "numar": 193,
-    "intrebare": "Identificați asocierile corecte referitoare la componentele encefalului:\nCerebelul-localizare anterioară fată de trunchiul cerebral-coordonarea si gestionarea emoțiilor împreună cu sistemul limbic",
+    "intrebare": "Identificați asocierile corecte referitoare la componentele encefalului:",
     "variante": {
+      "A": "Cerebelul-localizare anterioară fată de trunchiul cerebral-coordonarea si gestionarea emoțiilor împreună cu sistemul limbic",
       "B": "Mezencefalul-localizare superioară și posterioară față de cerebel-releu între mǎduva spinării și talamus pentru semnalele senzitive",
       "C": "Bulbul rahidian - localizare în cutia craniană, continuând măduva spinării - trimite semnale către cerebel și integrează semnalele primite de la măduva spinǎrii",
       "D": "Talamusul - componentă a diencefalului - integrează și direcționează cǎtre cortexul cerebelar toate semnalele senzoriale (cu exceptia gustului)",
@@ -2181,7 +2200,8 @@
     "numar": 200,
     "intrebare": "Care dintre afirmațiile următoare referitoare la nervii spinali sunt adevǎrate?",
     "variante": {
-      "A": "Dinspre cranial spre caudal, prezintă următoarea succesiune: 8 perechi cervicale, 12perechi toracice, 5 perechi sacrale, 5 perechi lombare și o pereche coccigianǎB. Își au originea aparentă la nivelul măduvei spinării prin intermediul rădăcinilor dorsale și ventrale",
+      "A": "Dinspre cranial spre caudal, prezintă următoarea succesiune: 8 perechi cervicale, 12perechi toracice, 5 perechi sacrale, 5 perechi lombare și o pereche coccigianǎ",
+      "B": "Își au originea aparentă la nivelul măduvei spinării prin intermediul rădăcinilor dorsale și ventrale",
       "C": "Dinspre inferior spre superior prezintă următoarea succesiune: o pereche coccigianǎ, 5perechi sacrale, 5 perechi lombare, 12 perechi toracice si 8 perechi cervicale",
       "D": "Fac parte din sistemul nervos periferic și sunt în număr de 12 de perechi, asigurând comunicarea dintre măduva spinării și diverse regiuni ale emisferelor cerebrale",
       "E": "Fac parte din sistemul nervos periferic și sunt în număr de 31 de perechi,asigurând comunicarea dintre măduva spinării și diverse pǎrti ale corpului"

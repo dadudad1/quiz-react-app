@@ -50,7 +50,8 @@
       "A": "Epiteliul este ancorat de tesutul conjunctiv prin intermediul unei membrane bazale,alcătuită din materiale noncelulare",
       "B": "Epiteliile sunt adaptate exclusiv pentru absorbția de nutrimente",
       "C": "Tesuturile asociate cu mișcările corpului (țesuturile musculare) sunt alcătuite din celule care se pot contracta (fibre musculare)",
-      "D": "Tesutul conjunctiv propriu-zis conține diverse tipuri de fibre dispuse într-o substantǎfundamentalǎ lichidǎNeuronii și nevrogliile (celulele nevroglice) sunt cele două tipuri principale de celule ale tesutului nervos"
+      "D": "Tesutul conjunctiv propriu-zis conține diverse tipuri de fibre dispuse într-o substantǎfundamentalǎ lichidǎ",
+      "E": "Neuronii și nevrogliile (celulele nevroglice) sunt cele două tipuri principale de celule ale tesutului nervos"
     }
   },
   {
@@ -264,8 +265,9 @@
   },
   {
     "numar": 25,
-    "intrebare": "Selectați asocierile greșite cu privire la tipurile de țesut epitelial simplu si localizarea Jor:Epiteliu simplu pavimentos - cǎptuseste vasele limfatice (unde are denumirea de mezoteliu)",
+    "intrebare": "Selectați asocierile greșite cu privire la tipurile de țesut epitelial simplu si localizarea Jor:",
     "variante": {
+      "A": "Epiteliu simplu pavimentos - cǎptuseste vasele limfatice (unde are denumirea de mezoteliu)",
       "B": "Epiteliu simplu cubic-peretele vezicii urinare-peretele vezicii biliare",
       "C": "Epiteliu simplu pavimentos - căptușeste vasele de sânge (unde are denumirea de endoteliu)",
       "D": "Epiteliu simplu cubic - funcție principală secreția - prezent în foliculii ovarieni",
@@ -461,8 +463,9 @@
   },
   {
     "numar": 43,
-    "intrebare": "Selectați afirmațiile adevărate referitoare la glande:A: Celulele epiteliale cu capacitate secretorie din alcătuirea glandelor endocrine sintetizeazǎsubstanțe chimice cu rol reglator și cu structură chimicǎ diversǎ",
+    "intrebare": "Selectați afirmațiile adevărate referitoare la glande:",
     "variante": {
+      "A": "Celulele epiteliale cu capacitate secretorie din alcătuirea glandelor endocrine sintetizeazǎsubstanțe chimice cu rol reglator și cu structură chimicǎ diversǎ",
       "B": "Celulele epiteliale cu capacitate secretorie din alcătuirea glandelor endocrine sintetizeazǎsubstante chimice numite hormoni",
       "C": "Hormonii produși de celulele glandelor endocrine ajung în sânge prin canale (ducte) de excreție",
       "D": "Glandele se pot clasifica în endocrine (cu secreție externă) și exocrine (cu secreție internă)",
@@ -672,8 +675,10 @@
     "intrebare": "Selectati asocierile corecte între tipurile de tesut conjunctiv propriu-zis si localizarea lor",
     "variante": {
       "A": "Tesut conjunctiv elastic-corzile vocale,peretii arterelor mari",
-      "B": "Cartilaj elastic-urechea externǎ,epiglotǎC. Tesut conjunctiv reticulat-splină, suprafața inimii",
-      "D": "Tesut conjunctiv dens ordonat-tendoane,ligamente E Cartilaj fibros-simfiza pubiană, discurile intervertebrale"
+      "B": "Cartilaj elastic-urechea externǎ,epiglotǎ",
+      "C": "Tesut conjunctiv reticulat-splină, suprafața inimii",
+      "D": "Tesut conjunctiv dens ordonat-tendoane,ligamente",
+      "E": "Cartilaj fibros-simfiza pubiană, discurile intervertebrale"
     }
   },
   {
@@ -766,11 +771,13 @@
   },
   {
     "numar": 71,
-    "intrebare": "Alegeti afirmațiile false despre cartilajul fibros:Este cel mai rezistent tip de cartilaj, continând fibre dense de colagen si o cantitate limitatǎde substantǎ fundamentalǎ",
+    "intrebare": "Alegeti afirmațiile false despre cartilajul fibros:",
     "variante": {
+      "A": "Este cel mai rezistent tip de cartilaj, continând fibre dense de colagen si o cantitate limitatǎde substantǎ fundamentalǎ",
       "B": "Prezinta condrocite care înlocuiesc fibrele de colagen",
       "C": "Se găsește în zona de atașare a ligamentelor de oase, precum și la niveluI simfizei pubiene si al discurilor intervertebrale",
-      "D": "Contine fibre elastice,flexibile,intretǎiate si ramificate (ceea ce il deosebeste de cartilajul hialin)"
+      "D": "Contine fibre elastice,flexibile,intretǎiate si ramificate (ceea ce il deosebeste de cartilajul hialin)",
+      "E": "Reprezinta o condricite care inlocuiesc fibrele de colagen"
     }
   },
   {
@@ -977,7 +984,8 @@
     "variante": {
       "A": "Este prezent în peretele inimii, având celule care prezintǎ striatii",
       "B": "Fiind tesut muscular striat, seaflǎ sub control voluntar",
-      "C": "Celulele (fibrele) musculare care îl compun sunt ramificate si pot comunica prin intermediul unor joncțiuni specializate numite joncțiuni de tip,,gap\"D. Celulele (fibrele) musculare componente pot comunica prin intermediul unor joncțiuni specializate numite jonctiuni strânse",
+      "C": "Celulele (fibrele) musculare care îl compun sunt ramificate si pot comunica prin intermediul unor joncțiuni specializate numite joncțiuni de tip,,gap",
+      "D": "Celulele (fibrele) musculare componente pot comunica prin intermediul unor joncțiuni specializate numite jonctiuni strânse",
       "E": "Prezintă ca elemente specifice discurile intercalare care unescîntre ele celulele"
     }
   },
@@ -1082,8 +1090,14 @@
   },
   {
     "numar": 100,
-    "intrebare": "Citiți enumerările de mai jos notate cu cifre de la 1 la 5. Selectati la rǎspunsuri litera A dacă 1 și 3 conțin exemple de țesuturi epiteliale, litera B dacă 2 si 4 contin doar exemple de tesuturi epiteliale, litera C dacă 1 și 3 conțin exemple de tesuturi cu un singur strat de celule,litera D dacă 5 conține exemple de glande exocrine,litera E dacă 4 contine doar exemple de tesuturi conjunctive:\n1. Endoteliul; fesutul pseudostratificat cilindric prezent în porțiuni din sistemul reproducător masculin; epiteliul de la suprafata ovarului\n2. Tesut osos compact; tesutul adipos din spatele globilor oculari; tesutul conjunctiv dens din tendoane\n3. Epiteliul care căptușește intestinul subțire; epiteliul trompelor uterine; endoteliul vaselor de sânge si limfatice\n4. Tesutul adipos situat sub piele; cartilajul fibros situat între componentele osoase ale coloanei vertebrale;tendonul care atasează muschiul de os\n5. Hipofiza; timusul; tiroida; glandele suprarenale",
-    "variante": {}
+    "intrebare": "Citiți enumerările de mai jos notate cu cifre de la 1 la 5. 1. Endoteliul; fesutul pseudostratificat cilindric prezent în porțiuni din sistemul reproducător masculin; epiteliul de la suprafata ovarului\n2. Tesut osos compact; tesutul adipos din spatele globilor oculari; tesutul conjunctiv dens din tendoane\n3. Epiteliul care căptușește intestinul subțire; epiteliul trompelor uterine; endoteliul vaselor de sânge si limfatice\n4. Tesutul adipos situat sub piele; cartilajul fibros situat între componentele osoase ale coloanei vertebrale;tendonul care atasează muschiul de os\n5. Hipofiza; timusul; tiroida; glandele suprarenale",
+    "variante": {
+      "A": "Dacă 1 și 3 conțin exemple de țesuturi epiteliale",
+      "B": "Dacă 2 si 4 contin doar exemple de tesuturi epiteliale",
+      "C": "Dacă 1 și 3 conțin exemple de tesuturi cu un singur strat de celule",
+      "D": "Dacă 5 conține exemple de glande exocrine",
+      "E": "Dacă 4 contine doar exemple de tesuturi conjunctive"
+    }
   },
   {
     "numar": 101,
@@ -1120,33 +1134,14 @@
   },
   {
     "numar": 104,
-    "intrebare": "Cititi cele 5 afirmatii numerotate cu cifre de la 1 la 5. Alegeti literele corespunzătoare astfel: A dacă sunt adevărate afirmațiile 1, 2 și 3, B dacǎ sunt adevarate afirmațiile 1, 3 și 5, C dacă sunt false afirmațiile 2 și 4, D dacă 1 este adevărată și 2 falsă, E dacă 1 și 5 sunt adevǎrate și 3 este falsǎ:",
-    "variante": {}
-  },
-  {
-    "numar": 1,
-    "intrebare": "Mucusul este un material vâscos, secretat de celulele caliciforme din epiteliul simplu cilindric al tractului digestiv",
-    "variante": {}
-  },
-  {
-    "numar": 2,
-    "intrebare": "Mucoasele acoperă suprafata exterioară a viscerelor și sunt reprezentate de către foițele viscerale ale pleurei, pericardului și peritoneului",
-    "variante": {}
-  },
-  {
-    "numar": 3,
-    "intrebare": "La o glandă merocrină, secreția difuzează în afara celulelor, acestea rămânând intacte în timpul secretiei",
-    "variante": {}
-  },
-  {
-    "numar": 4,
-    "intrebare": "Epiteliul stratificat pavimentos se regăsește în endoteliul vaselor de sânge si al vaselor limfatice",
-    "variante": {}
-  },
-  {
-    "numar": 5,
-    "intrebare": "Epiteliul specializat pentru funcția secretorie se mai numește și epiteliu glandular",
-    "variante": {}
+    "intrebare": "Cititi cele 5 afirmatii numerotate cu cifre de la 1 la 5. 1.Mucusul este un material vâscos, secretat de celulele caliciforme din epiteliul simplu cilindric al tractului digestiv 2. Mucoasele acoperă suprafata exterioară a viscerelor și sunt reprezentate de către foițele viscerale ale pleurei, pericardului și peritoneului 3.La o glandă merocrină, secreția difuzează în afara celulelor, acestea rămânând intacte în timpul secretiei 4.Epiteliul stratificat pavimentos se regăsește în endoteliul vaselor de sânge si al vaselor limfatice 5.Epiteliul specializat pentru funcția secretorie se mai numește și epiteliu glandular",
+    "variante": {
+      "A": "Dacă sunt adevărate afirmațiile 1, 2 și 3",
+      "B": "Dacǎ sunt adevarate afirmațiile 1, 3 și 5",
+      "C": "Dacă sunt false afirmațiile 2 și 4",
+      "D": "Dacă 1 este adevărată și 2 falsă",
+      "E": "Dacă 1 și 5 sunt adevǎrate și 3 este falsǎ"
+    }
   },
   {
     "numar": 105,
@@ -1845,7 +1840,8 @@
     "intrebare": "Alegeți rǎspunsurile care conțin în enunț două afirmații adevărate:",
     "variante": {
       "A": "Unghiile sunt structuri cu rol de protectie. Sunt localizate la extremitatea distalǎ a degetelor de la mâini și de la picioare",
-      "B": "Unghiile sunt formate prin multiplicarea celulelor dintr-un pliu al dermului. Aceste celule produc un amestec lipidic, denumit cheratinǎC. La capătul distal unghia este acoperită de cuticulă. În apropierea cuticulei se gǎseste lunula",
+      "B": "Unghiile sunt formate prin multiplicarea celulelor dintr-un pliu al dermului. Aceste celule produc un amestec lipidic, denumit cheratinǎ",
+      "C": "La capătul distal unghia este acoperită de cuticulă. În apropierea cuticulei se gǎseste lunula",
       "D": "La capătul proximal unghia este acoperită parțial de cuticulă. În apropierea cuticulei se gǎseste o zonă semicirculară de culoare albicioasă",
       "E": "Patul unghial contine vase de sânge. Cheratina produsă de celulele pliului epidermal se dispune sub forma unei plăci așezată pe patul unghial vascularizat"
     }
@@ -1885,8 +1881,9 @@
   },
   {
     "numar": 172,
-    "intrebare": "Care dintre urmǎtoarele sunt glande apocrine cutanate?A. Glandele sudoripare de la nivelul zonelor axilare și inghinale",
+    "intrebare": "Care dintre urmǎtoarele sunt glande apocrine cutanate?",
     "variante": {
+      "A": "Glandele sudoripare de la nivelul zonelor axilare și inghinale",
       "B": "Glandele sudoripare de pe suprafata toracelui",
       "C": "Glandele sebacee care secretǎ amestecul lipidic denumit sebum",
       "D": "Glandele ceruminoase care produc o substanță vâscoasă (ceară sau cerumen)",

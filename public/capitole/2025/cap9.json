@@ -465,7 +465,8 @@
     "intrebare": "Despre zgomotele cardiace este adevarat cǎ",
     "variante": {
       "A": "Deschiderea valvelor atrioventriculare reprezintă primul zgomot cardiac, descris prin onomatopeea,,lub”",
-      "B": "Închiderea valvelor atrioventriculare reprezintă primul zgomot cardiac, descris prin onomatopeea,,lub”C. Al doilea zgomot cardiac apare când se închid valvele semilunare dintre atrii si ventricule",
+      "B": "Închiderea valvelor atrioventriculare reprezintă primul zgomot cardiac, descris prin onomatopeea,,lub”",
+      "C": "Al doilea zgomot cardiac apare când se închid valvele semilunare dintre atrii si ventricule",
       "D": "Al doilea zgomot cardiac se descrie prin onomatopeea,,dub\"",
       "E": "Pot fi ascultate cu ajutorul stetoscopului"
     }
@@ -549,8 +550,9 @@
   },
   {
     "numar": 51,
-    "intrebare": "Care dintre următoarele afirmații despre artere sunt adevarate?A. Sunt vase care transportă sângele la presiune ridicată de la inimǎ la arteriole",
+    "intrebare": "Care dintre următoarele afirmații despre artere sunt adevarate?",
     "variante": {
+      "A": "Sunt vase care transportă sângele la presiune ridicată de la inimǎ la arteriole",
       "B": "Au un perete gros și rezistent, format din trei straturi",
       "C": "Au o tunica externă alcătuită dintr-un epiteliu simplu pavimentos, denumit endoteliu",
       "D": "Au proprietatea de a se expansiona datorită țesutului conjunctiv fibros",
@@ -574,7 +576,8 @@
     "variante": {
       "A": "Micșorarea se numește ,,vasoconstricție” și este indusă de impulsuri nervoase somatice",
       "B": "Mlicșorarea poate fi indusă de impulsuri nervoase simpatice",
-      "C": "Mărirea se numește ,,vasodilatatie”D. Mărirea apare în absența impulsurilor nervoase simpatice",
+      "C": "Mărirea se numește ,,vasodilatatie”",
+      "D": "Mărirea apare în absența impulsurilor nervoase simpatice",
       "E": "Au rolul de a regla fluxul sanguin în amonte"
     }
   },
@@ -648,7 +651,8 @@
     "numar": 60,
     "intrebare": "Venele au urmǎtoarele functii, exceptând:",
     "variante": {
-      "A": "Transportul sângelui la presiune mică de la venule la inimǎB. Realizarea schimbului de nutrienți și gaze respiratorii între celule",
+      "A": "Transportul sângelui la presiune mică de la venule la inimǎ",
+      "B": "Realizarea schimbului de nutrienți și gaze respiratorii între celule",
       "C": "Controlul circulației sângelui în capilare prin vasoconstrictie sau vasodilatatie",
       "D": "Detinerea împreună cu venulele a aproximativ 60% din volumul sanguin (servind drept rezervoare de sânge ale organismului)",
       "E": "Conectarea arteriolelor cu venulele în cadrul circulației sistemice"
@@ -802,7 +806,8 @@
     "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos",
     "variante": {
       "A": "O determinare obișnuită a presiunii sanguine utilizând sfigmomanometrul indicǎ douǎvalori, dintre care prima este presiunea sistolică, iar a doua este presiunea diastolică",
-      "B": "Scăderea numǎrului impulsurilor simpatice din centrul vasomotor determină vasodilatatie și o presiune arterialǎ mai micǎC. Hormonul antidiuretic eliberat de hipofiza posterioara determinǎ vasodilatatie cu eliminare crescută de apă pe cale renalǎ",
+      "B": "Scăderea numǎrului impulsurilor simpatice din centrul vasomotor determină vasodilatatie și o presiune arterialǎ mai micǎ",
+      "C": "Hormonul antidiuretic eliberat de hipofiza posterioara determinǎ vasodilatatie cu eliminare crescută de apă pe cale renalǎ",
       "D": "Unii neuroni, denumiți chemoreceptori, sunt sensibii la variațiile de presiune ale sângelui",
       "E": "O formă de reglare a fluxului cardiac este cea realizată prin intermediul baroreceptorilor (grupuri de neuroni situați în arterele mari ale gâtului și toracelui)"
     }
@@ -858,6 +863,7 @@
       "A": "Reprezintă principala arteră din circulația sistemică",
       "B": "Dupǎ ce se arcuiește, urcă de-a lungul coloanei vertebrale spre torace",
       "C": "După ce se arcuiește, coboară de-a lungul coloanei vertebrale și dă naștere altor artere ale circulatiei sistemice",
+      "D": "Din ea se desprinde artera subclavicularǎ stângǎ",
       "E": "Din ea se desprind arterele coronare, care deservesc muschiul cardiac și arterele principale ale gâtului si capului"
     }
   },
@@ -943,8 +949,10 @@
     "intrebare": "Din aorta abdominală se desprind urmǎtoarele",
     "variante": {
       "A": "Arterele frenice ale diafragmei, trunchiul celiac și artera iliacǎ internǎ",
-      "B": "Arterele renale și gonadale drepte și stângi, precum si artera mezenterică inferioarǎC. Arterele mezenterice superioară și inferioară, artera gonadală dreaptă și stângă",
-      "D": "Artera splenicǎ, artera hepatică și artera iliacǎ externǎE. Arterele coronare, artera iliacă comunǎ,arterele frenice"
+      "B": "Arterele renale și gonadale drepte și stângi, precum si artera mezenterică inferioarǎ",
+      "C": "Arterele mezenterice superioară și inferioară, artera gonadală dreaptă și stângă",
+      "D": "Artera splenicǎ, artera hepatică și artera iliacǎ externǎ",
+      "E": "Arterele coronare, artera iliacă comunǎ,arterele frenice"
     }
   },
   {
@@ -952,7 +960,8 @@
     "intrebare": "Alegeți ordinea corectă în care se succedă sau se desprind arterele care vascularizeazǎanumite segmente sau regiuni ale corpului:",
     "variante": {
       "A": "Membru inferior - arteră femurală - arteră poplitee - artere tibiale anterioară și posterioarǎ-arc dorsal",
-      "B": "Membru superior - arteră brahială - arteră axilară - artere radială și ulnarǎ-artere digitale-arc palmar superficial\nMembru superior-arteră axilară-arteră brahială-artere radială și ulnară-arc palmar superficial-artere digitale",
+      "B": "Membru superior - arteră brahială - arteră axilară - artere radială și ulnarǎ-artere digitale-arc palmar superficial",
+      "C": "Membru superior-arteră axilară-arteră brahială-artere radială și ulnară-arc palmar superficial-artere digitale",
       "D": "Abdomen-aortǎ abdominalǎ-trunchi celiac-artere gastricǎ stângă, splenică,hepaticǎ comunǎ",
       "E": "Membru inferior-arteră polpitee-arteră femurală-arteră iliacǎ externǎ"
     }
@@ -1019,7 +1028,8 @@
       "A": "Este alcătuit din vase de sânge care se formează în tecuturile intestinale",
       "B": "Cuprinde exclusiv vase care se formează în jurul unor organe anexe digestive",
       "C": "Transportă sânge și nutrienți, care vor fi procesați în ficat și apoi eliberati prin venele hepatice în circulatia generalǎ",
-      "D": "Aduce la ficat sânge bogat în oxigen de la artera mezenterică inferioarǎE. În ficat, vena portă dǎ naștere sinusoidelor hepatice,care drenează direct în vena cavă inferioarǎ"
+      "D": "Aduce la ficat sânge bogat în oxigen de la artera mezenterică inferioarǎ",
+      "E": "În ficat, vena portă dǎ naștere sinusoidelor hepatice,care drenează direct în vena cavă inferioarǎ"
     }
   },
   {
@@ -1027,8 +1037,10 @@
     "intrebare": "Despre venele care drenează organe din cavitatea abdomino-pelviană (abdomino-pelvinǎ) este adevǎrat cǎ",
     "variante": {
       "A": "Venele rectale superioare și vena sigmoidiană drenează în vena mezenterică inferioarǎ",
-      "B": "Vena apendiculară colectează sângele de la apendice și îl dreneazǎ în vena mezentericǎinferioarǎC. Venele jejunală, ileală, ileocolică și colica dreaptǎ dreneazǎ în vena mezentericǎsuperioarǎ,și aceasta în vena portǎ",
-      "D": "Vena portă primește sângele de la vena splenică, vena mezenterică inferioarǎ, vena mezenterică superioarǎ,vena gastricǎE. Cele două vene hepatice dreaptă și stângă intră în ficat și se unesc cu vena cavă inferioară"
+      "B": "Vena apendiculară colectează sângele de la apendice și îl dreneazǎ în vena mezentericǎinferioarǎ",
+      "C": "Venele jejunală, ileală, ileocolică și colica dreaptǎ dreneazǎ în vena mezentericǎsuperioarǎ,și aceasta în vena portǎ",
+      "D": "Vena portă primește sângele de la vena splenică, vena mezenterică inferioarǎ, vena mezenterică superioarǎ,vena gastricǎ",
+      "E": "Cele două vene hepatice dreaptă și stângă intră în ficat și se unesc cu vena cavă inferioară"
     }
   },
   {
@@ -1047,7 +1059,8 @@
     "intrebare": "Alegeti asocierile corecte dintre cele de mai jos",
     "variante": {
       "A": "Artera aortă imediat după emergența ei din ventriculul stâng - arterele coronare-deservesc muschiul cardiac",
-      "B": "Sinusul coronarian-sânge bogat în oxigen - drenat în atriul drept-ajunge prin valva tricuspidă în artera pulmonarǎC. Sinusurile durale-venǎ jugularǎ internǎ-venă brahiocefalicǎ-vena cavǎ superioarǎ-atriul drept",
+      "B": "Sinusul coronarian-sânge bogat în oxigen - drenat în atriul drept-ajunge prin valva tricuspidă în artera pulmonarǎ",
+      "C": "Sinusurile durale-venǎ jugularǎ internǎ-venă brahiocefalicǎ-vena cavǎ superioarǎ-atriul drept",
       "D": "Vena ileocolică, vene jejunale, vene ileale - sânge cu nutrienți absorbiți din tractul gastrointestinal - drenaj în vena mezenterică superioarǎ-aceasta drenează în sistemul port hipofizar din hilul ficatului",
       "E": "Venele rectale superioare, vena sigmoidiană - drenaj în vena mezenterică inferioară -drenaj în vena portă - vas principal al circulației hepato-portale"
     }
@@ -1112,7 +1125,8 @@
     "intrebare": "Selectati afirmațiile adevărate referitoare la sistemul limfatic și legătura lui cu sistemul circulator",
     "variante": {
       "A": "Cele două sisteme vehiculează același tip de fluid (sângele)",
-      "B": "Vasele si organele sistemului limfatic reintegrează limfa din tesuturi în circulația sanguinǎC. Cea mai mare parte a fluidelor tisulare pătrunde în capilarele limfatice, formând limfa;doar o mică fracțiune a acestor fluide reintră în capilarele sanguine",
+      "B": "Vasele si organele sistemului limfatic reintegrează limfa din tesuturi în circulația sanguinǎ",
+      "C": "Cea mai mare parte a fluidelor tisulare pătrunde în capilarele limfatice, formând limfa;doar o mică fracțiune a acestor fluide reintră în capilarele sanguine",
       "D": "Cea mai mare parte a fluidelor tisulare se reîntoarce în capilarele de sânge ale sistemului circulator;doar o mică fracțiune a acestor fluide pătrunde în capilarele limfatice",
       "E": "Limfocitele nu circulă prin vasele limfatice, ci exclusiv prin vasele de sânge"
     }
@@ -1130,8 +1144,9 @@
   },
   {
     "numar": 105,
-    "intrebare": "Care dintre afirmatiile de mai jos sunt false?A. Sistemul limfatic este alcătuit din limfă, vase de sânge, țesuturi limfoide",
+    "intrebare": "Care dintre afirmatiile de mai jos sunt false?",
     "variante": {
+      "A": "Sistemul limfatic este alcătuit din limfă, vase de sânge, țesuturi limfoide",
       "B": "Sistemul limfatic este bidirectional, iar cel circulator unidirectional",
       "C": "Sistemul limfatic asigură întoarcerea limfei în sistemul circulator",
       "D": "Limfa este vehiculată unidirecțional de la inimǎ la tesuturi",
@@ -1217,11 +1232,13 @@
   },
   {
     "numar": 113,
-    "intrebare": "Care dintre afirmațiile de mai jos, referitoare la capilarele limfatice,sunt false?A. Sunt vase microscopice dispuse în retea",
+    "intrebare": "Care dintre afirmațiile de mai jos, referitoare la capilarele limfatice,sunt false?",
     "variante": {
+      "A": "Sunt vase microscopice dispuse în retea",
       "B": "Sunt alcătuite dintr-un strat endotelial,ceea ce le face asemǎnǎtoare cu capilarele sanguine din acest punct de vedere",
       "C": "Din punct de vedere structural sunt total diferite de capilarele sanguine",
-      "D": "Sunt mai puțin permeabile decât capilarele sanguine, de aceea proteinele din fluidul tisular rǎmân în limfǎE. Pot drena fluidul interstitial (limfa) din tesuturi"
+      "D": "Sunt mai puțin permeabile decât capilarele sanguine, de aceea proteinele din fluidul tisular rǎmân în limfǎ",
+      "E": "Pot drena fluidul interstitial (limfa) din tesuturi"
     }
   },
   {
@@ -1242,7 +1259,8 @@
       "A": "Se formează în cavitatea toracică și are traseu ascendent în abdomen",
       "B": "Este cel mai mare vas limfatic din organism și ia naștere în cavitatea abdominalǎ de unde va urca spre torace",
       "C": "Este situat anterior fată de esofag și posterior fată de vertebre",
-      "D": "Își golește conținutul în vena subclavicularǎ stângǎE. Areun traseu descendent în torace după ce s-a format în cavitatea abdominalǎ"
+      "D": "Își golește conținutul în vena subclavicularǎ stângǎ",
+      "E": "Are un traseu descendent în torace după ce s-a format în cavitatea abdominalǎ"
     }
   },
   {
@@ -1250,7 +1268,8 @@
     "intrebare": "Ductul toracic drenează următoarele teritorii (zone), exceptând",
     "variante": {
       "A": "Zona subdiafragmatică în întregime",
-      "B": "Zona subdiafragmatică dreaptă și zona subdiafragmaticǎ stângǎC. Jumǎtatea supradiafragmaticǎ dreaptǎ a toracelui",
+      "B": "Zona subdiafragmatică dreaptă și zona subdiafragmaticǎ stângǎ",
+      "C": "Jumǎtatea supradiafragmaticǎ dreaptǎ a toracelui",
       "D": "Jumǎtatea supradiafragmatică stângă a toracelui,jumătatea stângă a capului și gâtului",
       "E": "Jumǎtatea dreaptă a capului și gâtului și membrul superior drept"
     }
@@ -1260,8 +1279,10 @@
     "intrebare": "Alegeți asocierile incorecte referitoare la drenajul limfatic",
     "variante": {
       "A": "Ductul limfatic drept-jumǎtatea dreaptă subdiafragmatică-vena subclaviculară stângǎ",
-      "B": "Ductul toracic-jumǎtatea stângă supradiafragmatică-vena subclavicularǎ stângǎC. Ductul limfatic drept - jumătatea dreaptă supradiafragmatică - vena subclavicularǎdreaptǎ",
-      "D": "Ductul toracic-toată zona subdiafragmatică-vena subclaviculară dreaptǎE. Ductul limfatic drept - jumătatea dreaptă supradiafragmatică - vena subclavicularǎstângǎ"
+      "B": "Ductul toracic-jumǎtatea stângă supradiafragmatică-vena subclavicularǎ stângǎ",
+      "C": "Ductul limfatic drept - jumătatea dreaptă supradiafragmatică - vena subclavicularǎdreaptǎ",
+      "D": "Ductul toracic-toată zona subdiafragmatică-vena subclaviculară dreaptǎ",
+      "E": "Ductul limfatic drept - jumătatea dreaptă supradiafragmatică - vena subclavicularǎstângǎ"
     }
   },
   {
@@ -1270,7 +1291,9 @@
     "variante": {
       "A": "Este cel mai mare vas limfatic din organism și se formează în cavitatea abdominalǎ",
       "B": "Traseul lui prin torace este ascendent, posterior fată de vertebre",
-      "C": "Traseul lui prin torace este ascendent, anterior fată de vertebre"
+      "C": "Traseul lui prin torace este ascendent, anterior fată de vertebre",
+      "D": "In aproprierea gatului el se curbeaza spre stanga pentru a se drena in vena subclaviculara stanga",
+      "E": "in torace este situat dorsal fata de esofag"
     }
   },
   {
@@ -1356,6 +1379,7 @@
     "variante": {
       "A": "Nodulii limfatici sunt mase de tesut delimitate de o capsulă. Nodulii limfatici filtreazăsângele circulant",
       "B": "Aceste celule stau la baza sistemului imun",
+      "C": "Vasele care intra in nodul limfatic se numesc vase aferente, iar cele care ies se numesc vase eferente",
       "D": "Nodulii limfatici contin limfocite T și limfocite",
       "E": "Nodulii limfatici asigură filtrarea limfei înainte ca aceasta să se întoarcǎ în circulatia sanguină. Nodulii limfatici monitorizează compoziția sângelui"
     }
@@ -1433,7 +1457,8 @@
       "A": "Sunt situați în principal în anumite zone (țesuturile de la nivelul gâtului, la nivel inghinal,în plica cotului etc.)",
       "B": "În tesuturile de la nivelul gâtului se află nodulii limfatici axilari și cubitali",
       "C": "La nivelul membrului superior se descriu nodulii limfatici din fosa cubitală (plica cotului)",
-      "D": "Nodulii limfatici iliaci sunt situați în vecinătatea vaselor de sânge omonime din cavitatea abdomino-pelvianǎE. În regiunea toracică dintre cei doi plămâni se află nodulii limfatici mediastinali"
+      "D": "Nodulii limfatici iliaci sunt situați în vecinătatea vaselor de sânge omonime din cavitatea abdomino-pelvianǎ",
+      "E": "În regiunea toracică dintre cei doi plămâni se află nodulii limfatici mediastinali"
     }
   },
   {
@@ -1573,6 +1598,8 @@
     "intrebare": "Alegeți dintre răspunsurile de mai jos pe cele care conțin două afirmații adevărate",
     "variante": {
       "A": "Splina este un organ limfoid. Splina este un rezervor de limfocite pentru organism",
+      "B": "Splina serveste drept depozit de sange si contine limfocite B si T pentru raspunsul imun",
+      "C": "Macrofagele splenice fagociteaza limfocitele imbaranite si distruse. Splina contine celulele limfocide cu sunt hemocitoblastii",
       "D": "Splina reciclează fierul din hematiile îmbătrânite și îl trimite la ficat. Sângele iese din splinǎ prin intermediul arterei splenice",
       "E": "Sângele intră în splină prin intermediul arterei splenice. Vena splenică iese din splină la nivelul hilului"
     }
@@ -1605,7 +1632,9 @@
     "variante": {
       "A": "Infectie-vase limfatice blocate-edem",
       "B": "Circulație venoasă încetinită-acumularea sângelui în vene-edem",
-      "C": "Inflamație-acumulare de lipide în spațiile intracelulare-edem"
+      "C": "Inflamație-acumulare de lipide în spațiile intracelulare-edem",
+      "D": "Proteinele acumulate in spatiile intercelulare - atragerea apei prin osmoza tumefiere",
+      "E": "Excesul de lichid intersitial drenaj prin limfa tumefiere agravata"
     }
   },
   {
@@ -1613,6 +1642,8 @@
     "intrebare": "Care dintre cele de mai jos sunt considerate organe ale sistemului limfatic,fiind alcǎtuite dlin tesuturi limfoide",
     "variante": {
       "A": "Măduva spinării și medulla oblongata",
+      "B": "Timusul in care isi are originea sistemul limfatic si maduva galbena din fiafiza oaselor lungi",
+      "C": "Timusul, situat în mediastinul si splina situata subdiafragmatic",
       "D": "Nodulii limfatici inghinali si cervicali",
       "E": "Splina, situată supradiafragmatic și măduva osoasă din diafiza oaselor lungi adulte"
     }
@@ -1657,7 +1688,8 @@
       "A": "Tesutul specializat care inițiază și distribuie impulsuri ce determină contracția celulelor miocardice se numeste tesut atrioventricular",
       "B": "Sistemul excitoconductor (specializat în inițierea și distribuirea impulsurilor de contractie pentru celulele miocardului) are ca primă componentă nodul sinoatrial",
       "C": "Nodul atrioventricular este format dintr-un grup mai voluminos de fibre care se distribuie direct miocardului ventricular",
-      "D": "Celulele miocardice au nevoie de mai multă energie comparativ cu celulele musculare scheletice,având o activitate metabolică mai intensǎE. Componentele sistemului excitoconductor se succed dinspre baza spre vârful inimii, în ordinea: nod sinoatrial, nod atrioventricular, fascicul His și ramurile lui dreaptă și stângăsi fibrele Purkinje"
+      "D": "Celulele miocardice au nevoie de mai multă energie comparativ cu celulele musculare scheletice,având o activitate metabolică mai intensǎ",
+      "E": "Componentele sistemului excitoconductor se succed dinspre baza spre vârful inimii, în ordinea: nod sinoatrial, nod atrioventricular, fascicul His și ramurile lui dreaptă și stângăsi fibrele Purkinje"
     }
   },
   {
@@ -1665,8 +1697,10 @@
     "intrebare": "Alegeți enunțurile cu o afirmație adevărată și una falsă referitoare la activitatea inimii",
     "variante": {
       "A": "Alternanta contractiilor/sistolelor și relaxărilor/diastolelor cavităților cardiace reprezintǎciclul cardiac. Un ventricul pompează în timpul fiecărei sistole aproximativ 70 ml de sânge (valoare care reprezintǎ debitul cardiac)",
-      "B": "Inima este situată în torace, anterior de coloana vertebrala si posterior de stern,aproximativ între a treia și a șaptea coastă. Stratul intern al peretelui inimii este denumit endocard și este alcătuit dintr-un strat endotelial care acoperă un strat subțire de tesut conjunctiv.C. Pe electrocardiogramă, impulsurile de la nodul sinoatrial (SA) care determinǎdepolarizarea atrială sunt redate prin unda T. În timpul sistolei ventriculare, când sângele este pompat în artere (aortă/pulmonară), atriile sunt în diastolă și se umplu cu sângele adus de venele cave/pulmonare",
-      "D": "Valva tricuspidă previne refluxul sângelui din ventriculul drept înapoi în atriul drept în timpul sistolei ventriculare. Deflexiunea rotunjită care succede complexul QRS pe electrocardiogramă este unda T și reprezintǎ depolarizarea ventricularǎE. Artera aortă cu originea în ventriculul stâng se arcuiește pentru a coborî de a lungul coloanei vertebrale si se bifurcă în două ramuri terminale-arterele iliace comune dreaptāși stângă. Artera femurală se continuă cu artera poplitee, care se ramifică în artera tibialǎanterioară și artera tibialǎ posterioarǎ"
+      "B": "Inima este situată în torace, anterior de coloana vertebrala si posterior de stern,aproximativ între a treia și a șaptea coastă. Stratul intern al peretelui inimii este denumit endocard și este alcătuit dintr-un strat endotelial care acoperă un strat subțire de tesut conjunctiv.",
+      "C": "Pe electrocardiogramă, impulsurile de la nodul sinoatrial (SA) care determinǎdepolarizarea atrială sunt redate prin unda T. În timpul sistolei ventriculare, când sângele este pompat în artere (aortă/pulmonară), atriile sunt în diastolă și se umplu cu sângele adus de venele cave/pulmonare",
+      "D": "Valva tricuspidă previne refluxul sângelui din ventriculul drept înapoi în atriul drept în timpul sistolei ventriculare. Deflexiunea rotunjită care succede complexul QRS pe electrocardiogramă este unda T și reprezintǎ depolarizarea ventricularǎ",
+      "E": "Artera aortă cu originea în ventriculul stâng se arcuiește pentru a coborî de a lungul coloanei vertebrale si se bifurcă în două ramuri terminale-arterele iliace comune dreaptāși stângă. Artera femurală se continuă cu artera poplitee, care se ramifică în artera tibialǎanterioară și artera tibialǎ posterioarǎ"
     }
   }
 ]

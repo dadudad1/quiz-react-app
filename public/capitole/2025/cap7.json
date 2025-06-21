@@ -6,7 +6,8 @@
       "A": "Este responsabil de furnizarea oxigenului către celule și de îndepărtarea dioxidului de carbon rezultat din metabolismul celulelor",
       "B": "Este format din tractul gastrointestinal și organele anexe",
       "C": "Este responsabil de descompunerea moleculelor mari de alimente în molecule mici și de absorbția moleculelor mici, a mineralelor și a apei în organism",
-      "D": "Are rol în transportul hormonilor de la glandele endocrine înspre celulele lor tintǎE. Este responsabil de descompunerea moleculelor mari de alimente în molecule mici și de eliminarea moleculelor mici, a mineralelor și a apei din organism"
+      "D": "Are rol în transportul hormonilor de la glandele endocrine înspre celulele lor",
+      "E": "Este responsabil de descompunerea moleculelor mari de alimente în molecule mici și de eliminarea moleculelor mici, a mineralelor și a apei din organism"
     }
   },
   {
@@ -15,6 +16,7 @@
     "variante": {
       "A": "Este parte componentă a tractului gastrointestinal",
       "B": "Organele tubulare care îl compun sunt reprezentate de glandele salivare si de ficat",
+      "C": "Este format doar din tractul gastrointestinal",
       "D": "Una dintre funcțiile lui este reglarea volumului plasmei sanguine",
       "E": "Este format din tractul gastrointestinal si o serie de organe anexe"
     }
@@ -156,8 +158,9 @@
     "intrebare": "Despre tunicile peretelui tractului gastrointestinal este fals cǎ",
     "variante": {
       "A": "Tunica internă este denumită membrană submucoasă și conține glande pluricelulare simple,denumite celule caliciforme",
-      "B": "Submucoasa contine celule musculare netede cu dispoziție oblică, transversalǎ si circularǎC. Mucoasa contine glande care secretă mucus, cu rol de protectie si glande care secretǎenzime, cu rol în procesul de digestie",
-      "D": "Mucoasa gastrică este compusă din țesut epitelial simplu cilindric care acoperǎ un strat conjunctiv,ce contine mici cantitǎti de muschi neted",
+      "B": "Submucoasa contine celule musculare netede cu dispoziție oblică, transversalǎ si circularǎ",
+      "C": "Mucoasa contine glande care secretă mucus, cu rol de protectie si glande care secretǎenzime, cu rol în procesul de digestie",
+      "D": "Mucoasa gastrică este compusă din țesut epitelial simplu cilindric care acoperǎ un strat conjunctiv,ce contine mici cantități de muschi neted",
       "E": "Submucoasa contine celule care secretă un lichid ce umectează suprafata externǎ a organelor"
     }
   },
@@ -342,7 +345,8 @@
     "intrebare": "Dentina",
     "variante": {
       "A": "Este una dintre componentele principale ale dintelui, alături de smalf, dar cu duritate inferioarǎ acestuia",
-      "B": "Acoperă smalțul și pulpa dentară, conținutǎ în cavitatea pulparǎC. Este acoperită la nivel radicular (rădăcina dintelui) de cement",
+      "B": "Acoperă smalțul și pulpa dentară, conținutǎ în cavitatea pulparǎ",
+      "C": "Este acoperită la nivel radicular (rădăcina dintelui) de cement",
       "D": "Este vascularizată de către vasele de sânge, care pătrund în dinte la nivelul coroanei dentare",
       "E": "Reprezintă componenta majoritarǎ a dintelui"
     }
@@ -595,7 +599,8 @@
     "variante": {
       "A": "Glandele lui Brunner din mucoasa duodenală secretǎ mucus",
       "B": "În submucoasa duodenală se află aglomerări de țesut limfoid cu dispozitie nodularǎ",
-      "C": "Criptele Lieberkühn, denumite și glande intestinale, apar ca niște adâncituri în mucoasa duodenalǎD. Aglomerările de țesut limfoid de la nivelul duodenului poartă denumirea de plăcile Peyer",
+      "C": "Criptele Lieberkühn, denumite și glande intestinale, apar ca niște adâncituri în mucoasa duodenalǎ",
+      "D": "Aglomerările de țesut limfoid de la nivelul duodenului poartă denumirea de plăcile Peyer",
       "E": "Celulele duodenului produc și ele enzime digestive (tripsina și lipaza pancreatică)"
     }
   },
@@ -859,7 +864,8 @@
       "A": "Emergenta trunchiului celiac din aorta abdominală, imediat inferior de pilierii diafragmatici",
       "B": "Raportul anatomic între coada pancreasului și duoden",
       "C": "Raportul anatomic între capul pancreasului și duoden",
-      "D": "Traiectul arterei gastroduodenale, din care se desprind ramuri spre capul pancreasului si spre duoden\nTraiectul arterei splenice de-a lungul marginii superioare a pancreasului, spre splinǎ"
+      "D": "Traiectul arterei gastroduodenale, din care se desprind ramuri spre capul pancreasului si spre duoden",
+      "E": "Traiectul arterei splenice de-a lungul marginii superioare a pancreasului, spre splinǎ"
     }
   },
   {
@@ -952,11 +958,13 @@
   },
   {
     "numar": 88,
-    "intrebare": "Despre etapa involuntară a deglutiției este adevărat că:\n. Începe în momentul în care alimentele sunt mărunțite (prin masticație) și îmbibate în salivǎ",
+    "intrebare": "Despre etapa involuntară a deglutiției este adevărat că:",
     "variante": {
+      "A": "Începe în momentul în care alimentele sunt mărunțite (prin masticație) și îmbibate în salivǎ",
       "B": "Începe în momentul în care bolul alimentar este împins în faringe cu ajutorul limbii",
       "C": "În această etapă are loc contracția mușchilor laringieni care împing bolul alimentar în esofag",
-      "D": "Este controlată de către nervii sistemului nervos autonom\nÎn această etapă sub acțiunea sistemului nervos vegetativ este declanşat procesul denumit peristaltism"
+      "D": "Este controlată de către nervii sistemului nervos autonom",
+      "E": "În această etapă sub acțiunea sistemului nervos vegetativ este declanşat procesul denumit peristaltism"
     }
   },
   {
@@ -1085,7 +1093,8 @@
     "variante": {
       "A": "Pepsina (precursor) se transformă în pepsinogen (forma activă), sub acțiunea acidului clorhidric",
       "B": "Pepsina (forma activă) se formează din pepsinogen (precursor) sub acțiunea acidului clorhidric",
-      "C": "Acidul clorhidric conferă mediul alcalin necesar pentru transformarea pepsinogenului în pepsinǎD. Mucusul se constituie ca un strat vâscos, alcalin, care protejează peretele stomacului",
+      "C": "Acidul clorhidric conferă mediul alcalin necesar pentru transformarea pepsinogenului în pepsinǎ",
+      "D": "Mucusul se constituie ca un strat vâscos, alcalin, care protejează peretele stomacului",
       "E": "Factorul extrinsec este necesar absorbției vitaminei B2 (riboflavinǎ)"
     }
   },
@@ -1179,8 +1188,9 @@
   },
   {
     "numar": 109,
-    "intrebare": "Care dintre urmǎtoarele afirmatii sunt false?A. Micul epiplon este reprezentat de un strat dublu de mușchi netezi (circulari și longitudinali)",
+    "intrebare": "Care dintre urmǎtoarele afirmatii sunt false?",
     "variante": {
+      "A": "Micul epiplon este reprezentat de un strat dublu de mușchi netezi (circulari și longitudinali)",
       "B": "Labfermentul este o enzimǎ lipolitica",
       "C": "Pepsina este capabilă să descompună aproape toate tipurile de proteine în peptide",
       "D": "Amilaza este absentă atât în salivă, cât și în sucul pancreatic, fiind prezentă doar însucul gastric",
@@ -1210,11 +1220,13 @@
   },
   {
     "numar": 112,
-    "intrebare": "Care dintre următoarele enzime produse de celulele intestinului subțire sunt dizaharidaze?A. Zaharaza, care sintetizeazǎ zaharoza din glucozǎ și fructozǎ",
+    "intrebare": "Care dintre următoarele enzime produse de celulele intestinului subțire sunt dizaharidaze?",
     "variante": {
+      "A": "Zaharaza, care sintetizeazǎ zaharoza din glucozǎ și fructozǎ",
       "B": "Zaharaza, care descompune zaharoza în monozaharidele ei componente (glucozǎ si fructozǎ)",
       "C": "Maltaza, care descompune glucoza cu formare de maltozǎ",
-      "D": "Maltaza, care descompune maltoza cu participarea apei,rezultând două molecule de glucozǎE. Lactaza, care descompune lactoza în monozaharidele glucozǎ și galactozǎ"
+      "D": "Maltaza, care descompune maltoza cu participarea apei,rezultând două molecule de glucozǎ",
+      "E": "Lactaza, care descompune lactoza în monozaharidele glucozǎ și galactozǎ"
     }
   },
   {
@@ -1452,15 +1464,17 @@
     "intrebare": "Despre procesul de absorbție la nivelul intestinului subțire nu este adevarat cǎ",
     "variante": {
       "A": "În mare măsură sunt implicate mecanisme de transport activ cu ajutorul moleculelor transportoare si al ATP-ului",
-      "B": "Nu pot fi absorbiți produși cu structură lipidică prin difuziune,sau apǎ, prin osmozǎC. Monozaharidele (glucoza) trec din lumenul intestinal în celula epitelială, de aici în lichidul interstițial și din acesta în capilarul sanguin",
+      "B": "Nu pot fi absorbiți produși cu structură lipidică prin difuziune,sau apǎ, prin osmozǎ",
+      "C": "Monozaharidele (glucoza) trec din lumenul intestinal în celula epitelială, de aici în lichidul interstițial și din acesta în capilarul sanguin",
       "D": "Pentru lipide, transportul activ reprezintă principalul mecanism de absorbție",
       "E": "Ionii de sodiu, alți electroliți și apa sunt absorbite în capilarele sanguine"
     }
   },
   {
     "numar": 135,
-    "intrebare": "Care dintre urmǎtoarele mecanisme reprezintă modalități de absorbtie la nivel intestinal?A. Difuziunea și difuziunea facilitată ca mecanismne de transport activ pentru aminoacizi și glucozǎ",
+    "intrebare": "Care dintre urmǎtoarele mecanisme reprezintă modalități de absorbtie la nivel intestinal?",
     "variante": {
+      "A": "Difuziunea și difuziunea facilitată ca mecanismne de transport activ pentru aminoacizi și glucozǎ",
       "B": "Transportul activ realizat cu ajutorul unor molecule transportoare",
       "C": "Transportul activ realizat cu consum de energie furnizată de hidroliza ATP-ului (acid adenozin-trifosforic)",
       "D": "Pinocitoza- o formă de endocitoză (pentru picături de lichid)",
@@ -1540,7 +1554,8 @@
       "A": "Se desfășoară în celulele hepatice(hepatocite)",
       "B": "Este procesul prin care, sub acțiunea enzimelor hepatice, glucoza este transformatǎ în glicogen, când nivelul sanguin al glucozei este ridicat",
       "C": "Are loc atunci când nivelul de glucoză în sânge este scăzut",
-      "D": "Constă în conversia enzimatică a anumitor aminoacizi în molecule de monozaharide, ca sursǎ energeticǎE. Este stimulat de insulină (hormon pancreatic hipoglicemiant)"
+      "D": "Constă în conversia enzimatică a anumitor aminoacizi în molecule de monozaharide, ca sursǎ energeticǎ",
+      "E": "Este stimulat de insulină (hormon pancreatic hipoglicemiant)"
     }
   },
   {

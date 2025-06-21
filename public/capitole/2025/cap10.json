@@ -180,8 +180,10 @@
     "intrebare": "Alegeți informațiile greșite despre poziția anatomică a unor organe ale sistemului respirator",
     "variante": {
       "A": "Amigdala faringiană este situată pe peretele posterior al orofaringelui",
-      "B": "Amigdalele palatine sunt situate pe partea laterală a orofaringelui, posterior de cavitatea oralǎC. Coanele nazale sunt situate în partea anterioară a cavităților nazale și realizeazǎcomunicarea lor cu mediul extern",
-      "D": "Plămânii sunt situați în mediastin, fiind separați de pleurǎE. Laringeie reprezintă o extindere spre superior a traheei, la nivelul corespunzǎtor vertebrelor cervicale"
+      "B": "Amigdalele palatine sunt situate pe partea laterală a orofaringelui, posterior de cavitatea oralǎ",
+      "C": "Coanele nazale sunt situate în partea anterioară a cavităților nazale și realizeazǎcomunicarea lor cu mediul extern",
+      "D": "Plămânii sunt situați în mediastin, fiind separați de pleurǎ",
+      "E": "Laringeie reprezintă o extindere spre superior a traheei, la nivelul corespunzǎtor vertebrelor cervicale"
     }
   },
   {
@@ -323,7 +325,8 @@
       "A": "Amigdala faringiană se află pe peretele anterior al faringelui",
       "B": "Amigdalele palatine se află pe părțile laterale ale faringelui, posterior de cavitatea orala",
       "C": "Când amigdala faringiană este tumefiată, ea poartă denumirea de ,,vegetații adenoide\"",
-      "D": "Amigdalele palatine au formǎ rectangularǎE. Amigdalele au rol de protejare a sistemului respirator față de agenții infectioși preluați din aer"
+      "D": "Amigdalele palatine au formǎ rectangularǎ",
+      "E": "Amigdalele au rol de protejare a sistemului respirator față de agenții infectioși preluați din aer"
     }
   },
   {
@@ -429,7 +432,8 @@
     "intrebare": "Despre trahee si bronhii este adevǎrat cǎ",
     "variante": {
       "A": "Traheea continuă faringele, asigurând o cale de intrare a aerului spre plǎmân",
-      "B": "Traheea prezintă inele cartilaginoase deschise în portiunea posterioarǎC. Zona dintre cartilajele adiacente ale traheei și ale bronhiilor principale contine tesut conjunctiv și țesut muscular neted",
+      "B": "Traheea prezintă inele cartilaginoase deschise în portiunea posterioarǎ",
+      "C": "Zona dintre cartilajele adiacente ale traheei și ale bronhiilor principale contine tesut conjunctiv și țesut muscular neted",
       "D": "Traheea se ramifică în două bronhii primare (principale) dreaptă și stângǎ,cu aceeasi structurǎ ca a traheei",
       "E": "Bronhiile principale (primare) rezultate din ramificarea traheei au structurǎ diferitǎ fatǎde aceasta"
     }
@@ -440,7 +444,8 @@
     "variante": {
       "A": "Intrǎ în alcǎtuirea arborelui bronsic",
       "B": "Bronhia principală stângă este mai largă și este situată mai orizontal comparativ cu bronhia dreaptǎ",
-      "C": "Bronhia principală dreaptă este mai largă și are o poziție mai verticală comparativ cu cea stângǎD. Sunt în numǎr de trei la plămânul drept și două la plămânul stâng",
+      "C": "Bronhia principală dreaptă este mai largă și are o poziție mai verticală comparativ cu cea stângǎ",
+      "D": "Sunt în numǎr de trei la plămânul drept și două la plămânul stâng",
       "E": "Sunt în număr de două (dreaptă și stângă) și rezultă din ramificarea traheei"
     }
   },
@@ -449,7 +454,8 @@
     "intrebare": "Despre bronhii nu este adevǎrat cǎ",
     "variante": {
       "A": "Cele principale (primare) rezultă din ramificarea porțiunii inferioare a laringelui",
-      "B": "Cea principală stângă are o poziție mai verticală comparativ cu cea dreaptǎC. Cele două bronhii principale nu au aceleași dimensiuni (bronhia principală dreaptă este mai largǎ decât cea stângǎ)",
+      "B": "Cea principală stângă are o poziție mai verticală comparativ cu cea dreaptǎ",
+      "C": "Cele două bronhii principale nu au aceleași dimensiuni (bronhia principală dreaptă este mai largǎ decât cea stângǎ)",
       "D": "Ele devin din ce în ce mai mici, pe măsură ce se divid în plǎmâni",
       "E": "În final, din diviziunea bronhilor rezultă bronhiolele, al căror diametru este de aproximativ 1 centimetru"
     }
@@ -646,7 +652,8 @@
     "intrebare": "Selectati afirmatiile adevărate referitoare la mobilizarea aerului la nivelul plǎmânilor",
     "variante": {
       "A": "Aerul iese din plǎmâni, dacă aeru din alveole are o presiune mai joasă decât cea atmosferica",
-      "B": "Aerul pătrunde în plămâni, dacă aerul din alveole are o presiune mai joasǎ (mai micǎ)decât cea atmosfericǎC. Aerul intră în plǎmâni, dacă aerul din alveole are o presiune mai înaltă decât cea atmosfericǎ",
+      "B": "Aerul pătrunde în plămâni, dacă aerul din alveole are o presiune mai joasǎ (mai micǎ)decât cea atmosfericǎ",
+      "C": "Aerul intră în plǎmâni, dacă aerul din alveole are o presiune mai înaltă decât cea atmosfericǎ",
       "D": "Aerul părăsește plămânii, dacă aerul din alveole are o presiune mai înaltă (mai mare)decât cea atmosferica",
       "E": "Acest proces se bazează pe diferența de presiune dintre aerul din alveole si cel atmosferic"
     }
@@ -669,7 +676,8 @@
       "A": "Elasticitatea plamânilor, care în expirație urmează revenirea toracelui la forma sa initialǎ",
       "B": "Relatia anatomică a foițelor pleurale cu plămânii",
       "C": "Prezenta unui spatiu toracic deschis in care se aflǎ plǎmânii",
-      "D": "Alinierea pleurei viscerale care acoperă plămânii imediat lângă pleura parietală care cǎptuseste cavitatea toracicǎE. Activitatea cardiacă (ciclul sistolă-sistolă) controlată de nervul vag"
+      "D": "Alinierea pleurei viscerale care acoperă plămânii imediat lângă pleura parietală care cǎptuseste cavitatea toracicǎ",
+      "E": "Activitatea cardiacă (ciclul sistolă-sistolă) controlată de nervul vag"
     }
   },
   {
@@ -776,7 +784,8 @@
     "intrebare": "Alegeti asocierile corecte dintre cele de mai jos",
     "variante": {
       "A": "Muschi respiratori-diafragma, muschi intercostali externi- muschi scheletici",
-      "B": "Inspiratie-ridicarea coastelor-coborârea diafragmei - creștere în volum a toracelui_expansiune toracicǎ si pulmonarǎC. Inspiratie - ridicarea coastelor si a diafragmei, reducerea volumului toracic comprimarea plămânilor - intrarea aerului în căile aeriene",
+      "B": "Inspiratie-ridicarea coastelor-coborârea diafragmei - creștere în volum a toracelui_expansiune toracicǎ si pulmonarǎ",
+      "C": "Inspiratie - ridicarea coastelor si a diafragmei, reducerea volumului toracic comprimarea plămânilor - intrarea aerului în căile aeriene",
       "D": "Expiratie-ieșirea aerului din alveole în atmosferă-proces pasiv",
       "E": "Expiratie-ieșirea aerului din căile aeriene în atmosferă-proces activ"
     }
@@ -786,7 +795,8 @@
     "intrebare": "Alegeti asocierile greșite dintre cele de mai jos",
     "variante": {
       "A": "Pleurǎ-membranǎ seroasǎ-dublu stratificată-cavitate pleurală în exteriorul foiței viscerale",
-      "B": "Foițele pleurale-în număr de două (viscerală și parietală) - delimitează cavitatea pleuralǎC. Pleura visceralǎ-strat intern al pleurei- acoperă suprafața interioară a cavității toracice",
+      "B": "Foițele pleurale-în număr de două (viscerală și parietală) - delimitează cavitatea pleuralǎ",
+      "C": "Pleura visceralǎ-strat intern al pleurei- acoperă suprafața interioară a cavității toracice",
       "D": "Mediastin- zonă mediană a toracelui - conține esofagul în întregime-nu conține inima",
       "E": "Plămân-textură elastică - împărțire în lobi- separarea lobilor prin fisuri"
     }
@@ -907,7 +917,9 @@
     "variante": {
       "A": "Activează centrul de control respirator",
       "B": "Inhiba functionarea centrului de control respirator",
-      "C": "Duce la creșterea frecvenței și amplitudinii respiratiei"
+      "C": "Duce la creșterea frecvenței și amplitudinii respiratiei",
+      "D": "Se datoreaza cresterii concentratiei de dioxid de carbon in lichidul cefalorahidian",
+      "E": "Duce la scaderea frecventei si amplitudinii respiratiei"
     }
   },
   {
@@ -1092,7 +1104,9 @@
     "variante": {
       "A": "Oxigenul trece din alveole în sânge, pentru a fi transportat la celule",
       "B": "Oxigenul trece din sânge în alveole, pentru a fi eliminat în expirație",
-      "C": "Dioxidul de carbon trece din alveole în sânge,pentru a fi transportat spre tesuturi"
+      "C": "Dioxidul de carbon trece din alveole în sânge,pentru a fi transportat spre tesuturi",
+      "D": "Dioxidul de carbon trece din sange in alveole, pentru a fi eliminat in expiratie",
+      "E": "Atat oxigenul cat si dioxidul de carbon se pot deplasa bilateral intre sange si alveole"
     }
   },
   {
@@ -1100,6 +1114,8 @@
     "intrebare": "La nivelul țesuturilor organismului",
     "variante": {
       "A": "Ajunge sânge bogat în oxigen, pompat de ventriculul stâng în artera aortǎ",
+      "B": "Oxigenul este eliberat din globulele rosii prin mecanisme opuse celor din alveole",
+      "C": "Dioxidul de carbon este preluat de globulele rosii dupa eliberare oxigenului",
       "D": "Dioxidul de carbon este utilizat în metabolismul celular în procesul de formare a ATP-ului (adenozin-trifosfatului)",
       "E": "Oxigenul este utilizat în metabolismul celular în timpul procesului de eliberare de energie și formare a ATP-ului(adenozin-trifosfatului)"
     }
@@ -1109,7 +1125,10 @@
     "intrebare": "Despre mecanismele care asigură transportul sanguin al CO2 este adevǎrat cǎ",
     "variante": {
       "A": "O cantitate importantă de CO2 pătruns intraeritrocitar este transportată sub formă de ioni bicarbonat",
-      "D": "Odată format, H2CO3 disociazǎ în ioni:HCO3E. Ionul de H+ este înlǎturat prin fenomenul transferului de clor"
+      "B": "reactia de formare a acidului carbonic in erittocit este catalizata de enzima numita adenilatciclaza",
+      "C": "reactia de formare a acidului carbonic in erittocit este catalizata de enzima numita anhidraza carbonica",
+      "D": "Odată format, H2CO3 disociazǎ în ioni:HCO3",
+      "E": "Ionul de H+ este înlǎturat prin fenomenul transferului de clor"
     }
   },
   {
@@ -1117,7 +1136,10 @@
     "intrebare": "Despre mecanismele care asigurǎ transportul sanguin al CO2 este adevǎrat cǎ",
     "variante": {
       "A": "Ionii bicarbonat (HCO3') se formează prin disocierea H2CO3în eritrocit",
-      "D": "HCO3 se deplasează din hematii la schimb cu clorul, iar în plasmă se va combina cu Na+si va forma NaHCO3E. Când un număr mare de molecule de CO2intră în sânge,datorită mecanismului de schimb dintre HCO3 si Cl,apare fenomenul denumit,,transfer de clor\""
+      "B": "o parte din ionii bicarbonat difuzeaza in plasma si se combina cu ionii de sodiu pentu a forma NaHCO3 intraeritrocitar",
+      "C": "De fiecare data cand un ion bicarbonat difuzeaza in plasma un ion cle clor patrunde in eritrocit",
+      "D": "HCO3 se deplasează din hematii la schimb cu clorul, iar în plasmă se va combina cu Na+si va forma NaHCO3",
+      "E": "Când un număr mare de molecule de CO2intră în sânge,datorită mecanismului de schimb dintre HCO3 si Cl,apare fenomenul denumit,,transfer de clor\""
     }
   },
   {
@@ -1125,7 +1147,10 @@
     "intrebare": "Dioxidul de carbon este transportat în sânge sub formǎ de",
     "variante": {
       "A": "Carbaminohemoglobină în hematie, în care dioxidul de carbon este legat de hem",
-      "D": "Bicarbonat de sodiu în plasmǎE. Gaz dizolvat att în plasmă, cât și în citoplasma hematiilor"
+      "B": "Carbaminohemoglobină în eritrocit in care CO2 se leaga de moleculele de hemoglobina, care au eliberat in prealabil oxigenul care va difuza spre tesuturi",
+      "C": "Carbaminohemoglobină în eritrocit in care CO2 se leaga de moleculele de hemoglobina, anterior eliberarii oxigenului in tesuturi",
+      "D": "Bicarbonat de sodiu în plasmǎ",
+      "E": "Gaz dizolvat att în plasmă, cât și în citoplasma hematiilor"
     }
   },
   {
@@ -1212,7 +1237,8 @@
       "A": "Preluarea oxigenului de către hematii, în vederea respirației celulare care are loc în mitocondriile acestora",
       "B": "Eliberarea oxigenului de către hematii, prin desfacerea (disocierea) oxihemoglobinei",
       "C": "Utilizarea oxigenului în metabolismul celular pentru eliberare de energie și formare de ATP(adenozin-trifosfat)",
-      "D": "Eliberarea dioxidului de carbon de către hematii, pentru a fi utilizat în respiratia celularǎE. Preluarea dioxidului de carbon de către sânge, în care va fi transportat sub forma dizolvată, sub formă de bicarbonat de sodiu și sub formă de carbaminohemoglobinǎ"
+      "D": "Eliberarea dioxidului de carbon de către hematii, pentru a fi utilizat în respiratia celularǎ",
+      "E": "Preluarea dioxidului de carbon de către sânge, în care va fi transportat sub forma dizolvată, sub formă de bicarbonat de sodiu și sub formă de carbaminohemoglobinǎ"
     }
   },
   {
@@ -1252,7 +1278,8 @@
     "numar": 117,
     "intrebare": "Despre transportul gazelor și mecanismele de schimb gazos în corpul uman este adevǎrat cǎ:",
     "variante": {
-      "A": "La nivel alveolar, sângele elibereazǎCși preiaB. La nivelul celulelor, gazele difuzează prin membranele alveolară (respiratorie) și capilară",
+      "A": "La nivel alveolar, sângele elibereazǎCși preia",
+      "B": "La nivelul celulelor, gazele difuzează prin membranele alveolară (respiratorie) și capilară",
       "C": "La nivelul celulelor, sângele cedează oxigenul provenit din aerul inspirat și preia dioxidul de carbon rezultat din metabolismul celular",
       "D": "Oxigenul este transportat sub formă de oxihemoglobină sau dizolvat (în citoplasma eritrocitelor și în plasmă)",
       "E": "Ceste transportat sub formă de ioni bicarbonat, sub formă de carbaminohemoglobinǎși sub forma dizolvată în plasmă și în citoplasma eritrocitelor"
@@ -1315,8 +1342,14 @@
   },
   {
     "numar": 123,
-    "intrebare": "Pentru cele 5 enunțuri de mai jos, notate cu cifre de la 1 la 5, alegeți răspunsul A-dacă asocierile de la 1 și 4 sunt corecte, răspunsul B- dacă asocierea de la 2 este greșită, răspunsul C - dacă afirmațiile de la 3 sunt ambele adevărate, răspunsul D-dacă asocierile de la 1 si 2 sunt corecte și răspunsul E- dacă afirmația de la 5 este adevǎratǎ:\n1. Pleurǎ-membrană dublu stratificată-cavitate pleuralǎ-lichid care permite alunecarea foitelor pleurale\n2. Inspiratie-muschi intercostali externi-ridicarea coastelor spre superior si exterior\n3. Laringele se continuă cu un tub semirigid, denumit trahee, cu lungimea de aproximativ 10-12 cm. Traheea asigură o cale de intrare și ieșire a aerului și este tapetată cu o mucoasăale cărei celule sunt ciliate\n4. Expirație-relaxarea muschilor intercostali externi și a diafragmei-scǎderea volumului toracic-revenirea toracelui la forma initialǎ\n5. Activitatea centrului respirator și cea a chemoreceptorilor sunt mecanisme voluntare de control respirator",
-    "variante": {}
+    "intrebare": "Pentru cele 5 enunțuri de mai jos, notate cu cifre de la 1 la 5. 1. Pleurǎ-membrană dublu stratificată-cavitate pleuralǎ-lichid care permite alunecarea foitelor pleurale\n2. Inspiratie-muschi intercostali externi-ridicarea coastelor spre superior si exterior\n3. Laringele se continuă cu un tub semirigid, denumit trahee, cu lungimea de aproximativ 10-12 cm. Traheea asigură o cale de intrare și ieșire a aerului și este tapetată cu o mucoasăale cărei celule sunt ciliate\n4. Expirație-relaxarea muschilor intercostali externi și a diafragmei-scǎderea volumului toracic-revenirea toracelui la forma initialǎ\n5. Activitatea centrului respirator și cea a chemoreceptorilor sunt mecanisme voluntare de control respirator",
+    "variante": {
+      "A": "dacă asocierile de la 1 și 4 sunt corecte", 
+      "B": " dacă asocierea de la 2 este greșită", 
+      "C": " dacă afirmațiile de la 3 sunt ambele adevărate", 
+      "D": " dacă asocierile de la 1 si 2 sunt corecte", 
+      "E": " dacă afirmația de la 5 este adevǎratǎ"
+    }
   },
   {
     "numar": 124,
