@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Answers to Quiz JSON</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .upload-section {
+            margin-bottom: 25px;
+            padding: 20px;
+            border: 2px dashed #ddd;
+            border-radius: 8px;
+            background-color: #fafafa;
+        }
+        .upload-section h3 {
+            margin-top: 0;
+            color: #555;
+        }
+        input[type="file"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: white;
+        }
+        button {
+            background-color: #007bff;
+            color: white;
+            padding: 12px 24px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px 5px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        .status {
+            margin: 15px 0;
+            padding: 10px;
+            border-radius: 4px;
+            display: none;
+        }
+        .status.success {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .status.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        .preview {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+            border: 1px solid #e9ecef;
+        }
+        .preview h4 {
+            margin-top: 0;
+        }
+        .example {
+            background-color: #e7f3ff;
+            padding: 15px;
+            border-radius: 4px;
+            border-left: 4px solid #007bff;
+            margin-bottom: 20px;
+        }
+        .example h4 {
+            margin-top: 0;
+            color: #0056b3;
+        }
+        code {
+            background-color: #f8f9fa;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📝 Add Answers to Quiz JSON</h1>
+        
+        <div class="example">
+            <h4>📋 How to use:</h4>
+            <p>1. Upload your JSON file containing questions with structure: <code>{"numar": 1, "intrebare": "...", "variante": {...}}</code></p>
+            <p>2. Upload your answers file with format: <code>1.BD;2.ACD;3.ABE;...</code></p>
+            <p>3. Click "Process Files" to add answers to each question</p>
+            <p>4. Download the updated JSON file with <code>"raspuns"</code> field added to each question</p>
+        </div>
+
+        <div class="upload-section">
+            <h3>📄 Upload JSON File (Questions)</h3>
+            <input type="file" id="jsonFile" accept=".json" />
+        </div>
+
+        <div class="upload-section">
+            <h3>📝 Upload Answers File</h3>
+            <input type="file" id="answersFile" accept=".txt,.md" />
+        </div>
+
+        <div>
+            <button id="processBtn" onclick="processFiles()" disabled>🔄 Process Files</button>
+            <button id="downloadBtn" onclick="downloadResult()" disabled>💾 Download Updated JSON</button>
+        </div>
+
+        <div id="status" class="status"></div>
+
+        <div id="preview" class="preview" style="display: none;">
+            <h4>📊 Preview:</h4>
+            <div id="previewContent"></div>
+        </div>
+    </div>
+
+    <script>
+        let processedData = null;
+        let originalFilename = '';
+
+        // Check if both files are selected
+        function checkFiles() {
+            const jsonFile = document.getElementById('jsonFile').files[0];
+            const answersFile = document.getElementById('answersFile').files[0];
+            document.getElementById('processBtn').disabled = !(jsonFile && answersFile);
+        }
+
+        // Add event listeners for file inputs
+        document.getElementById('jsonFile').addEventListener('change', checkFiles);
+        document.getElementById('answersFile').addEventListener('change', checkFiles);
+
+        function showStatus(message, type) {
+            const statusDiv = document.getElementById('status');
+            statusDiv.textContent = message;
+            statusDiv.className = `status ${type}`;
+            statusDiv.style.display = 'block';
+        }
+
+        function parseAnswers(answersText) {
+            const answers = {};
+            // Handle both semicolon and newline separators
+            const entries = answersText.split(/[;\n]/).filter(entry => entry.trim());
+            
+            entries.forEach(entry => {
+                const match = entry.trim().match(/^(\d+)\.([A-E]+)$/);
+                if (match) {
+                    answers[parseInt(match[1])] = match[2];
+                }
+            });
+            
+            return answers;
+        }
+
+        async function processFiles() {
+            try {
+                const jsonFile = document.getElementById('jsonFile').files[0];
+                const answersFile = document.getElementById('answersFile').files[0];
+
+                originalFilename = jsonFile.name;
+
+                // Read JSON file
+                const jsonText = await jsonFile.text();
+                let questionsData;
+                
+                try {
+                    questionsData = JSON.parse(jsonText);
+                } catch (e) {
+                    throw new Error('Invalid JSON file format. Please check your JSON syntax.');
+                }
+
+                // Read answers file
+                const answersText = await answersFile.text();
+                const answers = parseAnswers(answersText);
+
+                // Process each question
+                let addedCount = 0;
+                questionsData.forEach(question => {
+                    if (question.numar && answers[question.numar]) {
+                        question.raspuns = answers[question.numar];
+                        addedCount++;
+                    }
+                });
+
+                processedData = questionsData;
+                
+                showStatus(`✅ Successfully processed ${addedCount} questions with answers!`, 'success');
+                document.getElementById('downloadBtn').disabled = false;
+
+                // Show preview
+                const preview = document.getElementById('preview');
+                const previewContent = document.getElementById('previewContent');
+                previewContent.innerHTML = `
+                    <p><strong>Total questions:</strong> ${questionsData.length}</p>
+                    <p><strong>Questions with answers added:</strong> ${addedCount}</p>
+                    <p><strong>Sample question with answer:</strong></p>
+                    <pre>${JSON.stringify(questionsData.find(q => q.raspuns), null, 2).substring(0, 300)}...</pre>
+                `;
+                preview.style.display = 'block';
+
+            } catch (error) {
+                showStatus(`❌ Error: ${error.message}`, 'error');
+                console.error('Processing error:', error);
+            }
+        }
+
+        function downloadResult() {
+            if (!processedData) {
+                showStatus('❌ No processed data available', 'error');
+                return;
+            }
+
+            const jsonString = JSON.stringify(processedData, null, 2);
+            const blob = new Blob([jsonString], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = originalFilename.replace('.json', '_with_answers.json');
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+
+            showStatus('📥 File downloaded successfully!', 'success');
+        }
+    </script>
+</body>
+</html> 

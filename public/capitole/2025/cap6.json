@@ -6,7 +6,8 @@
       "A": "Este unul dintre cele patru țesuturi de bază ale organismului (alături de epitelial,cartilaginos și fibros)",
       "B": "Este unul dintre cele patru tesuturi de bază ale organismului (alături de epitelial,conjunctiv și nervos)",
       "C": "Are ca unitate structurală sarcomerul (pentru fibra muscularǎ netedǎ)",
-      "D": "Are ca unitate structurală celula musculară, denumită și fibră muscularăE. Termenii celulă musculară și fibră musculară sunt considerați opuși în cadrul științelor anatomice"
+      "D": "Are ca unitate structurală celula musculară, denumită și fibră musculară",
+      "E": "Termenii celulă musculară și fibră musculară sunt considerați opuși în cadrul științelor anatomice"
     }
   },
   {
@@ -58,7 +59,8 @@
     "intrebare": "Alegeți afirmațiile false referitoare la țesutul muscular",
     "variante": {
       "A": "Mușchii striați scheletici și mușchii netezi au inervație voluntară, în timp ce miocardul are inervatie involuntarǎ",
-      "B": "Miocardul (muschiul cardiac) prezintă discuri intercalare cu jonctiuni de tip ,,gap\"C. Tesutul muscular striat scheletic efectuează contracții lente și rămân contractați o duratǎlungǎ de timp",
+      "B": "Miocardul (muschiul cardiac) prezintă discuri intercalare cu jonctiuni de tip ,,gap",
+      "C": "Tesutul muscular striat scheletic efectuează contracții lente și rămân contractați o duratǎlungǎ de timp",
       "D": "Este unul dintre cele patru țesuturi de bază ale organismului (epitelial, cartilaginos,glandular și muscular)",
       "E": "Muschiul scheletic și cel cardiac sunt mușchi striați"
     }
@@ -283,8 +285,9 @@
   },
   {
     "numar": 27,
-    "intrebare": "Care dintre asocierile de mai jos privind fibra musculară cardiacă sunt adevărate?A. Control voluntar-formă cilindrică cu ramificarea capetelor-nucleu situat central",
+    "intrebare": "Care dintre asocierile de mai jos privind fibra musculară cardiacă sunt adevărate?",
     "variante": {
+      "A": "Control voluntar-formă cilindrică cu ramificarea capetelor-nucleu situat central",
       "B": "Viteză intermediară de contracție în raport cu celelalte tipuri de fibre - uninucleatǎ-control involuntar",
       "C": "Formǎ alungită-localizare pericardicǎ-metabolism exclusiv anaerob",
       "D": "Striatii prezente-discuri intercalare-joncțiuni de tip ,,gap” la nivelul discurilor intercalare",
@@ -293,8 +296,9 @@
   },
   {
     "numar": 28,
-    "intrebare": "Care dintre răspunsurile de mai jos caracterizează mușchiul cardiac?A. Se găseste în structuravaselor de sânge ale inimii (vasele coronare)",
+    "intrebare": "Care dintre răspunsurile de mai jos caracterizează mușchiul cardiac?",
     "variante": {
+      "A": "Se găseste în structuravaselor de sânge ale inimii (vasele coronare)",
       "B": "Se gǎseste doar în structura inimii (a peretelui acesteia)",
       "C": "Fibrele sale (adesea ramificate) formează o adevărată rețea cu cele învecinate",
       "D": "Discurile intercalare leagă strâns porțiunile centrale ale fibrelor miocardice",

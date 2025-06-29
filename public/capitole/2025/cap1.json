@@ -4,7 +4,7 @@
     "intrebare": "Alegeți afirmațiile false dintre cele de mai jos",
     "variante": {
       "A": "Pentru a înțelege corpul uman este esențială cunoașterea anatomiei, a fiziologiei și a subdiviziunilor acestora",
-      "B": ",,Teoria celulară” reprezintă o subdiviziune a anatomiei macroscopice",
+      "B": ",,Teoria celulară reprezintă o subdiviziune a anatomiei macroscopice",
       "C": "Anatomia macroscopică studiază acele structuri ale corpului care sunt vizibile farǎajutorul microscopului (optic sau electronic)",
       "D": "Studiul celulelor și al funcțiilor acestora se numește artrologie",
       "E": "Anatomia dezvoltǎrii se ocupă cu dezvoltarea individului de la stadiul de ou fecundat până la cel de organism adult"
@@ -246,10 +246,10 @@
     "intrebare": "Alegeți succesiunile de afirmații adevărate dintre cele enumerate mai jos:",
     "variante": {
       "A": "În pozitie anatomică, palmele sunt orientate spre lateral. Termenul directional folosit pentru a descrie partea din față a corpului, de aceeasi parte cu abdomenul,este,,posterior\"",
-      "B": "Termenul ,,ipsilateral\" se referă la structuri aflate de aceeasi parte a corpului. Termenul ,,superior” definește poziția direcționată spre cap(cranialǎ)",
-      "C": "În locul termenului,,superior”se utilizează frecvent,,cervical” sau,,cranial”.Oprirea unei hemoragii implică un mecanism de feed-back negativ, la fel cu expulzia placentei ulterior expulziei fetale",
-      "D": "Termenul,,posterior\" se referǎ la partea din spate a corpului, acest termen poate fi înlocuit cu,,dorsal\".Supradiafragmatic, în mediastin, esofagul este situat posterior față de trahee",
-      "E": "Termenul ,,caudal- alternativă pentru termenul ,,inferior”, este utilizat si în anatomia umanǎ.Segmentele colonului pot fi descrise ca ,,ipsilaterale” dacă ne referim la colonul descendent și colonul sigmoid sau ,,controlaterale” dacă ne referim la colonul ascendent și colonul descendent"
+      "B": "Termenul ,,ipsilateral se referă la structuri aflate de aceeasi parte a corpului. Termenul ,,superior definește poziția direcționată spre cap(cranialǎ)",
+      "C": "În locul termenului,,superior se utilizează frecvent,,cervical sau,,cranial.Oprirea unei hemoragii implică un mecanism de feed-back negativ, la fel cu expulzia placentei ulterior expulziei fetale",
+      "D": "Termenul,,posterior\" se referǎ la partea din spate a corpului, acest termen poate fi înlocuit cu,,dorsal.Supradiafragmatic, în mediastin, esofagul este situat posterior față de trahee",
+      "E": "Termenul ,,caudal- alternativă pentru termenul ,,inferior, este utilizat si în anatomia umanǎ.Segmentele colonului pot fi descrise ca ,,ipsilaterale dacă ne referim la colonul descendent și colonul sigmoid sau ,,controlaterale dacă ne referim la colonul ascendent și colonul descendent"
     }
   },
   {
@@ -257,10 +257,10 @@
     "intrebare": "Care dintre următoarele afirmații privind termenii directionali sunt false?",
     "variante": {
       "A": "În nomenclatura anatomică, se consideră că abdomenul (subdiviziunea superioarǎ a cavitǎții abdomino-pelviene) este situat inferior față de torace",
-      "B": "Termenul ,proximal\" se referă la un punct apropiat de locul unde o extremitate se ataseazǎ de trunchi",
-      "C": "Termenul,,ipsilateral\" se referă la structuri aflate de partea opusă a corpului",
-      "D": "Termenul ,,controlateral\" se referă la structuri aflate de aceeasi parte a corpului",
-      "E": "Termenul,,lateral\" se referă la o poziție situată pe linia mediană a corpului"
+      "B": "Termenul ,proximal se referă la un punct apropiat de locul unde o extremitate se ataseazǎ de trunchi",
+      "C": "Termenul,,ipsilateral se referă la structuri aflate de partea opusă a corpului",
+      "D": "Termenul ,,controlateral se referă la structuri aflate de aceeasi parte a corpului",
+      "E": "Termenul,,lateral se referă la o poziție situată pe linia mediană a corpului"
     }
   },
   {
@@ -324,7 +324,7 @@
     "variante": {
       "A": "Inima,esofagul, traheea și bronhiile primare sunt localizate în mediastin,supradiafragmatic",
       "B": "Cavitatea abdomino-pelviană este separată de cavitatea toracică prin diafragmă, muschi respirator, de mari dimensiuni, cu formă de cupolǎ",
-      "C": "Cavitatea abdomino-pelviană este mai des întâlnitǎ sub denumirea de ,,cavitate retroperitoneală” și conține organele interne abdominale și pelviene",
+      "C": "Cavitatea abdomino-pelviană este mai des întâlnitǎ sub denumirea de ,,cavitate retroperitoneală și conține organele interne abdominale și pelviene",
       "D": "Stomacul este situat în subdiviziunea abdominală a cavității abdomino-pelviene",
       "E": "Regiunea ombilicală se aflǎ în centrul abdomenului, iar regiunea epigastricǎ se localizează inferior de aceasta"
     }
@@ -577,7 +577,7 @@
     "variante": {
       "A": "Reprezintǎ, alături de citoplasmă, un component de bază al celulei",
       "B": "Poate sǎ contină cantități mari dintr-o substanță de natură glicoproteicǎ,denumitǎcolesterol",
-      "C": "Datorită faptului că unul dintre capetele moleculelor fosfolipidice este hidrofil iar celǎlalt este hidrofob,acestea se organizează în dublu strat cu aspect de ,,sandwich”",
+      "C": "Datorită faptului că unul dintre capetele moleculelor fosfolipidice este hidrofil iar celǎlalt este hidrofob,acestea se organizează în dublu strat cu aspect de ,,sandwich",
       "D": "Fosfolipidele par să plutească într-un strat proteic în membrană, conferindu-i acesteia caracterul fluid",
       "E": "Conține cantități mari de colesterol, un steroid prezent în grăsimile de origine animală"
     }
@@ -1301,8 +1301,8 @@
     "intrebare": "Despre reproducerea celulară și ciclul celular este adevǎrat cǎ",
     "variante": {
       "A": "În anumite tesuturi ae corpului uman celulele se divid frecvent (tract gastrointestinal),în altele se divid mai rar",
-      "B": "Ciclul celular are două etape importante: interfaza (G1-S-G2) și mitoza (profaza-metafaza-anafazǎ-telofazǎ)
-      C. Ciclul celular poate fi definit ca repetarea cesterii si reproducerii celulare",
+      "B": "Ciclul celular are două etape importante: interfaza (G1-S-G2) și mitoza (profaza-metafaza-anafazǎ-telofazǎ)",
+      "C": "Ciclul celular poate fi definit ca repetarea cesterii si reproducerii celulare",
       "D": "Una dintre etapele ciclului celular este interfaza formatǎ din patru faze: profazǎ,metafazǎ,anafazǎ si telofazǎ",
       "E": "Nucleul,prin structura și conținutul lui, este direct implicat în reproducerea celularǎ"
     }
@@ -1534,7 +1534,7 @@
       "A": "Prin ciclu celular se întelege reproducerea sexuatǎ a celulei procariote",
       "B": "Pierderea controlului asupra mitozei poate să conducă la apariția cancerului",
       "C": "În celulele umane (exceptând gameții) sunt 23 cromozomi,fiecare cu câte o cromatida",
-      "D": "În anafază, cromozomii sunt tractați spre polii opuși ai celulei cu ajutorul filamentelor fusului de diviziune și adoptă forma literei ,,V”",
+      "D": "În anafază, cromozomii sunt tractați spre polii opuși ai celulei cu ajutorul filamentelor fusului de diviziune și adoptă forma literei ,,V",
       "E": "Mitoza este una dintre perioadele principale ale ciclului celular și cuprinde mai multe etape succesive"
     }
   },
@@ -1665,7 +1665,7 @@
     "variante": {
       "A": "Cromozomii sunt tractați spre un singur pol al celulei",
       "B": "Cromozomii sunt tractați spre polii opuși ai celulei",
-      "C": "Pe mǎsură ce migrează spre poli, cromozomii iau forma literei ,,V”",
+      "C": "Pe mǎsură ce migrează spre poli, cromozomii iau forma literei ,,V",
       "D": "Cromozomii sunt atașați de filamentele fusului de diviziune, în zona centromerului",
       "E": "Cromozomii sunt atașați pe placa ecuatorialǎ"
     }
@@ -1677,8 +1677,8 @@
       "A": "Se desfasoarǎ înaintea metafazei",
       "B": "Ca etapă a mitozei este urmată de telofază și precedată de metafazǎ",
       "C": "Cromozomii cu o singură cromatidă se îndepărtează unul de celǎlalt, fiind atasati filamentelor fusului de diviziune",
-      "D": "Pentru că unul dintre telomere rămâne în urmă, cromozomii se deplasează spre polii celulei,luând forma literei,,Y”",
-      "E": "Pe mǎsurǎ ce migrează, cromozomii iau forma literei ,,V”, fiind pe toată lungimea lor atașați de filamentele fusului de diviziune"
+      "D": "Pentru că unul dintre telomere rămâne în urmă, cromozomii se deplasează spre polii celulei,luând forma literei,,Y",
+      "E": "Pe mǎsurǎ ce migrează, cromozomii iau forma literei ,,V', fiind pe toată lungimea lor atașați de filamentele fusului de diviziune"
     }
   },
   {
@@ -1928,7 +1928,7 @@
     "intrebare": "Alegeti afirmațiile adevărate dintre cele de mai jos:",
     "variante": {
       "A": "ARN-polimeraza se leagă de una dintre catenele dublului helix al ADN, la locul unde gena va fi exprimată, declansând transcriptia",
-      "B": "Procesul de translație constă în ,,decodificarea” secvenței de nucleotide a ARNm, într-o secvența de aminoacizi din proteinǎ",
+      "B": "Procesul de translație constă în ,,decodificarea'' secvenței de nucleotide a ARNm, într-o secvența de aminoacizi din proteinǎ",
       "C": "Transcriptia are loc în citoplasma celulei",
       "D": "Translatia se desfasoară în interiorul lizozomilor",
       "E": "ADN-ul (acidul dezoxiribonucleic) se găsește majoritar în nucleu, dar este prezent și în mitocondrie"
@@ -1971,7 +1971,7 @@
     "numar": 180,
     "intrebare": "Care dintre informațiile de mai jos despre sinteza proteică sunt adevǎrate:",
     "variante": {
-      "A": "Translatia (,,decodificarea\" codului genetic într-o secvență de aminoacizi) precede transcriptia",
+      "A": "Translatia (,,decodificarea'' codului genetic într-o secvență de aminoacizi) precede transcriptia",
       "B": "O catenă de ARNm este sintetizată prin transcripție de pe ADN (acidul dezoxiribo.nucleic), conform principiului complementarității bazelor azotate",
       "C": "ARNm prezintă un anticodon care întâlnește codonul de pe ARNt, permitânc împerecherea bazelor azotate complementare",
       "D": "Transcriptia are loc în nucleul celulei, fiind urmată de deplasarea ARNm în citoplasmă șde atasarea lui la ribozomi",
@@ -1984,7 +1984,7 @@
     "variante": {
       "A": "Secvență în ADN (citozina-timină-adenină)-transcripție-secvență în ARNm (guaninǎadeninǎ-uracil)",
       "B": "ARN de reglare - copierea codului genetic al ARNm prin transcriptie- transferu informatiei pe ARNt",
-      "C": "Codon ,,stop”- codon care codifică un aminoacid - codon care continuǎ alungire:lantului proteic",
+      "C": "Codon ,,stop' codon care codifică un aminoacid - codon care continuǎ alungire:lantului proteic",
       "D": "ARNt-molecule libere în citoplasma celulelor și care contin anticodonul-atasare d aminoacizi specifici și transportul lor la ribozomi",
       "E": "Introni- secvente intercalate necodante ale ARNm - îndepartare când se finalizeaz structura moleculei de ARNm"
     }
@@ -2226,7 +2226,7 @@
     "variante": {
       "A": "Sunt organite intracitoplasmatice în care are loc degradarea sărurilor minerale",
       "B": "La nivelul lor are loc sinteza moleculelor de ATP (adenozin-trifosfat), care reprezintǎ o sursă de energie pentru toate celulele organismului",
-      "C": "La nivelul lor are loc digestia celulară, din acest motiv fiind denumite și,,generatoarele celulei”",
+      "C": "La nivelul lor are loc digestia celulară, din acest motiv fiind denumite și,,generatoarele celulei"",",
       "D": "Pentru producerea de ATP (adenozin-trifosfat), mitocondriile nu au nevoie de prezenta oxigenului",
       "E": "Sunt sediul glicolizei anaerobe, furnizând astfel o mare cantitate de energie"
     }
