@@ -1,25 +1,31 @@
 import React, { useState, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
+import NavBar from './components/NavBar';
 import './App.css';
 import QuizContainer from './components/QuizContainer';
 import Statistics from './components/Statistics';
 import LoadingOverlay from './components/LoadingOverlay';
 import Simulation from './components/Simulation';
 import CustomSimulation from './components/CustomSimulation';
-import FutureImplementationsModal from './components/FutureImplementationsModal';
 import { Analytics } from '@vercel/analytics/react';
 import { analytics } from './firebase';
 import { logEvent } from 'firebase/analytics';
-import './styles/InfoButton.css';
+import { useAuth } from './context/AuthContext';
 
 const isElectron = window?.electron !== undefined;
 
 function App() {
+  const { user } = useAuth();
+  const location = useLocation();
+
   // State for app mode and chapter selection
-  const [appMode, setAppMode] = useState('quiz'); // 'quiz', 'simulation', or 'customSimulation'
+  const [appMode, setAppMode] = useState(
+    () => location.state?.mode || 'quiz'
+  ); // 'quiz', 'simulation', or 'customSimulation'
   const [activeChapter, setActiveChapter] = useState('cap1');
   const [selectedYear] = useState('2025'); // Fixed to 2025
   const [randomizeAnswers, setRandomizeAnswers] = useState(true); // Default to randomized answers
-  const [modalOpen, setModalOpen] = useState(false); // State for modal visibility
+  const [correctAnswerFilter, setCorrectAnswerFilter] = useState(new Set()); // empty = no filter
   
   // State for question sets
   const [questions, setQuestions] = useState([]);
@@ -350,6 +356,7 @@ function App() {
   // Update switchChapter function to handle new chapters
   const switchChapter = (chapter) => {
     setActiveChapter(chapter);
+    setCorrectAnswerFilter(new Set());
     switch(chapter) {
       case 'cap1':
         setFilteredQuestions(questions);
@@ -613,10 +620,6 @@ function App() {
     }
   }, []);
 
-  // Function to toggle modal visibility
-  const toggleModal = () => {
-    setModalOpen(!modalOpen);
-  };
 
   if (isLoading) {
     const loadedChapters = Object.values(chapterLoadingStates).filter(state => !state).length;
@@ -740,46 +743,37 @@ function App() {
       currentQuestionSet = [];
   }
 
+  // Count questions per correct-answer count for the current chapter (for chip badges)
+  const correctCountBuckets = {};
+  currentQuestionSet.forEach(q => {
+    const ans = currentAnswers[q.numar];
+    if (ans) {
+      const n = ans.length;
+      correctCountBuckets[n] = (correctCountBuckets[n] || 0) + 1;
+    }
+  });
+
+  // Apply correct-answer-count filter
+  const displayedQuestions = correctAnswerFilter.size > 0
+    ? currentQuestionSet.filter(q => {
+        const ans = currentAnswers[q.numar];
+        return ans && correctAnswerFilter.has(ans.length);
+      })
+    : currentQuestionSet;
+
+  const toggleCountFilter = (n) => {
+    setCorrectAnswerFilter(prev => {
+      const next = new Set(prev);
+      if (next.has(n)) next.delete(n); else next.add(n);
+      return next;
+    });
+  };
+
   return (
     <div className="App">
       <Analytics />
       
-      {/* Info Button */}
-      <button className="info-button pulse-animation" onClick={toggleModal}>i</button>
-      
-      {/* Future Implementations Modal */}
-      <FutureImplementationsModal 
-        isOpen={modalOpen}
-        onClose={() => setModalOpen(false)}
-      />
-      
-      <header className="App-header">
-        <h1>Grile Admitere Timisoara Biologie 2025</h1>
-        <a href="https://revolut.me/dragoscdk" target="_blank" rel="noopener noreferrer" className="donate-button">
-          Donează
-        </a>
-        
-        <div className="app-mode-selector">
-          <button 
-            className={`mode-btn ${appMode === 'quiz' ? 'active' : ''}`}
-            onClick={() => switchAppMode('quiz')}
-          >
-            Grile
-          </button>
-          <button 
-            className={`mode-btn ${appMode === 'simulation' ? 'active' : ''}`}
-            onClick={() => switchAppMode('simulation')}
-          >
-            Simulare Examen
-          </button>
-          <button 
-            className={`mode-btn ${appMode === 'customSimulation' ? 'active' : ''}`}
-            onClick={() => switchAppMode('customSimulation')}
-          >
-            Simulare Personalizată
-          </button>
-        </div>
-      </header>
+      <NavBar activeItem={appMode} onModeChange={switchAppMode} />
       
       {appMode === 'quiz' && (
         <div>
@@ -814,10 +808,33 @@ function App() {
                 </span>
               </div>
             </div>
+
+            <div className="correct-count-filter">
+              <p className="toggle-description">Răspunsuri corecte:</p>
+              <div className="correct-count-chips">
+                <button
+                  className={`count-chip${correctAnswerFilter.size === 0 ? ' active' : ''}`}
+                  onClick={() => setCorrectAnswerFilter(new Set())}
+                >
+                  Toate
+                  <span className="chip-badge">{currentQuestionSet.length}</span>
+                </button>
+                {[1, 2, 3, 4, 5].map(n => correctCountBuckets[n] > 0 && (
+                  <button
+                    key={n}
+                    className={`count-chip${correctAnswerFilter.has(n) ? ' active' : ''}`}
+                    onClick={() => toggleCountFilter(n)}
+                  >
+                    {n} {n === 1 ? 'corect' : 'corecte'}
+                    <span className="chip-badge">{correctCountBuckets[n]}</span>
+                  </button>
+                ))}
+              </div>
+            </div>
           </div>
           
           <QuizContainer
-            questions={currentQuestionSet}
+            questions={displayedQuestions}
             filteredQuestions={filteredQuestions}
             correctAnswers={currentAnswers}
             bookmarkedQuestions={bookmarkedQuestions}

@@ -21,6 +21,7 @@ const CustomSimulation = ({
   const [simulationTime, setSimulationTime] = useState(DEFAULT_SIMULATION_TIME_MINUTES);
   const [questionsCount, setQuestionsCount] = useState(DEFAULT_SIMULATION_QUESTIONS_COUNT);
   const [selectedChapters, setSelectedChapters] = useState({});
+  const [correctAnswerFilter, setCorrectAnswerFilter] = useState(new Set());
   const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [userAnswers, setUserAnswers] = useState({});
@@ -128,9 +129,13 @@ const CustomSimulation = ({
       return null;
     }
     
-    // Calculate total available questions from selected chapters
+    // Calculate total available questions from selected chapters (respecting count filter)
     const availableQuestions = selectedChapterKeys.reduce((acc, chapter) => {
-      return acc + allChaptersData[chapter].length;
+      if (correctAnswerFilter.size === 0) return acc + allChaptersData[chapter].length;
+      return acc + allChaptersData[chapter].filter(q => {
+        const ans = correctAnswersData[chapter]?.[q.numar];
+        return ans && correctAnswerFilter.has(ans.length);
+      }).length;
     }, 0);
     
     // Check if we have enough questions
@@ -150,7 +155,13 @@ const CustomSimulation = ({
     
     // Take questions from each selected chapter
     selectedChapterKeys.forEach(chapter => {
-      const chapterQuestions = allChaptersData[chapter];
+      const allChapterQs = allChaptersData[chapter];
+      const chapterQuestions = correctAnswerFilter.size > 0
+        ? allChapterQs.filter(q => {
+            const ans = correctAnswersData[chapter]?.[q.numar];
+            return ans && correctAnswerFilter.has(ans.length);
+          })
+        : allChapterQs;
       
       // Calculate proportional questions to take
       const proportion = chapterQuestions.length / totalQuestionsInSelectedChapters;
@@ -182,7 +193,7 @@ const CustomSimulation = ({
     
     // Shuffle the combined array to mix questions from different chapters
     return shuffleArray(selectedQuestions);
-  }, [allChaptersData, selectedChapters, questionsCount]);
+  }, [allChaptersData, correctAnswersData, selectedChapters, questionsCount, correctAnswerFilter]);
   
   // Initialize simulation
   const startSimulation = () => {
@@ -325,10 +336,38 @@ const CustomSimulation = ({
     return newArray;
   };
   
-  // Calculate total available questions
+  const toggleCountFilter = (n) => {
+    setCorrectAnswerFilter(prev => {
+      const next = new Set(prev);
+      if (next.has(n)) next.delete(n); else next.add(n);
+      return next;
+    });
+  };
+
+  // Count questions per correct-answer count across all selected chapters
+  const correctCountBuckets = {};
+  Object.entries(allChaptersData)
+    .filter(([ch]) => selectedChapters[ch])
+    .forEach(([ch, qs]) => {
+      qs.forEach(q => {
+        const ans = correctAnswersData[ch]?.[q.numar];
+        if (ans) {
+          const n = ans.length;
+          correctCountBuckets[n] = (correctCountBuckets[n] || 0) + 1;
+        }
+      });
+    });
+
+  // Calculate total available questions (respecting count filter)
   const totalAvailableQuestions = Object.entries(allChaptersData)
     .filter(([chapter]) => selectedChapters[chapter])
-    .reduce((sum, [_, questions]) => sum + questions.length, 0);
+    .reduce((sum, [ch, qs]) => {
+      if (correctAnswerFilter.size === 0) return sum + qs.length;
+      return sum + qs.filter(q => {
+        const ans = correctAnswersData[ch]?.[q.numar];
+        return ans && correctAnswerFilter.has(ans.length);
+      }).length;
+    }, 0);
   
   // Calculate selected chapters count
   const selectedChaptersCount = Object.values(selectedChapters).filter(Boolean).length;
@@ -371,6 +410,32 @@ const CustomSimulation = ({
                 </div>
               </div>
               
+              <div className="setup-section">
+                <h3>Număr răspunsuri corecte</h3>
+                <p className="setup-section-hint">Neselectat = toate întrebările</p>
+                <div className="correct-count-chips">
+                  <button
+                    className={`count-chip${correctAnswerFilter.size === 0 ? ' active' : ''}`}
+                    onClick={() => setCorrectAnswerFilter(new Set())}
+                  >
+                    Toate
+                    <span className="chip-badge">
+                      {Object.values(correctCountBuckets).reduce((a, b) => a + b, 0)}
+                    </span>
+                  </button>
+                  {[1, 2, 3, 4, 5].map(n => correctCountBuckets[n] > 0 && (
+                    <button
+                      key={n}
+                      className={`count-chip${correctAnswerFilter.has(n) ? ' active' : ''}`}
+                      onClick={() => toggleCountFilter(n)}
+                    >
+                      {n} {n === 1 ? 'corect' : 'corecte'}
+                      <span className="chip-badge">{correctCountBuckets[n]}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+
               <div className="setup-section chapters-selection">
                 <h3>Selectare Capitole</h3>
                 <div className="chapter-selection-actions">

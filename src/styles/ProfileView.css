@@ -1,0 +1,390 @@
+/* ═══════════════════════════════════════
+   PROFILE / SETTINGS VIEW
+═══════════════════════════════════════ */
+
+.profile-page {
+  min-height: 100vh;
+  background-color: var(--surface);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Re-use dashboard nav styles — same component */
+
+/* ── Content ── */
+.profile-content {
+  flex: 1;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 36px 32px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.profile-page-title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 26px;
+  font-weight: 800;
+  color: var(--on-surface);
+  margin: 0 0 4px;
+  letter-spacing: -0.4px;
+}
+
+.profile-page-subtitle {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--on-surface-variant);
+  margin: 0;
+}
+
+/* ── Profile header card ── */
+.profile-header-card {
+  background-color: var(--surface-container-low);
+  border-radius: 20px;
+  padding: 28px 32px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  flex-wrap: wrap;
+}
+
+.profile-avatar-large {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--primary-container));
+  color: var(--on-primary);
+  font-family: 'Manrope', sans-serif;
+  font-size: 28px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  box-shadow: 0 4px 20px rgba(0, 88, 190, 0.25);
+}
+
+.profile-header-info {
+  flex: 1;
+}
+
+.profile-header-name {
+  font-family: 'Manrope', sans-serif;
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--on-surface);
+  margin: 0 0 4px;
+}
+
+.profile-header-email {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--on-surface-variant);
+  margin: 0 0 12px;
+}
+
+.profile-header-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 12px;
+  background-color: var(--secondary-container);
+  color: var(--on-surface-variant);
+  border-radius: 999px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+}
+
+/* ── Section cards ── */
+.profile-section {
+  background-color: var(--surface-container-lowest);
+  border-radius: 20px;
+  padding: 24px 28px;
+  box-shadow: 0 2px 16px rgba(25, 28, 30, 0.05);
+}
+
+.profile-section-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.profile-section-header .material-symbols-outlined {
+  color: var(--primary);
+  font-size: 22px;
+}
+
+.profile-section-header h2 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--on-surface);
+  margin: 0;
+}
+
+/* Setting rows */
+.profile-setting-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  background-color: var(--surface-container-low);
+  border-radius: 14px;
+  margin-bottom: 10px;
+  gap: 16px;
+  transition: background-color 0.2s;
+}
+
+.profile-setting-row:last-child {
+  margin-bottom: 0;
+}
+
+.profile-setting-row:hover {
+  background-color: var(--surface-container);
+}
+
+.profile-setting-left {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex: 1;
+  min-width: 0;
+}
+
+.profile-setting-icon {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background-color: var(--surface-container-lowest);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  color: var(--primary);
+  box-shadow: 0 1px 8px rgba(25, 28, 30, 0.06);
+}
+
+.profile-setting-icon .material-symbols-outlined {
+  font-size: 20px;
+}
+
+.profile-setting-text {
+  min-width: 0;
+}
+
+.profile-setting-title {
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--on-surface);
+  margin-bottom: 2px;
+}
+
+.profile-setting-desc {
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--on-surface-variant);
+}
+
+/* Toggle switch (reuse from App.css pattern) */
+.profile-toggle {
+  position: relative;
+  display: inline-block;
+  width: 44px;
+  height: 22px;
+  flex-shrink: 0;
+}
+
+.profile-toggle input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.profile-toggle-slider {
+  position: absolute;
+  cursor: pointer;
+  inset: 0;
+  background-color: var(--surface-container-high);
+  transition: 0.3s;
+  border-radius: 22px;
+}
+
+.profile-toggle-slider::before {
+  position: absolute;
+  content: '';
+  height: 16px;
+  width: 16px;
+  left: 3px;
+  bottom: 3px;
+  background-color: var(--outline);
+  transition: 0.3s;
+  border-radius: 50%;
+}
+
+.profile-toggle input:checked + .profile-toggle-slider {
+  background: linear-gradient(135deg, var(--primary), var(--primary-container));
+}
+
+.profile-toggle input:checked + .profile-toggle-slider::before {
+  background-color: var(--on-primary);
+  transform: translateX(22px);
+}
+
+/* Editable name field */
+.profile-edit-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.profile-edit-row {
+  display: flex;
+  gap: 10px;
+  align-items: flex-end;
+}
+
+.profile-edit-field {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.profile-edit-field label {
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--on-surface-variant);
+}
+
+.profile-edit-field input {
+  padding: 11px 14px;
+  border: none;
+  border-radius: 12px;
+  background-color: var(--surface-container-low);
+  color: var(--on-surface);
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  outline: none;
+  transition: box-shadow 0.2s, background-color 0.2s;
+}
+
+.profile-edit-field input:focus {
+  background-color: var(--surface-container-lowest);
+  box-shadow: 0 0 0 2px rgba(0, 88, 190, 0.22);
+}
+
+.profile-edit-field input:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.profile-save-btn {
+  padding: 11px 20px;
+  background: linear-gradient(135deg, var(--primary), var(--primary-container));
+  color: var(--on-primary);
+  border: none;
+  border-radius: 12px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: box-shadow 0.2s, transform 0.15s;
+  box-shadow: 0 4px 14px rgba(0, 88, 190, 0.2);
+  white-space: nowrap;
+}
+
+.profile-save-btn:hover {
+  box-shadow: 0 6px 20px rgba(0, 88, 190, 0.35);
+  transform: translateY(-1px);
+}
+
+.profile-save-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.profile-save-success {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  background-color: rgba(74, 225, 118, 0.12);
+  color: var(--tertiary);
+  border-radius: 10px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+/* ── Danger zone ── */
+.profile-danger-section {
+  background-color: rgba(186, 26, 26, 0.04);
+  border-radius: 20px;
+  padding: 24px 28px;
+}
+
+.profile-danger-section .profile-section-header .material-symbols-outlined {
+  color: var(--error);
+}
+
+.profile-danger-section .profile-section-header h2 {
+  color: var(--error);
+}
+
+.btn-danger {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 11px 22px;
+  background-color: rgba(186, 26, 26, 0.08);
+  color: var(--error);
+  border: none;
+  border-radius: 12px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.btn-danger:hover {
+  background-color: rgba(186, 26, 26, 0.16);
+}
+
+/* ── Responsive ── */
+@media (max-width: 700px) {
+  .profile-content {
+    padding: 24px 16px 48px;
+  }
+
+  .profile-header-card {
+    padding: 20px;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .profile-section {
+    padding: 20px;
+  }
+
+  .profile-edit-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .profile-save-btn {
+    width: 100%;
+  }
+}

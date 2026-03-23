@@ -1,11 +1,181 @@
 .simulation-container {
-  background-color: white;
-  border-radius: 8px;
-  padding: 25px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: var(--surface-container-lowest);
+  border-radius: 20px;
+  padding: 28px;
+  box-shadow: 0 2px 32px rgba(25, 28, 30, 0.05);
+  margin: 20px auto;
+  width: 100%;
+  max-width: 900px;
+}
+
+/* ── Intro screen ── */
+.simulation-intro {
+  background-color: var(--surface-container-lowest);
+  border-radius: 20px;
+  padding: 36px 32px;
+  box-shadow: 0 2px 32px rgba(25, 28, 30, 0.05);
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.simulation-intro h2 {
+  font-family: 'Manrope', sans-serif;
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--on-surface);
+  margin-bottom: 8px;
+}
+
+.simulation-info {
+  background-color: var(--surface-container-low);
+  border-radius: 16px;
+  padding: 20px;
+  margin: 20px 0;
+  text-align: left;
+}
+
+.simulation-info p {
+  margin: 10px 0;
+  color: var(--on-surface-variant);
+  font-size: 14px;
+}
+
+.simulation-info ul {
+  margin: 12px 0;
+  padding-left: 20px;
+  text-align: left;
+}
+
+.simulation-info li {
+  margin: 6px 0;
+  color: var(--on-surface-variant);
+  font-size: 14px;
+}
+
+.simulation-info strong {
+  color: var(--on-surface);
+  font-family: 'Manrope', sans-serif;
+}
+
+.simulation-actions {
+  margin-top: 24px;
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* ── In-exam header ── */
+.simulation-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.progress-info {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex-grow: 1;
+}
+
+.progress-info span {
+  font-family: 'Manrope', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--on-surface-variant);
+  letter-spacing: 0.04em;
+}
+
+/* Progress bar */
+.progress-bar {
+  height: 4px;
+  background-color: var(--surface-container-high);
+  border-radius: 999px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary), var(--primary-container));
+  border-radius: 999px;
+  transition: width 0.4s ease;
+}
+
+/* Finish button */
+.btn-finish {
+  background-color: rgba(186, 26, 26, 0.1);
+  color: var(--error);
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 9px 18px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  flex-shrink: 0;
+}
+
+.btn-finish:hover {
+  background-color: rgba(186, 26, 26, 0.18);
+}
+
+/* Question block */
+.simulation-question {
   margin: 20px 0;
 }
 
+.question-status {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.answered-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 12px;
+  font-size: 12px;
+  font-weight: 700;
+  font-family: 'Manrope', sans-serif;
+  color: var(--tertiary);
+  background-color: rgba(74, 225, 118, 0.12);
+  border-radius: 999px;
+}
+
+/* Navigation */
+.simulation-navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 24px;
+  gap: 12px;
+}
+
+/* Chapter badge */
+.chapter-indicator {
+  display: inline-flex;
+  align-items: center;
+  background: linear-gradient(135deg, var(--primary), var(--primary-container));
+  color: var(--on-primary);
+  padding: 5px 14px;
+  border-radius: 999px;
+  margin-bottom: 16px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  box-shadow: 0 3px 12px rgba(0, 88, 190, 0.2);
+}
+
+/* Two-column layout for simulation screens */
 .two-column-layout {
   display: flex;
   flex-direction: column;
@@ -17,191 +187,46 @@
   width: 100%;
 }
 
-/* For tablets and desktops */
 @media (min-width: 992px) {
   .two-column-layout {
     flex-direction: row;
     align-items: flex-start;
   }
-  
+
   .left-column {
     flex: 1;
-    margin-right: 20px;
+    margin-right: 10px;
   }
-  
+
   .right-column {
     flex: 1;
-    margin-left: 20px;
-  }
-}
-
-.simulation-intro {
-  background-color: white;
-  border-radius: 8px;
-  padding: 25px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  text-align: center;
-}
-
-.simulation-intro h2 {
-  color: #343a40;
-  margin-bottom: 25px;
-  font-size: 24px;
-}
-
-.simulation-info {
-  margin: 20px 0;
-  text-align: left;
-  max-width: 100%;
-  margin: 0 auto;
-}
-
-.simulation-info p {
-  margin: 15px 0;
-  color: #495057;
-  font-size: 16px;
-}
-
-.simulation-info ul {
-  margin: 20px 0;
-  padding-left: 20px;
-  text-align: left;
-}
-
-.simulation-info li {
-  margin: 8px 0;
-  color: #495057;
-}
-
-.simulation-info strong {
-  color: #343a40;
-}
-
-.simulation-actions {
-  margin-top: 30px;
-  display: flex;
-  justify-content: center;
-  gap: 15px;
-}
-
-.simulation-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin: 20px 0;
-}
-
-.progress-info {
-  display: flex;
-  flex-direction: column;
-  gap: 5px;
-  flex-grow: 1;
-  margin-right: 20px;
-}
-
-.progress-info span {
-  font-size: 14px;
-  color: #495057;
-}
-
-.progress-bar {
-  height: 8px;
-  background-color: #e9ecef;
-  border-radius: 4px;
-  overflow: hidden;
-  width: 100%;
-}
-
-.progress-fill {
-  height: 100%;
-  background-color: #007bff;
-  transition: width 0.3s ease;
-}
-
-.btn-finish {
-  background-color: #dc3545;
-  color: white;
-  font-size: 14px;
-  padding: 8px 16px;
-}
-
-.btn-finish:hover {
-  background-color: #c82333;
-}
-
-.simulation-question {
-  margin: 25px 0;
-}
-
-.question-status {
-  display: flex;
-  justify-content: flex-end;
-  margin-top: 10px;
-}
-
-.answered-indicator {
-  display: inline-block;
-  padding: 4px 8px;
-  font-size: 14px;
-  color: #28a745;
-  background-color: rgba(40, 167, 69, 0.1);
-  border-radius: 4px;
-}
-
-.simulation-navigation {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 30px;
-}
-
-/* Mobile responsive styles */
-@media (max-width: 991px) {
-  .simulation-intro, 
-  .simulation-stats {
-    margin-bottom: 20px;
+    margin-left: 10px;
   }
 }
 
 @media (max-width: 768px) {
   .simulation-navigation {
     flex-direction: column;
-    gap: 10px;
   }
-  
+
   .simulation-navigation button {
     width: 100%;
   }
-  
+
   .simulation-header {
     flex-direction: column;
     align-items: stretch;
   }
-  
+
   .btn-finish {
-    margin-top: 15px;
     width: 100%;
   }
-  
-  .progress-info {
-    margin-right: 0;
-    margin-bottom: 10px;
-  }
-  
+
   .simulation-actions {
     flex-direction: column;
   }
-  
+
   .simulation-actions button {
     width: 100%;
   }
 }
-
-.chapter-indicator {
-  background-color: #4CAF50;
-  color: white;
-  padding: 8px 16px;
-  border-radius: 4px;
-  margin-bottom: 16px;
-  display: inline-block;
-  font-weight: 500;
-} 

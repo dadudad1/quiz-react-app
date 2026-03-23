@@ -1,66 +1,83 @@
 .statistics {
-  background-color: white;
-  border-radius: 8px;
-  padding: 20px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  background-color: var(--surface-container-lowest);
+  border-radius: 20px;
+  padding: 28px;
+  box-shadow: 0 2px 32px rgba(25, 28, 30, 0.05);
   margin-bottom: 20px;
+  width: 900px;
+  max-width: 100%;
 }
 
 .statistics h2 {
-  margin-top: 0;
-  margin-bottom: 15px;
-  font-size: 18px;
-  color: #343a40;
+  font-family: 'Manrope', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--on-surface);
+  margin: 0 0 20px;
+  letter-spacing: -0.1px;
 }
 
+/* Stat rows — no divider lines, use spacing instead */
 .stat-item {
   display: flex;
   justify-content: space-between;
-  margin-bottom: 10px;
-  padding: 8px 0;
-  border-bottom: 1px solid #eee;
+  align-items: center;
+  padding: 10px 16px;
+  background-color: var(--surface-container-low);
+  border-radius: 12px;
+  margin-bottom: 8px;
+  transition: background-color 0.2s;
 }
 
-.stat-item:last-child {
-  border-bottom: none;
+.stat-item:hover {
+  background-color: var(--surface-container);
 }
 
-.stat-label {
-  font-weight: 500;
-  color: #6c757d;
-}
-
-.stat-value {
+.stat-item strong {
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
   font-weight: 600;
-  color: #343a40;
+  color: var(--on-surface-variant);
 }
 
-.percentage {
-  color: #28a745;
-  font-weight: 700;
+.stat-item > *:last-child {
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+  font-weight: 800;
+  color: var(--on-surface);
 }
 
+/* Percentage accent */
+.stat-item:nth-child(3) > *:last-child {
+  color: var(--primary);
+}
+
+/* Actions */
 .stat-actions {
-  margin-top: 15px;
+  margin-top: 20px;
   display: flex;
   justify-content: center;
 }
 
 .btn-reset {
-  background-color: #dc3545;
-  color: white;
+  padding: 9px 22px;
+  background-color: var(--surface-container-high);
+  color: var(--on-surface-variant);
   border: none;
-  padding: 8px 16px;
-  border-radius: 4px;
+  border-radius: 12px;
   cursor: pointer;
-  transition: background-color 0.2s;
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  transition: background-color 0.2s, color 0.2s;
 }
 
-.btn-reset:hover {
-  background-color: #c82333;
+.btn-reset:hover:not(:disabled) {
+  background-color: rgba(186, 26, 26, 0.1);
+  color: var(--error);
 }
 
 .btn-reset:disabled {
-  background-color: #f5c6cb;
+  opacity: 0.4;
   cursor: not-allowed;
-} 
+}

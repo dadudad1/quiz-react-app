@@ -1,9 +1,9 @@
 .timer-container {
-  background-color: white;
-  border-radius: 8px;
-  padding: 15px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  margin-bottom: 20px;
+  background-color: var(--surface-container-lowest);
+  border-radius: 16px;
+  padding: 14px 18px;
+  box-shadow: 0 2px 16px rgba(25, 28, 30, 0.05);
+  margin-bottom: 16px;
 }
 
 .timer {
@@ -14,66 +14,66 @@
 }
 
 .timer-label {
-  font-weight: 600;
-  font-size: 16px;
-  color: #343a40;
+  font-family: 'Manrope', sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--on-surface-variant);
 }
 
 .timer-display {
+  font-family: 'Manrope', sans-serif;
   font-size: 20px;
-  font-weight: 700;
-  font-family: monospace;
-  padding: 5px 10px;
-  border-radius: 4px;
-  min-width: 100px;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+  padding: 4px 14px;
+  border-radius: 10px;
+  min-width: 90px;
   text-align: center;
+  letter-spacing: -0.3px;
 }
 
 .timer-normal .timer-display {
-  color: #28a745;
-  background-color: rgba(40, 167, 69, 0.1);
+  color: var(--tertiary);
+  background-color: rgba(74, 225, 118, 0.1);
 }
 
 .timer-warning .timer-display {
-  color: #ffc107;
-  background-color: rgba(255, 193, 7, 0.1);
+  color: #92400e;
+  background-color: rgba(251, 191, 36, 0.15);
 }
 
 .timer-danger .timer-display {
-  color: #dc3545;
-  background-color: rgba(220, 53, 69, 0.1);
-  animation: pulse 1s infinite;
+  color: var(--error);
+  background-color: rgba(186, 26, 26, 0.08);
+  animation: timer-pulse 1s ease-in-out infinite;
 }
 
+@keyframes timer-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.7; }
+}
+
+/* Progress strip */
 .timer-progress {
-  height: 8px;
-  background-color: #e9ecef;
-  border-radius: 4px;
+  height: 3px;
+  background-color: var(--surface-container-high);
+  border-radius: 999px;
   overflow: hidden;
 }
 
 .timer-progress-bar {
   height: 100%;
-  background-color: #28a745;
+  background: linear-gradient(90deg, var(--primary), var(--primary-container));
+  border-radius: 999px;
   transition: width 1s linear;
 }
 
 .timer-warning .timer-progress-bar {
-  background-color: #ffc107;
+  background: linear-gradient(90deg, #f59e0b, #fbbf24);
 }
 
 .timer-danger .timer-progress-bar {
-  background-color: #dc3545;
+  background: linear-gradient(90deg, var(--error), #ef4444);
 }
-
-@keyframes pulse {
-  0% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0.8;
-  }
-  100% {
-    opacity: 1;
-  }
-} 

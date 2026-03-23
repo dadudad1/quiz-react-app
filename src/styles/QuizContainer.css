@@ -1,128 +1,214 @@
 .quiz-container {
-  background-color: white;
-  border-radius: 8px;
-  padding: 20px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  background-color: var(--surface-container-lowest);
+  border-radius: 20px;
+  padding: 28px;
+  box-shadow: 0 2px 32px rgba(25, 28, 30, 0.05);
+  margin: 20px auto;
+  width: 900px;
+  max-width: 100%;
+}
+
+/* ── Question counter / progress header ── */
+.question-counter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   margin-bottom: 20px;
 }
 
-.question-counter {
-  font-size: 14px;
-  color: #6c757d;
-  text-align: right;
-  margin-bottom: 10px;
+.question-counter span {
+  font-family: 'Manrope', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--primary);
 }
 
+/* Progress bar strip */
+.question-progress-bar {
+  height: 3px;
+  width: 100%;
+  background-color: var(--surface-variant);
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 24px;
+}
+
+.question-progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary), var(--primary-container));
+  border-radius: 999px;
+  transition: width 0.4s ease;
+}
+
+/* ── Controls row ── */
 .controls {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 20px;
-  gap: 15px;
+  gap: 12px;
   flex-wrap: wrap;
 }
 
 .question-selector {
-  padding: 8px;
-  margin-right: 10px;
-  border-radius: 4px;
-  border: 1px solid #ced4da;
-  background-color: white;
+  padding: 8px 36px 8px 14px;
+  border: none;
+  border-radius: 12px;
+  background-color: var(--surface-container-low);
+  color: var(--on-surface);
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  outline: none;
+  transition: box-shadow 0.2s;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23727785' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 12px center;
 }
 
+.question-selector:hover,
+.question-selector:focus {
+  box-shadow: 0 2px 12px rgba(25, 28, 30, 0.08);
+}
+
+/* Bookmark icon */
 .bookmark-icon {
-  color: #ffc107;
   cursor: pointer;
-  font-size: 24px;
-  margin-left: 10px;
+  font-size: 22px;
+  transition: transform 0.2s, color 0.2s;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+}
+
+.bookmark-icon:hover {
+  transform: scale(1.15);
+  background-color: var(--secondary-container);
 }
 
 .bookmark-active {
-  color: #ffc107;
+  color: #f59e0b;
 }
 
 .bookmark-inactive {
-  color: #e2e2e2;
+  color: var(--surface-container-highest);
 }
 
-.search-container {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-}
-
-.search-input {
-  flex-grow: 1;
-  padding: 8px;
-  border-radius: 4px;
-  border: 1px solid #ced4da;
-  margin-right: 10px;
-}
-
-.search-hint {
-  width: 100%;
-  margin-top: 10px;
-  font-size: 14px;
-  color: #6c757d;
-  font-style: italic;
-}
-
-.multiple-choice-hint {
-  margin-top: 15px;
-  color: #6c757d;
-  font-style: italic;
-  margin-bottom: 15px;
-}
-
-.button-container {
-  margin-top: 20px;
-  display: flex;
-  justify-content: flex-start;
-}
-
-.question-placeholder {
-  padding: 40px 20px;
-  text-align: center;
-  color: #6c757d;
-  background-color: #f8f9fa;
-  border-radius: 8px;
-  margin: 20px 0;
-}
-
+/* ── Jump to question ── */
 .jump-to-question {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 8px;
 }
 
 .jump-input {
-  width: 120px;
+  width: 110px;
   padding: 8px 12px;
-  border: 2px solid #4CAF50;
-  border-radius: 4px;
-  font-size: 14px;
+  border: none;
+  border-radius: 10px;
+  background-color: var(--surface-container-low);
+  color: var(--on-surface);
+  font-size: 13px;
+  font-weight: 500;
   outline: none;
-  transition: border-color 0.3s ease;
+  transition: box-shadow 0.2s;
 }
 
 .jump-input:focus {
-  border-color: #45a049;
-  box-shadow: 0 0 5px rgba(76, 175, 80, 0.3);
+  box-shadow: 0 0 0 2px rgba(0, 88, 190, 0.2);
 }
 
 .btn-jump {
   padding: 8px 16px;
-  background-color: #4CAF50;
-  color: white;
+  background: linear-gradient(135deg, var(--primary), var(--primary-container));
+  color: var(--on-primary);
   border: none;
-  border-radius: 4px;
+  border-radius: 10px;
   cursor: pointer;
-  font-size: 14px;
-  transition: background-color 0.3s ease;
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  transition: box-shadow 0.2s, transform 0.15s;
 }
 
 .btn-jump:hover {
-  background-color: #45a049;
-} 
+  box-shadow: 0 4px 14px rgba(0, 88, 190, 0.28);
+  transform: translateY(-1px);
+}
+
+/* ── Search ── */
+.search-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+  padding: 16px;
+  background-color: var(--surface-container-low);
+  border-radius: 16px;
+}
+
+.search-input {
+  flex-grow: 1;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 12px;
+  background-color: var(--surface-container-lowest);
+  color: var(--on-surface);
+  font-size: 14px;
+  font-weight: 500;
+  outline: none;
+  transition: box-shadow 0.2s;
+  box-shadow: 0 1px 8px rgba(25, 28, 30, 0.05);
+}
+
+.search-input:focus {
+  box-shadow: 0 0 0 2px rgba(0, 88, 190, 0.18);
+}
+
+.search-hint {
+  width: 100%;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--on-surface-variant);
+  font-style: italic;
+}
+
+/* ── Multiple choice hint ── */
+.multiple-choice-hint {
+  margin: 16px 0;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--on-surface-variant);
+  font-style: italic;
+  text-align: center;
+}
+
+/* ── Button row ── */
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 24px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(194, 198, 214, 0.25);
+}
+
+/* ── Empty state ── */
+.question-placeholder {
+  padding: 48px 24px;
+  text-align: center;
+  color: var(--on-surface-variant);
+  background-color: var(--surface-container-low);
+  border-radius: 16px;
+  margin: 20px 0;
+  font-weight: 500;
+  font-size: 14px;
+}

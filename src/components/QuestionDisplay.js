@@ -67,7 +67,7 @@ const QuestionDisplay = ({
               onClick={() => !feedback.visible && onAnswerSelect(letter)}
               data-letter={letter}
             >
-              {text}
+              <span className="answer-text">{text}</span>
             </div>
           );
         })}

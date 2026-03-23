@@ -1,0 +1,199 @@
+/* ═══════════════════════════════════════
+   SHARED NAVBAR
+═══════════════════════════════════════ */
+
+.app-navbar {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 32px;
+  height: 56px;
+  background-color: rgba(248, 249, 251, 0.88);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  box-shadow: 0 1px 24px rgba(25, 28, 30, 0.05);
+  gap: 12px;
+}
+
+/* ── Brand ── */
+.navbar-brand {
+  font-family: 'Manrope', sans-serif;
+  font-size: 18px;
+  font-weight: 800;
+  color: var(--primary);
+  letter-spacing: -0.3px;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+/* ── Center links ── */
+.navbar-links {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex: 1;
+  justify-content: center;
+}
+
+.navbar-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 7px 14px;
+  border-radius: 10px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--on-surface-variant);
+  text-decoration: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.18s, color 0.18s;
+  white-space: nowrap;
+}
+
+.navbar-link:hover {
+  background-color: var(--surface-container);
+  color: var(--on-surface);
+}
+
+.navbar-link.active {
+  background-color: var(--secondary-container);
+  color: var(--primary);
+  font-weight: 700;
+}
+
+/* ── Right: actions + avatar ── */
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.navbar-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 12px;
+  border-radius: 10px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--on-surface-variant);
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.18s, color 0.18s;
+  white-space: nowrap;
+}
+
+.navbar-action-btn:hover {
+  background-color: var(--surface-container);
+  color: var(--on-surface);
+}
+
+.navbar-donate-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--on-primary);
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-container) 100%);
+  text-decoration: none;
+  box-shadow: 0 3px 12px rgba(0, 88, 190, 0.2);
+  transition: box-shadow 0.2s, transform 0.15s;
+  white-space: nowrap;
+}
+
+.navbar-donate-btn:hover {
+  box-shadow: 0 5px 18px rgba(0, 88, 190, 0.35);
+  transform: translateY(-1px);
+}
+
+.navbar-avatar-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 10px 4px 4px;
+  background-color: var(--surface-container-low);
+  border-radius: 999px;
+  text-decoration: none;
+  transition: background-color 0.2s;
+}
+
+.navbar-avatar-btn:hover {
+  background-color: var(--surface-container);
+}
+
+.navbar-avatar-circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--primary), var(--primary-container));
+  color: var(--on-primary);
+  font-family: 'Manrope', sans-serif;
+  font-size: 12px;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.navbar-avatar-name {
+  font-family: 'Manrope', sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--on-surface);
+  max-width: 110px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* ── Responsive ── */
+@media (max-width: 900px) {
+  .app-navbar {
+    padding: 0 16px;
+  }
+
+  .navbar-link span.material-symbols-outlined {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 700px) {
+  .navbar-links {
+    gap: 0;
+  }
+
+  .navbar-link {
+    padding: 7px 10px;
+    font-size: 12px;
+    gap: 4px;
+  }
+
+  .navbar-link .navbar-link-label,
+  .navbar-action-label,
+  .navbar-avatar-name {
+    display: none;
+  }
+
+  .navbar-action-btn,
+  .navbar-donate-btn {
+    padding: 6px 8px;
+  }
+
+  .navbar-brand {
+    font-size: 15px;
+  }
+}
