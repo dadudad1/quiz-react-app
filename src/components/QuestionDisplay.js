@@ -43,7 +43,7 @@ const QuestionDisplay = ({
         {showQuestionNumber ? `${question.numar}. ` : ''}{question.intrebare}
       </div>
       
-      <div className="answers">
+      <div className={`answers${randomizeAnswers ? ' answers--no-letters' : ''}`}>
         {processedAnswers.map(([letter, text]) => {
           const isSelected = selectedAnswers.includes(letter);
           const shouldBeSelected = feedback.visible && correctAnswer.includes(letter);

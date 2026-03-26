@@ -12,6 +12,15 @@
   margin-bottom: 24px;
 }
 
+/* ── No-letter mode (randomized answers) ── */
+.answers--no-letters .answer-option::before {
+  display: none;
+}
+
+.answers--no-letters .answer-option {
+  padding-left: 18px;
+}
+
 /* ── Answer options ── */
 .answers {
   display: flex;

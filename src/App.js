@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import { useLocation } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import './App.css';
@@ -620,6 +620,33 @@ function App() {
     }
   }, []);
 
+  // Chapter lookup maps — used both for the memoized filter below and later in the render
+  const chapterQsMap = {
+    cap1: questions, cap2: questionsChapter2, cap3: questionsChapter3,
+    cap4: questionsChapter4, cap5: questionsChapter5, cap6: questionsChapter6,
+    cap7: questionsChapter7, cap8: questionsChapter8, cap9: questionsChapter9,
+    cap10: questionsChapter10, cap11: questionsChapter11, cap12: questionsChapter12,
+    cap13: questionsChapter13, cap14: questionsChapter14, cap15: questionsChapter15,
+  };
+  const chapterAnsMap = {
+    cap1: correctAnswers, cap2: correctAnswersChapter2, cap3: correctAnswersChapter3,
+    cap4: correctAnswersChapter4, cap5: correctAnswersChapter5, cap6: correctAnswersChapter6,
+    cap7: correctAnswersChapter7, cap8: correctAnswersChapter8, cap9: correctAnswersChapter9,
+    cap10: correctAnswersChapter10, cap11: correctAnswersChapter11, cap12: correctAnswersChapter12,
+    cap13: correctAnswersChapter13, cap14: correctAnswersChapter14, cap15: correctAnswersChapter15,
+  };
+
+  const activeQs = chapterQsMap[activeChapter] || [];
+  const activeAns = chapterAnsMap[activeChapter] || {};
+
+  // Memoized filter — must stay BEFORE any early returns to obey Rules of Hooks
+  const displayedQuestions = useMemo(() => {
+    if (correctAnswerFilter.size === 0) return activeQs;
+    return activeQs.filter(q => {
+      const ans = activeAns[q.numar];
+      return ans && correctAnswerFilter.has(ans.length);
+    });
+  }, [activeQs, activeAns, correctAnswerFilter]);
 
   if (isLoading) {
     const loadedChapters = Object.values(chapterLoadingStates).filter(state => !state).length;
@@ -752,14 +779,6 @@ function App() {
       correctCountBuckets[n] = (correctCountBuckets[n] || 0) + 1;
     }
   });
-
-  // Apply correct-answer-count filter
-  const displayedQuestions = correctAnswerFilter.size > 0
-    ? currentQuestionSet.filter(q => {
-        const ans = currentAnswers[q.numar];
-        return ans && correctAnswerFilter.has(ans.length);
-      })
-    : currentQuestionSet;
 
   const toggleCountFilter = (n) => {
     setCorrectAnswerFilter(prev => {
