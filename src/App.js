@@ -23,7 +23,7 @@ function App() {
     () => location.state?.mode || 'quiz'
   ); // 'quiz', 'simulation', or 'customSimulation'
   const [activeChapter, setActiveChapter] = useState('cap1');
-  const [selectedYear] = useState('2025'); // Fixed to 2025
+  const [selectedYear] = useState('2026');
   const [randomizeAnswers, setRandomizeAnswers] = useState(true); // Default to randomized answers
   const [correctAnswerFilter, setCorrectAnswerFilter] = useState(new Set()); // empty = no filter
   

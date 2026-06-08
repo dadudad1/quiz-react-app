@@ -1,0 +1,2290 @@
+[
+  {
+    "numar": 1,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la metabolism:",
+    "variante": {
+      "A": "Reprezintă totalitatea proceselor fizice, dar nu și a celor chimice din celulă.",
+      "B": "Reprezintă totalitatea proceselor fizice și chimice care au loc în celulă.",
+      "C": "Reprezintă absența schimburilor de energie din celulă și mediul extracelular.",
+      "D": "Reprezintă totalitatea reacțiilor anabolice (de sinteză) și catabolice (de degradare) care au loc în celulă.",
+      "E": "Biochimia metabolismului este centrată pe sinteza și degradarea glucidelor, lipidelor, proteinelor și acidelor nucleici, dar include și utilizarea de către organism a vitaminelor și mineralelor."
+    }
+  },
+  {
+    "numar": 2,
+    "intrebare": "Alegeți dintre enunțurile de mai jos pe cele care conțin prima afirmație adevărată și a doua falsă:",
+    "variante": {
+      "A": "Metabolismul reprezintă totalitatea proceselor fizice și chimice care au loc în celulă.",
+      "B": "Reacțiile metabolice se desfășoară în general de-a lungul unei căi metabolice. Catabolismul (ca și componentă a metabolismului) reprezintă sinteza unor molecule complexe pornind de la molecule simple.",
+      "C": "Reacțiile anabolice necesită energie, în timp ce reacțiile catabolice produc energie. Energia rezultată din reacții exergonice este stocată în adenozin-monofosfat ciclic (cAMP), molecule cu nivel energetic ridicat.",
+      "D": "Biochimia metabolismului este centrată pe sinteza și degradarea glucidelor, lipidelor, proteinelor și acidelor nucleice. Calea metabolică (anabolizăm/catabolism) este o succesiune de reacții chimice prin care substraturile sunt transformate în produse finale, prin intermediul activității enzimelor.",
+      "E": "Căile metabolice includ reacții de oxidare și reacții de reducere (care se desfășoară cuplăt, electronii neputând exista în stare liberă). Reacția de oxidare constă în acceptarea de electroni sau protoni de către substrat, care astfel devine redus."
+    }
+  },
+  {
+    "numar": 3,
+    "intrebare": "Care dintre următoarele afirmații privind procesele de anabolism și catabolism sunt false?",
+    "variante": {
+      "A": "Organismul obține energie prin degradarea moleculelor complexe, în cadrul anabolismului.",
+      "B": "Catabolismul reprezintă sinteza de materie organică și implică consum de energie.",
+      "C": "Anabolismul reprezintă totalitatea reacțiilor de sinteză a moleculelor complexe și necesită de obicei energie.",
+      "D": "Energia produsă în reacțiile catabolice este stocată în molecule cu nivel energetic ridicat (cum este ADN-ul - acidul dezoxiribonucleic), care apoi o eliberează prin hidroliză.",
+      "E": "Principalele căi ale metabolismului sunt anabolismul (sinteza moleculelor complexe) și catabolismul (degradarea moleculelor complexe)."
+    }
+  },
+  {
+    "numar": 4,
+    "intrebare": "Selecționați afirmațiile adevărate referitoare la procesele de tip catabolic:",
+    "variante": {
+      "A": "Au ca rezultat producerea de energie (sunt endergonice).",
+      "B": "Sunt reacții chimice în care are loc degradarea moleculelor organice, cu producere de energie.",
+      "C": "O parte din energia rezultată din acest tip de reacție este eliberată temporar în compuși cu legături covalente cu nivel energetic ridicat (central fosfat, adenozin-trifosfat).",
+      "D": "Sunt procese în care energia produselor de reacție este inferioară celei a reacțiilor inițiale.",
+      "E": "Sunt procese în care se consumă energie (endergonice)."
+    }
+  },
+  {
+    "numar": 5,
+    "intrebare": "Alegeți afirmatiile adevărate despre procesele de tip anabolă:",
+    "variante": {
+      "A": "Necesită de obicei energie obținută din alte surse (sunt endergonice)",
+      "B": "Reprezintă procese de sinteză a unor molecule simple, utilizând molecule complexe rezultate din procesul de digestie",
+      "C": "Un exemplu de proces anabolic îl reprezintă sinteza glucozidului (glicogenogenă)",
+      "D": "Cuprinde reacții de sinteză a moleculelor complexe (trigliceride, colesterol, proteine)",
+      "E": "Procese vitale precum digestia și respirația sunt adaptate să furnizeze materie primă reacțiilor anabolice"
+    }
+  },
+  {
+    "numar": 6,
+    "intrebare": "Selectați asocierile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Metabolism - căi metabolice - anabolism/catabolism",
+      "B": "Anabolism - sinteza moleculelor complexe - necesită de obicei energie - include reacții endergonice",
+      "C": "Anabolism - degradarea moleculelor complexe - decarboxilarea oxidativă a acidului piruvic",
+      "D": "Catabolism - degradarea moleculelor complexe - eliberare de energie - include reacții exergonice",
+      "E": "Catabolism - sinteza de trigliceride - reacții endergonice"
+    }
+  },
+  {
+    "numar": 7,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la reacțiile metabolice:",
+    "variante": {
+      "A": "Sunt reacții chimice care decurg spontan cu viteză mare (nefiind necesară cataliza enzimatică)",
+      "B": "Succesiunea reacțiilor chimice prin care substraturile sunt transformate în produse finale alcătuiesc o cale metabolică",
+      "C": "Energia produsă de reacțiile anabolice este stocată exclusiv în adenozin-difosfat (ADP)",
+      "D": "Energia produsă de reacțiile catabolice este stocată temporar în adenozin-trifosfat (ATP)",
+      "E": "Reacțiile de oxidoreducere sunt frecvent întâlnite în desfășurarea celorlalte metabolism"
+    }
+  },
+  {
+    "numar": 8,
+    "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "În reacția de oxidare substratul acceptă electroni și devine oxidat",
+      "B": "În reacția de oxidare substratul acceptă electroni și devine redus",
+      "C": "În reacția de oxidare substratul poate ceda electroni sau protoni și devine oxidat",
+      "D": "În reacția de reducere substratul poate accepta electroni sau protoni și devine redus",
+      "E": "Într-o reacție de oxidoreducere sunt implicați doi compuși: unul care cedează electroni sau protoni și altul care ii acceptă"
+    }
+  },
+  {
+    "numar": 9,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la reacțiile de oxidoreducere:",
+    "variante": {
+      "A": "Fiecare reacție de oxidare este însoțită de una de reducere, deoarece electronii nu pot exista în stare liberă",
+      "B": "Compusul care cedează electroni devine redus iar compusul care acceptă electronii devine oxidat",
+      "C": "Compusul care cedează electroni devine oxidat iar compusul care acceptă electroni devine redus",
+      "D": "Oxidarea poate însemna și eliminare de hidrogen (dehidrogenare), iar reducerea poate însemna și acceptare de hidrogen (hidrogenare)",
+      "E": "Oxidarea poate însemna și acceptarea unui atom de hidrogen, iar reducerea poate însemna și eliminarea unui atom de hidrogen"
+    }
+  },
+  {
+    "numar": 10,
+    "intrebare": "Întro reacție de oxid-reducere, în care participă două substanțe A și B, substanța A aflându-se în forma A2- cedează doi electroni substanței B, aflată în forma oxidată. Referitor la această reacție, este adevărat că:",
+    "variante": {
+      "A": "Substanța A trece din forma redusă A2- în forma oxidată A (prin cedare de electroni)",
+      "B": "Substanța A trece din forma oxidată A2- în forma redusă A- (prin cedare de electroni)",
+      "C": "Substanța B trece din forma redusă B în forma oxidată B2+ (acceptare de electroni)",
+      "D": "Substanța B trece din forma oxidată B în forma redusă B2- (prin acceptare de electroni)",
+      "E": "Substanța A și B nu își modifică starea de oxidare/reducere, ele fiind transferați în stare liberă între acestea"
+    }
+  },
+  {
+    "numar": 11,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la catabolism dintre cele de mai jos:",
+    "variante": {
+      "A": "Degradarea moleculelor complexe se însoțește de obicei de eliberare de energie depozitată temporar în molecule cu nivel energetic ridicat",
+      "B": "În urma reacțiilor catabolice rezultă molecule mici, care sunt în totdeauna eliminate din organism, fără a mai putea fi utilizate în reacții anabolice",
+      "C": "Sintaza de glicogen constă în reacții de tip catabolic, care necesită energie obținută din scindarea ATP la ADP și grupul fosfat",
+      "D": "Reacțiile căilor catabolice se desfășoară lent fără a necesita participarea enzimelor",
+      "E": "Moleculele mici rezultă în urma unor procese catabolice pe care le sintetizează un molecule complexe în cadrul proceselor anabolice"
+    }
+  },
+  {
+    "numar": 12,
+    "intrebare": "Despre adenozin-trifosfat se poate afirma că:",
+    "variante": {
+      "A": "Este o moleculă cu nivel energetic ridicat, care conține fosfor și stochează (temporar) energia rezultatât din reacțiile anabolice",
+      "B": "Este o moleculă cu nivel energetic ridicat, care conține fosfor și stochează (temporar) energia rezultatât din reacțiile catabolice (exergonice)",
+      "C": "Structural, prezintă un rest de adenoizină (nucleotidul din ADN) și trei grupări fosfat adiționale",
+      "D": "Structural, molecula de ATP este formată din adenină, riboză și trei grupări fosfat adiționale",
+      "E": "Prin detașarea grupării sale fosfat terminale se obține ADP și se eliberează 7,3 kcal/mol"
+    }
+  },
+  {
+    "numar": 13,
+    "intrebare": "Selectați afirmațiile adevărate cu privire la structura adenozin-trifosfatului (ATP):",
+    "variante": {
+      "A": "Conține o moleculă de monozaharid (riboză), o bază azotată (adenină) și trei grupări fosfat",
+      "B": "Conține o moleculă de monozaharid (glucoză), o bază azotată (adenozină) și trei grupări fosfat",
+      "C": "Conține adenină (bază azotată – o structură biciclică ce conține atom de carbon, azot și hidrogen), riboză (o pentoză) și trei grupări fosfat (PO4^3-)",
+      "D": "Este un compus organic, datorită celor trei grupări fosfat pe care le conține",
+      "E": "Constă dintr-un rest de adenozină și trei grupări fosfat"
+    }
+  },
+  {
+    "numar": 14,
+    "intrebare": "Selectați afirmațiile adevărate despre adenozin-trifosfat (ATP):",
+    "variante": {
+      "A": "Molecula de ATP constă dintr-un rest de adenoazină (adenină și riboză) la care se atașează trei grupări fosfat",
+      "B": "Molecula de ATP rezultă în urma scindării moleculei de AMP, eliberând un ion fosfat",
+      "C": "La detașarea grupării fosfat terminale din molecula de ATP se eliberează energie (7,3 kcal/mol)",
+      "D": "Adenozin-trifosfat se leagă de ionul de fosfat pentru a resintetiza ADP-ul",
+      "E": "ATP-ul este produs în respirația celulară, printr-un proces complex desfășurat la nivelul cristelior mitocondriale, proces care implică chemiosmoză și intervenția enzimelor ATP-sintetază"
+    }
+  },
+  {
+    "numar": 15,
+    "intrebare": "Selectați afirmațiile adevărate cu privire la enzima adenozin-trifosfatază:",
+    "variante": {
+      "A": "Sub acțiunea acesteia, ADP (adenozin-difosfat) se transformă în ATP (adenozin-trifosfat)",
+      "B": "Sub acțiunea acesteia, ATP (adenozin-trifosfat) se transformă în ADP (adenozin-difosfat)",
+      "C": "Scindează grupul fosfat terminal al ATP-ului și eliberează ca ion fosfat",
+      "D": "Scindează grupul fosfat terminal al ATP-ului, rezultând adenozin-difosfat (ADP) și o grupare fosfat, cu eliberarea a 7,3 kcal/mol",
+      "E": "Catalizează o reacție de hidroliză endergonică (consumatoare de energie)"
+    }
+  },
+  {
+    "numar": 16,
+    "intrebare": "Selectați afirmațiile adevărate privind procesul de respirație celulară:",
+    "variante": {
+      "A": "Generează energia necesară sintezii moleculei de ATP (prin legarea ionului fosfat la molecula de ADP – fosforilarea ADP)",
+      "B": "Este un proces intracelular complex, care utilizează energia rezultată din hidroliza moleculei de ADP",
+      "C": "Este un proces extracelular complex care se desfășoară în condiții anaerobe (în lipsa oxigenului)",
+      "D": "Este un proces extracelular complex, prin care celula obține energie, cu participarea coenzimelor cu structură proteică",
+      "E": "Este un proces intracelular complex, în desfășurarea căruia intervin enzime care utilizează coenzime derivate din vitaminele B2 și B3"
+    }
+  },
+  {
+    "numar": 17,
+    "intrebare": "Alegeți enunțurile în care ambele afirmații sunt adevărate:",
+    "variante": {
+      "A": "Intr-o reacție de oxid-reducere este implicat un singur compus care inițial se oxidează, apoi se reduce. În structura ATP se regăsește mononucleozid deoxiriboză",
+      "B": "Anabolismul reprezintă sinteza moleculelor complexe. Anabolismul și catabolismul sunt interdependente și se interconectează reciproc",
+      "C": "Pentru că electronii se află în celulă în stare liberă, reacția de oxidare nu necesită neapărat un mediator. Reacția de reducere constă în acceptarea de electroni sau protoni, de substratul oxidat devenind astfel redus",
+      "D": "Coenzimele acceptă electroni sau protoni și îi cedază altor coenzime sau altor molecule. La reacțiile de oxid-reducere din membrana internă a mitocondriei participă citocromii (molecule complexe care conțin fier)",
+      "E": "Sinteza glicogenului (un polizaharid) este un exemplu de proces anabloic. Glicoliza este un proces generator de energie (catabolic)"
+    }
+  },
+  {
+    "numar": 18,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la coenzime:",
+    "variante": {
+      "A": "Sunt molecule implicate în respirația celulară (procese intracelulare complex, generator de energie)",
+      "B": "Reprezintă porțiunea cu structură proteică din enzime, fiind constituite din lanțuri de aminoacizi",
+      "C": "Sunt derivate de cele mai multe ori din vitamine (coenzima FAD – din vitamina B2, riboflavină, coenzima NAD+ – din vitamina B3, niacină)",
+      "D": "Sunt molecule anorganice și reprezintă materia primă energetică a celulei",
+      "E": "Sunt esențiale pentru activitatea enzimelor"
+    }
+  },
+  {
+    "numar": 19,
+    "intrebare": "Selectați afirmațiile adevărate despre coenzime:",
+    "variante": {
+      "A": "Nu participă la procesele catabolice care se desfășoară în mitocondrie",
+      "B": "Sunt porțiuni non-proteice ale enzimelor, provenite de cele mai multe ori din vitamine",
+      "C": "Pentru producerea coenzimei nicotinamide NAD+ este nevoie de niacină sau nicotinamidă (vitamina B3)",
+      "D": "Pentru producerea coenzimelor flavinice FAD este necesară vitamina B2 (riboflavină)",
+      "E": "Făcând derivat ai unor vitamine din grupul B, NAD+ și FAD au structură identică"
+    }
+  },
+  {
+    "numar": 20,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la coenzimele NAD și FAD:",
+    "variante": {
+      "A": "Sunt molecule cu structură organică, esențiale pentru desfășurarea activității unor enzime oxidoreductaze.",
+      "B": "Au structură Proză, fiind constituite din aminoacizi esențiali.",
+      "C": "NAD (nicotinamid-adenin-dinucleotid) conține o porțiune chimică activă derivată din niacină (vitamina B3).",
+      "D": "FAD (flavin-adenin-dinucleotid) conține un grup flavinic (grup flavin) derivat din riboflavină (vitamina B2) și care constituie porțiunea chimică activă.",
+      "E": "Pot accepta sau ceda electroni sau protoni altor coenzime sau altor molecule."
+    }
+  },
+  {
+    "numar": 21,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la coenzimele NAD și FAD:",
+    "variante": {
+      "A": "Pot exista atât în formă redusă (NADH/FADH) cât și în formă oxidată (NAD+/FAD+).",
+      "B": "Pot exista atât în formă oxidată (NAD+/FAD+), cât și în formă redusă (NADH+/FADH2).",
+      "C": "Participă la reacțiile de oxidoreducere din cadrul sistemului de transport al electronilor.",
+      "D": "Conțin o porțiune chimică activă, derivată din vitaminele hidrosolubile (niacina, riboflavina).",
+      "E": "În cadrul reacțiilor de oxidoreducere pot ceda și accepta electroni, dar nu și protoni (H+)."
+    }
+  },
+  {
+    "numar": 22,
+    "intrebare": "Selectați afirmațiile false dintre cele de mai jos:",
+    "variante": {
+      "A": "Coenzimele (porțiuni non-proteice ale unor enzime oxidoreductaze) și citocromii acceptă și cedează electronii în cadrul lanțului transportor de electroni.",
+      "B": "Citocromii conțin fier și își pot schimba starea de oxidare prin cedere/acceptare de electroni.",
+      "C": "Oxigenul, gaz monoatomic, joacă faze anaerobe în respirația celulară, este adus în corp prin procesul de inspirație (inspir).",
+      "D": "Funcția respiratorie a sistemului respirator (plămâni și căi aeriene) este un proces esențial, cu rol de a introduce în corp oxigen, care va distribui celulele (pentru a genera energie prin respirație celulară).",
+      "E": "Dată fiind structuri chimice, care includ feri ionizabili, citocromii nu pot participa la reacțiile de oxidoreducere din cadrul respirației celulare."
+    }
+  },
+  {
+    "numar": 23,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la glucide (structură, rol, transformări metabolice):",
+    "variante": {
+      "A": "Glucoza, sursă de energie esențială în corpul uman, este oxidată glicolitic în absența O2, până la acid piroviconic, care poate fi metabolizat în continuare în prezența O2.",
+      "B": "Omul consumă preponderent glucide sub formă de monozaharide (fructoză, glucoză, galactoză) dar nu consumă di- sub polizaharide (zaharoză, maltoză, amidon).",
+      "C": "Printre glucidele care fac parte din alimentația omului se numără: fructoză (monozahar), zaharoză (dizaharid) și amidonul (polizaharid).",
+      "D": "Dintre glucidele consumate de om, fructoza și galactoza sunt dizaharide, zaharoza, lactoza și amidonul sunt polizaharide.",
+      "E": "Metabolizarea glucozei prin glicoliză se desfășoară în citoplasmă."
+    }
+  },
+  {
+    "numar": 24,
+    "intrebare": "Selectați afirmațiile false referitoare la transformările unor glucide în organism:",
+    "variante": {
+      "A": "Pentru a putea fi absorbita în intestinul subțire, glucoza este transformată în amidon.",
+      "B": "Glucoza provenită din glucidele alimentare sau cea de origine endogenă este metabolizată în celule pentru a elibera energia conținută în molecula ei.",
+      "C": "Atunci când glicemia este crescută (postprandial), glucoza este stocată în ficat sub formă de glicogen, prin procesul de glicogenoliză."
+    }
+  },
+  {
+    "numar": 25,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la glucide:",
+    "variante": {
+      "A": "Glicerolul (propanotriol) este principalul glucid utilizat de organism ca sursă de ATP.",
+      "B": "În cursul procesului de digestie, glucidele sunt hidrolizate afină la stadiul de monozaharide, care vor fi absorbite la nivelul viloziților intestinale prin mecanisme de transport specifice.",
+      "C": "Amidonul (polizaharid) este depozitat în ficat și rinichi, unde constituie rezerva energetică principală a organismului uman.",
+      "D": "Glucoza poate fi convertită în lipide prin lipogeneză doar în cazul unei diete cu aport glucidic redus.",
+      "E": "Pentru a putea fi catabolizată prin glicoliză și a furniza energie conținută în molecula ei, glucoza este preluată de către celule și activată la glucozo-6-fosfat, cu ajutorul ATP-ului."
+    }
+  },
+  {
+    "numar": 26,
+    "intrebare": "Alegeți afirmațiile adevărate privind rolul și transformările glucidelor în organism:",
+    "variante": {
+      "A": "Catabolismul oxidativ complet al glucozei include: glicoliză, ciclu Krebs, lanțul transportor de electroni și chimiosmoza cu sinteza de ATP.",
+      "B": "Glucoza (C6H12O6) este principală sursă de energie pentru celulele corpului.",
+      "C": "În alimentația omului se regăsește și alte tipuri de glucide cum sunt: fructoza, glicerolul, etona.",
+      "D": "Pentru a putea fi folosite ca material energetic, toate glucidele vor fi transformate prin glicoliză în galactoza.",
+      "E": "În citoplasmă, glucoza este oxidată pe cale glicolitică până la acid piroviconic, acesta fiind apoi prelucrat într-unul metabolic și continuă."
+    }
+  },
+  {
+    "numar": 27,
+    "intrebare": "Alegeți asocierile corecte:",
+    "variante": {
+      "A": "Ciclul Krebs - mitocondrie - aceti-CoA - GTP.",
+      "B": "Glicoliză - mitocondrie - transaminaze - CO2 și H2O.",
+      "C": "Glucoza - glicoliză - citoplasmă - acid pirov.",
+      "D": "Sistemul de transport al electronilor - mitocondrie - NADH+/FADH2 - citocromi - citocrom-oxidază - oxigen - apă.",
+      "E": "Ciclul Krebs - citoplasmă - pomparea transmembranară a protonilor."
+    }
+  },
+  {
+    "numar": 28,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la glucoză si la transformările ei metabolice:",
+    "variante": {
+      "A": "Glucoza, un monozaharid cu 6 atomi de carbon, poate proveni din glucidele alimentare (zahăr industrial sau surse vegetale).",
+      "B": "Glucoza este metabolizată pentru a elibera energie conținută în molecula ei, energie care va fi scoasă temporar în moleculele de ATP.",
+      "C": "Glucoza (o hexoză) este fosforilată la glucozo-6-fosfat, în prezența ATP, în prima reacție a căii glicolitice.",
+      "D": "Dintr-o moleculă de glucoză (monozaharid cu 5 atomi de carbon) se obțin 3 molecule de aceti-CoA.",
+      "E": "Dintr-o moleculă de glucoză (monozaharid cu 6 atomi de carbon) se obțin 2 molecule de acid pirov (cetoacid cu 3 atomi de carbon)."
+    }
+  },
+  {
+    "numar": 29,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la glicoliză:",
+    "variante": {
+      "A": "În acest proces, din fiecare moleculă de glucoză se produce o moleculă de acetil-CoA.",
+      "B": "În acest proces, din fiecare moleculă de glucoză se produce două molecule de acid piruvic.",
+      "C": "Procesele care loc în citoplasma celulei, unde găsești și enzimele care catalizează reacțiile acestea, sunt metabolice.",
+      "D": "Procesele care loc în membrana internă mitocondrială, unde sunt localizate enzimel importante pentru sinteza de ATP.",
+      "E": "Este o cale metabolică ce se desfășoară în mai multe etape, cu intervenția enzimelor specifice."
+    }
+  },
+  {
+    "numar": 30,
+    "intrebare": "Alegeți enunțurile care conțin două afirmații adevărate referitoare la glicoliză:",
+    "variante": {
+      "A": "Este o cale metabolică prin care se obțin 2 molecule de acid piruvic dintr-o moleculă de glucoză. În urma glicolizei, pentru o moleculă de glucoză, câștigul energetic net este de 2 ATP.",
+      "B": "Câștigul energetic net al glicolizei unei molecule de glucoză este de 4 ATP. Glicoliza este un proces biochimic prin care glucoza se obține prin oxidarea ADP, CO2 și H2O.",
+      "C": "Este o cale metabolică în care nu consumăm și nici nu se sintetizează ATP. Molecula de glucoză cu 2 atom de carbon este convertită în 3 compusi cu câte 2 atomi de carbon.",
+      "D": "Prin glicoliză, dintr-o moleculă cu 6 atomi de carbon se formează 2 molecule cu 3 atomi de carbon. Prima reacție a căii glicolitice (reacție endergonică) constă în atașarea la molecula de glucoză a grupării fosfat provenită din sincandra unui ATP.",
+      "E": "Glicoliza se desfășoară în citoplasmă și nu necesită oxigen. În cursul glicolizei, pentru o moleculă de glucoză, se produce două molecule de NADH+H+."
+    }
+  },
+  {
+    "numar": 31,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la etapele glicolizei:",
+    "variante": {
+      "A": "Toate etapele au loc în citoplasma celulei.",
+      "B": "În etapa 1 (glucoză → glucozo-6-fosfat) și 3 (fructoză-6-fosfat → fructoză-1,6-difosfat) se consumă câte o moleculă de ATP, pentru a furniza energia si ionii fosfați necesari reacției.",
+      "C": "În etapele 1 (glucoză → glucozo-6-fosfat) și 3 (fructoză-6-fosfat → fructoză-1,6-difosfat) se sintetizează câte o moleculă de ATP, deoarece aceste reacții sunt exergonice.",
+      "D": "În etapa 4, molecula de fructoză-1,6-difosfat se scindează în moleculele altor doi compuși: gliceraldehid-3-fosfat și dihidroxiacetonfosfat.",
+      "E": "În etapa 4 (fructoză-1,6-difosfat → 3-fosfogliceraldehidă + dihidroxiacetonfosfat), un compus cu 6 atomi de carbon se scindează în doi compusi cu câte 3 atomi de carbon."
+    }
+  },
+  {
+    "numar": 32,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la etapele glicolizei:",
+    "variante": {
+      "A": "Toate etapele au loc cum consum sau produce ATP.",
+      "B": "Două etape endergonice utilizează energie rezultată din scindarea ATP, iar două etape exergonice generează energie din care se formează ATP.",
+      "C": "În etapa 5 (3-fosfogliceraldhidă → acid 1,3-difosfogliceric) se formează NADH+H+, care va intra în sistemul (lanțul) transportor de electroni.",
+      "D": "În etapa 5 (glucoză → glucozo-6-fosfat) se formează FADH2, care va intra în sistemul (lanțul) transportor de electroni.",
+      "E": "În prima și ultima etapă glicolitică se formează acetil-CoA, care intră în ciclul Krebs."
+    }
+  },
+  {
+    "numar": 33,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la glicoliză:",
+    "variante": {
+      "A": "Este un proces biochimic prin care din acetil-CoA se obțin ATP, NADH+H+ și FADH2.",
+      "B": "Este un proces biochimic realizat în etape, în care se consumă mai multe molecule (patru) din ATP decât se consumă (două).",
+      "C": "Pornind de la o moleculă de glucoză, se obțin 2 molecule de NADH+H+.",
+      "D": "Pornind de la o moleculă de glucoză, se obțin 2 molecule de acid piruvic (CH3–CO–COOH)."
+    }
+  },
+  {
+    "numar": 34,
+    "intrebare": "Alegeți afirmațiile false referitoare la glicoliză (dacă este metabolizată o singură molecule de glucoză):",
+    "variante": {
+      "A": "Caștigul net, ca rezultat al glicolizei, sunt 38 de molecule de ATP",
+      "B": "Este o succesiune de etape în care se sintetizează 4 molecule de ATP, din care 2 molecule sunt utilizate în reacțiile energetice de căii",
+      "C": "Este considerată un proces anaerob, deoarece nu necesită oxigen",
+      "D": "În cursul procesului, se produce două molecule de NADH+H+",
+      "E": "În cursul procesului, se produce două molecule de FADH2"
+    }
+  },
+  {
+    "numar": 35,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la procesul de glicoliză:",
+    "variante": {
+      "A": "Are loc în nucleul celular, alături de replicarea ADN și sinteza proteică",
+      "B": "Din moleculele de glucoză metabolizate se produc patru molecule de acid piruvic",
+      "C": "În prima etapă a procesului (formarea glucoza-6-fosfatului) este scindată o moleculă de ADP (pentru eliberarea de energie)",
+      "D": "La formarea unei molecule de glucozo-6-fosfat este scindată o moleculă de ATP, cu eliberarea a 7,3 kcal/mol",
+      "E": "Are loc în citoplasmă celulei și se desfășoară în mai multe etape controlate enzimatic"
+    }
+  },
+  {
+    "numar": 36,
+    "intrebare": "Selectați asocierile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Ciclul Krebs - ciclu acidului citric - ciclu al acidilor tricarboxilici - intramitocondrial",
+      "B": "ATP - compus cu legături electrovalente cu nivel energetic ridicat - în ciclul Krebs cedează energia pentru formarea GTP",
+      "C": "GTP - compus cu legături covalente cu nivel energetic ridicat - produs în ciclul Krebs (etapa: succinil-CoA → acid succinic) - cedează energia pentru formarea ATP",
+      "D": "Glicoliză - localizare în mitocondrie - finalizare prin formare de produse reziduale CO2 și H2O",
+      "E": "O moleculă de glucoză - catabolism oxidativ complet - 6 molecule de CO2 și 6 molecule de H2O"
+    }
+  },
+  {
+    "numar": 37,
+    "intrebare": "Alegeți afirmațiile adevărate:",
+    "variante": {
+      "A": "Glicoliză - mitocondrie - consum de NADH+H+ - producere de FADH2",
+      "B": "Glicoliză - citoplasmă - producere de NADH+H+ - consum de NAD+",
+      "C": "Glicoliză - enzimă - acid piruvic - producere de ATP",
+      "D": "Absența oxigenului - mitocondrie - consum de ATP - producere de NADH+H+",
+      "E": "Ciclul Krebs - localizare în mitocondrie (matrice) - acizi tricarboxilici (citric, cis-aconitic, izocitric)"
+    }
+  },
+  {
+    "numar": 38,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "În timpul glicolizei anaerobe, moleculele de glucoză sunt convertite în acid oxaloacetic",
+      "B": "Cand mușchii striați scheletici se contractă intens pentru câteva minute, organismul nu poate să își rezerve ATP-ul rezultat din faza anaerobă a respirației celulare",
+      "C": "Pe măsura acumulării acidului lactic în fibra musculară, se produce cantități crescute de ATP",
+      "D": "Pe măsura acumulării acidului lactic în fibra musculară, se instalează oboseala musculară",
+      "E": "O mare parte a acidului lactic produs în absența oxigenului în fibra musculară difuzează în aria celulei și este transportat de către sânge la ficat"
+    }
+  },
+  {
+    "numar": 39,
+    "intrebare": "Referitor la transformările biochimice care au loc în fibrele musculare în contracție, este adevărat că:",
+    "variante": {
+      "A": "În absența oxigenului, dintr-o moleculă de glicogen se formează două molecule de acid lactic și două molecule de ATP",
+      "B": "În condiții anaerobe, acidul lactic acceptă hidrogen de la NADH+H+ și se reduce la acid piruvic",
+      "C": "Când ATP-ul este epuizat, fosfocreatina eliberează energie, prin transferarea grupării fosfat unei moleculi de ADP, în vederea regenerării moleculelor de ATP",
+      "D": "Când rezervele de adenozin-trifosfat și fosfocreatină s-au epuizat, mușchii striați utilizează primordial decarboxilarea aminoacizilor ca sursă de energie",
+      "E": "Atunci când mușchii striați scheletici efectuează un efort excesiv, rezervele de ATP și creatină fosfat se pot epuiza, moment în care se activează utilizarea surselor de energie reprezentând glicogen"
+    }
+  },
+  {
+    "numar": 40,
+    "intrebare": "Alegeți variantele incorrecte dintre cele de mai jos:",
+    "variante": {
+      "A": "În procesul de metabolizare a glucozei până la produșii reziduali (CO2 și H2O), glicoliza precede ciclul acizilor tricarboxilici",
+      "B": "Succesive transformări glucozei în cursul metabolizării ei oxidative complete este: glicogenogeneză - glicogen - intrare în ciclul Krebs - chemiosmoză - lanțul transportor de electroni - CO2 și H2O",
+      "C": "Prin chemiosmoză se realizează un gradient puternic al electronilor (e-) între compartimentele delimitate de membrana simplă a mitocondriei (spațiu intermembranar și matrice)",
+      "D": "Prin chemiosmoză se realizează un gradient puternic al protonilor H+ între compartimentele delimitate de membrana internă a mitocondriei intracelulare (spațiu intermembranar și matrice)",
+      "E": "Coenzima NAD+ intervine exclusiv în transformări ale ciclului Krebs, transportând oxigenul la mitocondrie"
+    }
+  },
+  {
+    "numar": 41,
+    "intrebare": "Alegeți asocierile corecte:",
+    "variante": {
+      "A": "Glicoliză - mitocondrie - consum de NADH+H+ - producere de FADH2",
+      "B": "Glicoliză - citoplasmă - producere de NADH+H+ - consum de NAD+",
+      "C": "Glicoliză - enzimă - acid piruvic - producere de ATP",
+      "D": "Absența oxigenului - mitocondrie - consum de ATP - producere de NADH+H+",
+      "E": "Ciclul Krebs - localizare în mitocondrie (matrice) - acizi tricarboxilici (citric, cis-aconitic, izocitric)"
+    }
+  },
+  {
+    "numar": 42,
+    "intrebare": "Alegeți asocierile incorecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Eliberarea unei molecule de CO2 din molecula de acid piruvic – transfer de protoni și electroni pe NAD+ – formare de NADH+H+ – formare de acetil-CoA – intrare în ciclul Krebs",
+      "B": "Carboxilarea acidului piruvic – acceptarea unei molecule de CO2 de către acidul piruvic – formare de FADH2 – formare de acetil-CoA – intrare în ciclul Krebs",
+      "C": "Vitamina B2 - coenzima oxidată NADH+H+ - acceptare de protoni - coenzima redusă NAD+",
+      "D": "Seviciul a glicozilcii: glucoză → glucoză-6-fosfat → fructoză-6-fosfat → fructoză-1,6-difosfat",
+      "E": "Seviciul a glicozilcii: dihidroxiacetona-fosfat → fructoză-1,6-difosfat → acid 3 fosfogliceraldehidă"
+    }
+  },
+  {
+    "numar": 43,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la ciclul Krebs:",
+    "variante": {
+      "A": "În cadrul respirației celulare, este o etapă sucessivă sistemului de transport al electronilor și precede glicoliza",
+      "B": "În cadrul metabolismului glucidic, este o etapă succcesivă glicolizei si precede sistemul de transport al electronilor",
+      "C": "Continuă metabolizarea grupărilor acetil (CH3–CO) furnizată din acidul piruvic (provenit de din glicoliză, fiind din catabolismul unor aminoacizi) care va intra în ciclul acidului tricarboxilic sub formă acetil-CoA",
+      "D": "ATP se combină cu coenzima A, formând acetil-CoA. CO2, compus cu 2 atomi de carbon, se elimină și ca gaz rezidual, atât în urma decarboxilării acidului piruvic, cât și din CAT (ciclul acidului tricarboxilic)",
+      "E": "Produce molecule cu nivel energetic ridicat: NADH+H+ și FADH2, precum și GTP/ATP"
+    }
+  },
+  {
+    "numar": 44,
+    "intrebare": "Despre ciclul Krebs este adevărat că:",
+    "variante": {
+      "A": "La parcurgerea unui ciclu Krebs rezultă două molecule de CO2, ca produși reziduali",
+      "B": "La parcurgerea unui ciclu Krebs rezultă trei molecule de NADH+H+ și o moleculă de FADH2",
+      "C": "Dintr-o moleculă de acetil-CoA care inițiază un ciclu Krebs sunt produse doar molecule de NADH+ și ATP",
+      "D": "Într-una din etape se produce o moleculă de GTP, care își va ceda energia pentru a se forma o moleculă de ATP (prin fosforilarea unui ADP)",
+      "E": "Prezinți ca și compuși intermediari acizii tricarboxilici (acidul oxaloacetic, acidul malic, acidul fumaric)"
+    }
+  },
+  {
+    "numar": 45,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la transformările diferiților compuși care apar în cadrul ciclului Krebs:",
+    "variante": {
+      "A": "Acidul piruvic inițiază ciclul prin reacția de formare a acidului citric (un acid dicarboxilic, cu patru atomi de carbon)",
+      "B": "Acetil-CoA inițiază ciclul furnizând grupa acetil care reacționează cu acidul oxaloacetic, coformând acidul citric (cu 6 atomi de carbon) și eliberând CoA",
+      "C": "Transformările din ciclu cer implică o serie de reacții enzimatiche",
+      "D": "Acidul izocitrate este transformat în acid α-cetoglutaric prin dehidrogenază (cu participarea NAD+ care devine NADH+H+) și decarboxilază",
+      "E": "Acidul citric este transformat în izocitrat prin rearanjarea intervine a sulfului din molecula de CoA"
+    }
+  },
+  {
+    "numar": 46,
+    "intrebare": "Alegeți afirmația falsă referitoare la celula Krebs.",
+    "variante": {
+      "A": "În anumite etape se eliberează electroni care vor fi preluați de coenzimele oxidate NAD+ și FAD, care astfel se reduc",
+      "B": "Este o succesiune de reacții biochimice care se desfășoară în mitocondria celulei",
+      "C": "Include reacții enzimatice care vor conduce în final la refacerea acidului oxaloacetic",
+      "D": "În fiecare atom de carbon al grupării acetil din acetil-CoA care intră în ciclu se formează o moleculă de CO2",
+      "E": ""
+    }
+  },
+  {
+    "numar": 47,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la etapele ciclului Krebs.",
+    "variante": {
+      "A": "În prima etapă are loc transformarea acidului lactic în acetil-CoA, prin pierderea unui atom de carbon",
+      "B": "În prima etapă, gruparea acetil (cu 2 atomi de carbon) a acetil-CoA reacționează cu acidul oxaloacetic (cu 4 atomi de carbon), formând acid citric (cu 6 atomi de carbon) și eliberând CoA",
+      "C": "În trei dintre etape, are loc oxidarea coenzimei NAD+, care se transformă în NADH+ prin acceptare de protoni",
+      "D": "În trei dintre etape, are loc reducerea coenzimei NAD+ care se transformă în NADH+ prin acceptare de protoni",
+      "E": ""
+    }
+  },
+  {
+    "numar": 48,
+    "intrebare": "Alegeți răspunsurile cu o afirmație adevărată și una falsă, referitoare la ciclul Krebs.",
+    "variante": {
+      "A": "Prezintă o etapă în care se eliberează suficientă energie pentru a se sintetiza 2 molecule de ATP (via GTP). Ciclul Krebs este inițiat de acetil-CoA, care reacționează cu acidul citric pentru a forma acid izocritic",
+      "B": "Există etape în care se formează molecule de NADH+ și FADH2. Aceste coenzime reducse vor elibera protonii care sunt pompați în spațiul intermembranar și electronii, care vor fi utilizați în sistemul de transport al electronilor",
+      "C": "",
+      "D": "",
+      "E": ""
+    }
+  },
+  {
+    "numar": 49,
+    "intrebare": "Alegeți afirmațiile adevarate referitoare la sinteza și transformarea acidului α-cetoglutaric în cadrul ciclului Krebs.",
+    "variante": {
+      "A": "Acidul α-cetoglutaric (cu 5 atomi de carbon) se formează din acid izocitric (cu 6 atomi de carbon) care cedează un atom de carbon sub formă de CO2",
+      "B": "Prin decarboxilarea acidului α-cetoglutaric (cu 6 atomi de carbon) se formează acid izocitric (cu 5 atomi de carbon)",
+      "C": "Transformarea acidului α-cetoglutaric (cu 5 atomi de carbon) în succinil-CoA are loc cu eliberarea unei molecule de CO2",
+      "D": "Transformarea acidului α-cetoglutaric în succinil-CoA furnizează protonii (H+) care vor fi preluat de coenzima nicotinamidă oxidată NAD+ (care astfel se reduce)",
+      "E": "Transformarea acidului α-cetoglutaric în succinil-CoA are loc concomitent cu oxidarea unei molecule de FADH2"
+    }
+  },
+  {
+    "numar": 50,
+    "intrebare": "Alegeți asocierile corecte referitoare la ciclul Krebs.",
+    "variante": {
+      "A": "Transformarea succinil-CoA în acid succinic - eliberarea CoA - generarea unui GTP",
+      "B": "Transformarea acidului succinic în succinil-CoA - reacție de hidroliză - consum de ATP",
+      "C": "Gruparea acetil a moleculei de acetil-CoA - două molecule de CO2 - difuzarea CO2 în afara celulei - transportul CO2 la plante",
+      "D": "Ultimul compus al ciclului - acidul fumaric - transformare directă în acid malic",
+      "E": "Ultimul compus al ciclului - acidul oxaloacetic (compus identic cu cel care a inițiat ciclul) - interacțiunea cu o nouă moleculă de acetil-CoA - inițierea unui nou ciclu"
+    }
+  },
+  {
+    "numar": 51,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la compușii intermediari ai ciclului acizilor tricarboxilici.",
+    "variante": {
+      "A": "Acidul citric și izocitric sunt acizi dicarboxilici cu câte patru atomi de carbon",
+      "B": "Acidul succinic și fumaric sunt acizi tricarboxilici cu câte șase atomi de carbon",
+      "C": "Acidul citric și izocitric sunt acizi care conțin trei grupări -COOH",
+      "D": "Acidul succinic are patru atomi de carbon",
+      "E": "Acidul fumaric se obține prin dehidrogenarea acidului succinic"
+    }
+  },
+  {
+    "numar": 52,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la lactatul acidului tricarboxilic.",
+    "variante": {
+      "A": "Fiecare atom de carbon din gruparea acetil a acetil-CoA este folosit pentru a forma o moleculă CO2",
+      "B": "Moleculele de CO2 sunt folosite pentru recarboxilarea acetil-CoA la acidul piruvic",
+      "C": "Moleculele de CO2 difuzază în afara celulei și sunt transportate la plante, pentru a fi eliminate din organism prin expiraj (expir)",
+      "D": "Moleculele de NADH+ și FADH2 vor ceda protonii și electronii (aceștia din urmă fiind preluat de componentele lanțului transportor de electroni)",
+      "E": "Moleculele de FADH2 vor fi utilizate pentru oxidarea acidului piruvic la acid lactic"
+    }
+  },
+  {
+    "numar": 53,
+    "intrebare": "Care dintre afirmațiile de mai jos sunt adevărate?",
+    "variante": {
+      "A": "Pentru a intra în ciclul Krebs, gruparea acetil (CH₃–CO–) provine din acidul piruvic se leagă de coenzima A",
+      "B": "Acetil-CoA iese din matricea mitocondrială în spațiul interstițial, se alătură ciclului Krebs",
+      "C": "Pentru a intra în ciclul Krebs, acidul oxaloacetic se cuplează acidul oxaloacetic preexistent în celulă, formând acidul citric",
+      "D": "Pentru două molecule de acetil-CoA care intră în ciclul Krebs (cu parcurserea lui completă) se formează 2 ATP, 6 NADH + H⁺, 2 FADH₂ și se eliberează ca produs rezidual 4 molecule de CO₂.",
+      "E": "Ultimul produs al ciclului Krebs este acidul citric, care va reiniția un nou ciclu"
+    }
+  },
+  {
+    "numar": 54,
+    "intrebare": "Alegeți asocierele corecte:",
+    "variante": {
+      "A": "O moleculă de acetil-CoA – inițierea ciclului Krebs și parcursarea lui completă – generează 3 molecule de NADH + H⁺ și a unei molecule de FADH₂",
+      "B": "O moleculă de acetil-CoA – inițiere și parcursare completă a ciclului Krebs – generare de 4 molecule de NADH și 2 molecule de FADH₂",
+      "C": "Mitocondriile – membrană externă cu criste mitocondriale – compartiment mitochondrial intern (spațiu intermembranar)",
+      "D": "Glicoliză – acid pirovic (3 atomi de C) – grupare acetil (2 atomi de C) – acetil-CoA – ciclul Krebs",
+      "E": "Acetil-CoA – inițiere și parcursare a ciclului Krebs – succesiune de transformări – generare de energie (GTP/ATP, NADH + H⁺ și FADH₂) – eliberare de CO₂ ca produs rezidual"
+    }
+  },
+  {
+    "numar": 55,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Pentru o moleculă de acetil-CoA care inițiază ciclul Krebs, după parcurserea lui, rezultă două molecule de CO₂",
+      "B": "Pornind de la o moleculă de glucoză care intră în ciclul Krebs, se eliberează în total patru molecule de CO₂ și o moleculă de apă",
+      "C": "Ciclul Krebs reprezintă una dintre etapele respirației celulare",
+      "D": "Pentru două molecule de acetil-CoA metabolizate în ciclul Krebs s-au format două molecule de GTP (care își vor transfera energia către două molecule de ADP, cu formarea a două molecule de ATP)",
+      "E": "Ultimul compus format în ciclul Krebs și care va reiniția un nou ciclu este acidul malic"
+    }
+  },
+  {
+    "numar": 56,
+    "intrebare": "Alegeți enunțurile care conțin prima afirmație adevărată și a doua falsă:",
+    "variante": {
+      "A": "Celulele care au nevoie de energie utilizează ca sursă imediată creatin fosfatul și ulterior adenosin-trifosfatul. Câștigul net energetic rezultat din glicoliză este de 34 mol ATP",
+      "B": "În timpul ciclului Krebs, anumite reacții au drept consecință transformarea NAD⁺ în NADH + H⁺. Un acid important cu 6 atomi de carbon format în prima fază a ciclului Krebs este acidul α-cetoglutaric",
+      "C": "Glicoliza este considerată a fi un proces anaerob, care are loc în citoplasmă. În prima etapă a procesului de glicoliză, glucoza este scindată în două molecule de glucozo-6-fosfat",
+      "D": "În cursul respirației celulare, gazul folosit ca acceptor de electroni este CO₂, în procesul de glicoliză, glucoza este scindată în două molecule de acid piruvic",
+      "E": "Glucoza poate fi stocată în ficat și în mușchi sub formă de glicogen (abundent în special în mușchii striați alb, denumiți și mușchi rapid sau mușchi glicolizi). Din fiecare atom carbon care intră în ciclul Krebs sub formă grupării acetil, se formează o moleculă de monoxid de carbon (CO)"
+    }
+  },
+  {
+    "numar": 57,
+    "intrebare": "Citiți enunțurile de mai jos, notați cu cifre de la 1 la 5. Alegeți răspunsurile astfel: A - dacă 1 și 3 sunt adevărate, B - dacă 2 și 4 sunt adevărate, C - dacă toate sunt false, D - dacă există cel puțin o afirmație despre acetil-CoA.",
+    "variante": {}
+  },
+  {
+    "numar": 58,
+    "intrebare": "Alegeți afirmațiile false despre diverse transformări biochimice care au loc în celulă:",
+    "variante": {
+      "A": "Acidul piruvic rezultat din glicoliză pierde un atom de carbon sub formă de CO2, iar grupa acetică rezultată, împreună cu CoA, formează acetil-CoA",
+      "B": "Glicoliza este considerată un proces anaerob pentru că nu se eliberează energie în decursul procesului",
+      "C": "În reacțiile ciclului Krebs, electronii sunt acceptați prin transfer de către ADP și ADN",
+      "D": "În prima etapă a glicolizei se sintetizează acidul citric (cu 6 atomi de carbon)",
+      "E": "În fibra musculară care desfășoară o activitate intensă și de durată, în condiții de hipoxie, nu se generează acid lactic din reducerea acidului piruvic, ci acid oxaloacetic"
+    }
+  },
+  {
+    "numar": 59,
+    "intrebare": "Alegeți afirmațiile adevărate despre diverse transformări biochimice care au loc în celule:",
+    "variante": {
+      "A": "Odată pivotarea de mitocondrie, acidul piruvic pierde un atom de carbon sub forma moleculei de CO2, rezultând o grupare cu 2 atomi de carbon care se combină cu coenzima A",
+      "B": "Așa are formă acetil-CoA",
+      "C": "În condiții anaerobe, în celula (fibra) musculară se produce acid acetic",
+      "D": "În anumite etape ale ciclului Krebs, electronii și protonii mobilizați de pe substrat suntprivilegi de către coenzime și transferă sistemul (lanțul) transportor al electronilor",
+      "E": "În prima fază a glicolizei se formează un acid tricarboxilic cu 6 atomi de carbon, denumit acid oxaloacetic"
+    }
+  },
+  {
+    "numar": 60,
+    "intrebare": "Care dintre informațiile de mai jos privind transformări ale glucozei și ale produselor intermediare ai glicolizei și ai ciclului acizilor tricarboxilici, sunt corecte?",
+    "variante": {
+      "A": "Cei 6 atomi ai moleculei de glucoză vor furniza 12 molecule de CO2 în urma glicolizei și a ciclului Krebs",
+      "B": "Cei 6 atomi de carbon ai moleculei de glucoză vor furniza 6 molecule de CO2 în urma glicolizei, decarboxidării oxidative a acidului piruvic și a ciclului Krebs",
+      "C": "În fosforilarea unei molecule de glucoză la glucozo-6-fosfat se consumă o moleculă de ATP, care eliberează 7,3kcal/mol",
+      "D": "Atunci când 3 fosfoglicerahide se transformă în acidul 1,3 difosfogliceric, se produce un mol de ATP",
+      "E": "În cursul glicolizei se produc două molecule de NADH+H+, care își vor lua protonii i electronii lanțului transportor de electroni"
+    }
+  },
+  {
+    "numar": 61,
+    "intrebare": "Alegeți informațiile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Organismul în care este eliberată cea mai mare parte a energiei provenite din nutrienți de aport alimentar este mitochondria",
+      "B": "Sinteză de ATP la nivel mitocondrial nu necesită oxigen (este un proces anaerob)",
+      "C": "În interiorul mitocondriilor procesul complex al respirației celulare este complet ancurat",
+      "D": "Mitochondria are o membrană internă și una externă (plicatură sub formă de criste) care se formează apă prin combinarea oxigenului cu hidrogen și electroni",
+      "E": "Mitochondria are o membrană externă și una internă ( aceasta din urmă plicaturată sub formă de criste) și este compartimentată în matrice (compartimentul intern) și spațiul intermembranar (compartimentul extern)"
+    }
+  },
+  {
+    "numar": 62,
+    "intrebare": "Despre mitocondrii și procesele care au loc la nivelul ei este adevărat că:",
+    "variante": {
+      "A": "Prezintă matricea mitocondrială în care se desfășoară o serie de procese generatoare de energie (β-oxidarea acizilor grași, ciclul Krebs)",
+      "B": "Plăcuțele membranei mitocondriale interne conțin enzimele importante pentru pompa de electroni și hidroliza ATP",
+      "C": "Cristele mitocondriale prezintă citocromii lanțului transportor de electroni, precum și enzimele citochromoxidază și ATP-sintetază",
+      "D": "În matricea mitocondrială, acetil coenzima A și oxaloacetatul inițiază ciclul Krebs prin sinteza acidului citric",
+      "E": "Chemiosmoza (producerea efectivă de ATP) nu are loc la nivelul mitocondriei, ci în citoplasmă"
+    }
+  },
+  {
+    "numar": 63,
+    "intrebare": "Despre componentele lanțului transportor de electroni este adevărat că:",
+    "variante": {
+      "A": "Sunt localizate în membrana mitocondrială internă, de-a lungul cristelor acesteia",
+      "B": "Sunt coenzime și citocromi capabili să treacă ireversibil în stări oxidate/reduse, cedând/acceptând electroni și permițând astfel eliberarea treptată a energiilor electronilor",
+      "C": "Citocromii conțin fier, asemănător altor compuși din organism - hemoglobină, mioglobină",
+      "D": "Citocromii trec din starea citocrom redus în starea citocrom oxidat prin cedarea electronilor către următorul citocrom al lanțului (citocrom care se va reduce)",
+      "E": "Citocromii trec din starea citocrom oxidat în starea citocrom redus prin acceptarea electronilor de la citocromul anterior din lanțul transportor (acesta din urmă oxidându-se)"
+    }
+  },
+  {
+    "numar": 64,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la sistemul de transport al electronilor:",
+    "variante": {
+      "A": "Este localizat în citoplasma celulei, unde se află coenzimele și citocromii implicați în acest proces",
+      "B": "Denumit și lanțul transportor de electroni, se desfășoară de-a lungul cristelor mitocondriale, unde sunt localizate componentele lui (coenzimele și citocromii implicați în acest proces)",
+      "C": "Electronii care sunt cedați citocromilor și altor coenzime ale lanțului transport provin din moleculele de NADH+H+ și FADH2 rezultate din ciclul Krebs și glicoliză",
+      "D": "Constă într-o succesiune de reacții de oxidoreducere, în cadrul cărora trecerea sucesivă a electronilor de la o componentă a lanțului la alta permite pierderea (degajarea) treptată a energiei acestora",
+      "E": "Energia rezultată prin transferul protonilor în lanțul transportor va fi utilizată pentru a pompa electroni (e-) între compartimentele mitocondriale"
+    }
+  },
+  {
+    "numar": 65,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la sistemul de transport al electronilor (lanțul transportor de electroni):",
+    "variante": {
+      "A": "Transportul electronilor de la coenzimele nicotinamidice și flavinice la oxigen are loc într-o singură etapă, în care se degajă toată energia electronilor, conducând la formarea apei.",
+      "B": "Transportul electronilor de la coenzimele nicotinamidice și flavinice către citocromi și alte coenzime (în final către oxigen) se desfășoară în mai multe etape (trepte).",
+      "C": "Energia eliberată la transferul electronilor între componentele lanțului este folosită pentru pomparea protonilor din matricea mitocondrială (compartimentul intern) în spațiul intermembranar (compartimentul extern).",
+      "D": "Reacțiile prin care electronii sunt transferați între coenzime și citocromi sunt reacții de oxidare totală (ardere).",
+      "E": "Reacțiile prin care electronii sunt transferați între coenzime și citocromi, precum și între aceștia și oxigen, sunt reacții de oxidoreducere."
+    }
+  },
+  {
+    "numar": 66,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la transportul electronilor în lanțul transportor de electroni:",
+    "variante": {
+      "A": "Are loc de-a lungul cristerelor membranei mitocondriale externe spre citoplasmă.",
+      "B": "Are loc de-a lungul cristerelor membranei mitocondriale interne, care conțin coenzimele și citocromii implicați în reacții de oxidoreducere.",
+      "C": "Coenzimele și citocromii acceptă și cedază electronii în cadrul acestui sistem, schimbându-și starea de oxidare.",
+      "D": "Ordinea succesiunii citocromilor (direcția în care sunt transportați electronii) este următoarea: citocrom B → citocrom C → citocrom A → citocrom A3.",
+      "E": "Acceptori finali de electroni este hidrogenul, care va reacționa cu oxigenul formând apa."
+    }
+  },
+  {
+    "numar": 67,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Pentru enzymi FADH2 se utilizează moleculele de vitamina B3.",
+      "B": "Energia rezultată din transferul electronilor în sistemul transportor de electroni este utilizată pentru a pompa protonii din matricea mitocondrială în spațiul intermembranar (transport activ).",
+      "C": "Protonii (ionii de H+) au fost transportați pasiv, prin difuziune, în compartimentul mitocondrial extern, membrana mitocondrială internă fiind foarte permeabilă pentru ei.",
+      "D": "Odată ce protonii au fost transportați activ în compartimentul mitocondrial extern, între acesta și matricea mitocondrială se creează un puternic gradient protonic.",
+      "E": "Odată creat gradientul protonic, protonii din spațiul intermembranar se întorc în matrice conform acestui gradient, prin intermediul enzimei membranare ATP-sintetaza."
+    }
+  },
+  {
+    "numar": 68,
+    "intrebare": "Alegeți afirmațiile false referitoare la transportul electronilor de-a lungul cristelori mitocondriale:",
+    "variante": {
+      "A": "Transportul electronilor are loc între coenzime (derivate ale unor vitamine liposolubile) și citocromi (glicoproteine care conțin ion de calcium în stări diferite de oxidare).",
+      "B": "Energia rezultată din transferul electronilor este folosită pentru a transporta citocromii oxidati în membrana externă a mitocondriei, unde are loc sinteza de ATP.",
+      "C": "Energia rezultată din transferul electronilor este folosită pentru a pompa protoni prin membrana mitocondrială, în scopul obținerii unui puternic gradient protonic între compartimentele mitocondriale."
+    }
+  },
+  {
+    "numar": 69,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la lanțul transportor de electroni:",
+    "variante": {
+      "A": "Acceptorul final de electroni este oxigenul, care după combinarea cu protonii formează molecula de apă.",
+      "B": "Enzima citocrom-oxidază este implicată în preluarea de către oxigen a protonilor transportați de coenzime și citocromi.",
+      "C": "Oxigenul încarcă electronegativ prin acceptarea a doi electroni preia doi protoni din soluție formând o moleculă de apă.",
+      "D": "Acceptori finali de electroni este molecula de apă, care se transformă în hidrogen și oxigen, cedându-și energia pentru sinteza de ATP.",
+      "E": "Energia rezultată din reacțiile de oxidoreducere ale lanțului transportor de electroni este utilizată pentru pomparea protonilor din matricea mitocondrială și creația unui gradient de concentrație al H+ între spațiul intermembranar și matrice."
+    }
+  },
+  {
+    "numar": 70,
+    "intrebare": "Alegeți afirmațiile false referitoare la sistemul de transport al electronilor:",
+    "variante": {
+      "A": "Acceptatorul final de electroni este molecula de oxigen, care după cedarea protonilor (H+) se transformă într-o moleculă de apă (H2O2).",
+      "B": "Enzima citocrom-oxidază catalizează transferul electronilor pe oxigen, care se va combina cu ionii de hidrogen, rezultând apă.",
+      "C": "Oxigenul încarcă electric pozitiv prin acceptarea a doi electroni preia protonii din soluție, cu formarea unei molecule de apă.",
+      "D": "Acceptatorul final de electroni este enzima citocrom-oxidază, care catalizează sinteza moleculei de ATP din ADP și protoni.",
+      "E": "Preluarea a doi protoni din soluție de către oxigenul care a acceptat electroni (devenind astfel încărcat negativ 2-) reprezintă eliberarea sarcinilor (încărcători) electrice."
+    }
+  },
+  {
+    "numar": 71,
+    "intrebare": "Alegeți variantele corecte de răspuns dintre cele de mai jos:",
+    "variante": {
+      "A": "Componentele lanțului transportor de electroni din membrana mitocondrială internă sunt sisteme de oxido-reducere care se succed într-o anumită ordine, pentru a permite final formele molecule de apă.",
+      "B": "Electronii rezultati din reacțiile de oxidare ale glucozei și ale ciclului Krebs sunt transferați pe coenzimele nicotinamidice și flavinice, unde sunt preluați de alte coenzime și de citocromi în ordinea citocrom B - citocrom C - citocrom A/citocrom A3 (citocromocidaza), pentru ca în final să fie preluat de oxigen.",
+      "C": "Membrana mitocondrială internă conține citocromi Q, B, C, A/A3 (citocromocidaza) care primesc electroni și protoni direct de la oxigen.",
+      "D": "Dacă acceptorul final, oxigenul, nu ar fi disponibil în etapa finală a lanțului transportor, electronii nu ar putea fi eliberați din coenzime și din citocromi, ceea ce ar bloca continuarea procesului.",
+      "E": "Acetil-CoA fiind acceptorul final de electroni în lanțul transportor, prezența O2 este facultativă."
+    }
+  },
+  {
+    "numar": 72,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la enzima citocrom-oxidază:",
+    "variante": {
+      "A": "Este localizată în citoplasma celulei, alături de celelalte enzime implicate în glicoliză.",
+      "B": "Este localizată în mitocondrie, alături de enzimile și citocromii implicați în sistemul de transport al electronilor.",
+      "C": "Fiind o oxidază, catalizează reacția de oxidare a acidului lactic în acid piruvic.",
+      "D": "Transferă electronii direct oxigenului care, împreună cu protonii, va forma apă.",
+      "E": "Este enzima care leagă gruparea fosfat de ADP, sintetizând ATP-ul."
+    }
+  },
+  {
+    "numar": 73,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la sistemul de transport al electronilor:",
+    "variante": {
+      "A": "Electronii sunt transportați de coenzime (A, A3, B, C) și citocromi (NAD, FAD, citocrom-oxidază)",
+      "B": "Coenzime NAD și FAD sunt acceptori finali ai electronilor din sistemul de transport",
+      "C": "Electronii provin din reacțiile de oxidare ale glicolizei și ale ciclului Krebs sunt transportați în următoarea secvență: coenzime (NADH+H+, FADH2) → citocromi, citocrom-oxidază → oxigen.",
+      "D": "Ca acceptor inițial de electroni, oxigenul este responsabil de eliminarea electronilor din sistem.",
+      "E": "În absența oxigenului ca acceptor de electroni în etapa finală, nu se poate realiza generarea de protoni și, implicit, sinteza de ATP."
+    }
+  },
+  {
+    "numar": 74,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele mai jos:",
+    "variante": {
+      "A": "ATP-ul se sintetizează în mitocondrie chiar dacă pompa de protoni din membrana internă a mitocondriilor nu este funcțională.",
+      "B": "Citocrom-oxidaza cu structură proteică este localizată în membrana mitocondrială internă, alături de alte enzime și citocromii implicați în sistemul de transport al electronilor.",
+      "C": "Fiind o oxidază, enzima citocrom-oxidază împiedică transferul electronilor către oxigen urmând să fie catabolizată.",
+      "D": "În hepatocite, monozaharidele fructoză și galactoză sunt convertite în glucoză, care urmează să fie catabolizată.",
+      "E": "Chemiosmoza implică obținerea unui gradient protonic puternic între spațiul intermembranar și matrice."
+    }
+  },
+  {
+    "numar": 75,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la chemiosmoză:",
+    "variante": {
+      "A": "Reprezintă exclusiv transportul electronilor de la coenzime la citocromi, de-a lungul cristei mitocondriei.",
+      "B": "Implică transportul activ al protonilor prin membrana internă mitocondrială în spațiul intermembranar, utilizând energia rezultată în urma reacțiilor de oxid-reducere din lanțul transportor de electroni.",
+      "C": "Reprezintă totalitatea reacțiilor de oxid-reducere din mitocondrie.",
+      "D": "Implică realizarea unui gradient electronic puternic între spațiul intermembranar și citoplasma celulei.",
+      "E": "Implică realizarea unui gradient protonic puternic între spațiul intermembranar și matricea mitocondrială."
+    }
+  },
+  {
+    "numar": 76,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "În glicozoă, în reacția de formare a acidului 3-fosfogliceric din acidul 1,3-difosfogliceric, se eliberează energie și o purgare fosfat, care va fosforila un ADP, formând un ATP",
+      "B": "În reacția acid 1,3-difosfogliceric - acid 3-fosfogliceric se scindează ADP cu formare de ATP",
+      "C": "În ciclul Krebs nu se generează ATP; GTP eliberându-și energia prin intermediul FADH2",
+      "D": "În etapa finală a respirației celulare ce sintetizează ATP (cu participarea enzimei ATP-sintetază)",
+      "E": "Energia produsă în etapa finală a respirației celulare (sub formă de ATP) estesubstanțială"
+    }
+  },
+  {
+    "numar": 77,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Chemiosmoza reprezintă mișcarea protonilor între spațiul intermembranar al mitocondriilor și citoplasmă",
+      "B": "Energia rezultată din sistemul de transport al electronilor este utilizată pentru pomparea transmembranară a protonilor din mitocondrii în spațiul intermembranar",
+      "C": "Apa formată în cadrul procesului de respirație celulară poate fi considerată un produs rezidual al metabolismului, alături de CO2",
+      "D": "În lanțul transportor de electroni, aceștia sunt eliberați de coenzimele nicotinamidă/flavine și preluat de alte coenzime și citocromi în final, cu ajutorul citocromoxidazei, de către oxigen",
+      "E": "Ciclul Krebs furnizează, pentru 0 molecule de acid piruvic, 2 molecule de ATP, 6 molecule de NADH+H+ și 2 molecule de FADH2"
+    }
+  },
+  {
+    "numar": 78,
+    "intrebare": "Alegeți asocierea corectă:",
+    "variante": {
+      "A": "Chemiosmoză – citoplasmă – CO2 – Acetil-CoA",
+      "B": "Chemiosmoză – membrană mitocondrială internă – ATP-sintetază – ATP",
+      "C": "Glicoza – acid cetoglucar – 0 molecule FADH2 – 0 moleculă GTP",
+      "D": "Glicoza – citoplasmă – transformare glucoză – acid piruvic – câștigat 2 ATP"
+    }
+  },
+  {
+    "numar": 79,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la ATP-sintetază:",
+    "variante": {
+      "A": "Este enzimă implicată în transportul protonilor prin membrana mitocondrială internă, din spațiul intermembranar în matricea mitocondrială",
+      "B": "Este implicată în transportul protonilor între citoplasmă și matricea mitocondriei",
+      "C": "Este enzimă care catalizează transformarea acidului piruvic în acetil-CoA",
+      "D": "Folosește energia fluxului de protoni pentru a genera ATP",
+      "E": "Folosește ca substrat molecule de ADP și ioni fosfat"
+    }
+  },
+  {
+    "numar": 80,
+    "intrebare": "Despre chemiosmoză se poate afirma că:",
+    "variante": {
+      "A": "Implica pomparea protonilor prin membrana internă mitocondrială în exteriorul mitocondriilor",
+      "B": "Asigură producerea efectivă de ATP în cursul respirației celulare, cu ajutorul enzimei adenilat ciclază",
+      "C": "Implica pomparea (transportul activ) al protonilor prin membrana mitocondrială internă, din matrice în spațiul intermembranar, utilizând energia eliberată în treptele prin reacțiile de oxidoreducere ale lanțului transportor de electroni",
+      "D": "Asigură obținerea gradientului de concentrare al H+ între compartimentele mitocondriale",
+      "E": "În cadrul ei, coenzimele folosesc energia fluxului de protoni pentru a genera ATP din ADP și fosfat"
+    }
+  },
+  {
+    "numar": 81,
+    "intrebare": "Alegeţi afirmaţiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "A. În mitocondrie funcţionează un sistem în care sunt colectaţi H+ şi e pentru reacţia finală cu dioxidul de carbon",
+      "B": "B. Lanţul_transportor_de_electroni este localizat în membrana internă mitocondrială",
+      "C": "C. H+ şi e pot proveni din citoplasmă (din reacţiile căii glicolitice), de unde sunt transferaţi în mitocondrie",
+      "D": "D. H+ şi e pot proveni decât din citoplasmă, din difuzia în membrana externă mitocondrială, la citocromi",
+      "E": "E. H+ şi e pot proveni chiar din mitocondrie, din reacţiile ciclului Krebs"
+    }
+  },
+  {
+    "numar": 82,
+    "intrebare": "Alegeţi afirmaţiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "A. În mitocondrie funcţionează un sistem în care sunt colectaţi H+ şi e pentru reacţia finală cu oxigenul, cu formare de H2O",
+      "B": "B. Enzima cu ajutorul căreia protonii traversează membrana mitocondrială în cursul chimiosintezei se numeşte catalază",
+      "C": "C. Odată gradientul protonic obţinut, protonii trec conform gradientului, din spaţiul intermembrană înapoi în matricea mitocondrială, descărcându-se energie prin intermediul enzimei ATP-sintetază",
+      "D": "D. Grupul acil provenit din acidul piruvic se combină cu coenzima A (CoA–SH) formând aceti-CoA (CH3–CO–S–CoA), printr-o reacţie în care se generează NADH+",
+      "E": "E. H+ şi e pot proveni doar din citoplasmă, de unde difuzăază în spaţiul intermembranar unde este localizat lantul transportor de electroni"
+    }
+  },
+  {
+    "numar": 83,
+    "intrebare": "Selectaţi afirmaţiile adevărate privind rolul ficatului în metabolismul glucidelor:",
+    "variante": {
+      "A": "A. Primeşte pe cale venind porţi monozaharidele absorbite la nivel intestinal",
+      "B": "B. Stochează moleculele de glucoză sub formă de glicogen (prin glicogenogeneză, sub acţiunea insulinei)",
+      "C": "C. Asigură transformarea glucozei în fructoză, aceasta fiind utilizată de către toate celulele corpului în respiraţia celulară",
+      "D": "D. Eliberează glucoză în fluxul sanguin prin glicogenogeneză",
+      "E": "E. În celulele lui (hepatocite) are loc transformarea unor aminoacizi în glucoză, prin gluconeogeneză, sub acţiunea glucagonului"
+    }
+  },
+  {
+    "numar": 84,
+    "intrebare": "Selectaţi enunţurile care conţin două afirmaţii adevărate referitoare la glucide şi transformările metabolice ale acestora:",
+    "variante": {
+      "A": "A. Glicogenogeneza reprezintă o cale metabolică de sinteză a unui compus glucidic (cale anabolica). Glicogenul este un polisacharid stocat in special in hepatocite, dar si in fibrele musculare",
+      "B": "B. Prima etapă în metabolismul glucidic este reprezentată de chimiosmoză. Sinteza glicogenului se numeşte gluconeogeneză şi este un proces exergonic",
+      "C": "C. În ficat, fructoza şi galactoza sunt convertite în glucoză. Când nivelul glucozei sanguine este ridicat (hiperglicemie) are loc sinteza de glicogen în ficat",
+      "D": "D. Din glicerol se pot sintetiza glucoză prin gliconeogeneză. Gliconeogeneza, prin eliberarea moleculelor de glucoză, conduce la hipoglicemie",
+      "E": "E. Procesul gluconeogenezei transformă anumite substanţe non-carbohidratice în moleculă de glucoză pentru a fi folosite în metabolismul energetic. Procesul de gluconeogeneză are loc în ficat fiind controlat de glucagon"
+    }
+  },
+  {
+    "numar": 85,
+    "intrebare": "Scăderea nivelului de glucoză din sânge:",
+    "variante": {
+      "A": "Stimulează nivelul ficatului glicogenogeneză (stocarea glucozei sub formă de glicogen)",
+      "B": "Stimulează glicogenoliza (sindrea glucozei hepatic) și eliberarea glucozei în fluxul sanguin",
+      "C": "Se numește hiperglicemie și este menținută de către insulină",
+      "D": "Se numește hipoglicemie și este corectată de către glucagon și epinefrină",
+      "E": "Stimulează sinteza de glucoză din molecule neglucidice (acid lactic, glicerol și uni aminoacizi) prin gluconeogeneză"
+    }
+  },
+  {
+    "numar": 86,
+    "intrebare": "Selectați afirmatiile false referitoare la transformarea unor carbohidrați.",
+    "variante": {
+      "A": "Glicogenul este scindat prin glicogenoliză, când nivelul glicemiei este scăzut",
+      "B": "Acidul lactic și glicerol sunt molecule care nu constituie substraturi pentru gluconeogeneză",
+      "C": "Prin scindarea unor proteine celulare se eliberează aminoacizi care, ajunși la hepatoc, pot participa la gluconeogeneză",
+      "D": "Din adipocite, prin hidroliza trigliceridelor, se eliberează glicerol care poate constitui substrat pentru gluconeogeneză",
+      "E": "Hormonii glucagon și epinefrină (adrenalină) accelerează gluconeogeneza, producând hiperglicemie"
+    }
+  },
+  {
+    "numar": 87,
+    "intrebare": "Care dintre următoarele afirmații referitoare la metabolismul glucidic sunt false?",
+    "variante": {
+      "A": "În urma digestiei, glucidele sunt descompuse neenzimatic în monozaharide, prin fermentație",
+      "B": "Glucoza este principala sursă de energie pentru activitatea celulară (prin catabolism oxidativ)",
+      "C": "Anabolismul glucidic constă în procese de sinteză care au ca produs final colesterolul",
+      "D": "În glicoliza anaerobă acidul lactic este redus la acid piruvic prin procesele de fermentație",
+      "E": "Gluconeogeneza reprezintă sinteza de glucoză din compusi neglucidici anumi aminoacizi, glicerol și acid lactic"
+    }
+  },
+  {
+    "numar": 88,
+    "intrebare": "Care dintre următoarele afirmatii referitoare la gluconeogeneză sunt adevărate?",
+    "variante": {
+      "A": "Reprezintă sinteza de glucoză la nivelul tuturor țesuturilor, sub acțiunea glucagonului",
+      "B": "Transformă molecule neglucidice (non-carbohidrați) în molecule de glucoză, care vor fi utilizate în metabolismul energetic",
+      "C": "Este o cale metabolică stimulată de glucagon",
+      "D": "Reprezintă prima etapă în respirația celulară, fiind urmată de ciclu Krebs",
+      "E": "Este similară glicogenolizei, care transformă glicogenul în molecule de glucoză, utilizate ca material energetic"
+    }
+  },
+  {
+    "numar": 89,
+    "intrebare": "Care dintre următorii compusi neglucidici reprezintă precursori ai gluconeogenezei hepatice?",
+    "variante": {
+      "A": "Acidul lactic (produs al glicolizei în prezența oxigenului) și glicerol (rezultat din catabolismul proteic)",
+      "B": "Acidul lactic (rezultat prin reducerea acidului piruvic în anaerobioză) și glicerol (rezultat din catabolismul lipidelor, prin hidroliza trigliceridelor)",
+      "C": "Anumi aminoacizi (rezultat prin scindarea proteinelor sub acțiunea unor enzime hidrolitice)",
+      "D": "Acidul acetoacetic și acidul palmitic (molecule cu natură lipidică)"
+    }
+  },
+  {
+    "numar": 90,
+    "intrebare": "Reprezintă precursori ai gluconeogenezei hepatice următorii compusi:",
+    "variante": {
+      "A": "Glicerol, un acid rezultat din hidroliza colesterolului esterificat",
+      "B": "Compusul rezultat din anaerobioză din transformarea reversibilă (reducerea) a acidului piruvic, cu consumul unei molecule de NADH+H+"
+    }
+  },
+  {
+    "numar": 91,
+    "intrebare": "Selectați afirmațiile adevărate privind intervențiile insulinei în metabolismul glucidic:",
+    "variante": {
+      "A": "Facilitează intrarea moleculelor de glucoză în celulele țintă, care prezintă receptori pentru insulină",
+      "B": "Facilitează pătrunderea glucozei în toate celulele corpului, în special la nivelul eritrocitelor care prezintă doar metabolism aerob",
+      "C": "În țesuturi țintă, stimulează activitatea transportorului membranar pentru moleculele de glucoză",
+      "D": "În celule, stimulează alta glicoliză (scindarea glicogenului din moleculele de glucoză) cât și stimulează genaza (sinteza glicogenului din moleculele de glucoză)",
+      "E": "Reduce nivelul sanguin al glucozei, fiind hormon hipoglicemiant"
+    }
+  },
+  {
+    "numar": 92,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Insulina conduce la hiperglicemie și eliberarea glucozei în fluxul sanguin",
+      "B": "În excesul de insulină, pacienții dezvoltă tipul I de diabet zaharat (insulinodependent)",
+      "C": "În absența insulinei, pacienții dezvoltă tipul II de diabet zaharat (insulinodependent)",
+      "D": "În tipul II de diabet zaharat celulele din organism dispun de un număr crescut de receptori pentru insulină",
+      "E": "Atunci când numărul de receptori pentru insulină este redus, pacienții dezvoltă tipul II de diabet zaharat"
+    }
+  },
+  {
+    "numar": 93,
+    "intrebare": "Care dintre următorii hormoni sunt implicați în metabolismul glucidic?",
+    "variante": {
+      "A": "Glucagonul (produs de celulele alfa din insulele Langerhans), având efect hiperglicemiant",
+      "B": "Corticosteronul și adrenalina, ambii cu efect hipoglicemiant",
+      "C": "Epinefrina (cu efect hiperglicemiant) și insulina (cu efect hipoglicemiant)",
+      "D": "Thiroxina și tiroidina, ambii cu efect hipoglicemiant",
+      "E": "Epinefrina și glucagonul, care stimulează glicogenoliza"
+    }
+  },
+  {
+    "numar": 94,
+    "intrebare": "Alegeți asocierile corecte:",
+    "variante": {
+      "A": "Gluconeogeneză – sinteză de glicogen – sediu ficat – precursor galactoza – rezultat hipoglicemic",
+      "B": "Gluconeogeneză – sinteză de glicogen – sediu ficat – precursor glucoză – rezultat hipoglicemic",
+      "C": "Glicogenoliză – scindarea glicogenului – sediu ficat – sub acțiunea glucagonului",
+      "D": "Glicogenoliză – scindarea glicogenului – sediu rinichi – sub acțiunea insulinei – rezultat hipoglicemic",
+      "E": "Gluconeogeneză – sediu ficat – precursor acid lactic și glicerol"
+    }
+  },
+  {
+    "numar": 95,
+    "intrebare": "Alegeți răspunsurile care conțin primul enunț adevărat și al doilea fals, ambele referitoare la transformările ale unor molecule pe calea metabolismului glucidic:",
+    "variante": {
+      "A": "Glicogenul, un polizaharid, se sintetizează din glucoză, prin glicogeneză. Glucoza se scindează în două molecule de CO2 și 6 molecule de apă pe calea glicolizei, după producerea tuturor etapelor respirației celulare",
+      "B": "Glicogenul este scindat în molecule de glucoză, sub acțiunea unor hormoni hiperglicemianți. Glucoza este degradată exclusiv în prezența oxigenului",
+      "C": "Acidul lactic provine din reducerea acidului izocitric (compus al ciclului acizilor tricarboxilici). Acidul cis-aconitic este un acid tricarboxilic, sintetizat în ciclul Krebs"
+    }
+  },
+  {
+    "numar": 96,
+    "intrebare": "Citiți răspunsurile de mai jos, numerotate de la 1 la 5, notând că dacă sunt greșite toate răspunsurile, cu C dacă 1,3,5 sunt adevărate, cu C dacă 2 și 4 se referă la un compus din ciclul Krebs, cu C dacă răspunsurile 1 și 3 conțin informații despre transformări din glicoliză:",
+    "variante": {
+      "A": "În transformarea acidului 1,3 - difosfogliceric la acid 3 - fosfogliceric este eliberată o moleculă de ADP la ATP",
+      "B": "Succinil - CoA (compus ce conține sulf) va elibera CoA și acid succinic, printr-o reacție exergonică",
+      "C": "În transformarea acidului fosfoenolpiruvic la acid piruvic se eliberează un ATP",
+      "D": "Acidul malic se oxidează, cedând hidrogen și formează acidul oxaloacetic în ultima reacție a ciclului Krebs",
+      "E": "Oxigenul este acceptorul final de electroni în lanțul transportor de electroni din respirația celulară"
+    }
+  },
+  {
+    "numar": 97,
+    "intrebare": "Molecuzele de glucoză pot fi sintetizate din molecules neglucozice. Alegeți afirmațiile adevărate referitoare la acest proces, dintre cele de mai jos:",
+    "variante": {
+      "A": "Procesul poartă denumirea de gluconeogeneză și este stimulat de insulină, în condițiile unei hiperglicemii",
+      "B": "Procesul poartă denumirea de gluconeogeneză și se desfășoară în principal în ficat, în hepatocite",
+      "C": "Unele dintre molecule neglucozice care conduc la sinteza de glucoză pe această cale sunt glicerolul și anumite aminoacizi",
+      "D": "Unele dintre moleculele neglucozice care conduc la glucoză pe această cale sunt acizii palmitic și acizii oleic",
+      "E": "Unii dintre hormoni hiperghlicerinanți care stimulează acest proces este glucagonul"
+    }
+  },
+  {
+    "numar": 98,
+    "intrebare": "Alegeți asocierile corecte între succesiunile de substanțe și calea metabolică în care aceasta intervine:",
+    "variante": {
+      "A": "Citocrom B - Citocrom C - Citocrom A - Citocrom A3 - Citocromoxidază - Oxigen (lanțul transportor de electroni)",
+      "B": "Coenzimă (NAD, FAD, Q) - Citocrom A - Citocrom A3 - Citocrom C - Citocrom B - Citocromoxidază - Oxigen (lanțul transportor de oxigen)",
+      "C": "Glucoză - frucozo-6-fosfat - glucozo-6-fosfat - fructoză 1,6 difosfat (glicogenoliză)",
+      "D": "Acid izocitric - acid cis-aconitic - acid alfa cetoglutaric - succinil CoS - acid succinic - acid oxaloacetic (reacții ale ciclului Krebs)",
+      "E": "Acid alfa cetoglutaric - succinil CoA - acid succinic - acid fumaric - acid malic - acid oxaloacetic (reacții succesi ve ale ciclului Krebs)"
+    }
+  },
+  {
+    "numar": 99,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Atunci când o celulă are nevoie de energie, ADP este transformat în ATP, cu eliberarea a 7,3 kcal/mol, energie conținută în legătura sa fosfat terminală",
+      "B": "Atunci când o celulă are nevoie de energie, se eliberează 7,3 kcal/mol prin detașarea grupării fosfat terminale a ATP-ului, rezultând ADP"
+    }
+  },
+  {
+    "numar": 100,
+    "intrebare": "Despre lipide se poate afirma că:",
+    "variante": {
+      "A": "Trigliceridele sunt alcătuite din glicerolhidrate esterificate cu acizi grași",
+      "B": "În procesul digestiei, trigliceridele sunt descompuse enzimatice în molecule de acizi grași și glicerol, cu participarea moleculelor de apă",
+      "C": "Principala modalitate prin care lipidele sunt absorbite din lumenul intestinal subțire este transportul activ, cu consum de ATP",
+      "D": "Chilomicronii formând în celulele mucoasei intestinale sunt vehiculați inițial prin circulația limfatică și ulterior prin vasele sanguine",
+      "E": "Trigliceridele, colesterolul și fosfolipidele intră în constituția chilomicronilor"
+    }
+  },
+  {
+    "numar": 101,
+    "intrebare": "Alegeți afirmațiile false referitoare substanțele de natură lipidică:",
+    "variante": {
+      "A": "Trigliceridele conțin în structura lor glicerolul (propantritiol) esterificat cu 3 acizi grași",
+      "B": "În procesul digestiei, trigliceridele sunt scindate în molecule de alcool grași și glicerol, fără participarea moleculelor de apă",
+      "C": "Principala modalitate prin care lipidele sunt absorbite din lumenul intestinal subțire este transportul pasiv",
+      "D": "După absorbție, chilomicronii sunt vehiculați inițial prin circulația sanguină și ulterior prin vasele limfatice, către țesuturi",
+      "E": "Chilomicronii (formă din colesterol, trigliceride, fosfolipide și componentă proteică) reprezintă o modalitate de vehiculare a unor produse rezultată din digesta lipidelor și absorbția lipidelor"
+    }
+  },
+  {
+    "numar": 102,
+    "intrebare": "Despre trigliceride se poate afirma că:",
+    "variante": {
+      "A": "Pentru formarea lor, acizii grași se esterifică cu glicerolul (alcool cu 3 atomi de carbon în molecule)",
+      "B": "Pentru formarea lor, acizii grași se esterifică cu colesterolul (alcool cu 27 atomi de carbon în moleculă)",
+      "C": "În procesele lor de catabolizare, molecula de glicerol este separată de acizii grași prin intervenția apei, sub acțiunea lipazelor",
+      "D": "Intră în constitutia lipoproteinelor alături de aminoacizi și colesterol",
+      "E": "Sunt transportate în sânge legate de albumină"
+    }
+  },
+  {
+    "numar": 103,
+    "intrebare": "Care dintre următoarele afirmații despre lipide sunt false?",
+    "variante": {
+      "A": "Reprezintă un grup de substanțe anorganice, solubile în apă",
+      "B": "Din punct de vedere chimic, sunt esteri ai aminoacizilor cu glicerol sau colesterol",
+      "C": "Din punct de vedere chimic pot fi esteri ai glicerolului cu acizi grași",
+      "D": "Sunt transportate în sânge ca lipoproteine (mici particule ce conțin lipide și proteine)",
+      "E": "Sunt stocate sub formă de glicogen hepatic sau muscular"
+    }
+  },
+  {
+    "numar": 104,
+    "intrebare": "Selectați afirmațiile false referitoare la chilomicroni:",
+    "variante": {
+      "A": "Se formează în sânge, prin legarea trigliceridelor de proteine fibroase (colagen, albumină)",
+      "B": "Se formează în ficat, prin legarea trigliceridelor de colesterolul LDL",
+      "C": "Se formează în celulele mucoasei intestinale, prin legarea lipidelor de proteine",
+      "D": "Sunt compuși formați din glucide, enzime și vitamine liposolubile",
+      "E": "În compoziția lor intră trigliceride, colesterol, fosfolipide și proteine"
+    }
+  },
+  {
+    "numar": 105,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la chilomicroni:",
+    "variante": {
+      "A": "Sunt picături macroscopice glicolipide formate în mucoasa intestinală",
+      "B": "După formare, intră în chihierul central al vilozațiilor intestinale, de aici în circulația limfatică și în final ajung în circulația sanguină",
+      "C": "Sub acțiunea lipazelor, trigliceridele din compoziția lor sunt descompuse în acizi grași și glicerol",
+      "D": "Pentru a transporta la celule, mulți dintre ei sunt legați de moleculele de glucoză",
+      "E": "Sunt compuși din aminoacizi grasi și alcool superior"
+    }
+  },
+  {
+    "numar": 106,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la lipide și lipoproteine:",
+    "variante": {
+      "A": "O parte a acizilor grași rezultă din hidroliza enzimatică a trigliceridelor se regăsește în plasma sau formă de acizi grași liberi",
+      "B": "La scindarea hidrolitică a trigliceridelor (lipoliză) participă enzimele denumite lipaze",
+      "C": "Sub acțiunea lipazelor (molecule lipide) are loc esterificarea trigliceridelor cu glicerol",
+      "D": "Majoreitatea chilomicronilor sunt capturați din sânge de către ficat și țesutul adipos",
+      "E": "În plasma sanguină, VLDL sunt transportate sub formă de glicolipide"
+    }
+  },
+  {
+    "numar": 107,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la lipoproteine:",
+    "variante": {
+      "A": "În funcție de sarcina lor electrică, pot fi împărțite în: chilomicroni, VLDL, LDL și HDL",
+      "B": "În funcție de densitate lor, pot fi împărțite în: lipoproteinele cu densitate foarte mică, lipoproteinele cu densitate mică și lipoproteinele cu densitate mare",
+      "C": "LDL (low density lipoproteins) transportă colesterolul la celulele și ficat",
+      "D": "LDL (low density lipoproteins) transportă colesterolul de la ficat la celule",
+      "E": "HDL (high density lipoproteins) transportă colesterolul la ficat pentru a fi metabolizat"
+    }
+  },
+  {
+    "numar": 108,
+    "intrebare": "Selectați afirmațiile false referitoare la clasele de lipoproteine:",
+    "variante": {
+      "A": "VLDL au un conținut mare în trigliceride (aproximativ 60%)",
+      "B": "Un conținut foarte scăzut de colesterol este specific pentru LDL",
+      "C": "HDL au un conținut mai scăzut (aproximativ 20%) în colesterol decât LDL și conțin mai multe proteine",
+      "D": "Un nivel scăzut de LDL are impact negativ asupra sănătății, favorizând riscul de boli coronariene",
+      "E": "Un nivel crescut de LDL semnifică mult colesterol în sânge și un risc crescut de boli coronariene"
+    }
+  },
+  {
+    "numar": 109,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la lipoproteine:",
+    "variante": {
+      "A": "Lipoproteinele cu densitate mică (LDL) transportă excesul de colesterol de la țesuturi la ficat iar nivelul lor crescut semnifică un risc scăzut de boală coronariană",
+      "B": "Lipoproteinele cu densitate mare (HDL) transportă colesterolul de la țesuturi la ficat, pentru a fi metabolizat",
+      "C": "Un nivel crescut de HDL (high density lipoproteins) influențează negativ sănătatea afectând artele coronare",
+      "D": "Transportând colesterolul la ficat (unde va fi metabolizat), HDL contribuie la eliminarea acestuia din sânge",
+      "E": "O concentrare mare de HDL este asociată cu un risc mai scăzut de boală coronariană"
+    }
+  },
+  {
+    "numar": 110,
+    "intrebare": "Alegeți asocierea corectă referitoare la compoziția și rolul claselor de lipoproteine:",
+    "variante": {
+      "A": "VLDL - aproximativ 60% trigliceride, 15% colesterol - implicate în transportul acestor fracțiuni lipidice în plasmă",
+      "B": "VLDL - aproximativ 15% trigliceride, 60% colesterol - rol în transportul fibrinogenului plasmatic"
+    }
+  },
+  {
+    "numar": 111,
+    "intrebare": "Selectați afirmațiile false referitoare la lipoproteine:",
+    "variante": {
+      "A": "Sunt particule circulante în plasma sanguină și care conțin lipide și proteine",
+      "B": "Sunt reprezentate frațiile VLDL, LDL și HDL (clase formate în funcție de densitatea lipoproteinelor)",
+      "C": "Continutul lor în colesterol, trigliceride și proteine este variabil în raport cu clasa din care fac parte",
+      "D": "Sunt forme de transport în plasmă a glucidelor și lipidelor insolubile",
+      "E": "Toate lipoproteinele conțin același procent de colesterol și trigliceride"
+    }
+  },
+  {
+    "numar": 112,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la compoziția claselor de lipoproteine:",
+    "variante": {
+      "A": "Lipoproteinele cu densitate foarte mică (VLDL) conțin aproximativ 60% trigliceride și 15% colesterol",
+      "B": "Lipoproteinele cu densitate mică (LDL) conțin aproximativ 60% colesterol, 15% trigliceride în funcție de consumul alimentar de colesterol și lipide saturate",
+      "C": "Lipoproteinele cu densitate mare (HDL) conțin aproximativ 20% colesterol, circa 5% trigliceride și circa 50% proteine",
+      "D": "Toate lipoproteinele (VLDL, LDL și HDL) conțin trigliceride și colesterol, dar în proporții diferite"
+    }
+  },
+  {
+    "numar": 113,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la catabolismul lipidelor:",
+    "variante": {
+      "A": "Se desfășoară în celule, unde lipidele reprezintă o sursă importantă de energie",
+      "B": "Include sinteza trigliceridelor din molecula de acetil-CoA",
+      "C": "Într-o primă etapă, are loc scindarea hidrolitică a trigliceridelor în glicerol și acizi grași",
+      "D": "După separarea glicerolului de aminoacizi, are loc convertirea acestor compuși în dihidroxiacetonfosfat (DHAP)",
+      "E": "După scindarea trigliceridelor și eliberarea glicerolului, acesta este convertit într-un compus care reprezintă un intermediar al glicolizei (3 fosfogliceraldhidă/glicericald-3-fosfat)"
+    }
+  },
+  {
+    "numar": 114,
+    "intrebare": "Selectați afirmațiile false referitoare la catabolismul acizilor grași:",
+    "variante": {
+      "A": "Sunt metabolizați în citoplasma celulei, prin reacții similare cu glicoliza anaerobă",
+      "B": "Prin beta-oxidare, aceștia sunt convertiți în fragmente a câte doi atomi de carbon (restul acetil ai moleculei de acetil-CoA)",
+      "C": "O moleculă de acid gras conținând 16 atomi de carbon va duce la formarea a 16 molecule de acetil-CoA",
+      "D": "O moleculă de acid gras conținând 16 atomi de carbon va duce la formarea a 8 molecule de acetil-CoA",
+      "E": "Molecul de acetil-CoA, a căror grupare acetil provine din beta-oxidarea acizilor grași, intră în ciclul Krebs alături de oxaloacetat"
+    }
+  },
+  {
+    "numar": 115,
+    "intrebare": "Selectați afirmația adevărată privind procesele care au loc în catabolismul lipidelor:",
+    "variante": {
+      "A": "Degradarea trigliceridelor se finalizează cu obținerea de aminoacizi și glicerol",
+      "B": "Lipoliza reprezintă formarea trigliceridelor cu producere de ATP",
+      "C": "Lipogeneza reprezintă formarea de trigliceride din esterificarea glicerolului cu acizi grași"
+    }
+  },
+  {
+    "numar": 116,
+    "intrebare": "Catabolismul lipidelor include:",
+    "variante": {
+      "A": "Sintetiza de trigliceride din glicerol și acizi grași",
+      "B": "Hidrăliza trigliceridelor la glicerol și acizi grași",
+      "C": "Decarboxilarea neoxidativă a acidului piruvic cu eliberare de dioxid de carbon",
+      "D": "β-oxidarea acizilor grași în mitocondrie",
+      "E": "Hidrăliza glicerinei la nivelul celulelor hepatice, adipoase și musculare"
+    }
+  },
+  {
+    "numar": 117,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la corpii cetonici:",
+    "variante": {
+      "A": "În procesul de catabolizare a lipidelor, unele molecule de acetil-CoA se pot combina între ele formând acidul acetoacetic",
+      "B": "Acetna se formează în procesul de anabolism lipidic, prin combinare între ele a unor molecule de succinil-CoA",
+      "C": "Acidul acetoacetic poate fi convertit fie în molecul de acid beta-hidroxibutiric, fie în molecule de acetonă",
+      "D": "Corpii cetonici sunt reprezentați de acidul acetic, acidul beta-hidroxibutiric și acetonă",
+      "E": "Acetona și acidul acetoacetic sunt molecule care conțin în structura lor o grupă „ceto” (=C=O)"
+    }
+  },
+  {
+    "numar": 118,
+    "intrebare": "Selectați afirmațiile adevărate privind corpii cetonici:",
+    "variante": {
+      "A": "Sunt reprezentați de aminoacizi care conțin gruparea „ceto” (=C=O) în moleculă (acid piruvic, acid lactic)",
+      "B": "În condiții normale, nivelul acestora în sânge este scăzut dar crește în infometare (post prelungit)",
+      "C": "La o persoană sănătoasă, nivelul acestora în sânge este crescut și scade în catabolism lipidic accelerat",
+      "D": "Rezultă din catabolismul lipidelor și pot fi convertiți rapid în acetil-CoA",
+      "E": "O persoană cu diabet zaharat (având catabolism lipidic accelerat) poate să prezinte cetoacidoză și conținut crescut de corpi cetonici în urină"
+    }
+  },
+  {
+    "numar": 119,
+    "intrebare": "Selectați afirmațiile false privind corpii cetonici:",
+    "variante": {
+      "A": "Conțin obligatoriu în moleculă grupa „ceto” (O–H)",
+      "B": "Sunt reprezentați de acidul piruvic, acidul lactic și acidul acetic",
+      "C": "Rezultă din catabolismul lipidelor și pot fi convertiți rapid în acetil-CoA, ceea ce permite utilizarea lor ca material energetic",
+      "D": "Acidul acetoacetic nu se poate transforma în acid β-hidroxibutiric și nici în acetonă",
+      "E": "Nivelul crescut de corpii cetonici în sânge determină coma hipoglicemică"
+    }
+  },
+  {
+    "numar": 120,
+    "intrebare": "Selectați afirmațiile adevărate privind cetoacidoza:",
+    "variante": {
+      "A": "Reprezintă scăderea pH-ului sângelui (creșterea acidității) ca urmare a acumulării corpurilor cetonici",
+      "B": "Apare în urma unui efort fizic intens aerob, fiind rezultatul acumulării acidului lactic în sânge",
+      "C": "Poate conduce la creșterea pH-ului sanguin, ca urmare a acumulării moleculelor de acid acetoacetic în organism",
+      "D": "Poate apărea în cazul persoanelor cu diabet zaharat",
+      "E": "Poate apărea în caz de post prelungit (infometare), datorită aportului redus de glucoză și catabolismului compensator al lipidelor"
+    }
+  },
+  {
+    "numar": 121,
+    "intrebare": "Selectați enunțurile care conțin câte două afirmații adevărate referitoare la compuși și transformări care se înfăptănesc în catabolismul lipidilor:",
+    "variante": {
+      "A": "Corpii cetonici proveni din catabolismul acizilor nucleici la nivel mitocondrial. Acetona conține două grupări C=O în moleculă.",
+      "B": "Dezvoltare în condiții normale a corpului cetonic sunt rapid convertiți în acetil-CoA, nivelul lor în sânge este scăzut. O moleculă de acid gras cu 14 atomi de carbon va conduce prin beta-oxidare la formarea a 7 molecule de acetil-CoA.",
+      "C": "Excesul de glicerol provine din trigliceride crește aciditatea sângelui, producând alalooza. Creșterea acidității sângelui este dată de scăderea concentrației sanguine de cetone.",
+      "D": "Acetona este un corp cetonic care poate proveni din conversia unui alt corp cetonic, acidul acetoaceitic. Acetona (fiind volattilă) produce mirosul caracteristic al pacienților cu etocetadioză.",
+      "E": "β-oxidarea acizilor grași se desfășoară în mitocondrie și necesită oxigen. La un pacient cu diabetic zaharat, excesul de corp cetonic crește aciditatea sângelui și poate conduce la coma diabetică."
+    }
+  },
+  {
+    "numar": 122,
+    "intrebare": "Alegeți asocierea corectă:",
+    "variante": {
+      "A": "Diabet zaharat – catabolism lipidic accelerat – exces de corpi cetonici – etocetadioză.",
+      "B": "Lipoproteine cu densitate foarte mică – VLDL – 60% colesterol și 15% trigliceride.",
+      "C": "Molecule de acetil-CoA – sinteză de corpi cetonici – formare de acid acetoacetic – conversia excesului în acetona/acid beta-hidroxibutiric.",
+      "D": "Acid gras cu 14 atomi de carbon – β-oxidare în mitocondrie – formarea a 7 molecule de acetil-CoA – continuarea catabolismului în ciclu Krebs – eliberare substanțială de energie (ATP).",
+      "E": "Lipopeneză – hidroliză de trigliceride – eliberare de glicerol – sinteză de dihidroxiacetonafosfat (DHAP)."
+    }
+  },
+  {
+    "numar": 123,
+    "intrebare": "Despre anabolismul lipidelor este adevărat că:",
+    "variante": {
+      "A": "Reprezintă sinteza de lipide cum sunt trigliceridele (esteri ai glicerolului cu acizi grași).",
+      "B": "Implica sinteza de lipide pornind de la moleculele de acetil-CoA obținute în general din moleculele de glucoză.",
+      "C": "Implica sinteza acizilor grași esențiali în organism (de exemplu, acidul linoleic).",
+      "D": "Acidul arahidonic (acid gras esențial) nu se sintetizează în organismul uman.",
+      "E": "Acizii grași nesimpliți nu pot sintiza în organism sub acțiunea unor enzime specifice."
+    }
+  },
+  {
+    "numar": 124,
+    "intrebare": "Selectați afirmațiile adevărate privind anabolismul lipidelor:",
+    "variante": {
+      "A": "În cadrul acestuia, sinteza lipidelor se produce din moleculele corpurilor cetonici (cum este acidul acetic).",
+      "B": "Moleculele de acetil-CoA care servesc sinteze de lipide sunt în general obținute în urma catabolismului glucozei (glucoză → acid piruvic → rest acetil → acetil-CoA).",
+      "C": "Moleculele de glucoză pot fi convertite în acizi grași (via acetil-CoA).",
+      "D": "Enzimele hepatice sunt capabile să sintetizeze orice acid gras, inclusiv acizii grași esențiali, favorizând sinteza de trigliceride.",
+      "E": "Enzimele hepatice sunt capabile să transforme un acid gras în altul (exceptând acizii grași esențiali), favorizând sinteza de trigliceride."
+    }
+  },
+  {
+    "numar": 125,
+    "intrebare": "Selectați afirmația falsă privind anabolismul lipidelor:",
+    "variante": {
+      "A": "În organism trigliceridele se sintetează din glicerol și acizi grași.",
+      "B": "O dietă bogată în glucide favorizează conversia glucozei în lipide (lipogeneza)."
+    }
+  },
+  {
+    "numar": 126,
+    "intrebare": "Selectați afirmațiile adevărate privind lipogeneza și lipoliza:",
+    "variante": {
+      "A": "Lipoliza are loc în special în mușchi și se finalizează prin producerea de acid lactic",
+      "B": "Lipogeneza reprezintă sinteza de trigliceride din acizi grași și glicerol",
+      "C": "Lipogeneza cuprinde sinteza lipoproteinelor plasmatice – forma majoră de depozitare a lipidelor",
+      "D": "Ambele procese sunt controlate hormonal (insulina inhibă lipaza, tiroxina stimulează lipoliza în țesutul adipos)",
+      "E": "Lipogeneza este favorizată de un aport alimentar crescut de glucoză și lipide"
+    }
+  },
+  {
+    "numar": 127,
+    "intrebare": "Care dintre următoarele afirmații privind acizii grași sunt adevărate?",
+    "variante": {
+      "A": "Intră în constituția unor lipide (împreună cu glicerolul formează trigliceridele)",
+      "B": "Acidul linoleic, linoleic și arahidonic sunt acizi grași esențiali",
+      "C": "Cei care nu se sintetizează în organismul uman se numesc acizi grași esențiali",
+      "D": "Cei care sunt sintetizați doar în organismul uman se numesc acizi grași esențiali",
+      "E": "Ceii esențiali (acidul linoleic, linoleic și arahidonic) trebuie obținuți prin dietă"
+    }
+  },
+  {
+    "numar": 128,
+    "intrebare": "Care dintre următorii hormoni intervin în hidroliza trigliceridelor din țesutul adipos (efect lipolitic)?",
+    "variante": {
+      "A": "Cortizolul și insulina",
+      "B": "Adrenalina și hormonul de creștere",
+      "C": "Norepinefrina și insulina",
+      "D": "Glucagonul și tiroxina (T4)",
+      "E": "ACTH (hormonul adrenocorticotrop) și STH"
+    }
+  },
+  {
+    "numar": 129,
+    "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Când dieta alimentară este bogată în glucide, are loc procesul de lipogeneză (conversia glucozei în lipide)",
+      "B": "Moleculele de glicogen pot fi convertite în glucoză prin procesul de glicogenoliză care include secvența: glucoză → glucoză-6-fosfat → glucoză-1-fosfat → glicogen",
+      "C": "Moleculele de glucoză pot fi convertite în glicogen prin procesul de glicogenogenază care include secvența: glucoză → glucoză-6-fosfat → glucoză-1-fosfat → glicogen",
+      "D": "Un aport abundent de glucoză conduce la o scădere a rezervelor de glicogen hepatic și muscular",
+      "E": "Un aport abundent de glucide și lipide favorizează lipogeneza"
+    }
+  },
+  {
+    "numar": 130,
+    "intrebare": "Selectați afirmațiile adevărate privind metabolismul lipidelor:",
+    "variante": {
+      "A": "Un regulator important al metabolismului lipidic este hormonul insulină, produs al celulelor β-pancreatice ale insulelor Langerhans",
+      "B": "Insulina previne degradarea lipidelor prin inhibarea lipazei",
+      "C": "Glucagonul stimulează eliberarea aminoacizilor din țesutul adipos",
+      "D": "Adrenalina, hormonul de creștere și tiroxina stimulează eliberarea acizilor grași din lipidele de depozit ale țesutului adipos",
+      "E": "Adrenalina, hormonul de creștere și tiroxina previn degradarea lipidelor prin inhibarea enzimelor numite lipaze"
+    }
+  },
+  {
+    "numar": 131,
+    "intrebare": "Selectați afirmațiile adevărate privind metabolismul lipidelor:",
+    "variante": {
+      "A": "Anumite categorii de lipide - trigliceridele - se pot sintetiza utilizând un compus (glicerol) care poate proveni din calea glicolitică sau din hidroliza altor trigliceride",
+      "B": "În cadrul anabolismului lipidelor, la sinteza trigliceridelor participă molecule de acetil-CoA, iar acizii grași acolo provin din metabolismul glucozei (via acid piruvic)",
+      "C": "Glucoza și ACTH-ul stimulează lipogeneza (sinteza lipidelor din acizi grași și glicerol)",
+      "D": "Sistemul nervos vegetativ acceleratează degradarea lipidelor din țesutul adipos (componenta simpatică - prin catecolamine) sau depunerea de lipide în țesutul adipos (componenta parasimpatică)",
+      "E": "Sub acțiunea insulinei are loc în ficat sinteza acizilor grași esențiali"
+    }
+  },
+  {
+    "numar": 132,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la digestia proteinelor și absorția aminoacizilor rezultati:",
+    "variante": {
+      "A": "În organism, proteinele sunt sintetizate în tractul gastrointestinal din acizi grași componente",
+      "B": "În organism, proteinele sunt scindate enzimatic prin hidroliză în tractul gastrointestinal în aminoacizi vor componente",
+      "C": "Aminoacizi rezultati din hidroliza proteinelor sunt absorbiți apoi din intestin prin mecanisme de transport activ sau difuziune facilitată",
+      "D": "Aminoacizi rezultati din hidroliza lipoproteineelor sunt absorbiți apoi din intestin prin transportori specifici sau pompe de protoni",
+      "E": "După absorbția la nivel intestinal, aminoacizi sunt transportați prin sistemul port hepatic la ficat, unde vor servi sinteze de proteine sau vor fi catabolizați"
+    }
+  },
+  {
+    "numar": 133,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la aminoacizii absorbiți la nivelul viloziților intestinale:",
+    "variante": {
+      "A": "Absorbția lor se poate realiza prin transport activ (cu consum de ATP)",
+      "B": "La nivelul ficatului pot fi integrați în molecule de proteine (căi anabolice)",
+      "C": "Din ficat (unde ajung via vena portă) pot fi eliberați în circulație (pentru a fi transportați la alte celule)",
+      "D": "În celulele mucoasei intestinului subțire se leagă de proteine, formând chilomicronii",
+      "E": "Sunt transportați în sânge de către lipoproteine plasmatice (VLDL, LDL, HDL)"
+    }
+  },
+  {
+    "numar": 134,
+    "intrebare": "Alegeți afirmația falsă referitoare la aminoacizi:",
+    "variante": {
+      "A": "În celulă, legarea acestora într o anumită secvență pentru a forma o proteină reflectă codul genetic (succesiunea nucleotideelor/bazelor azotate din ADN)",
+      "B": "La nivelul ficatului toți aminoacizii pot participa la procesul de transaminare în cursul căruia se realizează transformarea grupării -NH2 (amino) în amonic",
+      "C": "La nivelul ficatului unii aminoacizi pot fi transformați în compuși energetici (mai ales în cazul dietelor bogate în proteine)",
+      "D": "În fapt, prin transaminare, un aminoacid poate fi transformat în alt aminoacid prin transferul grupării -NH2 (amino) pe un cetocacid",
+      "E": "Pot fi metabolizați de organism ca surse de energie (prin degradare oxidativă)"
+    }
+  },
+  {
+    "numar": 135,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la metabolismul proteinelor:",
+    "variante": {
+      "A": "Pentru a putea fi utilizate în metabolismul energetic, proteinele sunt degradate mai întâi la aminoacizi",
+      "B": "Anumiti aminoacizi pot fi convertiți de către enzima deaminază/deaminază în polipeptide, proces denumit proteoliză"
+    }
+  },
+  {
+    "numar": 136,
+    "intrebare": "Alegeți afirmațiile false referitoare la metabolismul proteinelor:",
+    "variante": {
+      "A": "În înfometare, primă sursă de energie o constituie proteinele, apoi lipidele și în final glucidele",
+      "B": "De obicei proteinele se folosesc ca sursă de energie numai după ce s-au epuzat glucidele",
+      "C": "Prin transaminare organismul poate sintetiza aminoacizi cu excepția celor esențiali (spre exemplu, triptofanul, metionina)",
+      "D": "Procesul de transaminare al aminoacizilor cum sunt leucina și izoleucina se desfășoară numai în mușchi și rinichi",
+      "E": "Procesul de transaminare al aminoaciziilor are loc în ficat, fiind controlat enzimatic"
+    }
+  },
+  {
+    "numar": 137,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la catabolismul aminoacizilor:",
+    "variante": {
+      "A": "Este suma unor reacții endergonice, care necesită consum de energie",
+      "B": "O primă etapă catabolică poate fi dezaminarea lor oxidativă, prin eliminarea grupării amino, din care se forma o moleculă de amoniac",
+      "C": "Prima etapă o reprezintă decarboxilarea oxidativă a acestora prin eliminarea ionului bicarbonat",
+      "D": "Constă în reacții care conduc spre acidul piruvic, spre acetil-CoA sau spre alți compuși intermediar ai ciclului Krebs",
+      "E": "În procesul de sinteză a proteinelor, organismul utilizează doar aminoacizi esențiali"
+    }
+  },
+  {
+    "numar": 138,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la dezaminarea aminoacizilor:",
+    "variante": {
+      "A": "Reprezință prima etapă din catabolismul aminoacizilor și are loc în principal la nivel hepatic",
+      "B": "Este o reacție chimică în care gruparea carboxil (-COOH) este desprinsă din aminoacid",
+      "C": "Este o reacție chimică în care gruparea amino (-NH₂) este desprinsă din aminoacid",
+      "D": "Este catalizată de o enzimă denumită dezaminază/deaminază",
+      "E": "Este catalizată de o enzimă denumită decarboxilază"
+    }
+  },
+  {
+    "numar": 139,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la dezaminarea aminoacizilor:",
+    "variante": {
+      "A": "Este o reacție catalizată de dezaminază, o enzimă ce atașează o moleculă de amoniac pe catena aminoacizilor",
+      "B": "După desprinderea grupării amino (-NH₂) din aminoacid, aceasta se transformă într-o moleculă de amoniac",
+      "C": "După desprinderea grupării amino (-NH₂) din aminoacid, aceasta se transformă într-un cetoacid",
+      "D": "Rezultatul dezaminării unui aminoacid este cetoacidul corespunzător și o moleculă de amoniac",
+      "E": "Cetoacidul rezultat în urma dezaminării va conduce prin transaminare la un aminoacid esențial"
+    }
+  },
+  {
+    "numar": 140,
+    "intrebare": "Despre deznaminarea aminoacizilor și ciclu ornitinei se poate afirma că:",
+    "variante": {
+      "A": "Molecula de amoniac rezultată din procesul de deznaminare trece apoi printr-o serie c.",
+      "B": "Două molecule de amoniac se unesc cu molecula de dioxide de carbon, formând urea.",
+      "C": "După înhlăturarea grupărilor amino din aminoacizi, în locul acesta se adaugă un atom de oxigen.",
+      "D": "După înhlăturarea grupării amino din aminoacid, în locul acesta se adaugă un atom de oxigen.",
+      "E": "Transformarea amoniaclui în urea se desfășoară în toate țesuturile organismului cu participarea unor enzime denumite transaminaze."
+    }
+  },
+  {
+    "numar": 141,
+    "intrebare": "Alegeți afirmațiile false referitoare la catabolismul aminoacizilor:",
+    "variante": {
+      "A": "Include reacția de deznaminare, în urma cărei rezultă amoniac și ur în cicloacid.",
+      "B": "Anumiți aminoacizi sunt convertiți la cicloacezi, care intră ulterior în calea glicolitică.",
+      "C": "Anumiți aminoacizi sunt transformați în acid piruvic sau acid lactic prin decarboxilare, adică eliminarea unui radical metil din structura lor.",
+      "D": "Din fiecare reacție de deznaminare se degajă dioxide de carbon, care prin combinare cu apă formează acid carbonic.",
+      "E": "Din fiecare reacție de deznaminare se formează amoniac, care prin combinare cu dioxidul de carbon formează uree."
+    }
+  },
+  {
+    "numar": 142,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la deznaminarea acidului glutamic:",
+    "variante": {
+      "A": "Reprezintă sinteza acidului glutaric (un aminoacid) prin înhlăturarea grupării amino din acidul glutamic (un cicloacid).",
+      "B": "Conduce la formarea unui cicloacid cu cinci atomi de carbon și a unei molecule de amoniac.",
+      "C": "Este însoțită de formarea unei molecule de NADH+H* dintr-o moleculă de NAD*.",
+      "D": "Este o reacție neenzimatică, ireversibilă care conduce la formarea acidului piruvic, folosit ulterior în glicoliză.",
+      "E": "Este catalizată de o enzimă (deznaminază/deznaminază), conducând la formarea amoniacală și a acidului α-cetoglucitar."
+    }
+  },
+  {
+    "numar": 143,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la deznaminarea aminoacizilor:",
+    "variante": {
+      "A": "Prin acest proces oxidativ, grupa –NH2 este înlăturată și înlocuită cu un atom de oxigen.",
+      "B": "Rezultatul deznaminării include un compus – cicloacid – care se poate regăsi în secvența metabolică a glicolizei.",
+      "C": "Poate conduce la formarea unei molecule de uree având ca precursor scheletul hidrocarbonat al cicloacidului, fără parcurgerea ciclului ornitinei.",
+      "D": "Rezultatul deznaminării include amoniacul (NH3), care va servi sintezei de uree.",
+      "E": "Prin deznaminare rezultă o amină și un cicloacid."
+    }
+  },
+  {
+    "numar": 144,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la aminoacizi:",
+    "variante": {
+      "A": "Sunt compuși organici rezultăți prin hidroliza proteinelor.",
+      "B": "Poți fi metabolizați la nivel hepatic, dar și în alte țesuturi.",
+      "C": "Sunt prelucrati exclusiv la nivel hepatic și pot fi eliberați în circulația sanguină.",
+      "D": "Cei sintetizați de către organism prin transaminare (transferul unei grupări –COOH de pe un alt aminoacid) se numesc aminoacizi nonesențiali.",
+      "E": "Cei care trebuie obținuți prin aport alimentar (din dietă), fără a putea fi sintetizați în organism, se numesc esențiali (spre exemplu, triptofan)."
+    }
+  },
+  {
+    "numar": 145,
+    "intrebare": "Alegeți asocierile corecte:",
+    "variante": {
+      "A": "Aminoacizi esențiali – obținuți doar prin aport alimentar – metionină, histidină, izoleucină",
+      "B": "Aminoacizi neesențiali – nesintezitizabili în organism – glicerină, glutamină, adenină",
+      "C": "Aminoacizi neesențiali – obținuți prin transaminare în ficat – glicină, acid glutamic",
+      "D": "Aminoacizi esențiali – prezenți în proteine complete – prezenți în proteinele animale",
+      "E": "Aminoacizi esențiali – sintetizabili în celula hepatică – independent de aportul alimentar prin dietă"
+    }
+  },
+  {
+    "numar": 146,
+    "intrebare": "Alegeți afirmatiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "În cadrul metabolismului proteic aminoacizii nu pot fi transformați în acid piruvic",
+      "B": "În anumite secvențe ale metabolismului proteic, unii aminoacizi pot fi transformați direct sau indirect în acid piruvic",
+      "C": "În anumite secvențe ale metabolismului proteic, unii aminoacizi pot fi convertiți în acid oxaloacetic",
+      "D": "Ca structură chimică, acidul piruvic este un aminoacid cu 3 atomi de carbon (care poate proveni din scindarea unei molecule de glucoză pe calea glicolytică)",
+      "E": "Ca structură chimică, acidul piruvic este un cetonă cu 3 atomi de carbon (care poate proveni din scindarea unei molecule de glucoză pe calea glicolytică)"
+    }
+  },
+  {
+    "numar": 147,
+    "intrebare": "Alegeți afirmatiile adevărate referitoare la reglearea hormonală a metabolismului proteic:",
+    "variante": {
+      "A": "Hormonul de creștere (STH) stimulează transportul activ al aminoacizilor în celule",
+      "B": "Hormonul de creștere (GH) stimulează catabolizarea proteinelor până la aminoacizi",
+      "C": "Hormonii sexuali masculini (testosteronul) stimulează sinteza proteinelor și creșterea masei musculare",
+      "D": "Hormonii sexuali feminini (estrogenii) stimulează sinteza proteică",
+      "E": "Testosteronul și estrogenii scad depozitele de proteine din țesuturi"
+    }
+  },
+  {
+    "numar": 148,
+    "intrebare": "Alegeți afirmatiile adevărate referitoare la reglearea hormonală a metabolismului proteic:",
+    "variante": {
+      "A": "Testosteronul (hormonul sexual masculin) și progesteronul (un hormon sexual feminin) inhibă sinteza proteică în țesuturi",
+      "B": "Testosteronul (hormonul sexual masculin) și estrogenii (hormoni sexuali feminini) stimulează anabolismul proteic",
+      "C": "Triiodotironina scade rata metabolismului celular, fără a influența sinteza proteinelor",
+      "D": "Glucocorticoizi favorizează sinteza proteinelor în celule",
+      "E": "Tiroxina crește rata metabolismului celular iar glucocorticoizii favorizează degradarea proteinelor în celule"
+    }
+  },
+  {
+    "numar": 149,
+    "intrebare": "Alegeți afirmatiile adevărate referitoare la stările metabolice ale organismului:",
+    "variante": {
+      "A": "Organismul uman se poate afla în două stări metabolice diferite: stare de absorbție (de post) și postabsorbție (postprandială)",
+      "B": "După consumul unui pranz, organismul se află într-o stare de absorbție (postprandială)",
+      "C": "După încheierea proceselor de absorbție, organismul intră într-o stare postabsorbție (de post)",
+      "D": "În starea postabsorbție (de post), substanțele nutritive sunt absorbite din tractul gastrointestinal în circulația sanguină",
+      "E": "În starea postabsorbție (de post), necesitățile organismului sunt acoperite doar de substanțele prezente în corp"
+    }
+  },
+  {
+    "numar": 150,
+    "intrebare": "Referitor la stările metabolice ale organismului nu este adevărat că:",
+    "variante": {
+      "A": "După consumul unui prânz, organismul se află în stare de absorbție (postprandială)",
+      "B": "În starea de absorbție (postprandială), substanțele nutritive sunt absorbite din tractul gastrointestinal în circulația sangvină",
+      "C": "În starea postabsorbtivă (de post), are loc absorbția substanțelor nutritive din tractul gastrointestinal în circulația sanguină",
+      "D": "În starea de absorbție (postprandială) nivelul de insulină (hormon pancreatic) este ridicat",
+      "E": "În starea de absorbție (postprandială) nivelul de insulină (hormon hipoglicemiant) este scăzut"
+    }
+  },
+  {
+    "numar": 151,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la starea metabolică de absorbție (postprandială):",
+    "variante": {
+      "A": "Nivelul hormonilor hiperglicemiantți (glucagon, adrenalină, tiroidină) este ridicat",
+      "B": "Nivelul de insulină (hormon hipoglicemiant) este ridicat",
+      "C": "Sub acțiunea insulinei este stimulat transportul molecular de glucoză în celule (având ca efect scăderea glicemiei)",
+      "D": "Are loc utilizarea glucozei ca sursă principală de energie (stimularea glicolizei)",
+      "E": "Are loc stocarea excesului de glucoză sub formă de lipide (trigliceride) și glicogen"
+    }
+  },
+  {
+    "numar": 152,
+    "intrebare": "În starea metabolică postprandială, ca urmare a nivelului ridicat al insulinei, au loc următoarele procese:",
+    "variante": {
+      "A": "Gluconeogeneza din acid piruvic și glicerol",
+      "B": "Sinteză de glicogen din glucoză (glicogeneză)",
+      "C": "Lipoliză cu eliberarea acizilor grași din depozitele țesutului adipos",
+      "D": "Sinteză de lipide (trigliceride) din glucoză (lipogeneza)",
+      "E": "Scăderea nivelului de glucoză din sânge"
+    }
+  },
+  {
+    "numar": 153,
+    "intrebare": "Starea metabolică de absorbție se caracterizează prin:",
+    "variante": {
+      "A": "Nivel ridicat de insulină și nivel scăzut de glucagon, ceea ce duce la creșterea fracției insulină/glucagon",
+      "B": "Nivel ridicat de glucagon și nivel scăzut de insulină, ceea ce duce la creșterea fracției insulină/glucagon",
+      "C": "Utilizarea aminoacizilor pentru sinteză proteică și stocarea excesului de aminoacizi sub formă de lipide",
+      "D": "Creșterea catabolismului proteinelor și eliberarea crescută de aminoacizi în sânge",
+      "E": "Scăderea concentrației sanguine de aminoacizi în urma utilizării lor în procese anabolice"
+    }
+  },
+  {
+    "numar": 154,
+    "intrebare": "Alegeți afirmațiile false la starea metabolică de absorbție:",
+    "variante": {
+      "A": "Nivelul glucagonului este scăzut iar cel al insulinei este crescut",
+      "B": "Nivelul glucagonului este crescut iar cel al insulinei este scăzut",
+      "C": "Faptul convertește excesul de glucoză în lipide (sinteză de trigliceride – anabolism lipidic)",
+      "D": "Crește glicogenogeneza hepatică – sinteză de glicogen din glucoză",
+      "E": "Organismul transformă excesul de aminoacizi în dioxid de carbon și amoniac (ciclul ureei)"
+    }
+  },
+  {
+    "numar": 155,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la starea metabolică de absorbție:",
+    "variante": {
+      "A": "Se mai numește și stare postprandială și este caracterizată printr-un nivel crescut al insulinei",
+      "B": "Se mai numește și stare de post și este caracterizată printr-un nivel scăzut al insulinei",
+      "C": "Se caracterizează prin sinteză de glicogen și prin catabolism lipidic și proteic",
+      "D": "Se caracterizează prin sinteză de glicogen, lipide și proteine",
+      "E": "Sunt stimulate procesele de glicogenogeneză și lipogeneză și sunt inhibate cele de glicogenoliză și lipoliză"
+    }
+  },
+  {
+    "numar": 156,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la starea metabolică postabsorbtivă:",
+    "variante": {
+      "A": "Se mai numește și stare postprandială, caracterizată printr-un nivel scăzut al glucagonului.",
+      "B": "Se mai numește și stare de post, caracterizată printr-un nivel ridicat al glucagonului (hormon hiperglicemiant).",
+      "C": "În lipsa aportului alimentar, pentru menținerea constantă a nivelului glicemiei, este necesară suplimentarea surselor de glucoză (gluconeogeneză și glicogenoliză).",
+      "D": "În lipsa aportului alimentar, pentru menținerea constantă a nivelului glicemiei, scade glicogenoliza și crește gliconeogeneza.",
+      "E": "În lipsa aportului alimentar, necesității organismului sunt acoperite prin utilizarea rezervelor existente în corp."
+    }
+  },
+  {
+    "numar": 157,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la starea metabolică de post:",
+    "variante": {
+      "A": "Creșterea glicemiei duce la creșterea secreției hormonilor hiperglicemianti (glucagon).",
+      "B": "Reducerea nivelului glicemiei necesită aportul unor compuși energetici alternativi, rezultând din catabolismul lipidelor și al aminoacizilor.",
+      "C": "Nivelul glucagonului este crescut iar cel al insulinei este scăzut (fracția insulină/glucagon fiind și ea scăzută).",
+      "D": "În perioadele de post prelungit, sunt utilizate ca material energetic acele proteine musculare care nu sunt esențiale pentru funcționarea celulară.",
+      "E": "Se utilizează preferential calea metabolică a oxidării aerobă a glucozei pentru a furniza o cantitate mai mare de energie."
+    }
+  },
+  {
+    "numar": 158,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la starea metabolică postabsorbtivă (stare de post):",
+    "variante": {
+      "A": "Sunt utilizați preponderent compuși energetici proveniți din catabolismul lipidelor (lipoliză).",
+      "B": "Pentru a menține nivelul glicemiei, glucagonul stimulează gluconeogeneza hepatică din aminoacizi.",
+      "C": "Pentru a crește glicemia, glucagonul inhibă glicogenoliza hepatică.",
+      "D": "La prelungirea perioadei de post (infometare), prin accelerarea catabolismului lipidic, crește producția de corpși cetonici (crește și nivelul lor în sânge).",
+      "E": "Organismul folosește în scop energetic doar acele proteine musculare care sunt esențiale pentru funcționarea celulară."
+    }
+  },
+  {
+    "numar": 159,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la starea metabolică postabsorbtivă (stare de post):",
+    "variante": {
+      "A": "Folosind glucoza ca sursă de energie, organismul economisește acizii grași pentru ca acesta să fie catabolizată ca sursă unică de energie de către sistemul nervos.",
+      "B": "Folosind lipidele (acizi grași) ca sursă de energie, organismul economisește glucoza, pentru ca ea să fie folosită ca predilecție de către sistemul nervos.",
+      "C": "În cursul acestei stări, aproape toate țesuturile și organele depind în primul rând de lipide ca sursă de energie.",
+      "D": "În cursul acestei stări, ficatul utilizează corpii cetonici ca precursori pentru gluconeogeneză.",
+      "E": "Ca urmare a adaptărilor metabolice în vederea menținerii glicemiei, o persoană poate supraviețui fără aport alimentar multe zile cu condiția unei hidratații corespunzătoare."
+    }
+  },
+  {
+    "numar": 160,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la minerale:",
+    "variante": {
+      "A": "Sunt compuși cu structură organică, indispensabili organismului uman",
+      "B": "Sunt elemente chimice necesare funcționării optime a organismului",
+      "C": "Constituie aproximativ 50% din greutatea corporală și sunt sintetizate în organism",
+      "D": "Constituie aproximativ 5% din greutatea corporală și asigură reglarea diferitelor procese din organism",
+      "E": "Includ vitaminele hidrosolubile și pot fi excretate în urină"
+    }
+  },
+  {
+    "numar": 161,
+    "intrebare": "Alegeți acele enunțuri referitoare la minerale și rolurile acestora în organism în care afirmările sunt false:",
+    "variante": {
+      "A": "Sunt implicate în reglarea diferitelor procese biochimice din organism. Unele minerale sunt implicate în activitatea unor enzime",
+      "B": "Find substanțe organice, nu pot fi excretate în urină. Mențion presiunea osmotică a unor gaze din organism (O2, CO2, CO)",
+      "C": "Constituie aproximativ 25% din greutatea corporală și sunt sintetizate permanent în organism. Natriul este cel mai puțin frecvent cation extracelular și se regăsește în structura citocromului lanțului mitocondrial transporter de protoni",
+      "D": "Deși constituie doar aproximativ 5% din greutatea corporală, au funcții importante în organism. Unele sunt regăsite în combinație cu compuși organici (ca de exemplu, fierul în molecula de hemoglobină sau în cele ale citocromilor)",
+      "E": "Find molecule hidrofobe, nu se pot lega niciodată de compuși organici cum sunt vitaminele sau enzimsele. Sunt molecule complexe, neutre din punct de vedere electric, transportate în sânge de către lipoproteine plasmatice"
+    }
+  },
+  {
+    "numar": 162,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la mineralele care se regăsesc în compoziția corpului:",
+    "variante": {
+      "A": "Calciul (cation bivalent) participă la formarea țesuturilor dure din organism (dinți, oase), regăsindu-se în structura hidroxiapatitei",
+      "B": "Sunt reprezentate de cationi (Na+) și anioni (Cl-) necesari funcționării optime a organismului",
+      "C": "Reprezintă aproximativ jumătate din greutatea corporală și sunt sintetizate în organism",
+      "D": "Deși constituie doar aproximativ 5 procente din greutatea corporală, ele îndeplinesc funcții importante în organism (reglează diferite procese fiziologice, asistă activitatea unor enzime)",
+      "E": "Ioni de calciu se regăsesc în structura unor vitamine (C, D, B12)"
+    }
+  },
+  {
+    "numar": 163,
+    "intrebare": "Care dintre afirmațiile de mai jos sunt adevărate?",
+    "variante": {
+      "A": "Calciul este cel mai întâlnit ion pozitiv (cation) din fluidele extracelulare",
+      "B": "Calciul este cel mai întâlnit ion pozitiv (anion) din fluidele intracelulare",
+      "C": "Sodiul este cel mai întâlnit mineral din organism, în plasmă fiind prezent sub formă anionică (Na+)",
+      "D": "Sodiul este cel mai întâlnit ion pozitiv (cation) din fluidele extracelulare, cu rol în excitabilitatea neuronală (potențial de repaus, potențial de acțiune)",
+      "E": "Potasiul este cel mai întâlnit ion pozitiv (cation) intracelular și are rol în transmiterea impulsului nervos și în contracția fibrelor musculare"
+    }
+  },
+  {
+    "numar": 164,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la următorii cationi prezenți în organism:",
+    "variante": {
+      "A": "Calciul este cel mai întâlnit mineral din organism, el intervine în mecanismele de coagulare a sângelui și în contracția musculară",
+      "B": "Potasul este cel mai întâlnit ion pozitiv (cation) din fluidele extracelulare",
+      "C": "Potasul (K+), principalul cation intracelular, este implicat în potentialul membranei de repaus și acțiune, alături de sodiu (Na+)",
+      "D": "Fosforul, sub formă ionului fosfat, este indispensabil formării țesuturilor dure și unor compuși energetici",
+      "E": "Magneziul intervine în funcția celulelor nervoase și musculare"
+    }
+  },
+  {
+    "numar": 165,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la următorii cationi din organism:",
+    "variante": {
+      "A": "Fierul este utilizat de glanda tiroidă ca și component al hormonilor tiroxina și triodotironină",
+      "B": "Fierul este component al mioglobinei, hemoglobinei și citocromilor",
+      "C": "Excesul de potasiu în organism poate conduce la afectarea activității inimii și insuficiență cardiacă",
+      "D": "Magneziul se regăsește în structura a numeroase enzime și a țesuturilor dure și intervine în funcționarea optimă a sistemului nervos",
+      "E": "Iodul este folosit de glanda tiroidă pentru sinteza tiroxinei și a altor hormoni implicați în controlul metabolic"
+    }
+  },
+  {
+    "numar": 166,
+    "intrebare": "Alegeți afirmațiile false referitoare la cationii din organism:",
+    "variante": {
+      "A": "Sulful face parte din structura anumitor aminoacizi și este component al unor vitamine și sisteme oxido-reducătoare (citocromi)",
+      "B": "Iodul este indispensabil pentru formarea hemoglobinei și a pigmentului melanină",
+      "C": "Fosforul este component al adenosin-trifosfatului și al acizilor nucleici",
+      "D": "Magneziul participă la formarea ureei în cadrul sintezei proteice și intră în structura hemoglobinei",
+      "E": "Sodiul este principalul cation intracelular și are rol în procesul maturării eritrocitelor"
+    }
+  },
+  {
+    "numar": 167,
+    "intrebare": "Alegeți răspunsurile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Calciul intervine în calea intrinsecă a mecanismului de coagulare a sângelui, în etapa de formare a tromboplastinei plachetare",
+      "B": "Fosforul intervine alături de calciu în formarea dinților și oaselor",
+      "C": "Fosforul, sub forma ionului fosfat, se regăsește în structura ATP-ului și a unor coenzime (NAD+, FAD)",
+      "D": "Fluorul (F-) este implicat în generarea impulsului nervos, alături de potasiu",
+      "E": "Zincul este constituentul mai multor enzime și este esențial pentru creșterea normală a organismului"
+    }
+  },
+  {
+    "numar": 168,
+    "intrebare": "Alegeți dintre enunțurile de mai jos pe cele care conțin prima afirmație adevărată și a doua falsă:",
+    "variante": {
+      "A": "Sulful face parte din structura unor aminoacizi, intră în structura coenzimii A și a citocromilor. Magneziul este important pentru balanța hidrică a organismului și este cel mai des întâlnit cation din lichidele extracelulare",
+      "B": "Manganul participă la formarea ureei în ciclul ornithinei și este un activator enzimatic. Cobaltul intră în compoziția vitaminei B12 și are rol în procesul maturării eritrocitelor",
+      "C": "Zincul este constituentul mai multor enzime și este esențial pentru creșterea normală a organismului. Cuprul face parte din structura tuturor aminoacizilor esențiali"
+    }
+  },
+  {
+    "numar": 169,
+    "intrebare": "Alegeți dintre enunțurile de mai jos pe cele care conțin prima afirmație falsă și a doua adevărată:",
+    "variante": {
+      "A": "Ionul de magneziu nu intervine în funcționarea celulei nervoase. Sulful face parte din structura anumitor aminoacizi",
+      "B": "Iodul adus prin aport alimentar este indispensabil sintezei hormonilor tiroidieni tiroxina și triodotironină. Zincul este constituientul mai multor enzime",
+      "C": "Fierul se regăsește în structura lanțurilor polipeptidice alfa ale hemoglobinei. De ionul de fier din grupa hem a moleculei de hemoglobină se leagă reversibil oxigenul pentru a fi transportat la țesuturi"
+    }
+  },
+  {
+    "numar": 170,
+    "intrebare": "Alegeți afirmațiile adevărate despre ionul de sodiu:",
+    "variante": {
+      "A": "Concentrația lui în sânge și fluidele corporale se află sub controlul aldosteronului",
+      "B": "Este un cation monovalent care asigură balanța hidrică a organismului, alături de anionul monovalent de clor",
+      "C": "Poate fi transportat din exteriorul în interiorul celulei prin canale de sodiu cu poartă (voltaj-dependente)",
+      "D": "Concentrația ionilor de sodiu în exteriorul celulei este de peste 10 ori mai mică decât cea din interior",
+      "E": "Face parte din structura anumitor aminoacizi și citocromi"
+    }
+  },
+  {
+    "numar": 171,
+    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Fier – hem – hemoglobină – proteină care transportă gazele respiratorii (O2, CO2)",
+      "B": "Calciu – anion bivalent – contracție musculară",
+      "C": "Sodiu – cation monovalent Na+ – implicat în pompa de Na+/K+",
+      "D": "Cobalt – structura vitaminei B12 – structura cianocobalaminelui",
+      "E": "Potasiu – cation bivalent – influx prin canale de sodiu voltaj-dependent – potențial de acțiune neuronal"
+    }
+  },
+  {
+    "numar": 172,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la hormonii care intervin în reglarea mineralelor în organism:",
+    "variante": {
+      "A": "Aldosteronul – hormon corticospresuranlian – creșterea reabsorbției ionilor de sodiu în tubii contorti distali ai nefronilor",
+      "B": "Aldosteronul – hormon cu structură lipidică – hormon derivat din colesterol – stimulează eliminarea potasiului din organism prin secreția lui la nivelul tubului contort distal",
+      "C": "Tiroxina – stimulează eliminarea iodului din organism",
+      "D": "Parathormonul – hormon al glandei tiroidă, alături de calcitonină – scade calcemia (nivelul de calciu în sânge)",
+      "E": "Parathormonul – crește reabsorbția calciului la nivelul mucoasei intestinale – crește calcemia"
+    }
+  },
+  {
+    "numar": 173,
+    "intrebare": "Alegeţi afirmaţiile adevărate referitoare la fosfor:",
+    "variante": {
+      "A": "Este un mineral care reprezintă 5% din greutatea corporală",
+      "B": "Este un mineral care participă la formarea estrușturilor dure din organism",
+      "C": "Sub formă de acid fosforic, asigură fosforilarea unor compuşi care participă la secvenţele metabolice (de exemplu, fosforilarea glucozei la glucozo-6-fosfat)",
+      "D": "Se regăseşte în structura unor compuşi cu legături bogate în energie (adenozin-trifosfat şi creatin fosfat)",
+      "E": "În formă cationică, participă la menţinerea balanţei hidrice a organismului"
+    }
+  },
+  {
+    "numar": 174,
+    "intrebare": "Alegeţi asocierile corecte referitoare la mineralele şi rolurile acestora în organism:",
+    "variante": {
+      "A": "Calciu – component al ATP-ului şi al acizilor nucleici – participă la formarea ureei",
+      "B": "Calciu – intervine în contracţia fibrelor musculare striate scheletice – intervine în eliberarea neurotransmiţătorului din vezicule sinaptice ale butonului terminal al neuronului presinaptic",
+      "C": "Sodiu – se află în plasmă alături de alţi cationi (K+, Ca2+) – se află în ser alături de Cl-, HCO3-",
+      "D": "Potasiu – principalul cation extracelular – component al vitaminei B12 (riboflavină)",
+      "E": "Potasiu – principalul cation intracelular – rol în excitabilitatea neuronală şi în funcţia cardiacǎ"
+    }
+  },
+  {
+    "numar": 175,
+    "intrebare": "Alegeţi asocierea corecte dintre cele următoare:",
+    "variante": {
+      "A": "Plasmă – component al sângelui – 1% ioni (sodiu, calciu, bicarbonat, potasiu, clor)",
+      "B": "Ser – component al sângelui – lipsit de ioni pozitivi (sodiu, calciu) – prezintă doar anioni cum este bicarbonatul",
+      "C": "Cationi bivalenţi – Ca2+, Mg2+ – rol în funcţionarea celulelor nervoase şi musculare",
+      "D": "Mineralele din structura compuşilor bogaţi în energie din muşchi – Cl-, F-, CO3-",
+      "E": "Fe2+ – structura unor molecule complexe – mioglobină, hemoglobină, citocrom B, C, A"
+    }
+  },
+  {
+    "numar": 176,
+    "intrebare": "Alegeţi afirmaţiile adevărate referitoare la minerale şi diverse substanţe organice cu roluri în organism:",
+    "variante": {
+      "A": "Calciul intră în compoziţia hidroxiapatitei, complex mineral cu structură cristalină prezent în substanţa fundamentală a ţesutului osos",
+      "B": "La absorţia calciului şi a fosforului din tractul gastrointestinal participă exclusiv vitaminele din grupul B",
+      "C": "La absorţia calciului din tractul gastrointestinal participă vitamina D (calciferolul) şi parathormonul",
+      "D": "Pentru sinteza colagenului, proteină fibrilară a ţesuturilor conjunctive, sunt necesari aminoacizi şi vitamina C",
+      "E": "Fosforul se regăseşte în structura AMP ciclic (mesager secundar intracelular)"
+    }
+  },
+  {
+    "numar": 177,
+    "intrebare": "Alegeţi afirmaţiile adevărate referitoare la vitamine:",
+    "variante": {
+      "A": "Alături de glucide, lipide, proteine şi minerale, sunt necesare funcţionării optime a organismului",
+      "B": "Deoarece toate vitaminele sunt produse în organism, ele nu trebuie suplimentate prin aport exogen (dietă)",
+      "C": "Constituie o componentă vitală a dietei şi se pot clasifica după criteriul solubilităţii lor în hidro- şi liposolubile",
+      "D": "Vitamina D poate fi sinteticizată la nivelul pielii din molecule precursore, în prezenţa razelor solare ultraviolete",
+      "E": "Sunt substante anorganice, minerale, de natură endogenă (produse de ficat) şi exogene (provenite din surse externe)"
+    }
+  },
+  {
+    "numar": 178,
+    "intrebare": "Alegeți dintre enunțurile de mai jos pe cele care conțin ambele afirmații adevărate:",
+    "variante": {
+      "A": "Vitaminele sunt nutrienți care trebuie obținuți din surse externe, alimentare. După criteriul solubilității lor, vitaminele pot fi împărțite în două mari grupe: hidrosolubile și liposolubile.",
+      "B": "Organismul depozitează cantități mari de vitamine hidrosolubile, în special în ficat.",
+      "C": "Vitaminele liposolubile (A, B și K) sunt eliminate total la nivel renal în urină.",
+      "D": "Organismul depozitează cantități mari de vitamine hidrosolubile. Organismul stochează cantități mari de vitamine liposolubile, în special vitamina A și D în ficat.",
+      "E": "Vitaminele hidrosolubile sunt absorbite împreună cu apa din tractul gastrointestinal."
+    }
+  },
+  {
+    "numar": 179,
+    "intrebare": "Care dintre informațiile de mai jos sunt corecte?",
+    "variante": {
+      "A": "Din grupul vitaminelor B face parte tiamina și riboflavina, dar nu și ciancobalamina.",
+      "B": "Din grupul vitaminelor liposolubile nu face parte acidul ascorbic.",
+      "C": "Tiamina sau vitamina B1 și piridoxina sau vitamina B6 sunt hidrosolubile.",
+      "D": "Coenzima NAD*, denumită și coenzimă nicotinamidă, derivă din vitamina B3 (niacină, nicotinamidă).",
+      "E": "Vitaminele hidrosolubile includ vitamina A, denumită și retinol."
+    }
+  },
+  {
+    "numar": 180,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la vitamina B1:",
+    "variante": {
+      "A": "Numită tiamină, îndeplinește rolul de coenzimă pentru enzime care intervin în metabolismul glucidelor.",
+      "B": "Este o vitamină hidrosolubilă care favorizează formarea acetilcolinei (neurotransmițător eliberat la nivelul joncțiunilor neuromusculare).",
+      "C": "Este o vitamină liposolubilă, de proveniență hepatică sau musculară.",
+      "D": "Deficitul ei produce boala beri-beri, caracterizată prin simptome de tulburări digestive, astenie (slăbiciune) și atrofie musculară.",
+      "E": "Deficitul ei produce scorbutul, caracterizat prin vindecarea lentă a rănilor."
+    }
+  },
+  {
+    "numar": 181,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la vitamina B2:",
+    "variante": {
+      "A": "Denumită și riboflavină, este necesară producerii grupării flavicine - porțiunea chimică activă a coenzimei FAD, implicată în metabolismul glucidelor și proteinelor.",
+      "B": "Denumită și tiamină, este o coenzimă implicată exclusiv în metabolismul lipidelor.",
+      "C": "Este o vitamină hidrosolubilă, folosită la sinteza coenzimei FAD, implicată în respirația celulară.",
+      "D": "Deficitul ei produce inflamație și descuamare a pielii.",
+      "E": "Excesul ei produce fatigabilitate și anemie pernicioasă."
+    }
+  },
+  {
+    "numar": 182,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la vitamina B3:",
+    "variante": {
+      "A": "Denumită și niacină, este o vitamină hidrosolubilă necesară formării în organism a coenzimei NAD*, coenzimă implicată în metabolismul energetic.",
+      "B": "Denumită și nicotinamidă, este o vitamină hidrosolubilă, componentă a unei coenzime care funcționează cu enzime implicate în diverse reacții de oxido-reducere.",
+      "C": "Este parte componentă a FAD, coenzimă implicată în respirația celulară și în ciclul Krebs.",
+      "D": "Cunoșcută și sub numele de riboflavină, este componentă a unei coenzime implicate în transformarea acidului succinic în acid fumic.",
+      "E": "Deficitul acesteia conduce la pelagră, caracterizată prin astenie (slăbiciune) musculară, diaree și tulburări mentale."
+    }
+  },
+  {
+    "numar": 183,
+    "intrebare": "Alegeți asocierile corecte referitoare la vitamine, rolul lor metabolic și simptomele deficitului de vitamine:",
+    "variante": {
+      "A": "Riboflavina (B2) – componentă a coenzimei A – anemie, tulburări nervoase",
+      "B": "Piridoxina (B6) – coenzimă implicată în metabolismul aminoacizilor și lipidelor – anemie, tulburări nervoase, demență, tulburări gastrointestinale",
+      "C": "Acidul pantotenic – componentă esențială a coenzimei A – intervine în metabolismul glucidelor și lipidelor – simptome carențiale similare altor vitamine de grup B",
+      "D": "Biotina – componentă a NAD*, coenzimă implicată în metabolismul energetic – pelagră, fatigabilitate",
+      "E": "Acidul folic – intervine în formarea eritrocitelor – unele tipuri de anemie"
+    }
+  },
+  {
+    "numar": 184,
+    "intrebare": "Alegeți asocierile corecte referitoare la vitamine, rolul lor metabolic și simptomele deficitului de vitamine:",
+    "variante": {
+      "A": "Cianocobalamina (B12) – coenzimă implicată în formarea/maturarea eritrocitelor și sinteza acizilor nucleici – anemie pernicioasă",
+      "B": "Niacina (B6) – participă la sinteza colagenului în țesutul conjunctiv – anemie pernicioasă",
+      "C": "Acidul ascorbic (vitamina C) – participă la sinteza colagenului în țesutul conjunctiv – scorbut, anemic, vindecarea lentă a rănilor",
+      "D": "Acidul folic – coenzimă pentru enzime oxidoreductoare ale lantului transportor de protoni – pelagră, fatigabilitate",
+      "E": "Niacina (B3) – componentă a NAD*, coenzimă implicată în metabolismul energetic – pelagră, fatigabilitate"
+    }
+  },
+  {
+    "numar": 185,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la vitamina B6:",
+    "variante": {
+      "A": "Cunoașteți sub numele de cianocobalamină, este o vitamină necesară pentru formarea eritrocitelor",
+      "B": "Cunoașteți sub numele de piridoxină, este o vitamină liposolubilă sintetizată în intestin în cantități mici",
+      "C": "Denumiți și piridoxină, este utilizată ca coenzimă a unor enzime implicate în metabolismul aminoacizilor și lipidelor",
+      "D": "Deficitul ei poate duce la anemie, manifestări nervoase, dermatită și tulburări gastrointestinale",
+      "E": "Este o vitamină liposolubilă și se absoarbe împreună cu lipidele alimentare"
+    }
+  },
+  {
+    "numar": 186,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la vitamina B12:",
+    "variante": {
+      "A": "Cunoașteți sub numele de cianocobalamină, este o vitamină necesară pentru formarea/maturarea eritrocitelor",
+      "B": "Pentru absorbția ei în intestinul subțire este necesară prezența factorului intrinsic (glicoproteină) pe care îl secretă celulele parietale ale mucoasei gastrice",
+      "C": "Denumiți și piridoxină, este utilizată ca enzimă în căile metabolice ale proteinelor",
+      "D": "Deficitul ei nu produce niciodată anemie, ci doar tulburări gastrointestinale",
+      "E": "Poate fi stocată în ficat alături de vitamine liposolubile (A, D, E, K)"
+    }
+  },
+  {
+    "numar": 187,
+    "intrebare": "Citiți cu atenție enunțurile numerotate cu cifre de la 1 la 5. Selectați răspunsurile corecte, astfel: A - dacă afirmatiile 1, 2 și 3 sunt adevărate, B - dacă afirmatiile 1 și 3 sunt adevărate, C - dacă 2 și 4 sunt false, D - dacă toate afirmatiile 1, 2 și 5 se referă la vitaminele hidrosolubile:",
+    "variante": {
+      "A": "Acidul pantotenic este o vitamină ce servește drept componentă esențială a moleculei de coenzimă A",
+      "B": "Vitamina A, cunoscută și sub numele de tocoferol, este indispensabilă pentru sinteza protrombinei în ficat"
+    }
+  },
+  {
+    "numar": 188,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la vitaminel hidrosolubile:",
+    "variante": {
+      "A": "Acidul pantotenic este componenta esențială a moleculei de coenzimă A",
+      "B": "Deficitul de acid pantotenic duce la astenie (slăbiciune) musculară, spasme și degenerescență neuro-musculară",
+      "C": "Vitamina A, cunoscută și sub numele de retinol, este utilizată în formarea pigmentului vizual rodopsină",
+      "D": "Deficitul vitaminei C (acid ascorbic) duce la scorbut, anemie, alterarea formării țesutului conjunctiv, întârzierea vindecării rănilor și chiar fracturi osoase",
+      "E": "Vitamina D (calciferolul) contribuie la absorbția calciului și a fosforului din tractul gastrointestinal"
+    }
+  },
+  {
+    "numar": 189,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la acidul folic:",
+    "variante": {
+      "A": "Este esențial pentru sinteza coenzimei FAD, componentă esențială a sistemului transportor de electroni",
+      "B": "Participă și la coenzima A în desfășurarea reacțiilor lanțului transportor de electroni",
+      "C": "Intervine, alături de vitamina D, în formarea protrombinei din fibrinogen, necesar în coagulare",
+      "D": "Intervine în formarea unor elemente figurate (eritrocite și leucocite)",
+      "E": "Deficitul acestui vitamin poate conduce la anemie"
+    }
+  },
+  {
+    "numar": 190,
+    "intrebare": "Alegeți afirmațiile false referitoare la vitaminel hidrosolubile:",
+    "variante": {
+      "A": "Biotina este o coenzimă pentru enzimele cu rol în reacția de atașare a grupei carboxil (carboxilază), intervenind în metabolismul acizilor grași",
+      "B": "Vitamina C, cunoscută sub denumirea de acid folic, este implicată în sinteza acizilor grași esențiali",
+      "C": "Vitamina D poate fi stocată în ficat alături de alte vitamine liposolubile și de minerale, cum sunt fierul și cuprul",
+      "D": "Deficitul vitaminei B3 (niacina) conduce la apariția pelagrei și la fatigabilitate",
+      "E": "Deficitul acidului folic, componentă a coenzimei A, conduce la inflamație și rahitism"
+    }
+  },
+  {
+    "numar": 191,
+    "intrebare": "Alegeți enunțurile în care ambele afirmații referitoare la vitaminele liposolubile sunt adevărate:",
+    "variante": {
+      "A": "Vitamina A, cunoscută și sub numele de retinol, contribuie la fiziologia vederii prin formarea/refacerea pigmentului vizual rodopsină. Deficitul de vitamina A duce la alterarea vederii în lumina slabă (nictalopie)",
+      "B": "Vitamina D, cunoscută și sub numele de calciferol, este o vitamină liposolubilă care facilitează absorbția calciului și a fosforului din tractul gastrointestinal. La copii, deficitul acestei vitamine conduce la sindromul osoasei deficitară, afectându-se cunoscut sub denumirea de rahitism.",
+      "C": "Acidul folic se formează în organism și participă în sinteza hemoglobinei. Deficitul de acid folic duce la rahitism.",
+      "D": "Vitamina E este denumită și tocoferol. Deficitul acestei vitamine poate conduce la anemie și la hemoliză (liza eritrocitelor)",
+      "E": "Vitamina K este necesară pentru sinteza protrombinei în ficat. Deficitul acestei vitamine conduce la nictalopie și uscăciunea membranelor mucoase"
+    }
+  },
+  {
+    "numar": 192,
+    "intrebare": "Alegeți afirmațiile false referitoare la vitaminele liposolubile:",
+    "variante": {
+      "A": "Vitamina A intervine în procesele de creștere de la nivelul oaselor și dinților",
+      "B": "La copii, deficitul vitaminei D conduce la anemie, însoțită de liza celulelor roșii sanguine (scorbut)",
+      "C": "Vitamina K este sintetizată de către bacteriile care populează în mod normal porțiunea terminală a tractului gastrointestinal",
+      "D": "Deficitul vitaminei K duce la tulburări de coagulare și la sângerare excesivă",
+      "E": "Deficitul vitaminei D duce la nictalopie și la sângerare excesivă"
+    }
+  },
+  {
+    "numar": 193,
+    "intrebare": "Alegeți asocierea corectă referitoare la vitaminele liposolubile, rolul lor metabolic și simptomele deficitului vitaminic:",
+    "variante": {
+      "A": "Acidul folic (B12) - coenzimă implicată în formarea eritrocitelor și acizilor nucleici - scorbut, anemie, vindecarea lentă a rănilor",
+      "B": "Vitamina A (retinol) - participă la formarea/refacerea pigmentului rodopsină în celulele cu conuri și bastonașe din retină - nictalopie, uscăciunea membranelor mucoase",
+      "C": "Vitamina E (tocoferol) - rol în formarea eritrocitelor - hemoliza eritrocitelor, anemie",
+      "D": "Vitamina K - intervine în sinteza protrombinei, necesară în procesul de coagulare - sângerare excesivă (mai ales la nou-născuți) și coagulare deficitară"
+    }
+  },
+  {
+    "numar": 194,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la rata metabolică:",
+    "variante": {
+      "A": "Reprezintă suma energilor eliberate de organism prin reacții anabolice, într-o perioadă de timp delimitată",
+      "B": "Reprezintă măsurarea energiei consumate de organism într-o perioadă de timp delimitată (consumul energetic fiind proporțional cu căldura produsă de organism)",
+      "C": "Se măsoară în general când organismul este în repaus fizic, psiho și alimentar și singura activitate efectuată de către acesta este activitatea internă"
+    }
+  },
+  {
+    "numar": 195,
+    "intrebare": "Alegeți dintre afirmațiile de mai jos pe cele adevărate referitoare la căldura produsă de organism:",
+    "variante": {
+      "A": "Este proporțională cu consumul energetic al organismului",
+      "B": "Nu poate fi măsurată direct, ci doar indirect, prin calculul energiilor reacțiilor endergonice și exergonice",
+      "C": "Poate fi măsurată prin metode directe (calorimetrie) sau indirecte (măsurarea ratei consumului de oxigen)",
+      "D": "Pentru măsurarea directă se utilizează un dispozitiv numit calorimetru",
+      "E": "Pentru măsurarea indirectă se determină rata consumului de hidrogen"
+    }
+  },
+  {
+    "numar": 196,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la metodele de măsurare a căldurii produse de organism:",
+    "variante": {
+      "A": "Metoda directă folosește un dispozitiv numit calorimetru (o cameră izolată termic în care este plasat subiectul ce urmează a fi investigat)",
+      "B": "Metoda directă implică măsurarea ratei creșterii temperaturii aerului, datorată căldurii produselor de organismul subiectului investigat"
+    }
+  },
+  {
+    "numar": 197,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la RMB (rata metabolismului bazal):",
+    "variante": {
+      "A": "Reprezintă consumul de energie, măsurat într-un anumit interval de timp, imediat după consumul de alimente (în starea absorbției)",
+      "B": "Reprezintă consumul de energie, pe unitatea de timp și pe kilogram corp, în starea postabsorbtivă și în condiții standard (caracterizate de parametrii constanți)",
+      "C": "Reprezintă energia minimă necesară pentru întreținerea funcțiilor vitale (respiratie, circulație) în stare de veghe",
+      "D": "Reprezintă suma dintre energia rezultată din reacțiile catabolice și energia consumată în reacțiile anabolice",
+      "E": "Reprezintă consumul de energie al organismului în condiții de stres fizic și psihic"
+    }
+  },
+  {
+    "numar": 198,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la factorii care influențează rata metabolismului bazal:",
+    "variante": {
+      "A": "Hormonii tiroidieni (T3 și T4) scad metabolismul celular",
+      "B": "Hormonii tiroidieni (tiroxina și triodotironina) cresc metabolismul celular",
+      "C": "Rata metabolismului bazal este mai scăzută la persoanele cu dimensiune/suprapopulații mai mare",
+      "D": "Rata metabolismului bazal este influențată de vârstă, fiind mai crescută în copilărie",
+      "E": "Rata metabolismului bazal este mai crescută la persoanele în vârstă, când predomină procesele catabolice"
+    }
+  },
+  {
+    "numar": 199,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la rata metabolismului bazal:",
+    "variante": {
+      "A": "Este direct proporțională cu dimensiunea și suprafața corporală",
+      "B": "Este influențată de dimensiunea și suprafața corporală",
+      "C": "Este crescută în caz de temperatură corporală (°C) crescută",
+      "D": "Este invers proporțională cu temperatura corporală, fiind mai scăzută în stările febrile",
+      "E": "Bărbații au o rată a metabolismului bazal ușor mai crescută decât femeile"
+    }
+  },
+  {
+    "numar": 200,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la efectul termic al alimentelor:",
+    "variante": {
+      "A": "Reprezintă accelerarea metabolismului (cu 10-20 procente) după ingerarea unui prânz tipic",
+      "B": "Reprezintă scăderea consumului de oxigen după ingerarea unui prânz tipic",
+      "C": "Cel mai mare efect termic îl oferă lipidele și glucidele, deoarece conțin un număr mare de calorii comparativ cu proteinele",
+      "D": "Efectul termic al proteinelor este mai mare decât al glucidelor și lipidelor, deoarece acestea trebuie procesate mai intens de către organism",
+      "E": "Un prânz bogat în proteine crește ușor rata metabolică"
+    }
+  },
+  {
+    "numar": 201,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "După ingerarea unui prânz tipic, metabolismul unei persoane crește cu aproximativ 50%",
+      "B": "Efectul termic al alimentelor determină accelerarea metabolismului cu 10-20 %"
+    }
+  },
+  {
+    "numar": 202,
+    "intrebare": "Alegeți afirmațiile false dintre cele de mai jos:",
+    "variante": {
+      "A": "Rata metabolică reprezintă accelerarea metabolismului după ingerarea unui prânz tipic",
+      "B": "Colorimetria este o metodă tipică de măsurare a temperaturii corpului",
+      "C": "Tulburările de coagulare și sângerările excesive apar în deficitul unei vitamine sintetizate de bacteriile existente în segmentul terminal al tractului gastrointestinal (vitamina K)",
+      "D": "Copii, bărbații și persoanele cu supraponderalitate mai redusă au RMB mai crescută",
+      "E": "Un nivel ridicat al HDL arată că o cantitate mare de colesterol este transportată în sânge, fapt asociat cu o incidență crescută a bolii coronariene"
+    }
+  },
+  {
+    "numar": 203,
+    "intrebare": "Alegeți enunțurile în care ambele afirmații referitoare la reglarea temperaturii corporale sunt adevărate:",
+    "variante": {
+      "A": "Corpul uman produce propria cantitate de căldură și își menține constantă temperatura. Temperatura normală, măsurată matinal în condiții standard în cavitatea orală, este de aproximativ 36,7°C",
+      "B": "Temperatura corporală este rezultatul producerii și pierderii de căldură, în decursul metabolismului. În condiții fiziologice, temperatura corporală este invariabilă pe parcursul zilei, aceasta scăzând doar în condiții patologice (stări febrile)",
+      "C": "Mecanismele care contribuie la eliberarea (pierdere) de căldură a corpului în mediu înconjurător sunt radiația, evaporarea, conducția și convecția. Reglarea temperaturii corporale depinde în mare măsură de activitatea centrului hipotalamic al termoreglării",
+      "D": "Radiația este procesul prin care energia este transferată de la un atom la un alt atom în urma contactului direct dintre două obiecte. Conducția este un proces prin care căldura este pierdută sub forma radiațiilor infraroșii",
+      "E": "Evaporarea este un mecanism prin care corpul pierde căldură prin transpirație și perspirație. Convecția apare când moleculele de aer/apă ating corpul, primesc căldură prin conducție și se îndepărtează de corp, lăsând locul altor molecule care reiau procesul"
+    }
+  },
+  {
+    "numar": 204,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la mecanismele care contribuie la cedarea căldurii de către corp înspră mediul înconjurător:",
+    "variante": {
+      "A": "Radiația este un proces prin care căldura este disipat sub forma radiațiilor infraroșii",
+      "B": "Radiația este un mecanism prin care corpul pierde căldură prin transpirație și perspirație",
+      "C": "Conducția este procesul prin care energia este transferată de la un atom la un alt atom în urma contactului direct dintre două obiecte",
+      "D": "Conducția este procesul prin care energia este transferată între suprafața corpului uman și aerul/apă din mediul înconjurător",
+      "E": "Evaporarea este procesul prin care energia este transferată de la un atom la un alt atom în urma contactului direct dintre două obiecte"
+    }
+  },
+  {
+    "numar": 205,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la mecanismul de convecție:",
+    "variante": {
+      "A": "Este un proces prin care energia calorică este disipat sub forma radiațiilor infraroșii",
+      "B": "Este un fenomen care apare când moleculele de aer/apă ating corpul, primesc căldură prin conducție și se pătrunde corpul, lăsând locul altor molecule care reiau procesul"
+    }
+  },
+  {
+    "numar": 206,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la reglarea temperaturii corporale:",
+    "variante": {
+      "A": "Este dependentă în mare parte de activitatea centrului regulator din hipotalamus/talamus",
+      "B": "Stimulii sunt generați de curenții de aer (vânt)",
+      "C": "Stimulii care sunt condiții ce pot eferente spre centru talamic al termoreglării sunt generați de receptori termici din anumite mucoase",
+      "D": "Neuroni din hipotalamus funcționează ca un termostat, transmițând impulsuri pentru conservarea, respectiv pierderea căldurii din corp, în funcție de variația temperaturii acestuia",
+      "E": "Anumiți receptori din hipotalamus detectează modificări ale temperaturii sângelui"
+    }
+  },
+  {
+    "numar": 207,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la intervenția hipotalamusului în reglarea temperaturii corporale:",
+    "variante": {
+      "A": "Scăderea temperaturii corpului sub o anumită valoare considerată normală determină centrul regulator hipotalamic să genereze impulsuri care conduc la accentuarea pierderii de căldură din corp",
+      "B": "Scăderea temperaturii corpului sub valoarea considerată normală determină centrul regulator hipotalamic să genereze impulsuri care conduc la conservarea căldurii în corp",
+      "C": "Creșterea temperaturii corpului peste temperatura normală nu influențează centrul termoregulator din diencefal",
+      "D": "Creșterea temperaturilor corporale peste valoarea considerată normală determină centrul regulator situat la nivelul diencefalului, în hipotalamus, să transmită impulsuri pentru stimularea pierderii de căldură din corp",
+      "E": "Când temperatura mediului ambient este foarte scăzută, centrul termoregulator de la nivelul hipotalamusului se informează prin aferente de la receptorii termici și va genera impulsuri care să limiteze pierderea de căldură"
+    }
+  },
+  {
+    "numar": 208,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la receptorii de temperatură din corpul uman:",
+    "variante": {
+      "A": "Receptorii termici periferici sunt localizați în piele și la nivelul mucoase",
+      "B": "Receptorii termici periferici sunt localizați în măduvaSpinării și la nivelul viscerelor abdominale",
+      "C": "Receptorii termici periferici detectează modificări ale temperaturii sângelui",
+      "D": "Receptorii termici centrali se găsesc în măduva spinării, organele abdominale și alte structuri interne",
+      "E": "Receptorii termici centrali detectează modificări ale temperaturii sângelui"
+    }
+  },
+  {
+    "numar": 209,
+    "intrebare": "Alegeți dintre cele de mai jos enunțurile care conțin ambele afirmații adevărate și se referă la minerale:",
+    "variante": {
+      "A": "Cel mai abundent ion din lichidul extracelular, având rol în menținerea balanței hidrice a organismului, este natriul. În structura vitaminei B12 se regăsește cobaltul",
+      "B": "Boala beri-beri este consecința deficitului de piridoxină, în structura căreia intră ionul de cobalt. K+ influențează excitabilitatea și contractilitatea miocardului"
+    }
+  },
+  {
+    "numar": 210,
+    "intrebare": "Un pacient obez, decis să slăbească, consumă de aproximativ o săptămână o dietă sărăcă în glucide. Despre acest pacient se poate afirma că:",
+    "variante": {
+      "A": "Dieta săracă în glucide va determina stimularea catabolismului glucozei prin glicoliză accelerată",
+      "B": "Pacientul scade în greutate datorită accelerării catabolismului lipidic",
+      "C": "Respirația pacientului poate avea un miros asemănător diluantului pentru lacul de unghii, miros datorat creșterii producției de acetonă (corp cetonic provenit din conversia acidului acetoacetic)",
+      "D": "Accelerarea catabolismului lipidic poate produce cetoacidoză, condiție care poate să apară și la un pacient diagnosticat cu diabet zaharat",
+      "E": "Pacientul nu va scădea în greutate pentru că metabolismul său nu este influențat de dietă"
+    }
+  },
+  {
+    "numar": 211,
+    "intrebare": "Alegeți definițiile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Rată metabolică bazală - măsura energiei cheltuite de organism într-o perioadă de timp",
+      "B": "pH - măsurarea presiunii osmotice a hidrogenului din plasmă (pH scăzut - soluție hipotonă, pH crescut - soluție hipertonă)",
+      "C": "Fosfocreatina - compus ce servește ca sursă alternativă de energie pentru țesutul muscular",
+      "D": "Amoniacul - compus rezultat în urma dezinamării aminoacizilor (reacție enzimatică ce are loc la nivel hepatic, dar și în alte țesuturi)",
+      "E": "Sunt acizi grași următoarele substanțe - acetil-CoA, acidul piruvic, dihidroxi-acetona-fosfatul"
+    }
+  },
+  {
+    "numar": 212,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la compușii intermediari care apar pe parcursul glicoliticei:",
+    "variante": {
+      "A": "În prima etapă, glucoza-6-fosfat este obținut prin fosforilarea glucozei (fosfat și energie provenind din hidroliză unei molecule de ATP)",
+      "B": "În a doua etapă, glucoza-6-fosfat este obținut prin izomerizare glucoza-6-fosfatului",
+      "C": "Acidul 2-fosfogliceric și acidul 3-fosfogliceric au fiecare câte 3 atomi de carbon",
+      "D": "Acidul fosfoenolpiruvic și fructoza-6-fosfat au fiecare câte 6 atomi de carbon",
+      "E": "Acidul piruvic se transformă în acid fosfenolpiruvic prin utilizarea unei molecule de ADP"
+    }
+  },
+  {
+    "numar": 213,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la ciclul Krebs:",
+    "variante": {
+      "A": "Este o cale metabolică ciclizată ce se desfășoară în mitocondrie, unde se descompune lanțul transportor de electroni și chimiosmoza cu sinteza de ATP",
+      "B": "Se mai numește acid citric sau ciclu al acidului tricarboxilic (CAT)",
+      "C": "Este un proces realizat în etape, localizat în citoplasma celulei, unde se desfășoară glicoliza",
+      "D": "Este un proces realizat în etape și constă dintr-o succesiune de reacții biochimice catalizate enzimatic",
+      "E": "Are loc în mitocondrie, alături de alte căi metabolice, cum este β-oxidarea acizilor grași"
+    }
+  }
+]

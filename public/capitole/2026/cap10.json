@@ -1,0 +1,1402 @@
+[
+  {
+    "numar": 1,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la sistemul respirator:",
+    "variante": {
+      "A": "Este alcătuit din numeroase organe, având funcția de a transporta aerul în și din plămâni",
+      "B": "Transportă, în mod similar cu sistemul cardiovascular, gaze respiratorii și nutrienți între celule și țesuturi",
+      "C": "Are în componență o porțiune de conducere (un sistem de tuburi ramificate care formează căile aeriene)",
+      "D": "Realizează funcția respiratorie (respirația), asigurând schimbul de oxigen și dioxid de carbon între celelalte corpului și mediul extern",
+      "E": "Este responsabil de furnizarea oxigenului și a nutrienților (glucoză, aminoacizi, vitamine etc.) către țesuturi"
+    }
+  },
+  {
+    "numar": 2,
+    "intrebare": "Despre căile aeriene este fals că:",
+    "variante": {
+      "A": "Cavitățile nazale și faringele aparțin căilor aeriene extrapulmonare",
+      "B": "Cele mai mici ramuri ale porțiunii respiratorii (bronhiolele terminale) aparțin căilor aeriene extrapulmonare",
+      "C": "Cele mai mici ramuri ale căilor aeriene sunt bronhiile",
+      "D": "Căile aeriene includ, în ordine descendentă, bronhiile, bronhiolele, traheea și laringele",
+      "E": "Cele mai mici ramuri ale porțiunii respiratorii se termină în alveole"
+    }
+  },
+  {
+    "numar": 3,
+    "intrebare": "Alegeți informațiile greșite despre componentele sistemului respirator:",
+    "variante": {
+      "A": "Căile aeriene includ traheea, bronhiile, bronhiile",
+      "B": "În ordine descendentă, căile aeriene sunt reprezentate de bronhiole, bronhii, trahee, laringe, faringe, cavități nazale",
+      "C": "În ordine descendentă, căile aeriene sunt reprezentate de cavitățile nazale, faringe, laringe, trahee, bronhii și bronhiole",
+      "D": "Plămânii sunt înconjurați de membrană pericardiacă, cu două foițe, una viscerală și una parietală",
+      "E": "Plămânii sunt organe pereche, situați în cavitatea posterioară a corpului la nivelul mediastinului"
+    }
+  },
+  {
+    "numar": 4,
+    "intrebare": "Despre schimbul de gaze la nivel pulmonar este adevărat că:",
+    "variante": {
+      "A": "Are loc la nivelul alveolelor (săculeței de dimensiuni microscopice)",
+      "B": "Are loc la nivelul aerului, între bronhii și bronhiole",
+      "C": "Are loc în alveole, care asigură o mare suprafață de schimb",
+      "D": "Are loc în alveole format din membrane subtiri, acoperite de o rețea capilară extinsă a circulației pulmonare",
+      "E": "Are loc în alveole format din foață viscerală a pleurei și acoperite de o rețea capilară extinsă"
+    }
+  },
+  {
+    "numar": 5,
+    "intrebare": "Despre schimbul de gaze la nivelul sistemului respirator sunt greşite următoarele afirmatii:",
+    "variante": {
+      "A": "Are loc la nivelul alveolelor pulmonare, unde oxigenul trece din aerul alveolar în sânge, iar CO2 trece din sânge în aerul alveolar",
+      "B": "Sângele scărtie în dioxid de carbon și bogat în oxigen pătrunde în plămâni prin artere pulmonaire",
+      "C": "Sângele care pătrunde plămânii prin artere pulmonare este bogat în oxigen",
+      "D": "Sângele care pătrunde plămânii prin venele pulmonare are o concentrație scăzută în dioxid de carbon",
+      "E": "Sângele aud la plămânii de artele pulmonare are o concentrație scăzută de dioxid de carbon"
+    }
+  },
+  {
+    "numar": 6,
+    "intrebare": "Alegeți asocierile corecte referitoare la schimbul de gaze la nivelul plămânilor:",
+    "variante": {
+      "A": "Sânge în venele pulmonare – O2 crescut – CO2 sărăcit",
+      "B": "Alveole – săculeți cu pereți subțiri – suprafață mare de schimb",
+      "C": "Alveole – săculeți – suprafață redusă pentru schimbul de gaze respiratorii",
+      "D": "Sânge in artele pulmonare – CO2 crescut – O2 sărăcit",
+      "E": "Schimbul de gaze – difuziune (transport pasiv) – oxigenul din aerul alveolar este schimbat cu dioxidul de carbon din sânge"
+    }
+  },
+  {
+    "numar": 7,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Procesul respirator este un mecanism fiziologic important care include ventilația schimbului de gaze",
+      "B": "Deși nazal reține calea normală de intrare a aerului în sistemul respirator, aerul pătrunde în căile aeriene și prin cavitatea orală, care comunică cu faringele",
+      "C": "Procesul de eliminare a dioxidului de carbon din sânge se numește \"respiratie\"",
+      "D": "Prin respirație se realizează schimburile de gaze respiratorii (oxigen și dioxid de carbon) între celulele corpului și mediul extern",
+      "E": "Schimbul de gaze între sânge și aerul alveolar se realizează fără consum energetic, forța lui motive fiind difuziunea"
+    }
+  },
+  {
+    "numar": 8,
+    "intrebare": "Următoarele afirmații referitoare la nas sunt adevărate:",
+    "variante": {
+      "A": "Nasul este adaptat pentru filtrarea, răcirea și uscarea aerului",
+      "B": "Prezintă o porțiune exterioară compusă din cartilaj și tegument",
+      "C": "Este primul segment al porțiunii de conducere a sistemului respirator",
+      "D": "Prezintă două porțiuni externe, denumite cavități nazale",
+      "E": "Reprezintă calea normală de intrare a aerului în sistemul respirator"
+    }
+  },
+  {
+    "numar": 9,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la nas și cavitățile nazale:",
+    "variante": {
+      "A": "Coanele nazale realizează comunicarea cavităților nazale cu nazofaringele, porțiunea superioară a faringelui",
+      "B": "Nasul este responsabil de încălzirea, umidificarea și filtrarea aerului",
+      "C": "La nivelul peretelui inferior al cavităților nazale se află mucoasa olfactivă cu receptori pentru simțul mirosului",
+      "D": "Narinele externe (nări) reprezintă deschiderea cavităților nazale către mediu extern",
+      "E": "Din cavitatea nazală aerul este condus direct în laringe, fără a mai trece prin faringe"
+    }
+  },
+  {
+    "numar": 10,
+    "intrebare": "Alegeți afirmațiile greșite despre nas și cavitățile nazale:",
+    "variante": {
+      "A": "Nasul nu reprezintă întotdeauna calea normală de pătrundere a aerului în sistemul respirator, acesta fiind de fapt cavitatea orală",
+      "B": "Portiunea externă a nasului este compusă din cartilaj și tegument (piele)",
+      "C": "Porțiunile interioare ale nasului, în număr de două, sunt reprezentate de componențele nazale, unite prin septul nazal",
+      "D": "Cavitățile nazale sunt căptușite de mucoasă, aflată în continuitate cu cea a sinusurilor frontal, maxilar, etmoidal și sfenoidal",
+      "E": "Nasul este adaptat pentru încălzire, umidificare, dar nu și pentru filtrarea aerului"
+    }
+  },
+  {
+    "numar": 11,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la cavitățile nazale:",
+    "variante": {
+      "A": "Reprezintă spațiile din interiorul nasului și conduc aerul expirat în faringe",
+      "B": "Reprezintă spațiile din interiorul nasului și conduc aerul inspirat în faringe",
+      "C": "Sunt căptușite cu mucoasă care au rol în filtrarea și umidificarea aerului inspirat",
+      "D": "Se continuă cu mucoasa sinusurilor durei mater",
+      "E": "Sunt asociate și cu simțul olfactiv"
+    }
+  },
+  {
+    "numar": 12,
+    "intrebare": "Selectați afirmațiile adevărate cu privire la cavitățile nazale:",
+    "variante": {
+      "A": "Sunt în număr de două și se continuă direct cu laringofaringele",
+      "B": "Se deschid către mediul extern prin nări (narine externe)",
+      "C": "Reprezină porțiunile externe ale nasului",
+      "D": "Sunt două, drepteși stânga, separate de un sept nazal median",
+      "E": "Sunt căptușite cu mucoasă aflată în continuitate cu cea a sinusurilor, spații pline cu aer, care se extind spre unele oase ale craniului"
+    }
+  },
+  {
+    "numar": 13,
+    "intrebare": "Despre cavitățile nazale se pot afirma următoarele:",
+    "variante": {
+      "A": "Reprezintă porțiunea internă a nasului",
+      "B": "Sunt asociate și cu simțul tactil",
+      "C": "Comunică cu mediul extern prin nări",
+      "D": "Sunt subdivizate în spații aeriene prin intermediul cornetelor nazale superioare, mijlocii și inferioare",
+      "E": "Sunt căptușite cu o mucoasă, a cărei inflamație poartă denumirea de rinită"
+    }
+  },
+  {
+    "numar": 14,
+    "intrebare": "Selectați dintre cele de mai jos, afirmațiile false referitoare la cavitățile nazale:",
+    "variante": {
+      "A": "Reprezintă porțiunile interne ale nasului",
+      "B": "Sunt căptușite cu o mucoasă, care la nivelul peretelui inferior al cavităților nazale formează regiunea olfactivă",
+      "C": "Se deschid spre faringe prin intermediul narinelor externe",
+      "D": "La nivelul lor se deschid o serie de cavități denumite cornete nazale",
+      "E": "Sunt în număr de două și sunt căptușite de o mucoasă"
+    }
+  },
+  {
+    "numar": 15,
+    "intrebare": "Pe o secțiune sagitală la nivelul capului, secțiune care evidențiază structurile nasului uman, se observă după îndepărtarea septului nazal:",
+    "variante": {
+      "A": "Sinusul frontal din interiorul osului eu același nume",
+      "B": "Vestibul, în zona ventrală a cavității nazale",
+      "C": "Cornetul nazal superior, care delimitează metalul mijlociu",
+      "D": "Cornetul nazal inferior, care delimitează metalul inferior",
+      "E": "Sinusul sfenoidal (spațiu aerian căptușit de mucoasă), situat în interiorul osului sfenoid"
+    }
+  },
+  {
+    "numar": 16,
+    "intrebare": "Alegeți informațiile greșite despre poziția anatomică a unor organe ale sistemului respirator:",
+    "variante": {
+      "A": "Amigdala faringiană este situată pe peretele posterior al orofaringelui",
+      "B": "Amigdalele palatine sunt situate pe partea laterală a orofaringelui, posterior de cavitatea orală",
+      "C": "Coanele nazale sunt situate în partea anterioară a cavitărilor nazale și realizează comunicarea lor cu mediul extern",
+      "D": "Plămânii sunt situati in mediastin, fiind separați de pleură",
+      "E": "Laringele reprezintă o extensie spre superior a traheei, la nivelul corespunzător vertebrelor cervicale"
+    }
+  },
+  {
+    "numar": 17,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la mucoasa nazală:",
+    "variante": {
+      "A": "Căptușește porțiunile interne ale nasului, denumite cavități nazale",
+      "B": "Formează, la nivelul peticului superior al cavitărilor nazale, regiunea olfactivă",
+      "C": "Conține neuroni multipolari, care sunt receptori ai simțului olfactiv",
+      "D": "Secretă mucus și enzime care umidifică aerul uscat",
+      "E": "Prezintă celule ciliate, care transportă mucusul contaminat cu microorganisme spre conae, unde este eliminat în faringe"
+    }
+  },
+  {
+    "numar": 18,
+    "intrebare": "Selectați afirmațiile false referitoare la mucoasa nazală:",
+    "variante": {
+      "A": "Căptușește cavitățile nazale, care reprezintă porțiunile interne ale nasului",
+      "B": "Formează la nivelul peticului superior al cavitărilor nazale regiunea olfactivă",
+      "C": "Prezință vase limfatice care încalzesc aerul expirat, bogat în oxigen",
+      "D": "Prezință celule ciliate care transportă mucusul contaminat spre nară pentru a fi eliminat",
+      "E": "Secretă mucus care captează particulele fine de praf și microorganismele"
+    }
+  },
+  {
+    "numar": 19,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la sinusurile existente în anumite oase ale craniului:",
+    "variante": {
+      "A": "Sunt spații pline cu aer situate în oasele frontal, maxilar, sfenoid și etmoid",
+      "B": "Se deschid în cavitățile nazale, și contribuie la încălzirea aerului inspirat",
+      "C": "Sunt spații în care aerul este rece și viteza sa este încetinită",
+      "D": "Reduc greutatea craniului și servesc drept camere de rezonanță",
+      "E": "Sunt căptușite cu o mucoasă aflată în continuitate cu mucoasa cavității orale"
+    }
+  },
+  {
+    "numar": 20,
+    "intrebare": "Alegeți asocierile corecte referitoare la sinușuri și la cornetele nazale:",
+    "variante": {
+      "A": "Cornetele nazale - extensii osoase - rol în scăderea vitezei aerului - rol în facilitarea formării senzițiilor olfactive",
+      "B": "Comețele nazale - extensii conjunctive fibroase - rol în inhibarea apariției senzițiilor olfactive",
+      "C": "Sinusuri - extensii osoase în occipital și etmoid - rol în delimitarea meteorilor nazale",
+      "D": "Sinusuri și cornete nazale - rol în încălzirea aerului inspirat - rol în reducerea vitezei aerului inspirat",
+      "E": "Sinusuri - cavități care conțin aer - spații care se extind spre anumite oase ale craniului (inclusiv osul maxilar)"
+    }
+  },
+  {
+    "numar": 21,
+    "intrebare": "Alegeți răspunsurile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Porțiunea din mucoasa care căptușește cavitățile nazale, responsabilă pentru simțul mirosului, formează reviziune respiratorie",
+      "B": "Cavitatea nazală este asociată simțului olfactiv",
+      "C": "Regiunea olfactivă este situată la nivelul peticului superior al cavitărilor nazale"
+    }
+  },
+  {
+    "numar": 22,
+    "intrebare": "Nasal nu este adaptat pentru următoarele funcții:",
+    "variante": {
+      "A": "Încălzirea aerului – aerul la nivelul sinusoanelor și conectorului nazale",
+      "B": "Răcirea aerului – se datorează prezenței vaselor de sânge de la nivelul septului nazal",
+      "C": "Umidificarea aerului – prin mucusul secretat de mucusosa faringiană",
+      "D": "Filtrarea aerului – prin captarea particulelor fine de praf de către mucusul secretat de mucoasa nazală",
+      "E": "Filtrarea aerului – prin captarea microorganismelor de către mucusul secretat de mucoasa cavității nazale"
+    }
+  },
+  {
+    "numar": 23,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la faringe:",
+    "variante": {
+      "A": "Este un organ comun sistemelor digestiv și respirator",
+      "B": "Comunică cu urechea medie prin intermediul unei structuri numită trompa lui Eustachio",
+      "C": "Conține corzile vocale și conduce aerul inspirat înspre laringe",
+      "D": "Nu conține corzile vocale și conduce aerul expirat înspre laringe",
+      "E": "Conține trei zone dispuse cranio-caudal în următoarea ordine: nazofaringe, orofaringe și laringofaringe"
+    }
+  },
+  {
+    "numar": 24,
+    "intrebare": "Alegeți afirmațiile adevărate cu privire la faringe:",
+    "variante": {
+      "A": "Este un segment comun al sistemelor digestiv și respirator",
+      "B": "Se extinde de la nivelul cavităților nazale până la nivelul trahee",
+      "C": "În nazofaringe, faringele anterior a cavității nazale, se întâlnesc căile digestivă și respiratorie",
+      "D": "Portiunea lui situată posterior de cavitățile nazale e deasupra vărului palatin se numește nazofaringe, orofaringe, laringofaringe, laringe",
+      "E": "Este format din 3 segmente (portiuni) care dinspre superior spre inferior sunt: nazofaringe, orofaringe, laringofaringe"
+    }
+  },
+  {
+    "numar": 25,
+    "intrebare": "Faringele prezintă trei segmente (portiuni):",
+    "variante": {
+      "A": "Orofaringele, care comunică spre anterior cu cavitatea orală",
+      "B": "Nazofaringele, situat posterior de cavitățile nazale, cu care comunică prin coane",
+      "C": "Orofaringele, la nivelul căruia se află deschiderea trompei lui Eustachio",
+      "D": "Laringofaringele, situat posterior de faringe și față de osul hioid",
+      "E": "Nazofaringele situat anterior de vălul palatin"
+    }
+  },
+  {
+    "numar": 26,
+    "intrebare": "Următoarele afirmații referitoare la nazofaringe sunt false:",
+    "variante": {
+      "A": "Este porțiunea faringelui situată sub orofaringe",
+      "B": "Prezintă la nivelul perdelei anterior deschiderea trompelor lui Eustachio",
+      "C": "Este situat posterior de cavitățile nazale și reprezintă porțiunea superioară a faringelui",
+      "D": "Prezintă pe peretele posterior o masă de țesut limfoid, numită amigdală faringiană, a cărei tumefiere poartă denumirea de vegetații adenoide",
+      "E": "Microorganismele care pătrund din nazofaringe în trompa lui Eustachio produc infecții ale urechii interne și ale țesuturilor nervoase"
+    }
+  },
+  {
+    "numar": 27,
+    "intrebare": "Alegeți asocierile corecte:",
+    "variante": {
+      "A": "Arborele bronsic – astm – wheezing (respirație îngreunată și șuierătoare)",
+      "B": "Amigdală faringiană – vegetații adenoide – impedică trecerea aerului",
+      "C": "Amigdalele faringiene – protecția sistemului respirator – amigdala"
+    }
+  },
+  {
+    "numar": 28,
+    "intrebare": "Care sunt răspunsurile corecte despre trompa lui Eustachio dintre cele de mai jos?",
+    "variante": {
+      "A": "Este o structură pereche, care pornește de la urechea medie și se deschide în peretele lateral al nazofaringelui",
+      "B": "Este o structură pereche, care face legătura între urechea externă și nazofaringe",
+      "C": "Are rol de a egaliza presiunea aerului între urechea medie și nazofaringe",
+      "D": "Are rol de a egaliza presiunea aerului de o parte și de alta a timpanului",
+      "E": "Poate transmite din nazofaringe spre urechea internă și spre anumite microorganisme ce provoacă atâtodeauna infecții grave"
+    }
+  },
+  {
+    "numar": 29,
+    "intrebare": "Despre amigdalele de tip limfatic la nivelul faringelui este adevărat că:",
+    "variante": {
+      "A": "Amigdala faringiană se află pe peretele anterior al faringelui",
+      "B": "Amigdalele palatine se află pe părțile laterale ale faringelui, posterior de cavitatea orală",
+      "C": "Când amigdala faringiană este tumefiată, ea poate denumiorea „vegetatiile adenoide”",
+      "D": "Amigdalele palatine au formă rectangulară",
+      "E": "Amigdalele au rol de protejare a sistemului respirator față de agenții infecțioși preluat"
+    }
+  },
+  {
+    "numar": 30,
+    "intrebare": "Alegeți afirmațiile adevărate despre laringe:",
+    "variante": {
+      "A": "Apare căile aeriene și prezintă o serie de structuri cartilaginoase, cum sunt cartilajul tiroid, cartilajul cricoid, epiglota",
+      "B": "Este o cale de trecere a alimentelor spre esofag, având și funcție respiratorie",
+      "C": "Este segmentul comun al sistemelor digestiv și respirator",
+      "D": "Poate fi descris ca având structură cartilaginoasă arhitectonică în mod similar unei cutii",
+      "E": "Este implicat în producerea sunetelor, datorită prezenței corzilor vocaleCute membranoase groase cu rol în producerea sunetelor"
+    }
+  },
+  {
+    "numar": 31,
+    "intrebare": "Din structura laringelui face parte următoarele cartilaje:",
+    "variante": {
+      "A": "Epiglota sau cartilajul epiglotic – un cartilaj elastic in forma de frunză",
+      "B": "Glota, un cartilaj in formă de paralelipiped situată spre faringe",
+      "C": "Cartilajul tiroid, mai predominant la bărbați („mărul lui Adam”)",
+      "D": "Inele cartilaginoase prezintă în portiunea posterioară",
+      "E": "Cartilajul cricoid, asemănător unui inel cu pecete"
+    }
+  },
+  {
+    "numar": 32,
+    "intrebare": "Următoarele afirmații referitoare la laringe și la cartilajele sale sunt adevărate:",
+    "variante": {
+      "A": "Laringele intervine în producerea sunetelor, prin vibrații ale corzilor vocale când aerul este expirat din plămâni",
+      "B": "Laringele adăpostește corzile vocale, două structuri osoase, care vibrează și produc sunete",
+      "C": "Cel mai mare cartilaj al laringelui, vizibil în partea anterioară a gâtului este denumit cartilajul tiroid",
+      "D": "Cartilajul cricoid are legă laringele și traheea este cartilajul cricoid",
+      "E": "Epiglota se extinde la nivelul cavităților nazale pentru a nivelul traheei"
+    }
+  },
+  {
+    "numar": 33,
+    "intrebare": "Despre laringe și trahee sunt adevărate următoarele afirmații:",
+    "variante": {
+      "A": "Apare căile aeriene, laringele fiind situat inferior de trahee",
+      "B": "La nivelul căpăținului este ramificat în două bronhii primare, câte una pentru fiecare plămân, bronhia dreptă fiind mai groasă decât cea stângă",
+      "C": "Este o secțiune sagitală, la nivelul capului și gâtului, se observă traheea situată anterior de esofag",
+      "D": "Este o cale de trecere pentru aer și adăpostește corzile vocale, care vibrează producând sunete"
+    }
+  },
+  {
+    "numar": 34,
+    "intrebare": "Pe o secţiune sagitală a laringelui se pot observa:",
+    "variante": {
+      "A": "Cartilajul tiroid stenot, vizibil în porţiunea dorsală a laringelui (cel mai mare dintre cartilajele laringelui)",
+      "B": "Cartilajul tiroid stenot, vizibil în porţiunea ventrală a laringelui (cel mai mare dintre cartilajele eustachian)",
+      "C": "Epiglota, în formă de frunză care se închide ca un capac peste laringe în timpul deglutiţiei",
+      "D": "Corzile vocale, falduri membranoase (cute de ţesut membranos), care vibrând exală aerul este expulzat din plămâni",
+      "E": "Corzile vocale, cât o adevărată şi una falsă de fiecare parte"
+    }
+  },
+  {
+    "numar": 35,
+    "intrebare": "Selectaţi afirmaţiile false referitoare la trahee:",
+    "variante": {
+      "A": "Prezintă inele cartilaginoase incomplete posterior, între capetele cărora se găseşte ţesut conjunctiv şi ţesut muscular striat",
+      "B": "Se ramifică în bronhiile principale, dreapta şi stânga",
+      "C": "Este menţionată descrisă prin intermediul unor inele cartilaginoase de forma literi „C”",
+      "D": "Este situată exclusiv la nivelul gâtului şi are o lungime de aproximativ 20 centimetri"
+    }
+  },
+  {
+    "numar": 36,
+    "intrebare": "Selectaţi afirmaţiile adevărate referitoare la trahee:",
+    "variante": {
+      "A": "Este un tub semirigid cu rol în transportul aerului, dispus între nazofaringe şi bronhiile principale",
+      "B": "La nivelul capului şi proximal se ramifică în două bronhii primare, câtă vreme pentru între plămân, bronhia dreaptă fiind mai îngustă decât cea stângă",
+      "C": "În structura ei intră inele cartilaginoase de forma literi „C”, ţesut conjunctiv şi ţesut muscular neted"
+    }
+  },
+  {
+    "numar": 37,
+    "intrebare": "Selectaţi afirmaţiile adevărate referitoare la bronhiile principale (primare):",
+    "variante": {
+      "A": "Intră în alcătuirea arborelui bronsic",
+      "B": "Bronhia principală stângă este mai largă şi este situată mai orizontal comparativ cu bronhia dreaptă",
+      "C": "Bronhia principală dreaptă este mai largă şi are o poziţie mai verticală comparativ cu cea stângă"
+    }
+  },
+  {
+    "numar": 38,
+    "intrebare": "Despre bronhii nu este adevărat că:",
+    "variante": {
+      "A": "Cele principale (primare) rezultă din ramificarea porţiunii inferioare a laringelui",
+      "B": "Cele principale stângă are o poziţie mai verticală comparativ cu cea dreptă",
+      "C": "Cele două bronhii principale nu au aceleaşi dimensiuni (bronhia principală dreaptă este mai largă decât cea stângă)"
+    }
+  },
+  {
+    "numar": 39,
+    "intrebare": "Despre bronhii şi ramificaţiile acestora este adevărat că:",
+    "variante": {
+      "A": "Diametrul bronhiilor scade pe măsură ce ele se divid în plămâni",
+      "B": "Bronhiile sunt în pereţii lor un cartilagiu subţire, muşchi netezi şi ţesut conjunctiv",
+      "C": "Bronhiile continuează să se ramifice, formând în final bronhiile terminale (cele mai mici conducte aeriene)",
+      "D": "Bronhiile sunt lipsite de cartilaj, având peretele alcătuit din muşchi netezi susţinându ţesut conjunctiv"
+    }
+  },
+  {
+    "numar": 40,
+    "intrebare": "Care dintre următoarele structuri apartin arborelui bronşic?",
+    "variante": {
+      "A": "Bronhiile primare şi bronhiile terminale",
+      "B": "Nazofaringe şi trahea",
+      "C": "Bronhia dreaptă şi bronhiile respiratorii",
+      "D": "Sinusurile sfenoidale şi laringele",
+      "E": "Bronhiile respiratorii şi bronhiile terminale"
+    }
+  },
+  {
+    "numar": 41,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la părțile de conducere a sistemului respirator:",
+    "variante": {
+      "A": "Arborele bronsic este un sistem de căi de transport ramificate",
+      "B": "Bronhiile principale – dreaptă și stângă – rezultă din ramificarea trahee și sunt inegale ca",
+      "C": "Bronhiile terminale se continuă cu bronhioles respiratorii, care se deschid în alveole",
+      "D": "Cele mai mici conduceri sunt bronhiolele terminale, care se deschid în alveole",
+      "E": "Inflamația arborelui bronsic poartă denumirea de bronșită"
+    }
+  },
+  {
+    "numar": 42,
+    "intrebare": "Selectați afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Plămânii sunt în număr de doi și împreună conțin cinci lobi",
+      "B": "Plămânii sunt separați unul de celălalt printr-o zonă mediană denumită mediastin",
+      "C": "Fiecare cavitate pleurală conține o cantitate mică de lichid lubrifiant, numit lichid seros, care păstrează fata parietală și cea viscerală într-un contact strâns, permițând alunecarea uneia în raport cu cealaltă",
+      "D": "Plămânii sunt organ pereche, situație subdiaphragmatic",
+      "E": "Plămânul stâng are trei lobi: superior, mediat, inferior"
+    }
+  },
+  {
+    "numar": 43,
+    "intrebare": "Selectați afirmațiile false referitoare la plămâni:",
+    "variante": {
+      "A": "Au formă conică și sunt înveliți de seroasa pleurală, cu două foițe (viscerală și parietală)",
+      "B": "Sunt situați în mediastin, împreună cu inima, timusul și o parte a esofagului",
+      "C": "Sunt o parte pereche care ocupă cea mai mare parte a cavității toracice",
+      "D": "Sunt formați din lobi, doi pentru plămânul drept și trei pentru plămânul stâng",
+      "E": "Sunt alcătuiți din milioane de sîculețe numiți arii"
+    }
+  },
+  {
+    "numar": 44,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la plămâni:",
+    "variante": {
+      "A": "Sunt organe pereche, la nivelul cărora are loc schimbul de gaze",
+      "B": "Sunt situați în cavitatea toracică, separați unul de celălalt printr-o zonă mediană căreia i se spune inimă, vase mari de sânge (artera aortă, vena cavă superioară) și alte organe (esofagul – porțiunea toracică)",
+      "C": "Plămânii sunt împărțiți în lobi (doi lobi în dreapta și trei lobi în stânga)",
+      "D": "La adult plămânul are aproximativ 300 milioane de alveole",
+      "E": "Fiecare plămân este înconjurat de o membrană seroasă, dublet stratificat, numită peritoneu"
+    }
+  },
+  {
+    "numar": 45,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Fiecare plămân are suprafață acoperită de pleura viscerală, care pătrunde în fisurile dintre lobi",
+      "B": "În mediastin se află țesut conjunctiv care fixează organele și vasele prezente în această subdiviziune a cavității toracice",
+      "C": "În mediastin se găsește esofagul, timusul, esofagul în întregime, vena cavă inferioară",
+      "D": "Plămânii au o formă conică, datorită cărei prezență și textură elastică și spongioasă",
+      "E": "Foitele pleurale se continuă una cu cea lată într-o zonă în care bronhiile primare, artere pulmonares și nervii pătrund în plămân"
+    }
+  },
+  {
+    "numar": 46,
+    "intrebare": "Alegeți asocierile greșite referitoare la plămâni și la căile aeriene:",
+    "variante": {
+      "A": "Traheea – continuă larigele – inele cartilaginoase în formă de literă ,“C” – ramificare în bronhiile principale",
+      "B": "Bronhia dreaptă – inele cartilaginoase în linie dreaptă, poziție mai verticală decât bronhia stângă – diametru mai mic decât bronhia stângă",
+      "C": "Arbore bronsic – sistem de căi de transport liniare – bronhiole terminale, care se deschid în alveole"
+    }
+  },
+  {
+    "numar": 47,
+    "intrebare": "Alegeți informațiile corecte despre caracteristicile anatomice ale plămânilor:",
+    "variante": {
+      "A": "Prezină la adult aproximativ 300 x 10^6 săculeți, denumiți alveole pulmonare",
+      "B": "Cuprind porțiuni din căile aeriene (bronhiile primare), alveolele, vasele de sânge și alte eșuturi ale tractului respirator superior",
+      "C": "Sunt organizați în lobi și aceștia în lobuli, fiecare lob fiind deservit de o bronhiole",
+      "D": "Lobii sunt trei în plămânul stâng (superior, median și inferior) și doi în plămânul drept (superior și inferior)",
+      "E": "Alveolele care intră în alcătuirea plămânilor sunt grupate în unități funcționale de bază și sunt înconjurate de o rețea capilară"
+    }
+  },
+  {
+    "numar": 48,
+    "intrebare": "Despre alveolele pulmonare se poate afirma că:",
+    "variante": {
+      "A": "Sunt săculeți cu aer, de dimensiuni microscopice, în număr de aproximativ 300 de milioane per plămân",
+      "B": "Aici, O2 din aer este schimbat cu CO2 din sânge printr-un proces pasiv de difuzie",
+      "C": "La nivelul lor, se produce schimbul de gaze (O2 este eliminat și CO2 este preluat)",
+      "D": "Membranele respiratorii ale alveolelor alcătuec o barieră extrem de subțire prin care trec gaze respiratorii",
+      "E": "La alveoli soseste sânge bogat în O2 printr-o ramură a arterei pulmonare cu originea în ventrucul stâng"
+    }
+  },
+  {
+    "numar": 49,
+    "intrebare": "Următoarele afirmații referitoare la pleură sunt adevărate:",
+    "variante": {
+      "A": "Este alcătuită din două foițe, pleura viscerală și pleura parietală",
+      "B": "Pleura este o membrană dublu stratificată care înconjoară fiecare plămân",
+      "C": "Pleura parietală acoperă suprafața exterioară a cavității toracice",
+      "D": "Între pleura viscerală și cea parietală se află cavitatea pleurală",
+      "E": "Pleura viscerală, care reprezintă stratul intern al pleurei, pătrunde în fisurile dintre lobi"
+    }
+  },
+  {
+    "numar": 50,
+    "intrebare": "Selectați afirmațiile false referitoare la pleură:",
+    "variante": {
+      "A": "Pleura parietală, stratul extern al membranei seroase pleurale, tapetează suprafața interioară a cavității toracice",
+      "B": "Pleura viscerală acoperă suprafața fiecărui plămân, dar nu pătrunde în fisurile dintre lobi, care sunt separați prin prelungiri ale pleurei parietale",
+      "C": "Este o membrană dublu stratificată cu două foițe, vasculară și parietală",
+      "D": "Între pleura parietală și cea viscerală se găsește cavitatea pleurală, care conține țesut conjunctiv lax cu vasele și nervii intercostali",
+      "E": "Cele două foițe secrete un lichid seros datorită căruia alunecă ușor una peste cealaltă"
+    }
+  },
+  {
+    "numar": 51,
+    "intrebare": "Selectați asocierile corecte:",
+    "variante": {
+      "A": "Laringe – organ cartilaginos situat între trahee și faringe",
+      "B": "Epiglottă – cartilaj elastic care acoperă glota în timpul deglutiției",
+      "C": "Alveola pulmonară – sac aerian microscopic, la nivelul pleurei",
+      "D": "Trahee – tub cartilaginos semirigid care transportă aer de la nivelul laringelui către arbore bronsic",
+      "E": "Pleura viscerală – foaia internă a pleurei care acoperă suprafața internă a cavității toracice"
+    }
+  },
+  {
+    "numar": 52,
+    "intrebare": "Selectaţi afirmaţiile corecte despre anatomia sistemului respirator:",
+    "variante": {
+      "A": "Cavităţile nazale, laringele şi traheea aparțin căilor aeriene și sunt căptușite de mucoasă",
+      "B": "Ramificaţiile traheei, ale bronhiilor şi ale bronhiolilor formează în medii atmosferice bronce",
+      "C": "Laringele este situat în partea superioară a trahee, la nivel cervical",
+      "D": "Laringele prezintă corzi vocale adevărate și corzi vocale false (pluri ventriculare)",
+      "E": "Sinusurile (cavităţi căptușite de mucoasă) sunt prezente în osul frontal, sfenoid, occipital și maxilar"
+    }
+  },
+  {
+    "numar": 53,
+    "intrebare": "Selectaţi afirmaţiile greşite dintre cele de mai jos:",
+    "variante": {
+      "A": "Bronhia dreaptă este mai largă şi are o poziţie mai orizontală comparativ cu bronhia stângă",
+      "B": "Plămânii ocupă, alături de timus şi o parte din esofag, cea mai mare parte a mediastinului",
+      "C": "Cavitatea cricoid are aspect asemănător unei tub cu lega laringei şi trachia",
+      "D": "Nazofaringele reprezintă porțiunea faringelui situată anterior de cavitățile nazale și inferior ulai palatin",
+      "E": "Sinusurile sunt spălîi cu aer (situate la nivelul oaselor frontale, mandibulei, etmoide și sfenoid) care se deschid la nivelul cavității orale"
+    }
+  },
+  {
+    "numar": 54,
+    "intrebare": "Selectaţi afirmaţiile adevărate referitoare la mecanismul ventilatiei pulmonare:",
+    "variante": {
+      "A": "Inspiraţia permite intrarea aerului în plămâni prin creşterea presiunii în cavitatea toracică",
+      "B": "Expiratia permite iesirea aerului din plămâni prin scăderea volumului cavităţii toracice",
+      "C": "Creşterea volumului cavităţii toracice determină scăderea presiunii aeronului din căile aeriene și din alveole",
+      "D": "Scăderea volumului cavităţii toracice determină creşterea presiunii aerului din căile aeriene și din alveole",
+      "E": "Scăderea presiunii aerului din căile aeriene și din alveole determină creşterea volumului cavităţii toracice"
+    }
+  },
+  {
+    "numar": 55,
+    "intrebare": "Ventilaţia pulmonară:",
+    "variante": {
+      "A": "Se bazează pe principiul conform căruia aerul se deplasează dintr-o regiune cu presiune înaltă (densitate crescută) către o regiune cu presiune joasă (densitate scăzută)",
+      "B": "Se bazează pe principiul conform căruia aerul se deplasează dintr-o regiune cu presiune joasă către o regiune cu presiune înaltă",
+      "C": "Reprezintă procesul prin care aerul intră și iese din alveole",
+      "D": "Face parte din procesul respirator, alături de schimbul de gaze",
+      "E": "Reprezintă schimbul de gaze între alveole și sânge"
+    }
+  },
+  {
+    "numar": 56,
+    "intrebare": "Selectaţi afirmaţiile adevărate referitoare la mobilizarea aerului la nivelul plămânilor:",
+    "variante": {
+      "A": "Aerul iese din plămâni, dacă aerul din alveole are o presiune mai joasă decât cea atmosferică",
+      "B": "Aerul pătrunde în plămâni, dacă aerul din alveole are o presiune mai joasă (mai mică) decât cea atmosferică",
+      "C": "Aerul intră în plămâni, dacă aerul din alveole are o presiune mai înaltă decât cea atmosferică",
+      "D": "Aerul părăseşte plămânii, dacă aerul din alveole are o presiune mai înaltă decât cea atmosferică",
+      "E": "Acest proces se bazează pe diferența de presiune dintre aerul din alveole și cel atmosferic"
+    }
+  },
+  {
+    "numar": 57,
+    "intrebare": "Despre modificările de presiune din plămâni este adevărat că:",
+    "variante": {
+      "A": "Sunt generate de contracția simultană a mușchilor respiratori reprezintă diagrama și a mușchilor intercostali externi",
+      "B": "Apare ca răspuns la stimulii transmisă prin nervii care deservesc mușchii respiratori",
+      "C": "Depind de elasticitatea plămânilor, care în inspirație, urmează expansiunea toracică",
+      "D": "Nu depind de inervația somatică a mușchilor respiratori (mușchi striați)",
+      "E": "Sunt generate de contracția mușchilor netezi din spațiile intercostale în timpul inspirației"
+    }
+  },
+  {
+    "numar": 58,
+    "intrebare": "Modificările de presiune din plămâni depind de:",
+    "variante": {
+      "A": "Elasticitatea plămânilor, care în expirație urmează revenirea toracelui la forma sa inițială",
+      "B": "Relația anatomică a foitelor pleurale cu plămânii",
+      "C": "Prezența unui spațiu toracic deschis în care se află plămânii",
+      "D": "Alierea pleurei viscerale care acoperă plămânii imediat lângă pleura parietală care câmpășește cavitatea toracică",
+      "E": "Activitatea cardiacǎ (ciclul sistolǎ-sistolǎ) controlată de nervul vag"
+    }
+  },
+  {
+    "numar": 59,
+    "intrebare": "În timpul inspirației se produc:",
+    "variante": {
+      "A": "Contracții ale diafragmei, mușchii bolti care prin coborâre contribuie la creșterea volumului cavității toracice",
+      "B": "Creșterea volumului de sânge din plămâni (adus de venele pulmonare)",
+      "C": "Contracții ale mușchilor intercostali externi, care deplasează coastele în direcția superioară și laterală",
+      "D": "Scăderea volumului de sânge din plămâni (preluat de artele pulmonare)",
+      "E": "Creșterea semnificativă a volumului toracelui și scăderea presiunii aerului din căile aeriene și din alveole"
+    }
+  },
+  {
+    "numar": 60,
+    "intrebare": "În timpul inspirației se contractă:",
+    "variante": {
+      "A": "Mai multe grupe de mușchi respiratori, situați în spațiile dintre coaste (spațiile intercostale)",
+      "B": "Mușchii intercostali externi, care ridică coastele și se orientează înspre exterior",
+      "C": "Mușchii intercostali externi, care coborâ coastele și le rotesc spre interior",
+      "D": "Diafragma, care execută o mișcare de ridicare prin contracția ei",
+      "E": "Diafragma, care execută o mișcare de coborâre prin contracția ei, fiind inervată de nervul frenic"
+    }
+  },
+  {
+    "numar": 61,
+    "intrebare": "Despre expirație se poate afirma că:",
+    "variante": {
+      "A": "Este procesul care are loc după realizarea schimbului de gaze între alveole și sânge",
+      "B": "Apare în ventilatiei pulmonare și umează inspirației",
+      "C": "Se produce prin relaxarea mușchilor respiratori și creșterea volumului toracelui",
+      "D": "Se produce prin relaxarea mușchilor respiratori și scăderea volumului toracelui",
+      "E": "Constă în ieșirea aerului din alveolele pulmonare în atmosferă, prin căile aeriene"
+    }
+  },
+  {
+    "numar": 62,
+    "intrebare": "În timpul inspirației:",
+    "variante": {
+      "A": "Coastele se deplasează spre inferior și înspre interior, micșorând volumul toracelui",
+      "B": "Coastele se deplasează spre superior și înspre exterior, mărind volumul toracelui",
+      "C": "Se produc creșterea presiunii aerului din alveole și a volumului toracic",
+      "D": "Expansiunea plămânilor crește volumul aer din alveole",
+      "E": "Aerul atmosferic va pătrunde liber în alveolele pulmonare"
+    }
+  },
+  {
+    "numar": 63,
+    "intrebare": "În timpul inspirației, modificările de presiune din plămâni nu depind de:",
+    "variante": {
+      "A": "Prezența unui spațiu toracic deschis, în care sunt situați plămânii și inima",
+      "B": "Elasticitatea țesutului pulmonar, care urmează modificările de volum ale cutiei toracice",
+      "C": "Relația anatomică a pleurei cu plămânii (nivelul de pleura parietală) și alinierea pleurei viscerale la distanță considerabilă față de pleura parietală",
+      "D": "Prezența unui spațiu toracic închis în care sunt situați plămânii",
+      "E": "Relaxarea diafragmei și coborârea acesteia, cu micșorarea cutiei toracice"
+    }
+  },
+  {
+    "numar": 64,
+    "intrebare": "Despre mușchii respiratori se poate afirma că:",
+    "variante": {
+      "A": "Mușchii intercostali externi sunt pricipale de mai multe grupuri de mușchi striați scheletici, cu inervație voluntară",
+      "B": "Diafragma se contractă în inspirație, aplatizându-și bolta și contribuind la creșterea volumului toracic",
+      "C": "Diafragma intervine în inspirația normală, dar nu și în cea forțată în care intervin doi mușchi netezi din pereții bronhiilor",
+      "D": "Diafragma intervine atât în inspirația normală, cât și în cea forțată",
+      "E": "Atât diafragma, cât și mușchii intercostali externi intervin prin contracția lor în inspirație, reducând dimensiunile cutiei toracice"
+    }
+  },
+  {
+    "numar": 65,
+    "intrebare": "Ca urmare a contracției mușchilor respiratori în timpul inspirației:",
+    "variante": {
+      "A": "Crește foarte mult volumul toracelui prin creșterea diametrelor toracice",
+      "B": "Plămânii, fiind elastici, se comprimă pentru a umple cavitatea toracică",
+      "C": "Plămânii, fiind elastici, își măresc expansiunea toracică (se destind pentru a umple cavitatea toracică)",
+      "D": "Volumul toracelui scade, iar presiunea din căile aeriene și din alveole crește",
+      "E": "Creșterea volumului toracelui determină scăderea presiunii aerului din căile aeriene și din alveole"
+    }
+  },
+  {
+    "numar": 66,
+    "intrebare": "În urma relaxării mușchilor respiratori în timpul expirației:",
+    "variante": {
+      "A": "Volumul toracelui scade, acesta revenind la forma sa inițială",
+      "B": "Scăderea volumului toracelui comprima plămânii, scăzând volumul acestora",
+      "C": "Creșterea volumului toracelui determină scăderea presiunii aerului din căile aeriene și din alveole",
+      "D": "Volumul toracelui crește, ceea ce duce la expansiunea plămânilor",
+      "E": "Scăderea volumului plămânilor determină creșterea presiunii aerului din alveole și ieșirea lui în atmosferă prin căile aeriene"
+    }
+  },
+  {
+    "numar": 67,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la expirație:",
+    "variante": {
+      "A": "Urmează inspirației și este determinată de scăderea presiunii intraabdominale",
+      "B": "Ieșirea aerului din alveolele pulmonare determină golirea parțială a plămânilor",
+      "C": "Este un proces activ, care nu poate fi controlat de organism",
+      "D": "Este un proces pasiv, care poate fi controlat de organism în aceeași măsură ca și inspirația",
+      "E": "Este un proces pasiv, care constă în scăderea volumului cutiei toracice (prin relaxarea mușchilor respiratori), urmată de scăderea volumului plămânilor și creșterea presiunii aerului din interiorul acestora"
+    }
+  },
+  {
+    "numar": 68,
+    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Mușchi respiratori - diafragmă, mușchii intercostali externi - mușchi scheletici",
+      "B": "Inspirație - ridicarea coastelor - coborârea diafragmei - creștere în volum a toracului - expansiune toracică și pulmonară"
+    }
+  },
+  {
+    "numar": 69,
+    "intrebare": "Alegeți asocierea greșite dintre cele de mai jos:",
+    "variante": {
+      "A": "Pleură – membrană seroasă – dublu stratificată – cavitate pleurală în exteriorul foaței viscerale",
+      "B": "Foitele pleurale – în număr de două (viscerală și parietală) – delimitează cavitatea pleurală",
+      "C": "Pleura viscerala – strat intern al pleurei – acoperă suprafața interioară a cavității toracice",
+      "D": "Mediastin – zonă mediana a toracelui – conține esofagul în întregime – nu conține inima",
+      "E": "Plămân – textură elastică – împărțire în lobi – separarea lobilor prin fîsuri"
+    }
+  },
+  {
+    "numar": 70,
+    "intrebare": "Alegeți dintre enunțurile de mai jos pe cele care conțin prima afirmație adevărată și a doua falsă:",
+    "variante": {
+      "A": "În timpul inspirației forțate se relaxează mușchii diafragmei. În inspirație, expansiunea toracică urmează distensia plămânilor",
+      "B": "Diafragma intervine atât în respirația forțată, cât și în cea normală. Expansiunea plămânilor scade volumul din căile aeriene și alveole",
+      "C": "După ce plămânii s-au umplut cu aer, are loc schimbul de gaze între alveole și sânge. Odată ce relaxarea mușchilor respiratori (diafragma și mușchii intercostali externi), volumul toracelui, care revine la forma sa inițială",
+      "D": "Expirația golește total plămânii de aer. Expirația este un proces activ, controlat de către organism la fel de mult ca inspirația",
+      "E": "Expansiunea plămânilor (care urmează expansiunea toracică) crește volumul din căile aeriene. Creșterea volumului toracelui și pulmonar determină creșterea presiunii aerului din alveole și ieșirea"
+    }
+  },
+  {
+    "numar": 71,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Volumul de aer de aproximativ 500 ml care intră și iese din plămâni în repaus este volumul curent",
+      "B": "După o expirație forțată, este eliminat din plămân volumul rezidual de aproximativ 1000 ml de aer"
+    }
+  },
+  {
+    "numar": 72,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Capacitatea vitală presupune efectuarea unei inspirații și a unei expirații forțate",
+      "B": "Efectuarea unei inspirații și a unei expirații este o unealtă care necesită un efort muscular intens",
+      "C": "Inspirația forțată și expirația forțată se realizează pasiv, fără efort muscular suplimentar",
+      "D": "Umplerea repetată a plămânilor la capacitatea maximă poate fi menținută o perioadă îndelungată, fără efort muscular suplimentar",
+      "E": "Volumul rezidual rămâne în plămâni chiar și după o expirație forțată"
+    }
+  },
+  {
+    "numar": 73,
+    "intrebare": "Despre volumele pulmonare este adevărat că:",
+    "variante": {
+      "A": "Capacitatea vitală pulmonară reprezintă volumul maxim de aer care poate fi schimbat la nivel pulmonar",
+      "B": "Volumul rezidual reprezintă volumul de aproximativ 500 ml de aer în starea în care iese din plămâni în repaus și în timpul respirației normale",
+      "C": "Volumul curent are o valoare aproximativă de 5000 ml de aer",
+      "D": "Capacitatea vitală pulmonară presupune efectuarea unei inspirații și a unei expirații forte, care determină un efort muscular intens",
+      "E": "Volumul rezidual reprezintă volumul de aproximativ 1000 ml de aer, care rămâne în plămânii după o expirație forțată"
+    }
+  },
+  {
+    "numar": 74,
+    "intrebare": "Următoarele afirmații referitoare la mecanismul ventilației pulmonare sunt adevărate:",
+    "variante": {
+      "A": "Ventilația se bazează pe principiul combinerii curentului de aer se deplasează dintr-o regiune cu presiune înaltă (densitate crescută) către o regiune cu presiune joasă (densitate scăzută)",
+      "B": " Capacitatea vitală pulmonară nu necesită un efort muscular mai intens decât o respirație normală",
+      "C": "Pe măsură ce se contractă și se relaxează mușchii respiratori, se produc schimbări de volum ale cavității toracice",
+      "D": "Când plămânii se expandează, volumul lor scade, permițând inhalarea aerului",
+      "E": "Când mușchii respiratori se relaxează, cavitatea toracică revine la dimensiunea din repaus"
+    }
+  },
+  {
+    "numar": 75,
+    "intrebare": "Despre volumele pulmonare este adevărat că:",
+    "variante": {
+      "A": "Volumul de aer rămas în plămâni după o expirație forțată se numește capacitate totală pulmonară",
+      "B": "Cel mai mare volum de aer care poate fi schimbat la nivel pulmonar reprezintă capacitatea vitală pulmonară",
+      "C": "Cantitatea de aer ce rămâne în plămâni după expirație normală este aproximativ 1000 ml de aer",
+      "D": "Volumul curent are o valoare de aproximativ 500 ml de aer",
+      "E": "Cantitatea de aer ce intră și iese din plămâni în repaus și în timpul unei respirații normale se numește volum curent"
+    }
+  },
+  {
+    "numar": 76,
+    "intrebare": "Despre controlul respirației se poate afirma că:",
+    "variante": {
+      "A": "Este implicat centrul de control respirator din trunchiul cerebral, ca zonă principală de control",
+      "B": "Respirația este controlată prin contracții ale mușchilor respiratori, mușchi netezi de sevire",
+      "C": "Respirația este controlată prin contracții ale mușchilor respiratori, aceștia fiind controlați la rândul lor de către impulsurile primite de la centrii nervoși din trunchiul cerebral",
+      "D": "Zona pneumatoxică este situată în punte, mezencefal și diencefal",
+      "E": "Centrul respirator din trunchiul cerebral monitorizează indirect nivelul de dioxid de carbon din fluxul sanguin"
+    }
+  },
+  {
+    "numar": 77,
+    "intrebare": "Despre centrul de control respirator se poate afirma că:",
+    "variante": {
+      "A": "Este situat în măduva spinării cervicală și cuprinde două grupele neuronale",
+      "B": "Este situat în trunchiul cerebral, la nivelul bulbului raidian și al punții, și cuprinde două grupe neuronale",
+      "C": "Este parte componentă a encefalului și reprezintă zona principală de control al mușchilor respiratori"
+    }
+  },
+  {
+    "numar": 78,
+    "intrebare": "Monitorizarea concentrației dioxidului de carbon (CO2) și a ionilor de hidrogen (H+) din sânge și lichidul cefalorahidian se realizează astfel:",
+    "variante": {
+      "A": "Centrul respirator din trunchiul cerebral monitorizează direct nivelul de dioxid de carbon din fluxul sanguin și din aerul alveolar",
+      "B": "Centrul respirator din trunchiul cerebral monitorizează indirect nivelul de dioxid de carbon din fluxul sanguin",
+      "C": "Creșterea concentrației ionilor de hidrogen în lichidul cefalorahidian, consecutiv creșterii concentrației CO2 în același lichid, activează centrul de control respirator",
+      "D": "Niveli ridicat de ionii de hidrogen din sânge inhibă centrul de control respirator",
+      "E": "Scăderea concentrației ionilor de hidrogen în sânge și, consecutiv, în lichidul cefalorahidian, inhibă activitatea centrului de control respirator"
+    }
+  },
+  {
+    "numar": 79,
+    "intrebare": "Nivelul ridicat al ionilor de hidrogen din lichidul cefalorahidian:",
+    "variante": {
+      "A": "Activează centrul de control respirator",
+      "B": "Duce la creșterea frecvenței și amplitudinii respirației",
+      "C": "Inhibă centrul de control respirator",
+      "D": "Duce la scăderea frecvenței și amplitudinii respirației",
+      "E": "Se datorează creșterii concentrației de dioxid de carbon în sângele arterial, respectiv în lichidul cefalorahidian"
+    }
+  },
+  {
+    "numar": 80,
+    "intrebare": "Scăderea concentrației ionilor de hidrogen în lichidul cefalorahidian:",
+    "variante": {
+      "A": "Activează centrul de control respirator",
+      "B": "Inhibă funcționarea centrului de control respirator",
+      "C": "Duce la creșterea frecvenței și amplitudinii respirației",
+      "D": "Se datorează creșterii concentrației de dioxid de carbon în lichidul cefalorahidian",
+      "E": "Duce la scăderea frecvenței și amplitudinii respirației"
+    }
+  },
+  {
+    "numar": 81,
+    "intrebare": "Despre chemoreceptori de la nivelul arterelor carotide și cei ai arcului aortic este adevărat că:",
+    "variante": {
+      "A": "Monitorizează concentrația de peroxid de hidrogen dizolvat în sânge",
+      "B": "Monitorizează conținutul de oxigen dizolvat în sânge",
+      "C": "Sunt stimulați atunci când nivelul de oxigen sanguin este scăzut",
+      "D": "Sunt stimulați atunci când nivelul de CO2 este scăzut",
+      "E": "Odată stimulați, ei trimit impulsuri la centrul de control respirator pentru a crește frecvența și amplitudinea respirației"
+    }
+  },
+  {
+    "numar": 82,
+    "intrebare": "Respirația este controlată prin intermediul:",
+    "variante": {
+      "A": "Centrului de control respirator din măduva spinării",
+      "B": "Unor reflexe cu punct de plecare chemoreceptori de la nivelul sinusului carotidian și cei ai arcului aortic",
+      "C": "Concentrației ionilor de hidrogen (acidități) din lichidul cefalorahidian",
+      "D": "Cantității de sânge ce intră în plămâni",
+      "E": "Zonei pneumatoxice a centrului de control respirator din trunchiul cerebral, care reglează frecvența și amplitudinea respirației"
+    }
+  },
+  {
+    "numar": 83,
+    "intrebare": "În cadrul controlului respirator este adevărat că:",
+    "variante": {
+      "A": "La nivelul corpusculului carotidian se află senzori pentru oxigenul dizolvat în sânge",
+      "B": "În corpusculi aorticii se află senzori care monitorizează conținutul de oxigen dizolvat în sânge",
+      "C": "În corpusculul carotidian se află mecanoreceptori pentru monitorizarea conținutului de CO2",
+      "D": "În ventriculii cerebrali se află senzori pentru dioxidul de carbon din lichidul cefalorahidian",
+      "E": "Zona pneumotaxică, responsabilă de reglarea frecvenței și amplitudinii respirației, se află în nucleii centrului de control respirator din trunchiul cerebral"
+    }
+  },
+  {
+    "numar": 84,
+    "intrebare": "Activitatea centrului respirator este o chemoreceptorilor:",
+    "variante": {
+      "A": "Reprezintă mecanisme involuntare de control respirator",
+      "B": "Reprezintă mecanisme voluntare de control respirator",
+      "C": "Poate fi anulată parțial cu ajutorul impulsurilor nervoase din cortexul cerebral",
+      "D": "Poate fi anulată parțial cu ajutorul impulsurilor nervoase din cortexul cerebrelor (cerebelos)",
+      "E": "Poate fi anulată parțial cu ajutorul unor impulsuri care sunt transmise din cortexul cerebral centrului de control respirator"
+    }
+  },
+  {
+    "numar": 85,
+    "intrebare": "Despre controlul voluntar al respirației este adevărat că:",
+    "variante": {
+      "A": "Este coordonat de către cortexul cerebral",
+      "B": "Este coordonat de sistemul nervos autonom vegetativ",
+      "C": "Permite oprirea respirației în timpul învolutului",
+      "D": "Nu mai poate fi împuternicit atunci când nivelurile de CO2 și de H+ cresc în lichidele corpului",
+      "E": "Pe măsură ce nivelul CO2 din lichidele corpului crește, centrul respirator menține oprirea voluntară a respirației"
+    }
+  },
+  {
+    "numar": 86,
+    "intrebare": "Hiperventilația:",
+    "variante": {
+      "A": "Reprezintă respirația normală de repaus",
+      "B": "Este caracterizată prin frecvență redusă și amplitudine scăzută a mișcărilor respiratorii",
+      "C": "Este caracterizată prin frecvență crescută și amplitudine mărită a mișcărilor respiratorii",
+      "D": "Reprezintă respirația profundă și rapidă",
+      "E": "Reprezintă respirația superficială și lentă"
+    }
+  },
+  {
+    "numar": 87,
+    "intrebare": "Despre controlul respirator se poate afirma că:",
+    "variante": {
+      "A": "Mecanismele involuntare de control respirator sunt reprezentate de activitatea centrului de control și a baroreceptorilor (situații în artele carotide)",
+      "B": "Mecanismele involuntare de control respirator sunt reprezentate de activitatea centrului de control și a chemoreceptorilor (de la nivelul arcului aortic)"
+    }
+  },
+  {
+    "numar": 88,
+    "intrebare": "Despre controlul voluntar al respirației sunt adevărate următoarele:",
+    "variante": {
+      "A": "Prin acest tip de control, organismul poate anula parțial mecanismele involuntare",
+      "B": "Se realizează prin impulsuri nervoase din cortexul cerebelos (cerebel), care sunt transmise centrului de control respirator",
+      "C": "Se realizează prin impulsuri nervoase din cortexul cerebral, care sunt transmise centrului de control respirator",
+      "D": "Oprirea voluntară a respirației în anumite situații este menținută de impulsuri sosite din centrul respirator de control din trunchiul cerebral, pe măsură ce nivelul dioxidului de carbon crește în lichidele corpului",
+      "E": "Oprirea voluntară a respirației în anumite situații este învinsă de impulsuri sosite din centrul respirator de control din trunchiul cerebral, pe măsură ce nivelul ionilor de hidrogen crește în lichidele corpului"
+    }
+  },
+  {
+    "numar": 89,
+    "intrebare": "Despre transportul și schimbul de gaze respiratorii este adevărat că:",
+    "variante": {
+      "A": "Procesul pasiv reprezentând difuziune este responsabil de mișcarea moleculelor de oxigen și a celor de dioxid de carbon prin membranele alveolare și capilare",
+      "B": "Transportul gazelor respiratorii la și de la plămâni se realizează prin circulația sistemică și portală",
+      "C": "Transportul gazelor respiratorii la și de la plămâni se realizează prin mecanisme identice pentru O2 față de CO2",
+      "D": "În alveole, dioxidul de carbon din aer este schimbat cu oxigenul din sânge (forță motrice a acestui schimb fiind difuziunea)",
+      "E": "În alveole, oxigenul din aer este schimbat cu dioxidul de carbon din sânge (forță motrice a acestui schimb fiind difuziunea gazelor)"
+    }
+  },
+  {
+    "numar": 90,
+    "intrebare": "În vederea realizării schimbului de gaze respiratorii, acestea se transportă astfel:",
+    "variante": {
+      "A": "Cea mai mare parte a oxigenul se transportă dizolvat în plasmă sau în citoplasma hematiilor",
+      "B": "Oxigenul este transportat într-o proporție de aproximativ 2% dizolvat în plasmă sau în citoplasma hematiilor",
+      "C": "Dioxidul de carbon este transportat în totalitate sub formă de carbaminohemoglobină",
+      "D": "O proporție redusă a CO2 (aproximativ 7% din total) este transportat dizolvat în plasmă și în citoplasma hematiilor",
+      "E": "Oxigenul și dioxidul de carbon se leagă în locuri diferite de molecula de hemoglobină"
+    }
+  },
+  {
+    "numar": 91,
+    "intrebare": "Alegeți afirmațiile false despre transportul sanguin al gazelor respiratorii:",
+    "variante": {
+      "A": "O2 este transportat sub formă de oxihemoglobină (aproximativ 98%) și sub formă dizolvată în plasmă sau în citoplasma globulelor roșii (aproximativ 2%)",
+      "B": "Complexul format din oxigen și hemoglobină poartă denumirea de oxihemoglobină redusă",
+      "C": "Complexul format din oxigen și hemoglobină poartă denumirea de oxihemoglobină",
+      "D": "Din CO2 care provine din sânge, aproximativ 93% ajunge în interiorul globulelor roșii",
+      "E": "Prin legarea CO2 cu moleculele de hemoglobină se formează bicarbonat de sodiu"
+    }
+  },
+  {
+    "numar": 92,
+    "intrebare": "Despre transportul sanguin și schimbul de gaze (O2 și CO2) la nivel alveolar este adevărat că:",
+    "variante": {
+      "A": "Oxygenul din aer este schimbat cu dioxidul de carbon din sânge, sub acțiunea forței motive reprezentate de procesul de difuziune",
+      "B": "Forța motrică a schimbului de gaze la nivelul alveolelor este reprezentată de un proces pasiv denumit osmoză",
+      "C": "Oxygenul din sacul alveolar difuzează prin membrana respiratorie în plasmă și apoi pătrunde în interiorul eritrocitelor",
+      "D": "Transportul sanguin al dioxidului de carbon constă în trei mecanisme: sub formă de CO2 dizolvat, sub formă de bicarbonat de sodiu și sub formă de carbohemoglobină",
+      "E": "Fiecare moleculă de hemoglobină este capabilă să lege cu ușurință o singură moleculă de oxigen"
+    }
+  },
+  {
+    "numar": 93,
+    "intrebare": "Despre transportul dioxidului de carbon în sânge este adevărat că:",
+    "variante": {
+      "A": "Un procent de aproximativ 2% din acest gaz este dizolvat în plasmă sau în citoplasma globulelor roșii",
+      "B": "Un procent de aproximativ 7% din acest gaz se transportă dizolvat în plasmă și în citoplasma globulelor roșii",
+      "C": "Din procentul de aproximativ 7% din CO2 pătruns în globulele roșii, 25-30% se leagă de hemoglobină, formând carbohemoglobină",
+      "D": "Din CO2 pătruns intracelular, un procent de 25-30% se leagă de Hb, formând carbohemoglobină",
+      "E": "CO2 pătruns intraeritrocitar, un procent de 70-75% se transformă sub acțiunea anhidrazei carbonice în H2CO3, care se descompune, generând ioni bicarbonat (HCO3−) și protoni (H+)"
+    }
+  },
+  {
+    "numar": 94,
+    "intrebare": "Dioxidul de carbon:",
+    "variante": {
+      "A": "Nu se leagă de hemoglobină, ci doar se dizolvă în citoplasma hematiilor",
+      "B": "Se leagă de hemoglobină intr-un loc diferit de cel în care se leagă oxigenul",
+      "C": "Se leagă de hemoglobină la nivelul lanțurilor globinice, formând carbohemoglobină",
+      "D": "Este transportat în sânge atât în plasmă, cât și în eritrocite",
+      "E": "Nu se dizolvă în plasmă, rămând solubil în aceasta"
+    }
+  },
+  {
+    "numar": 95,
+    "intrebare": "Despre difuzunea gazelor respiratorii este adevărat că:",
+    "variante": {
+      "A": "Reprezintă mișcarea moleculelor de gaz dintr-o zonă cu concentrație mare spre o zonă cu concentrație scăzută",
+      "B": "Pentru oxigen, difuzunea se realizează în direcția sac alveolar - membrană respiratorie - plasmă - interiorul hematiilor, deoarece aerul din alveole este sărăc în oxigen",
+      "C": "Pentru oxigen, difuzunea se realizează în direcția sac alveolar - membrană respiratorie - plasmă - interiorul hematiilor, deoarece hematiile prezintă deficit de oxigen",
+      "D": "Moleculele de dioxid de carbon rezultate din reconversia ionilor de bicarbonat trec prin difuzine din hemati în sacul alveolar, pentru că aerul din alveole este sărăc în dioxid de carbon",
+      "E": "Trecerea moleculelor de dioxid de carbon se face dinspre hematii (sărăc în CO2) spre aerul din alveole (bogat în CO2)"
+    }
+  },
+  {
+    "numar": 96,
+    "intrebare": "La nivelul plămânilor:",
+    "variante": {
+      "A": "Oxigenul trece din alveole în sânge, pentru a fi transportat la celule",
+      "B": "Oxigenul trece din sânge în alveole, pentru a fi eliminat în expirație",
+      "C": "Dioxidul de carbon trece din alveole în sânge, pentru a fi transportat spre țesuturi"
+    }
+  },
+  {
+    "numar": 97,
+    "intrebare": "La nivelul respirației organismului:",
+    "variante": {
+      "A": "Adundee sânge bogat în oxigen, pompat de ventriculul stâng în artera aortă",
+      "B": "Oxygenul este eliberat din globulele roșii prin mecanisme opuse celor din alveole",
+      "C": "Dioxidul de carbon este preluat de globulele roșii după eliberarea oxigenului",
+      "D": "Dioxidul de carbon este utilizat în metabolismul celular în procesul de formare a ATP-ului (adenozin-trifosfatului)",
+      "E": "Oxigenul este utilizat în metabolismul celular în timpul procesului de eliberare de energie și formare a ATP-ului (adenozin-trifosfatului)"
+    }
+  },
+  {
+    "numar": 98,
+    "intrebare": "Despre mecanismele care asigură transportul sanguin al CO2 este adevărat că:",
+    "variante": {
+      "A": "Reacția de formare a acidului carbonic în eritrocite este catalizată de enzima numită adenilciclaza",
+      "B": "Reacția de formare a acidului carbonic în eritrocite este catalizată de enzima numită anhidraza carbonică",
+      "C": "Odată format, H2CO3 disociază în ioni: H+ și HCO3-",
+      "D": "Ionul de H+ este înlăturat prin fenomenul transferului de clor",
+      "E": ""
+    }
+  },
+  {
+    "numar": 99,
+    "intrebare": "Despre mecanismele care asigură transportul sanguin al CO2 este adevărat că:",
+    "variante": {
+      "A": "Ionii bicarbonat (HCO3-) se formează prin disocierea H2CO3 în eritrocit",
+      "B": "O parte din ionii bicarbonat difuzează în plasmă și se combină cu ionii de sodiu pentru a forma NaHCO3 intraitercelular",
+      "C": "De fiecare dată când un ion bicarbonat (HCO3-) difuzează în plasmă, ușor un ion de clor (Cl-) pătrunde în eritrocit",
+      "D": "HCO3- se deplasează din hematii la schimb cu clorul, iar în plasmă se va combina cu Na+ și va forma NaCl",
+      "E": ""
+    }
+  },
+  {
+    "numar": 100,
+    "intrebare": "Dioxidul de carbon este transportat în sânge sub formă de:",
+    "variante": {
+      "A": "Carbaminohemoglobină în hematie, în care dioxidul de carbon este legat de hem",
+      "B": "Carbaminohemoglobină în eritrocit, în care CO2 se leagă de moleculele de hemoglobină, care au eliberat în prealabil oxigenul, care va difuza spre țesuturi",
+      "C": "Carbaminohemoglobină în plasmă, în care CO2 se leagă de moleculele de hemoglobină anterior eliberării oxigenului în țesuturi",
+      "D": "Bicarbonat de sodiu în plasmă",
+      "E": "Gaz dizolvat atât în plasmă, cât și în citoplasma hematiilor"
+    }
+  },
+  {
+    "numar": 101,
+    "intrebare": "Fenomenul denumit \"transfer de clor\":",
+    "variante": {
+      "A": "Apare atunci când număr mare de molecule de dioxid de carbon intră în sânge",
+      "B": "Apare atunci când număr mare de molecule de oxigen intră în sânge",
+      "C": "Reprezintă un influx crescut de ioni de clor în eritrocite, la schimb cu ionii de Na+",
+      "D": "Reprezintă un efllux crescut de ioni de clor din eritrocite și un influx de ioni bicarbonat în eritrocite",
+      "E": ""
+    }
+  },
+  {
+    "numar": 102,
+    "intrebare": "De fiecare dată când un ion bicarbonat difuzează prin membrana eritrocitelor în plasmă:",
+    "variante": {
+      "A": "În eritrocite pătrunde o moleculă de oxigen, O2 (prin difuziune)",
+      "B": "Din hematițe iese un ion de clor (Cl-) prin mecanism de schimb",
+      "C": "În eritrocite pătrunde un ion de clor (Cl-) prin mecanism de schimb",
+      "D": "Din eritrocite iese un ion de sodiu (Na+) și intră un ion de potasiu (K+)",
+      "E": "Se formează o moleculă de bicarbonat de sodiu în plasmă"
+    }
+  },
+  {
+    "numar": 103,
+    "intrebare": "Difuzinea gazelor la nivelul alveolelor are următoarele caracteristici:",
+    "variante": {
+      "A": "Este un proces pasiv, care constituie forța motrice a schimbului de gaze respiratorii",
+      "B": "Nu necesită consum de energie rezultată prin descompunerea ATP-ului (adenozin-trifosfat)",
+      "C": "Reprezintă miscarea moleculelor de gaz dintr-o zonă cu concentrație mare spre o zonă cu concentrație scăzută, diferă fiind numită gradient de concentrare",
+      "D": "Reprezintă miscarea moleculelor de gaz dintr-o zonă cu concentrație scăzută spre o zonă cu concentrație mare, adică împotriva gradientului de concentrare",
+      "E": "Presupune schimbul dintre oxigenul din alveole și dioxidul de carbon din sânge"
+    }
+  },
+  {
+    "numar": 104,
+    "intrebare": "Difuzinea O2 din aerul alveolar în sânge este adevărată că:",
+    "variante": {
+      "A": "Globulele roșii se deplasează prin capilarele microscopice de pe suprafața sacului alveolar",
+      "B": "Oxigenul din sacul alveolar difuzează prin membrana respiratorie în plasmă și apoi în hematie",
+      "C": "Moleculele de oxigen se leagă ușor de grupările heme ale hemoglobinei înainte de pătrunderea în eritrociti",
+      "D": "Moleculele de oxigen se leagă ușor de hemul din hemoglobină după pătrunderea lor în hematie",
+      "E": "Oxigenul difuzează dinspre hemiaș spre aerul alveolar, deoarece în hematii există o cantitate mai mare de O2 decât în aerul alveolar"
+    }
+  },
+  {
+    "numar": 105,
+    "intrebare": "Despre eliberarea CO2 din sânge în aerul alveolar pentru a fi expirat este adevărat că:",
+    "variante": {
+      "A": "Necesită convertirea ionilor bicarbonat din eritrocite în molecule de dioxid de carbon, care vor difuza în spațiul aerian alveolar",
+      "B": "Ioni bicarbonat trec prin difuziune din hematii în sacul alveolar, unde vor fi reconvertiți în carbanimohemoglobină",
+      "C": "Moleculele de CO2 trec din plasmă, prin transport activ, în sacul alveolar, deoarece aerul alveolar este mai sărăc în CO2 decât sângele",
+      "D": "Dioxidul de carbon difuzează din sânge înspre alveole, deoarece aerul alveolar este mai sărac în CO2 decât hematiile",
+      "E": "Difuzinea CO2 este un proces pasiv, în care moleculele gazului se deplasează dintr-o zonă cu concentrație mare (hematiile) într-una cu concentrație mică (aerul alveolar)"
+    }
+  },
+  {
+    "numar": 106,
+    "intrebare": "La nivelul ţesuturilor periferice ale organismului schimbul de gaze respiratorii implică:",
+    "variante": {
+      "A": "Preluarea oxigenului de către hematii, în vederea respirației celulare care are loc în mitocondriile acestora",
+      "B": "Eliberarea oxigenului de către hematii, care se desfășoară (disociera) oxihemoglobinei în hematii",
+      "C": "Utilizarea oxigenului în metabolismul celular pentru eliberare de energie și formare de ATP (adenozin-trifosfat)",
+      "D": "Eliberarea dioxidului de carbon de către hematii, pentru a fi utilizat în respirația celulară",
+      "E": "Preluarea dioxidului de carbon de către sânge, în care va fi transportat sub formă dizolvată, sub formă de bicarbonat de sodiu și sub formă de carbanimohemoglobină"
+    }
+  },
+  {
+    "numar": 107,
+    "intrebare": "La nivelul alveolelor pulmonare se desfășoară următoarele procese:",
+    "variante": {
+      "A": "Preluarea oxigenului de către hematii, care sunt slab oxigenate în raport cu aerul din alveole.",
+      "B": "Eliberarea oxigenului de către hematii, care sunt bogat oxigenate în raport cu aerul din alveole.",
+      "C": "Eliberarea CO2 rezultat din desfacerea (disocierea) carbaminohemoglobinei din hematii și difuziunea CO2 în spațiul aerian alveolar.",
+      "D": "Difuzunea dioxidului de carbon (rezultat din convertirea ionilor bicarbonat din globulele roșii) în aerul sărăc din CO2 din alveole.",
+      "E": "Preluarea dioxidului de carbon din aerul alveolar, bogat în CO2, de către hematii, sărace în CO2."
+    }
+  },
+  {
+    "numar": 108,
+    "intrebare": "La nivelul țesuturilor/celulelor organismului schimbul de gaze respiratori implică:",
+    "variante": {
+      "A": "Preluarea oxigenului de către hematii, în vederea respirației celulare care are loc în mitocondriile acestora.",
+      "B": "Eliberarea oxigenului de către hematii, prin desfacerea (disocierea) oxihemoglobinei.",
+      "C": "Utilizarea oxigenului în metabolismul celular pentru eliberare de energie și formare de ATP (adenozin-trifosfat).",
+      "D": "Eliberarea dioxidului de carbon de către hematii, pentru a fi utilizat în respirația celulară.",
+      "E": "Preluarea dioxidului de carbon de către sânge, în care va fi transportat sub formă dizolvată, sub formă de bicarbonat de sodiu și sub formă de carbaminohemoglobină."
+    }
+  },
+  {
+    "numar": 109,
+    "intrebare": "Despre unitatea funcțională de bază a plămânului se poate afirma că:",
+    "variante": {
+      "A": "Este formată dintr-un grup de lobuli la care soseste o ramură a arterei pulmonare și de la care pleacă o ramură aflueantă a venei pulmonare.",
+      "B": "Este formată dintr-un grup de alveole la care soseste o ramură a arterei pulmonare și de la care pleacă o ramură aflueantă a venei pulmonare.",
+      "C": "În jurul alveolelor unității funcționale există o rețea capilară, la nivelul căreia are loc schimbul de gaze.",
+      "D": "Capilarele din jurul alveolelor se unesc pentru a forma venulele pulmonare si acestea, venele pulmonare.",
+      "E": "Venele pulmonare vor transporta sângele înapoi la inimă, în partea dreaptă a acesteia (atriul drept)."
+    }
+  },
+  {
+    "numar": 110,
+    "intrebare": "Despre vasele de sânge la nivelul plămânilor sunt adevărate următoarele afirmații:",
+    "variante": {
+      "A": "Arterele pulmonare care pătrund în cei doi plămâni provin din trunchiul pulmonar, cu origine în ventriculul stâng.",
+      "B": "Plămânii primesc prin arterele pulmonare sânge bogat în oxigen.",
+      "C": "Arterele pulmonare sunt singurele artere care transportă sânge sărăc în oxigen.",
+      "D": "Din capilarele provenite din artera pulmonară dreaptă (pentru plămânul drept) și stângă (pentru plămânul stâng) ia naștere rețeaua capilară care înconjoară alveolele.",
+      "E": "După ce are loc schimbul de gaze între sânge și aerul alveolar, capilarele se unesc pentru a forma venele pulmonare, care părăsesc plămânii."
+    }
+  },
+  {
+    "numar": 111,
+    "intrebare": "Despre vasele de tip venos de la nivelul plămânilor se poate afirma că:",
+    "variante": {
+      "A": "Venele pulmonare sunt singurele vene care transportă sânge bogat în oxigen",
+      "B": "Capilarele din jurul alveolelor se reunesc pentru a forma vâncuțele pulmonare",
+      "C": "Venele pulmonare aparţin plămânului drept duc sânge bogat în oxigen în atriul drept",
+      "D": "Venele pulmonare transportă sânge bogat în oxigen și sărac în dioxid de carbon spre atriul stâng",
+      "E": "Venele pulmonare pornesc din atriul stâng și transportă sângele la plămâni"
+    }
+  },
+  {
+    "numar": 112,
+    "intrebare": "Despre transportul gazelor și mecanismele de schimb gazos în corpul uman este adevărat că:",
+    "variante": {
+      "A": "La nivel alveolar, gazele eliberează CO₂ și preia O₂",
+      "B": "La nivelul celulelor, gazele difuzează prin membrane alveolare (respiratorii) și capilari",
+      "C": "La nivelul celulelor, gazează cedează oxigenul provenit din aerul inspirat și preia dioxidul de carbon rezultat din metabolismul celular",
+      "D": "Oxigenul este transportat sub formă de oxihemoglobină sau dizolvat (în citoplasma eritrocitelor și în plasmă)",
+      "E": "CO₂ este transport sub formă de ion bicarbonat, sub formă de carbaminohemoglobină și sub formă dizolvată în plasmă și în citoplasma eritrocitelor"
+    }
+  },
+  {
+    "numar": 113,
+    "intrebare": "Selectați afirmațiile false referitoare la schimburile de gaze respiratorii de la nivelul plămânilor:",
+    "variante": {
+      "A": "Oxigenul trece prin difuzine din alveole în sângele capilar",
+      "B": "Oxigenul trece prin difuzine din sângele capilar în alveole",
+      "C": "Dioxidul de carbon trece prin difuzine din sângele capilar în alveole",
+      "D": "Dioxidul de carbon trece prin transport activ din sângele capilar în alveole"
+    }
+  },
+  {
+    "numar": 114,
+    "intrebare": "Alegeți răspunsurile în care cel puțin două afirmații din trei descriu corect aspecte anatomice și/sau histologice ale unor organe ale sistemului respirator:",
+    "variante": {
+      "A": "Membrana dublu stratificată care înconjoară fiecare plămân se numește pleură. Traheea este susținută de o serie de structuri cartilaginoase în formă literi „O”. Cartilajul tiroid al laringelui are formă de inel cu pecete",
+      "B": "Cel mai mare cartilaj al laringelui, denumit și „mărul lui Adam” este cartilajul tiroid. Mai multe oase ale craniului conțin cavități numite sinusuri, care comunică cu cavitățile nazale. Epiglota este unul dintre cartilajele laringelui (cartilajul epiglotic) și are formă de frunză",
+      "C": "La nivelul cavității nazale există trei extensii osoase denumite cornete nazale (superior, mijlociu și inferior). Spațiile (denumite sinusuri) care se deschid în cavitățile nazale se extind spre oasele frontal, sfenoid, etmoid și maxilar. Plămânii sunt alcătuiți din milioane de alveole (săculeți microscopici cu aer)",
+      "D": "Arterele pulmonare aduc la plămâni sânge bogat în oxigen. Bronhiile se ramifică în cele aproximativ 300 de milioane de alveole pulmonare. Fiecare lob pulmonar este împărțit în lobi",
+      "E": "Din pereții laterali ai laringelui se formează două seturi de cute membranoase groase, denumite corzi vocale. Pe pereții posterioari ai nazofaringelui se află amigdala faringiană (o masă de țesut limfoid). Sinusul frontal este o cavitate pneumatică aflată în structura osului frontal"
+    }
+  },
+  {
+    "numar": 115,
+    "intrebare": "După îndepărtarea septului nazal (care împarte median cavitatea nazală), pe peretele lateral ai cavităților nazale se pot observa următoarele structuri:",
+    "variante": {
+      "A": "Saua turcească a sfenoidului (osul sfenoid) și palatul moale",
+      "B": "Altul și axiul, care delimitează posterior cavității nazale",
+      "C": "Cornetul superior, sub care se află meteul mijlociu",
+      "D": "Cornetul inferior, care delimitează superior meteul inferior",
+      "E": "Trei cornete (superior, mijlociu, inferior) și măturile delimitate de acestea"
+    }
+  },
+  {
+    "numar": 116,
+    "intrebare": "Alegeți afirmațiile false despre diferite cartilaje care intră în structura organelor sistemului respirator:",
+    "variante": {
+      "A": "Cel mai mare cartilaj al laringelui se numește hioid",
+      "B": "În structura traheei se află unele cartilaginoase de susținere, de forma literi „C”",
+      "C": "Epiglota sau cartilajul glotic are formă de inel cu pecete și aparține laringelui",
+      "D": "Cartilajul tiroid se evidențiază în partea dorsală a gâtului și este mai pronunțat la femei",
+      "E": "Cartilajele traheale și bronșice sunt de tip hialin"
+    }
+  },
+  {
+    "numar": 117,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la detalii structurale ale plămânilor și ale alveolelor:",
+    "variante": {
+      "A": "Plămânul drept este divizat în trei lobi (superior, medial și inferior) și primește aerul prin bronhia dreaptă, care are o poziție mai verticală decât omologea oi pentru plămânul stâng",
+      "B": "Plămânul stâng primește aerul prin bronhia stângă, ale cărei ramificații se vor distribui celor trei lobi (superior, medial și inferior)",
+      "C": "Bronhiile devin din ce în mai mici pe măsură ce se divid în mediastin, atingând în final un diametru de aproximativ 1x10^-3 metri, nivel de care vor fi denumite bronhiolele",
+      "D": "Bronhiile devin din ce în mai mici pe măsură ce se divid în plămâni până la atingerea unui diametru de aproximativ 1 milimetru, nivel de care vor fi denumite bronhiolele",
+      "E": "Peretele bronhiolar este alcătuit din mușchi netezi, dispusi sub formă de benzi și susținut de țesut conjunctiv"
+    }
+  },
+  {
+    "numar": 118,
+    "intrebare": "Pentru cele 5 enunțuri de mai jos, notează cu cifre de la 1 la 5, alegeți răspunsul A - dacă asocierele de la 1 și 4 sunt corecte, răspunsul B - dacă asocierea de la 2 este greșită, răspunsul C - dacă afirmațiile de la 3 sunt ambele adevărate, răspunsul D - dacă asocierele de la 1 și 2 sunt corecte și răspunsul E - dacă afirmația de la 5 este adevărată:",
+    "variante": {
+      "1": "Pleura - membrană dublu stratificată - cavitate pleurală - lichid care permite alunecarea foațelor pleurale",
+      "2": "Inspirație - mușchi intercostali externi - ridicarea coastelor spre superior și exterior",
+      "3": "Laringele se continuă cu un tub semirigid, denumit trahee, cu lungimea de aproximativ 10-12 cm. Traheea asigură o cale de intrare și ieșire a aerului și este tapetată cu o mucoasă ale cărei celule sunt ciliate",
+      "4": "Expirație - relaxarea mușchilor intercostali externi și a diafragmei - scăderea volumului toracic - revenirea toracelui la forma inițială",
+      "5": "Activitatea centrului respirator și cea a chemoreceptorilor sunt mecanisme voluntare de control respirator"
+    }
+  },
+  {
+    "numar": 119,
+    "intrebare": "Dacă în urma unui accident este afectată inervaţia jumătăţii stângi a diafragmei (muşchi respirator), este adevărat că:",
+    "variante": {
+      "A": "Integritatea diafragmei va fi paralizată, inspirul nemaiputându-se produce",
+      "B": "Jumătatea dreaptă a diafragmei va fi paralizată, cu consecințe asupra inspirului",
+      "C": "Volumul toracic crește în inspirație pe seama contracției mușchilor intercostali externi și a jumătății drepte a diafragmei",
+      "D": "Inspirația este realizată cu participarea jumătății drepte a diafragmei, care se contractă și coboară",
+      "E": "Jumătatea stângă a diafragmei va fi paralizată, neputând participa la procesul inspirației"
+    }
+  },
+  {
+    "numar": 120,
+    "intrebare": "Ionul bicarbonat (HCO3-) se formează:",
+    "variante": {
+      "A": "La nivelul plămânilor – din CO2 și H2O, sub acțiunea anhidrazei carbonice",
+      "B": "La nivelul țesuturilor, în eritrocite din capilare periferice – din disocierea acidului carbonic",
+      "C": "La nivelul țesuturilor, în plasma din capilarele periferice – din CO2 și H2O",
+      "D": "La nivelul plămânilor, în plasma din capilarele pulmonare – din disocierea bicarbonatului de sodiu (NaHCO3)",
+      "E": "Din acidul fosforic sub acțiunea unei fosfataze"
+    }
+  },
+  {
+    "numar": 121,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "CO2 este transportat de la nivelul țesuturilor spre plămâni prin vase ale circulației sistemice și pulmonare",
+      "B": "Oxigenul ajunge la plămâni la inimă prin vase ale circulației pulmonare (prin venele pulmonare)",
+      "C": "Oxigenul este transportat de la inimă la nivelul țesuturilor prin vase ale sistemului arterial derivat din artera aortă",
+      "D": "CO2 este transportat spre plămâni în totalitate sub formă de gaz dizolvat în plasmă",
+      "E": "Oxigenul este transportat de la plămâni sub formă de carbaminohemoglobină"
+    }
+  },
+  {
+    "numar": 122,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Bronhiolele sunt mici ramificații cu diametrul de aproximativ 1 mm și fără cartilaj în structura pereților lor",
+      "B": "Cele mai mici conduite aeriene sunt denumite bronhiole terminale",
+      "C": "Bronhiolele participă direct la schimbul de gaze respiratorii (O2, CO2)",
+      "D": "Bronhiolele prezintă în structura pereților lor mușchi neted și țesut conjunctiv",
+      "E": "Bronhiolele se ramifică până când formează cele mai mici conduite aeriene, numite bronhii terminale"
+    }
+  },
+  {
+    "numar": 123,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la mecanismele ventilației pulmonare:",
+    "variante": {
+      "A": "În inspirație diafragma și mușchii intercostali se contractă și scad volumul cavității toracice",
+      "B": "În inspirație ar loc contracția mușchilor intercostali și a diafragmei, având ca efect creșterea volumului cavității toracice",
+      "C": "Volumul toracelui crește în inspirație și scade în expirație",
+      "D": "Presiunea din plămâni scade în inspirație și crește în expirație",
+      "E": "În timpul expirației, prin relaxarea mușchilor respiratori, scade volumul toracelui, acesta revenind la forma sa inițială"
+    }
+  },
+  {
+    "numar": 124,
+    "intrebare": "Alegeți definițiile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Volumul curent reprezintă volumul de aproximativ 500 ml de aer care intră și iese din plămâni în repaus și în timpul respirațiilor normale",
+      "B": "Volumul curent este cel care rămâne în plămâni după o respirație forțată",
+      "C": "Volumul rezidual este acel volum de aer care poate fi introdus în plămâni prin inspirație forțată",
+      "D": "Cci aproximativ 1000 ml de aer rămân în plămâni după o expirație forțată reprezintă volumul rezidual",
+      "E": "Capacitatea vitală pulmonară reprezintă volumul maxim de aer ce poate fi schimbat la nivel pulmonar"
+    }
+  },
+  {
+    "numar": 125,
+    "intrebare": "Alegeți răspunsurile corecte dintre cele mai jos:",
+    "variante": {
+      "A": "Inelele osoase în formă de literă „C”, deschise spre anterior, mențin deschisă traheea, favorizând circulația aerului",
+      "B": "Inelele cartilaginoase incomplete, deschise spre posterior și situate unelt peste celula, au funcția de a susține și de a menține deschisă traheea",
+      "C": "Despre plămânul drept se poate afirma că prezintă trei lobi și are vascularizație și inervație proprii",
+      "D": "Cel mai mare cartilaj al laringelui, cunoscut sub numele de „mărul lui Adam”, este cartilajul tiroid (și se află în partea ventrală a gâtului)",
+      "E": "Creșterea CO2 din sânge provoacă o scădere proporțională a concentrației protonilor"
+    }
+  },
+  {
+    "numar": 126,
+    "intrebare": "Alegeți răspunsurile la care ambele afirmații sunt adevărate:",
+    "variante": {
+      "A": "Capacitatea vitală pulmonară este volumul maxim de aer ce poate fi schimbat la nivel pulmonar. Volumul curent este volumul de aproximativ 500 ml de aer care intră și iese din plămâni în repaus și în timpul respirației normale",
+      "B": "CO2 este transportat în sânge sub diferite forme, una dintre acestea fiind carbanimohemoglobina (aproximativ 25-30%). Legarea CO2 la hemoglobină se produce în același loc în care se leagă oxigenul",
+      "C": "Procesul responsabil de mișcarea gazelor respiratorii prin membrane capilarelor înspre și dinspre alveole este difuziunea gazelor. Cea mai mare cantitate de dioxid de carbon este transportată în sânge sub formă de ioni de bicarbonat (HCO3-)",
+      "D": "Aerul este umidificat, încălzit și filtrat în timp ce traversează cavitatea orală spre cavitatea nazală. Rinită alergică mai este denumită și astm bronșic",
+      "E": "Trompa lui Eustachio asigură egalizarea presiunii aerului între nazofaringe și urechea medie. Contractia mușchilor intercostali și a diafragmei determină mărirea volumului cavității toracice"
+    }
+  },
+  {
+    "numar": 127,
+    "intrebare": "CAPITOLUL 10 ◄ Sistemul respirator",
+    "variante": {
+      "A": "ABE",
+      "B": "ACD",
+      "C": "BCD",
+      "D": "BDE",
+      "E": "ACD"
+    }
+  },
+  {
+    "numar": 128,
+    "intrebare": "Alegeţi asocierea corectă:",
+    "variante": {
+      "A": "Laringe - falduri membranoase cu rol în fonţie - corzi vocale mai lungi la bărbaţi - voce cu tonalitate mai joasă la bărbaţi decât la femei",
+      "B": "Laringe - corzi vocale cartilaginoase - voce cu tonalitate mai joasă la femei decât la bărbaţi",
+      "C": "Trompele lui Eustachio - structuri pereche (dreapta şi stânga) - conţin cartilaj elastic",
+      "D": "Cartilaj cicroid - cartilajul laringelui - formă de inel cu pecete"
+    }
+  },
+  {
+    "numar": 129,
+    "intrebare": "Selectaţi afirmaţiile adevărate referitoare la trahee:",
+    "variante": {
+      "A": "Este un tub semirigid cu lungimea de aproximativ 10 - 12 milimetri",
+      "B": "Se ramifică în două bronhii principale (dreapta şi stânga)",
+      "C": "Se situează în continuarea faringelui, înaintea acesta şi esofag",
+      "D": "Pe secţiune sagitală, la nivelul capului şi gâtului, se observă traheea situată anterior de esofag",
+      "E": "Este o cale de trecere pentru aer şi adăposteşte corzile vocale, care vibrează producând sunete"
+    }
+  },
+  {
+    "numar": 130,
+    "intrebare": "Varianta alegată ale concentrațiilor gazelor respiratorii sunt percepute astfel:",
+    "variante": {
+      "A": "Scăderea oxigenului dizolvat în sânge – de către chemoreceptorii din corpul carotidian și ai arcului aortic",
+      "B": "Creșterea oxigenului dizolvat în sânge – de către baroreceptorii corpusculului carotidian",
+      "C": "Creșterea acidității lichidului cefalorahidian – de către centrul de control din bulbul rahidian",
+      "D": "Scăderea oxigenului dizolvat în sânge – de către chemoreceptorii din bulbul rahidian",
+      "E": "Scăderea pH-ului (ca expresie a creșterii concentrației H+) din lichidul cefalorahidian – de către centrul de control respirator din trunchiul cerebral"
+    }
+  }
+]

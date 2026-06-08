@@ -72,7 +72,7 @@ export default function DashboardView() {
 
           <div className="welcome-exam-card">
             <div className="exam-card-label">Examen simulare</div>
-            <div className="exam-card-title">Admitere Biologie Timișoara 2025</div>
+            <div className="exam-card-title">Admitere Biologie Timișoara 2026</div>
             <div className="exam-card-stat">
               <div>
                 <div className="exam-card-stat-label">Întrebări rezolvate</div>
