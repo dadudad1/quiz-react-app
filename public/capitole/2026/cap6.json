@@ -2472,5 +2472,38 @@
       "D": "Mușchiul dintat anterior – clavicilă (apofiza coracoidă)",
       "E": "Mușchiul pectoral mic – scapula (apofiza coracoidă)"
     }
+  },
+  {
+    "numar": 228,
+    "intrebare": "Selectați afirmațiile incorecte referitoare la mușchiul tibial anterior:",
+    "variante": {
+      "A": "Face parte din compartimentul posterior al gambei unde formează cu mușchiul solear tricepsul sural",
+      "B": "Este inervat de nervul radial",
+      "C": "Are originea pe condilul lateral al tibiei",
+      "D": "Se inseră pe primul cuneiform (os tarsian)",
+      "E": "Intervine în flexia plantară a piciorului"
+    }
+  },
+  {
+    "numar": 229,
+    "intrebare": "Selectați afirmațiile adevărate referitoare la mușchiul croitor:",
+    "variante": {
+      "A": "Are originea pe spina iliacă antero-superioară a osului coxal",
+      "B": "Se inseră pe suprafața laterală a corpului tibiei",
+      "C": "Este inervat de nervul femural",
+      "D": "Realizează prin contracție flexia coapsei",
+      "E": "Intervine în rotația laterală a gambei"
+    }
+  },
+  {
+    "numar": 230,
+    "intrebare": "Identificați asocierile corecte dintre mușchi și inserția acestora:",
+    "variante": {
+      "A": "Mușchiul dorsal mare - humerus (șanțul intertubercular și creasta tuberculului mic)",
+      "B": "Mușchiul brahial - tuberozitatea proximală a ulnei",
+      "C": "Mușchiul triceps femural - ulna (olecran)",
+      "D": "Mușchiul dințat anterior - claviculă (apofiza coracoidă)",
+      "E": "Mușchiul pectoral mic - scapula (apofiza coracoidă)"
+    }
   }
 ]

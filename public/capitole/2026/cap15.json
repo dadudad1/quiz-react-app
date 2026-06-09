@@ -2163,5 +2163,16 @@
       "D": "Membrana fragilizată a spermatozoidului capacitat va permite eliberarea enzimelor din acrozom. Un singur spermatozoid va fecunda ovulul, dar în acest scop vor fi eliberate enzime din acrozom unui număr mare de spermatozoizi",
       "E": "Enzimele eliberate din acrozomii spermatozoizilor digeră structurile exterioare ale ovuliului. Prin fecundatie, citoplasma spermatozoidului cu 23 de cromozomi se unește cu cea a oocitului secundar care își finalizează meioza și conține tot 23 de cromozomi"
     }
+  },
+  {
+    "numar": 200,
+    "intrebare": "Alegeți răspunsurile care conțin doar informații corecte despre gameți și procesul de fecundație:",
+    "variante": {
+      "A": "Capacitația presupune fragilizarea membranei gametului masculin pentru a permite eliberarea enzimelor din acrozom. Capacitația are loc în timp ce spermatozoizii parcurg mucusul sistemului reproducător feminin",
+      "B": "Pentru a avea loc fecundația, unul dintre gameți trebuie să fie capacitat (spermatozoidul). De regulă, un număr mare de spermatozoizi vor fecunda ovulul haploid",
+      "C": "De obicei, fecundația are loc în trompele uterine (unde spermatozoizii depozitați în vagin ajung după ce străbat colul uterin și uterul). Prin capacitație, membrana celulară a spermatozoidului suferă modificări (fragilizare)",
+      "D": "Membrana fragilizată a spermatozoidului capacitat va permite eliberarea enzimelor din acrozom. Un singur spermatozoid va fecunda ovulul, dar în acest scop vor fi eliberate enzime din acrozomii unui număr mare de spermatozoizi",
+      "E": "Enzimele eliberate din acrozomii spermatozoizilor digeră straturile exterioare ale ovulului. Prin fecundație, citoplasma spermatozoidului cu 23 de cromozomi se unește cu cea a oocitului secundar care își finalizează meioza și conține tot 23 de cromozomi"
+    }
   }
 ]

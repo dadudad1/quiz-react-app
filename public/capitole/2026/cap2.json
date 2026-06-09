@@ -2152,6 +2152,61 @@
   },
   {
     "numar": 196,
+    "intrebare": "Răspundeți cu A - dacă 3 afirmații sunt adevărate, cu B - dacă cel puțin 2 afirmații descriu funcții ale unor țesuturi, cu C - dacă trei afirmații sunt false, cu D - dacă există cel puțin o afirmație legată de țesuturi cu rol în comunicare, cu E - dacă există o afirmație care să descrie pleura:",
+    "variante": {
+      "A": "Desmozomii sunt joncțiuni intercelulare prezente la nivelul celulelor epiteliale și implică prezența unor fibrile intracelulare de cheratină ancorate de membrana îngroșată",
+      "B": "Țesutul nervos recepționează stimuli și asigură transmiterea și interpretarea impulsurilor nervoase",
+      "C": "Glanda simplă are un canal (duct) excretor ramificat",
+      "D": "Hidroxiapatita este o substanță minerală cu structură cristalină, conținând ioni de calciu",
+      "E": "Epiteliile pot avea și o importantă funcție secretorie atunci când sunt organizate sub formă de glande"
+    }
+  },
+  {
+    "numar": 197,
+    "intrebare": "Selectați enunțurile cu prima afirmație adevărată și a doua falsă:",
+    "variante": {
+      "A": "Stimulii din exterior acționează asupra unor structuri denumite receptori specializați. Pigmenții cutanați sunt sintetizați de către macrofage",
+      "B": "Printre substanțele absorbite de piele se numără și vitaminele A, E și K (liposolubile). Când organismul nu poate produce melanină, afecțiunea care apare se numește albinism",
+      "C": "În piele diviziunile celulare au loc în stratul bazal, denumit și strat germinativ. În epiderm, celulele sunt aranjate într-un singur strat (pavimentos unistratificat)",
+      "D": "Cheratina este o proteină care formează o barieră împotriva substanțelor hidrosolubile. Una din funcțiile pielii este absorbția vitaminei liposolubile C (acid ascorbic)",
+      "E": "Melanina este proteina precursor pentru cheratină. Cheratohialinul este un precursor al acizilor nucleici"
+    }
+  },
+  {
+    "numar": 198,
+    "intrebare": "Alegeți asocierile corecte despre substanțe de natură lipidică și proteică din compoziția unor țesuturi:",
+    "variante": {
+      "A": "Glicogen - polizaharid - protecție a pielii împotriva radiațiilor ultraviolete",
+      "B": "Colagenul - structură fibrilară - matricea țesuturilor conjunctive",
+      "C": "Vitamina D - sintetizată sub acțiunea razelor ultraviolete - sintetizată din molecule precursor acumulate la nivelul pielii",
+      "D": "Eleidina - glicoproteină membranară - precursor pentru cheratohialin",
+      "E": "Alopecia - pigment din structura firului de păr - sintetizat în afecțiuni ale pielii scalpului"
+    }
+  },
+  {
+    "numar": 199,
+    "intrebare": "Alegeți afirmațiile false dintre cele de mai jos:",
+    "variante": {
+      "A": "Firele de păr lipsesc pe întreaga suprafață a corpului, exceptând pleoapele, buzele, palmele și tălpile",
+      "B": "Pielea datorează o mare parte din rezistența sa mecanică dermului",
+      "C": "Dermul protejează pielea împotriva leziunilor și reprezintă un rezervor de apă și ioni",
+      "D": "Cartilajul elastic conține fibre lipidice ramificate, flexibile și întretăiate, fapt care-l deosebește de cartilajul hialin",
+      "E": "Pancreasul și glanda parotidă sunt glande pluricelulare compuse de tip tubular încolăcit"
+    }
+  },
+  {
+    "numar": 200,
+    "intrebare": "Alegeți afirmațiile adevărate și asocierile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Epiteliu pavimentos simplu - peretele cavităților interne, o parte din tubii renali - rol de protecție, absorbție",
+      "B": "Epiteliul stratificat pavimentos din structura epidermului conține la suprafață 25-30 de straturi de celule pavimentoase moarte, care se descuamează continuu",
+      "C": "Derm - strat extern al pielii - supraiacent epidermului și subiacent hipodermului",
+      "D": "Hipodermul aparține țesuturilor subiacente pielii, este bogat în lipide (grăsimi) și țesut areolar",
+      "E": "Glanda sudoripară - pluricelulară simplă tubulară încolăcită - producerea transpirației în scopul răcirii prin evaporarea apei"
+    }
+  },
+  {
+    "numar": 201,
     "intrebare": "Alegeţi acele răspunsuri care conţin ambele afirmaţii adevărate, aflate în relaţie efect – cauză:",
     "variante": {
       "A": "Sângele este un tip aparte de ţesut conjunctiv. Sângele are în compoziţia lui apa, rezultată din deshidratarea celulelor sanguine",

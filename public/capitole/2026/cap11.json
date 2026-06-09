@@ -1276,5 +1276,27 @@
       "D": "Reabsorbția prin osmoză a apei din filtratul glomerular duce la egalizarea concentrației NaCl între capilarele peritubulare și tubul proximal (fluidul din tubul proximal devine izoton cu plasma din capilarele peritubulare).",
       "E": "În tubul contort proximal se reabsorb proteine cu greutate moleculară mare."
     }
+  },
+  {
+    "numar": 119,
+    "intrebare": "Alegeți dintre răspunsurile de mai jos pe cele care conțin două afirmații false referitoare la nefron:",
+    "variante": {
+      "A": "Prin glomerulii nefronilor renali se filtrează aproximativ 7,5 litri de plasmă sanguină pe oră. Ionii de sodiu se reabsorb activ la nivelul tubului proximal",
+      "B": "Filtrarea este procesul prin care eritrocitele ajung în urină în mod normal. Secreția tubulară are loc exclusiv la nivelul tubului contort proximal",
+      "C": "Nefronii produc urina prin procesele de secreție glomerulară, reabsorbție și filtrare tubulară. Filtrarea este funcția specifică a tubului distal",
+      "D": "Nefronii sunt în număr de aproximativ un milion pentru fiecare rinichi. Setul de tubi din structura nefronului conține tubul proximal, ansa lui Henle (ramura ascendentă, ansa propriu-zisă, ramura descendentă), tubul distal",
+      "E": "Tubul colector primește urina de la un singur nefron. Arteriola eferentă dă naștere capilarelor glomerulului"
+    }
+  },
+  {
+    "numar": 120,
+    "intrebare": "Selectați enunțurile în care prima afirmație este adevărată, iar a doua falsă:",
+    "variante": {
+      "A": "Endoteliul din peretele capilarelor glomerulare este un epiteliu simplu pavimentos. Permeabilitatea capilarelor glomerulare este mai mică decât cea a capilarelor din alte organe",
+      "B": "Celulele epiteliale ale tubilor contorți distali prezintă milioane de microvilozități care reduc suprafața de absorbție. Reabsorbția la nivelul tubilor contorți proximali reintroduce în sânge o mică fracțiune din glucoză și aminoacizi",
+      "C": "Hormonul antidiuretic (ADH) crește reabsorbția apei la nivelul tubilor contorți distali prin modificări de permeabilitate. La nivelul tubilor contorți proximali se reabsorb cationii monovalenți de Na și Cl",
+      "D": "Acumularea de ioni de Na+ și Cl- în medulara rinichiului determină intrarea apei din interstițiu în ramura descendentă a ansei Henle. În tubii distali se secretă produși de catabolism (amoniac, creatinină, acid uric)",
+      "E": "În apropierea glomerulului se află aparatul juxtaglomerular. Acesta este o glandă endocrină cu rol în secreția angiotensinei și a aldosteronului"
+    }
   }
 ]

@@ -1724,5 +1724,16 @@
       "D": "Doar 5% dintre nașteri se desfășoară în prezentatie craniană (mai întâi apare capul fătului)",
       "E": "Expulzarea placentei din uter are loc la câteva minute după naștere"
     }
+  },
+  {
+    "numar": 160,
+    "intrebare": "Alegeți afirmațiile adevărate dintre cele de mai jos:",
+    "variante": {
+      "A": "Denumită și parturiție, nașterea are loc la aproximativ 9 luni după fecundare",
+      "B": "Pe parcursul lunii a opta de sarcină, fătul are șanse reale de supraviețuire în afara corpului mamei",
+      "C": "Cele mai multe nașteri se desfășoară în prezentație pelviană (mai întâi apar fesele fătului)",
+      "D": "Doar 5% dintre nașteri se desfășoară în prezentație craniană (mai întâi apare capul fătului)",
+      "E": "Expulzarea placentei din uter are loc la câteva minute după naștere"
+    }
   }
 ]

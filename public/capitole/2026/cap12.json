@@ -1757,5 +1757,159 @@
       "D": "Este o glandă exocrină, denumită și glanda pineală",
       "E": "Secretează melatonina, substanță care pare să regleze activitatea altor hormoni"
     }
+  },
+  {
+    "numar": 162,
+    "intrebare": "Care dintre asocierile de mai jos sunt corecte:",
+    "variante": {
+      "A": "Hormoni epifizari - STH, ACTH",
+      "B": "Hormoni tropi adenohipofizari - LH, ACTH, TSH, FSH",
+      "C": "Hormoni aminici - noradrenalină, adrenalină, tiroxină",
+      "D": "Hormoni steroizi (steroidieni) - serotonină, histamină, tripsină",
+      "E": "Hormoni steroizi (steroidieni) - aldosteron, cortizol, progesteron"
+    }
+  },
+  {
+    "numar": 163,
+    "intrebare": "Despre localizarea glandelor endocrine se pot afirma următoarele:",
+    "variante": {
+      "A": "Tiroida este poziționată anterior și superior față de faringe",
+      "B": "Timusul este situat în cavitatea toracică, în mediastin, retrosternal",
+      "C": "Paratiroida (glandă unică) este localizată pe suprafața anterioară a glandei tiroide",
+      "D": "Hipofiza este localizată în partea inferioară a encefalului, în sella turcica a osului sfenoid",
+      "E": "Pancreasul este localizat în cavitatea abdominală, posterior de stomac și de peritoneu"
+    }
+  },
+  {
+    "numar": 164,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la localizarea unor glande endocrine:",
+    "variante": {
+      "A": "Suprarenala este localizată la polul superior al rinichiului",
+      "B": "Suprarenala este localizată în cavitatea abdominală",
+      "C": "Paratiroidele sunt localizate pe suprafața anterioară a glandei tiroide",
+      "D": "Paratiroidele sunt localizate pe suprafața posterioară a glandei tiroide",
+      "E": "Hipofiza este localizată într-o depresiune a osului etmoid, denumită sella turcica"
+    }
+  },
+  {
+    "numar": 165,
+    "intrebare": "Alegeți afirmațiile false referitoare la hormoni:",
+    "variante": {
+      "A": "Calcitonina crește rapid depunerea de calciu în oase și scade concentrația sanguină a calciului",
+      "B": "Parathormonul reglează activitatea osteoclastelor și crește concentrația sanguină a calciului",
+      "C": "Glucagonul facilitează sinteza glicogenului în ficat și rinichi",
+      "D": "Insulina facilitează pătrunderea glucozei în celulele țintă (hormon hipoglicemiant)",
+      "E": "Melatonina facilitează pătrunderea glucozei în celule și crește concentrația sanguină a calciului"
+    }
+  },
+  {
+    "numar": 166,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la hormoni:",
+    "variante": {
+      "A": "Adrenalina și noradrenalina acționează în reacțiile de urgență („fight or flight”)",
+      "B": "Calcitonina reglează activitatea osteoclastelor și crește concentrația sanguină a calciului",
+      "C": "Mineralocorticoizii reglează metabolismul lipidelor și al glucidelor",
+      "D": "Glucocorticoizii reglează metabolismul proteinelor și al glucidelor",
+      "E": "Melatonina poate acționa asupra organelor reproducătoare, în special asupra ovarelor"
+    }
+  },
+  {
+    "numar": 167,
+    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Pancreas - glucagon - degradarea glicogenului în ficat",
+      "B": "Pancreas - insulină - degradarea glicogenului în mușchi",
+      "C": "Corticala suprarenalei - mineralocorticoizi - reglarea echilibrului sodiului",
+      "D": "Medulara suprarenalei - glucocorticoizi - depunerea calciului în oase",
+      "E": "Epifiza - melatonină - hormon la sinteza căruia participă cuprul - influențarea ciclului zi-noapte"
+    }
+  },
+  {
+    "numar": 168,
+    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Pancreas - insulină - gluconeogeneză hepatică",
+      "B": "Tiroidă - triiodotironină - accelerarea metabolismului celular",
+      "C": "Adenohipofiză - prolactină - stimularea producerii laptelui după naștere",
+      "D": "Hipotalamus - oxitocină - stimularea ejecției laptelui de către glanda mamară",
+      "E": "Hipofiza - melatonină - controlul pigmentării pielii"
+    }
+  },
+  {
+    "numar": 169,
+    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Hipofiză - vasopresină - scăderea presiunii sângelui",
+      "B": "Hipotalamus - vasopresină - vasoconstricție - crește reabsorbția apei în tubul contort distal al nefronului",
+      "C": "Adenohipofiză - hormon luteinizant (LH) - stimulează ovulația și secreția de progesteron a corpului galben",
+      "D": "Adenohipofiză - hormon luteinizant (LH) - stimulează producerea testosteronului la nivel testicular",
+      "E": "Pancreas - insulele Langerhans - cortizol - glicoliză anaerobă"
+    }
+  },
+  {
+    "numar": 170,
+    "intrebare": "Alegeți enunțurile cu câte două afirmații adevărate referitoare la sistemul endocrin:",
+    "variante": {
+      "A": "Hipofiza prezintă un lob anterior (adenohipofiza) și un lob posterior (neurohipofiza). Celulele endocrine digestive pot fi localizate în epiteliul care tapetează stomacul și intestinul subțire",
+      "B": "Ficatul, plămânii și rinichii pot secreta cantități extrem de mici de hormoni cu structură steroidiană (steroidă). Rinichii secretă eritropoietină la nivelul ansei Henle",
+      "C": "Celulele pancreasului produc hormonul secretină, cu rol în maturarea limfocitelor T. Adenozin-monofosfatul ciclic (cAMP) este un mesager primar pentru hormonii lipidici",
+      "D": "Hormonii peptidici conțin lanțuri mai lungi de aminoacizi decât hormonii proteici. Celulele rinichiului produc aldosteron cu rol în creșterea reabsorbției potasiului în tubii renali",
+      "E": "În organe ca inima, rinichii sau ficatul există celule endocrine care secretă cantități extrem de mici de prostaglandine. Prostaglandinele sunt substanțe non-steroidice care stimulează contracția fibrelor musculare netede"
+    }
+  },
+  {
+    "numar": 171,
+    "intrebare": "Alegeți enunțurile cu câte trei afirmații referitoare la sistemul endocrin, prima și a treia adevărate, a doua falsă:",
+    "variante": {
+      "A": "Celulele endocrine aflate în epiteliul care tapetează stomacul și intestinul subțire secretă progesteron. Celulele endocrine aflate în epiteliul care tapetează stomacul și intestinul subțire secretă gastrină și secretină. Secreția excesivă de STH în copilărie duce la acromegalie",
+      "B": "Hormonul care acționează asupra glandei mamare stimulând secreția lactată se numește prolactină. Estrogenii sunt exemple de hormoni catecolaminici. TSH este secretat de către adenohipofiză și este un hormon trop, care stimulează tiroida",
+      "C": "Celulele endocrine prezente în ficat și plămâni secretă prostaglandine. Gastrina și secretina sunt eliberate de către celulele α (alfa) endocrine ale pancreasului, alături de tripsină. Prostaglandinele pot fi secretate de către celule endocrine prezente în inimă",
+      "D": "Organul glandular abdominal care are funcție mixtă, digestivă și endocrină, este pancreasul. Porțiunea internă a glandei suprarenale secretă catecolamine. Hormonii sexuali feminini sunt estrogenii și progesteronul",
+      "E": "Pancreasul, având ca și componentă endocrină insulele Langerhans, este situat posterior de stomac și în afara peritoneului. Parathormonul inhibă activitatea renală a vitaminei D. Calcitonina crește depunerea calciului în țesutul osos, stimulând creșterea osoasă"
+    }
+  },
+  {
+    "numar": 172,
+    "intrebare": "Alegeți afirmațiile/asocierile adevărate referitoare la sistemul endocrin:",
+    "variante": {
+      "A": "Eritropoietina este secretată de epiteliul care tapetează stomacul și intestinul subțire și are funcție de enzimă",
+      "B": "Eritropoietina - hormon - secretat de celule renale în condiții de hipoxie - stimularea formării hematiilor - stimularea eritropoiezei - proces de adaptare a organismului la altitudini mari",
+      "C": "Timus - organ limfoid - secreție de timozine - maturarea și dezvoltarea limfocitelor T - maturarea celulelor implicate în imunitatea mediată celular (IMC)",
+      "D": "Gastrina și secretina sunt secretate de celulele endocrine ale plămânilor",
+      "E": "Gastrina și secretina sunt secretate de celule endocrine din mucoasa gastrică și a intestinului subțire și sunt implicate în procesele digestive"
+    }
+  },
+  {
+    "numar": 173,
+    "intrebare": "Alegeți afirmațiile adevărate referitoare la sistemul endocrin:",
+    "variante": {
+      "A": "În ficat, inimă și plămâni există celule endocrine care secretă prostaglandine, cu diverse efecte asupra țesuturilor",
+      "B": "În stomac și intestin există celule endocrine care secretă enzime digestive (pepsină, lipaze, amilaze)",
+      "C": "Hormonii proteici și peptidici acționează în general ca mesageri secundari, fiind introduși în celulă de către cAMP (mesagerul primar)",
+      "D": "Hormonii proteici și peptidici acționează în general ca mesageri primari care se leagă de receptorii prezenți în membrana celulelor țintă",
+      "E": "Spre deosebire de hormonii proteici, hormonii steroizi traversează cu ușurință membrana plasmatică și ajung în citoplasma celulei țintă"
+    }
+  },
+  {
+    "numar": 174,
+    "intrebare": "Alegeți asocierile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Rinichi - eritropoietină - eritropoieza - adaptare a organismului la hipoxie - adaptare a organismului la altitudini mari",
+      "B": "Plămân - eritropoietină - contracție a musculaturii striate - spasme musculare dureroase",
+      "C": "Ficat - celule endocrine - secreție de prostaglandine - efect: contracție a țesutului muscular neted",
+      "D": "Inimă - celule endocrine - secretină, gastrină - hematopoieză accelerată în condiții de hipoxie",
+      "E": "Intestin subțire - mucoasă intestinală - celule endocrine - secreție de secretină, colecistochinină - control al eliberării sucului pancreatic și bilei"
+    }
+  },
+  {
+    "numar": 175,
+    "intrebare": "Alegeți enunțurile cu câte două afirmații false referitoare la structura chimică și/sau la mecanismul de acțiune al hormonilor:",
+    "variante": {
+      "A": "Hormonul insulină este format din 51 de aminoacizi asamblați în două lanțuri proteice. Cortizolul și aldosteronul prezintă o structură ciclică complexă, formată din atomi de carbon și hidrogen",
+      "B": "Hormoni ca insulina și STH-ul au structuri peptidice (lanțuri de aminoacizi mai scurte decât cei proteici - ADH, oxitocină). Acționând ca mesageri primari, hormonii lipidici stimulează enzima denumită cAMP din membrana celulelor țintă, ceea ce va permite intrarea lor în celulă",
+      "C": "Hormonii secretați de către celulele glandelor endocrine sunt eliberați în sânge, cu scopul de a menține homeostazia mediului intern. Hormonii acționează la nivelul unor celule (țesuturi) țintă, unde vor produce modificările biochimice și fiziologice",
+      "D": "În cazul unui hormon peptidic, celula conjunctivă exocrină produce hormonul, care este eliberat în limfă. Hormonul proteic se leagă de un receptor din membrana celulei țintă, intensifică activitatea adenilat ciclazei, care catalizează transformarea ATP în ADP, mesager secundar",
+      "E": "În cadrul mecanismului de acțiune autocrin întâlnit la unele glande endocrine, hormonii secretați de o celulă endocrină acționează asupra celulei care l-a secretat. AMP ciclic este un mesager secundar (sintetizat la semnalul mesagerului primar hormonal), care determină un răspuns celular, spre exemplu creșterea sau scăderea ratei metabolismului în celule"
+    }
   }
 ]

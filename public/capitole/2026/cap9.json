@@ -1637,5 +1637,49 @@
       "D": "Au rol de a preveni refluxul sanguin din atrii inapoi în ventricule în timpul contracției ventriculare",
       "E": "Au tendința de a se mișca retrograd, dacă sunt lezate cordajele tendinoase sau când leziunea este chiar la nivel valvular"
     }
+  },
+  {
+    "numar": 152,
+    "intrebare": "Alegeți dintre răspunsurile de mai jos acele enunțuri care conțin două afirmații adevărate:",
+    "variante": {
+      "A": "Timusul este un organ al sistemului limfatic. Timusul este situat în cavitatea toracică, la nivelul mediastinului superior",
+      "B": "Splina este situată subdiafragmatic la nivelul hipocondrului stâng. Timusul secretă timozine, hormoni care contribuie la maturarea limfocitelor T",
+      "C": "Celulele limfopoietice ajung în nodulii limfatici unde dau naștere celulelor stem. În timus limfocitele T se transformă în plasmocite și secretă anticorpi",
+      "D": "Forma splinei este determinată de structurile cu care intră în contact (diafragma, rinichiul stâng, stomacul și intestinul gros). Macrofagele splenice fagocitează eritrocitele îmbătrânite sau distruse, eliberând fierul din structura hemului",
+      "E": "Venele digitale dorsale, venele tibiale anterioară și posterioară și vena safenă mare, sunt vene ale membrului inferior. Valvele prezente în vasele limfatice acționează asemănător valvelor venoase favorizând curgerea bidirecțională a limfei"
+    }
+  },
+  {
+    "numar": 153,
+    "intrebare": "Care dintre afirmațiile de mai jos sunt adevărate:",
+    "variante": {
+      "A": "Splina este un organ cavitar cu sinusuri venoase prin care curge limfa în traseul ei ascendent spre ductul toracic",
+      "B": "Vena radială, vena ulnară, vena bazilică și vena cefalică sunt vene ale membrului superior",
+      "C": "Venele jejunală și ileală, ca și vena ileocolică sunt tributare venei mezenterice inferioare, care la rândul ei este afluent al venei cave inferioare",
+      "D": "Splina filtrează și monitorizează sângele circulant și reciclează eritrocitele îmbătrânite",
+      "E": "Inima este localizată în mediastin, posterior de stern și anterior de coloana vertebrală"
+    }
+  },
+  {
+    "numar": 154,
+    "intrebare": "Alegeți dintre cele de mai jos răspunsurile care conțin informații corecte despre mușchiul cardiac și activitatea acestuia:",
+    "variante": {
+      "A": "Țesutul specializat care inițiază și distribuie impulsuri ce determină contracția celulelor miocardice se numește țesut atrioventricular",
+      "B": "Sistemul excitoconductor (specializat în inițierea și distribuirea impulsurilor de contracție pentru celulele miocardului) are ca primă componentă nodul sinoatrial",
+      "C": "Nodul atrioventricular este format dintr-un grup mai voluminos de fibre care se distribuie direct miocardului ventricular",
+      "D": "Celulele miocardice au nevoie de mai multă energie comparativ cu celulele musculare scheletice, având o activitate metabolică mai intensă",
+      "E": "Componentele sistemului excitoconductor se succed dinspre baza spre vârful inimii, în ordinea: nod sinoatrial, nod atrioventricular, fascicul His și ramurile lui dreaptă și stângă și fibrele Purkinje"
+    }
+  },
+  {
+    "numar": 155,
+    "intrebare": "Alegeți enunțurile cu o afirmație adevărată și una falsă referitoare la activitatea inimii:",
+    "variante": {
+      "A": "Alternanța contracțiilor/sistolelor și relaxărilor/diastolelor cavităților cardiace reprezintă ciclul cardiac. Un ventricul pompează în timpul fiecărei sistole aproximativ 70 ml de sânge (valoare care reprezintă debitul cardiac)",
+      "B": "Inima este situată în torace, anterior de coloana vertebrală și posterior de stern, aproximativ între a treia și a șaptea coastă. Stratul intern al peretelui inimii este denumit endocard și este alcătuit dintr-un strat endotelial care acoperă un strat subțire de țesut conjunctiv",
+      "C": "Pe electrocardiogramă, impulsurile de la nodul sinoatrial (SA) care determină depolarizarea atrială sunt redate prin unda T. În timpul sistolei ventriculare, când sângele este pompat în artere (aortă/pulmonară), atriile sunt în diastolă și se umplu cu sângele adus de venele cave/pulmonare",
+      "D": "Valva tricuspidă previne refluxul sângelui din ventriculul drept înapoi în atriul drept în timpul sistolei ventriculare. Deflexiunea rotunjită care succede complexul QRS pe electrocardiogramă este unda T și reprezintă depolarizarea ventriculară",
+      "E": "Artera aortă cu originea în ventriculul stâng se arcuiește pentru a coborî de-a lungul coloanei vertebrale și se bifurcă în două ramuri terminale - arterele iliace comune dreaptă și stângă. Artera femurală se continuă cu artera poplitee, care se ramifică în artera tibială anterioară și artera tibială posterioară"
+    }
   }
 ]

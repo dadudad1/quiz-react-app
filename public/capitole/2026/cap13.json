@@ -2286,5 +2286,27 @@
       "D": "Este un proces realizat în etape și constă dintr-o succesiune de reacții biochimice catalizate enzimatic",
       "E": "Are loc în mitocondrie, alături de alte căi metabolice, cum este β-oxidarea acizilor grași"
     }
+  },
+  {
+    "numar": 214,
+    "intrebare": "Un pacient obez, decis să slăbească, consumă de aproximativ o săptămână o dietă săracă în glucide. Despre acest pacient se poate afirma că:",
+    "variante": {
+      "A": "Dieta săracă în glucide va determina stimularea catabolismului glucozei prin glicoliză accelerată",
+      "B": "Pacientul scade în greutate datorită accelerării catabolismului lipidic",
+      "C": "Respirația pacientului poate avea un miros asemănător diluantului pentru lacul de unghii, miros datorat creșterii producției de acetonă (corp cetonic provenit din conversia acidului acetoacetic)",
+      "D": "Accelerarea catabolismului lipidic poate produce cetoacidoză, condiție care poate să apară și la un pacient diagnosticat cu diabet zaharat",
+      "E": "Pacientul nu va scădea în greutate pentru că metabolismul său nu este influențat de dietă"
+    }
+  },
+  {
+    "numar": 215,
+    "intrebare": "Alegeți definițiile corecte dintre cele de mai jos:",
+    "variante": {
+      "A": "Rată metabolică bazală - măsura energiei cheltuite de organism într-o perioadă de timp",
+      "B": "pH - măsurarea presiunii osmotice a hidrogenului din plasmă (pH scăzut - soluție hipotonă, pH crescut - soluție hipertonă)",
+      "C": "Fosfocreatina - compus ce servește ca sursă alternativă de energie pentru țesutul muscular",
+      "D": "Amoniacul - compus rezultat în urma dezaminării aminoacizilor (reacție enzimatică ce are loc la nivel hepatic, dar și în alte țesuturi)",
+      "E": "Sunt acizi grași următoarele substanțe - acetil-CoA, acidul piruvic, dihidroxi-aceton-fosfatul"
+    }
   }
 ]
